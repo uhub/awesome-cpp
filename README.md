@@ -1,6 +1,6 @@
 #awesome-cpp
 
-A curated list of awesome Go frameworks, libraries and software.
+A curated list of awesome cpp frameworks, libraries and software.
 
 * [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x) - cocos2d-x for C++
 * [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
