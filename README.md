@@ -2,6 +2,835 @@
 
 A curated list of awesome cpp frameworks, libraries and software.
 
+* [libgit2/libgit2](https://github.com/libgit2/libgit2) - The Library
+* [joyent/libuv](https://github.com/joyent/libuv) - Go to
+* [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asychronous I/O
+* [OpenKinect/libfreenect](https://github.com/OpenKinect/libfreenect) - Drivers and libraries for the Xbox Kinect device on WIndows, Linux, and OS X
+* [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern and easy-to-use crypto library.
+* [facebook/libphenom](https://github.com/facebook/libphenom) - An eventing framework for building high performance and high scalability systems in C.
+* [sustrik/libmill](https://github.com/sustrik/libmill) - Go-style concurrency in C
+* [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
+* [havlenapetr/FFMpeg](https://github.com/havlenapetr/FFMpeg) - this is port of ffmpeg for android (this is app, but in future i will do android lib from it and then system will be able to convert videos automatically)
+* [jcupitt/libvips](https://github.com/jcupitt/libvips) - A fast image processing library with low memory needs.
+* [vstakhov/libucl](https://github.com/vstakhov/libucl) - Universal configuration library parser
+* [nmathewson/Libevent](https://github.com/nmathewson/Libevent) - Nick's public libevent repository.  The official repository is at         git://levent.git.sourceforge.net/gitroot/levent/libevent
+* [fukuchi/libqrencode](https://github.com/fukuchi/libqrencode) - QR Code encoding library
+* [atgreen/libffi](https://github.com/atgreen/libffi) - A portable foreign-function interface library.
+* [bither/bither-android-lib](https://github.com/bither/bither-android-lib) - Bither Android Library
+* [warmcat/libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org websocket library
+* [libarchive/libarchive](https://github.com/libarchive/libarchive) - Multi-format archive and compression library
+* [libharu/libharu](https://github.com/libharu/libharu) - libharu - free PDF library
+* [ellzey/libevhtp](https://github.com/ellzey/libevhtp) - A more flexible replacement for libevent's http API.
+* [lukeredpath/libPusher](https://github.com/lukeredpath/libPusher) - An Objective-C interface to Pusher (pusherapp.com)
+* [dinhviethoa/libetpan](https://github.com/dinhviethoa/libetpan) - Mail Framework for C Language
+* [libopencm3/libopencm3](https://github.com/libopencm3/libopencm3) - Open Source ARM cortex m microcontroller library
+* [edenhill/librdkafka](https://github.com/edenhill/librdkafka) - The Apache Kafka C/C++ library
+* [stephane/libmodbus](https://github.com/stephane/libmodbus) - A Modbus library for Linux, Mac OS X, FreeBSD, QNX and Windows
+* [libusb/libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
+* [guardianproject/libsqlfs](https://github.com/guardianproject/libsqlfs) - a library that implements a POSIX style filesystem on top of an SQLite database
+* [libav/libav](https://github.com/libav/libav) - Libav github mirror, clone of git://git.libav.org/libav
+* [libtom/libtomcrypt](https://github.com/libtom/libtomcrypt) - LibTomCrypt is a fairly comprehensive, modular and portable cryptographic toolkit that provides developers with a vast array of well known published block ciphers, one-way hash functions, chaining modes, pseudo-random number generators, public key cryptography and a plethora of other routines.
+* [facebook/liblogfaf](https://github.com/facebook/liblogfaf) - A library that logs messages using non-blocking UDP datagrams.
+* [jcdutton/libbeauty](https://github.com/jcdutton/libbeauty) - Decompiler and Reverse Engineering tool
+* [devsisters/libquic](https://github.com/devsisters/libquic) - QUIC, a multiplexed stream transport over UDP
+* [zhengshuxin/acl](https://github.com/zhengshuxin/acl) - one advanced C/C++ lib for UNIX and WINDOWS
+* [x2on/libssh2-for-iOS](https://github.com/x2on/libssh2-for-iOS) - A script for compiling libssh2 for iOS Devices (iPhone, iPad, iPod Touch). The example app can connect to an server with SSH and execute commands.
+* [the-tcpdump-group/libpcap](https://github.com/the-tcpdump-group/libpcap) - the LIBpcap interface to various kernel packet capture mechanism
+* [marforic/imagemagick_lib_iphone](https://github.com/marforic/imagemagick_lib_iphone) - Scripts and instructions to compile ImageMagick as a static library to use in any iOS project
+* [xxorde/librekinect](https://github.com/xxorde/librekinect) - Depth data from a kinect sensor! Small and fast kernel driver. Also for embedded devices like the raspberry pi!
+* [nickhutchinson/libdispatch](https://github.com/nickhutchinson/libdispatch) - Linux port of Apple's open-source concurrency library
+* [cloudwu/cstring](https://github.com/cloudwu/cstring) - A simple C string lib
+* [monome/libmonome](https://github.com/monome/libmonome) - makes writing applications for Monomes easy.
+* [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) - libfaketime modifies the system time for a single application
+* [rescrv/libmacaroons](https://github.com/rescrv/libmacaroons) - Macaroons are flexible authorization credentials that support decentralized delegation, attenuation, and verification.
+* [dndx/shadowsocks-libuv](https://github.com/dndx/shadowsocks-libuv) - A Lightweight and Super Fast Server for shadowsocks.
+* [sam-github/libnet](https://github.com/sam-github/libnet) - libnet provides a portable framework for low-level network packet construction.
+* [nmathewson/libevent-book](https://github.com/nmathewson/libevent-book) - Nick's libevent manual
+* [leaflabs/libmaple](https://github.com/leaflabs/libmaple) - C and C++ library for STM32 ARM Cortex-M3 development boards.
+* [pkelsey/libuinet](https://github.com/pkelsey/libuinet) - a library version of FreeBSD's TCP/IP stack plus extras
+* [chokkan/liblbfgs](https://github.com/chokkan/liblbfgs) - libLBFGS: a library of Limited-memory Broyden-Fletcher-Goldfarb-Shanno (L-BFGS)
+* [client9/libinjection](https://github.com/client9/libinjection) - SQL / SQLI tokenizer parser analyzer
+* [armon/libart](https://github.com/armon/libart) - Adaptive Radix Trees implemented in C
+* [cisco/libsrtp](https://github.com/cisco/libsrtp) - Library for SRTP (Secure Realtime Transport Protocol)
+* [libtrading/libtrading](https://github.com/libtrading/libtrading) - Libtrading, an ultra low-latency trading connectivity library for C and C++.
+* [DoubleSpout/ccap](https://github.com/DoubleSpout/ccap) - node.js generate captcha using c++ library CImg without install any other lib or software
+* [mongodb/libbson](https://github.com/mongodb/libbson) - A BSON utility library.
+* [ivmai/libatomic_ops](https://github.com/ivmai/libatomic_ops) - The atomic_ops project (Atomic memory update operations portable implementation)
+* [erikd/libsndfile](https://github.com/erikd/libsndfile) - A C library for reading and writing sound files containing sampled audio data..
+* [jedisct1/libpuzzle](https://github.com/jedisct1/libpuzzle) - A library to quickly find visually similar images
+* [chaoslawful/ccard-lib](https://github.com/chaoslawful/ccard-lib) - C library for estimating cardinality in streams for which it is infeasible to store all events in memory
+* [brainfucker/hashlib](https://github.com/brainfucker/hashlib) - lib for node which makes hashes
+* [bitmovin/libdash](https://github.com/bitmovin/libdash) - MPEG-DASH Access Library - Official ISO/IEC MPEG-DASH Reference Implementation
+* [steve-m/librtlsdr](https://github.com/steve-m/librtlsdr) - Software to turn the RTL2832U into an SDR
+* [ladislav-zezula/StormLib](https://github.com/ladislav-zezula/StormLib) - Official GitHub repository of the StormLib library created by Ladislav Zezula (author)
+* [anholt/libepoxy](https://github.com/anholt/libepoxy) - Epoxy is a library for handling OpenGL function pointer management for you
+* [andlabs/libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
+* [libhybris/libhybris](https://github.com/libhybris/libhybris) - Hybris is a solution that commits hybris, by allowing us to use bionic-based HW adaptations in glibc systems
+* [metajack/libstrophe](https://github.com/metajack/libstrophe) - The libstrophe repository has moved to https://github.com/strophe/libstrophe
+* [coolaj86/libev-examples](https://github.com/coolaj86/libev-examples) - A nice place for simple libev examples. Please contribute.
+* [vincenthz/libjson](https://github.com/vincenthz/libjson) - a JSON parser and printer library in C. easy to integrate with any model.
+* [pbatard/libwdi](https://github.com/pbatard/libwdi) - Windows Driver Installer library for USB devices
+* [zedshaw/liblcthw](https://github.com/zedshaw/liblcthw) - The library you create when you are done with Learn C The Hard Way
+* [librsync/librsync](https://github.com/librsync/librsync) - remote delta-compression library
+* [hanzz/libtransport](https://github.com/hanzz/libtransport) - Create C++ transports easily
+* [lavabit/libdime](https://github.com/lavabit/libdime) - The DIME resolver library and command line utilities.
+* [jedisct1/libsodium-php](https://github.com/jedisct1/libsodium-php) - PHP extension for libsodium
+* [libguestfs/libguestfs](https://github.com/libguestfs/libguestfs) - library and tools for accessing and modifying virtual machine disk images.  PLEASE DO NOT USE GITHUB FOR ISSUES OR PULL REQUESTS.  See the website for how to file a bug or contact us.
+* [thlorenz/libuv-dox](https://github.com/thlorenz/libuv-dox) - Documenting types and methods of libuv, mostly by reading 'uv.h'.
+* [libass/libass](https://github.com/libass/libass) - libass is a portable subtitle renderer for the ASS/SSA (Advanced Substation Alpha/Substation Alpha) subtitle format.
+* [aharren/LibComponentLogging-Core](https://github.com/aharren/LibComponentLogging-Core) - A small logging library for Objective-C applications (Mac OS X and iPhone OS/iOS) which provides conditional logging based on log levels and log components. Additionally, different logging strategies can be used, e.g. writing log messages to a file or sending them to the system log, while using the same logging interface.
+* [zhemao/libds](https://github.com/zhemao/libds) - Simple, memory-safe data-structures in C.
+* [openSUSE/libsolv](https://github.com/openSUSE/libsolv) - Library for solving packages and reading repositories
+* [libtom/libtommath](https://github.com/libtom/libtommath) - LibTomMath is a free open source portable number theoretic multiple-precision integer library written entirely in C.
+* [thom311/libnl](https://github.com/thom311/libnl) - Netlink Library Suite
+* [chewing/libchewing](https://github.com/chewing/libchewing) - libchewing - The intelligent phonetic input method library
+* [NetEase/libpomelo](https://github.com/NetEase/libpomelo) - Deprecated, Please Go to https://github.com/NetEase/libpomelo2
+* [i-rinat/libvdpau-va-gl](https://github.com/i-rinat/libvdpau-va-gl) - VDPAU driver with OpenGL/VAAPI backend
+* [redjack/libcork](https://github.com/redjack/libcork) - A simple, easily embeddable cross-platform C library
+* [maxmind/libmaxminddb](https://github.com/maxmind/libmaxminddb) - C library for the MaxMind DB file format
+* [H2CO3/libsprec](https://github.com/H2CO3/libsprec) - C library for speech recognition using the Google Speech API
+* [wiiudev/libwiiu](https://github.com/wiiudev/libwiiu) - Build system and examples for running C code on the Wii U
+* [larskanis/libusb](https://github.com/larskanis/libusb) - Access USB devices from Ruby via libusb-1.x
+* [bashrc/libdeep](https://github.com/bashrc/libdeep) - A deep learning library for C/C++
+* [webmproject/libvpx](https://github.com/webmproject/libvpx) - Mirror only. Please do not send pull requests.
+* [saitoha/libsixel](https://github.com/saitoha/libsixel) - The new standard of SIXEL development
+* [libMesh/libmesh](https://github.com/libMesh/libmesh) - libMesh github repository
+* [josephg/librope](https://github.com/josephg/librope) - UTF-8 rope library for C
+* [Chronic-Dev/libirecovery](https://github.com/Chronic-Dev/libirecovery) - Console library for iBoot/iBSS used by iPhone & iPod touch
+* [slavavdovichenko/MediaLibDemos3x](https://github.com/slavavdovichenko/MediaLibDemos3x) - MediaLibiOS & Demos 3.x
+* [libvmi/libvmi](https://github.com/libvmi/libvmi) - The official home of the LibVMI project is at https://github.com/libvmi/libvmi.
+* [julienr/libpng-android](https://github.com/julienr/libpng-android) - libpng for Android NDK
+* [LibVNC/libvncserver](https://github.com/LibVNC/libvncserver) - LibVNCServer/LibVNCClient are cross-platform C libraries that allow you to easily implement VNC server or client functionality in your program.
+* [linux-sunxi/libvdpau-sunxi](https://github.com/linux-sunxi/libvdpau-sunxi) - Experimental VDPAU for Allwinner sunxi SoCs (WiP)
+* [BrianSharpe/GPU-Noise-Lib](https://github.com/BrianSharpe/GPU-Noise-Lib) - Optimized GPU noise functions and utilities
+* [webmproject/libwebp](https://github.com/webmproject/libwebp) - Mirror only. Please do not send pull requests.
+* [xml4r/libxml-ruby](https://github.com/xml4r/libxml-ruby) - Libxml bindings for Ruby.
+* [rampantpixels/foundation_lib](https://github.com/rampantpixels/foundation_lib) - Cross-platform public domain foundation library in C providing basic support data types and functions to write applications and games in a platform-independent fashion.
+* [koanlogic/libu](https://github.com/koanlogic/libu) - LibU is a multiplatform utility library written in C, with APIs for handling memory allocation, networking and URI parsing, string manipulation, debugging, and logging in a very compact way, plus many other miscellaneous tasks
+* [dparrish/libcli](https://github.com/dparrish/libcli) - Libcli provides a shared library for including a Cisco-like command-line interface into other software.  It's a telnet interface which supports command-line editing, history, authentication and callbacks for a user-definable function tree.
+* [payden/libwebsock](https://github.com/payden/libwebsock) - C library for easy WebSockets server.
+* [memononen/libtess2](https://github.com/memononen/libtess2) - Game and tools oriented refactored version of GLU tesselator.
+* [m4rw3r/php-libev](https://github.com/m4rw3r/php-libev) - PHP extension providing an object-oriented binding to the libev event-loop library.
+* [libreswan/libreswan](https://github.com/libreswan/libreswan) - libreswan
+* [DoubleSpout/ifile](https://github.com/DoubleSpout/ifile) - High performance nodejs http/https static file handler,using c++ addon and libuv lib
+* [zorgnax/libtap](https://github.com/zorgnax/libtap) - Write tests in C
+* [fbuihuu/libtree](https://github.com/fbuihuu/libtree) - A library which implements a couple of famous binary search trees.
+* [rodionovd/liblorgnette](https://github.com/rodionovd/liblorgnette) - Like dlsym(), but for alien processes on OS X & iOS
+* [djrbliss/libplayground](https://github.com/djrbliss/libplayground) - A simple framework for developing Linux kernel heap exploit techniques
+* [SoldierX/libhijack](https://github.com/SoldierX/libhijack) - Runtime Process Infection Made Easy
+* [theck01/offbrand_lib](https://github.com/theck01/offbrand_lib) - A collecton of generic reference counted data structures, tools to create compatible C style classes, and demo applications
+* [liblfds/liblfds6.1.1](https://github.com/liblfds/liblfds6.1.1) - Bug fix release.  Supersedes 6.1.0.
+* [libgit2/libgit2-backends](https://github.com/libgit2/libgit2-backends) - Standalone ODB backends for the libgit2 library
+* [celery/librabbitmq](https://github.com/celery/librabbitmq) - Python bindings to librabbitmq-c
+* [xemul/libct](https://github.com/xemul/libct) - Linux containers control plane
+* [tbuktu/libntru](https://github.com/tbuktu/libntru) - C Implementation of NTRUEncrypt
+* [dropbox/librsync](https://github.com/dropbox/librsync) - Dropbox modified version of librysnc
+* [zeromq/libcurve](https://github.com/zeromq/libcurve) - An encryption and authentication library for ZeroMQ applications
+* [libgd/libgd](https://github.com/libgd/libgd) - GD Graphics Library
+* [kbranigan/Simple-OpenGL-Image-Library](https://github.com/kbranigan/Simple-OpenGL-Image-Library) - Simple image uploader primarily for OpenGL
+* [jpirko/libteam](https://github.com/jpirko/libteam) - team netdevice library
+* [CyanogenMod/android_hardware_libhardware](https://github.com/CyanogenMod/android_hardware_libhardware) - Android HAL
+* [siddontang/libtnet](https://github.com/siddontang/libtnet) - libtnet is a tiny high performance c++ network lib, like tornado
+* [rambo/TinyWire](https://github.com/rambo/TinyWire) - My modifications to TinyWire Arduino libs
+* [libimobiledevice/libplist](https://github.com/libimobiledevice/libplist) - A library to handle Apple Property List format in binary or XML
+* [xant/libhl](https://github.com/xant/libhl) - Simple and fast C library implementing a thread-safe API to manage hash-tables, linked lists, lock-free ring buffers and queues
+* [libming/libming](https://github.com/libming/libming) - SWF output library
+* [jiixyj/libebur128](https://github.com/jiixyj/libebur128) - A library implementing the EBU R128 loudness standard.
+* [nand2/libvmod-throttle](https://github.com/nand2/libvmod-throttle) - Varnish: Reject or delay requests after given tresholds are reached. (Think API rate limit, or per-ip MISS rate limit)
+* [DavyLandman/AESLib](https://github.com/DavyLandman/AESLib) - Arduino Library for AES Encryption (source based on avr-crypto-lib)
+* [GomSpace/libcsp](https://github.com/GomSpace/libcsp) - Cubesat Space Protocol - A small network-layer delivery protocol designed for Cubesats
+* [DrPizza/libdispatch](https://github.com/DrPizza/libdispatch) - Port of libdispatch to support Win32.
+* [seanmiddleditch/libtelnet](https://github.com/seanmiddleditch/libtelnet) - Simple RFC-complient TELNET implementation as a C library.
+* [jamwt/libtask](https://github.com/jamwt/libtask) - Russ Cox's libtask (with enhancements)
+* [libjpeg-turbo/libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo) - Main libjpeg-turbo repository
+* [planetbeing/libdmg-hfsplus](https://github.com/planetbeing/libdmg-hfsplus) - Portable libraries and utilities that manipulate HFS+ volumes and Apple's DMG images
+* [arnaudsj/libsvm](https://github.com/arnaudsj/libsvm) - LIBSVM -- A Library for Support Vector Machines (unofficial snapshot dist mirror)
+* [0xmalloc/c-log](https://github.com/0xmalloc/c-log) - a fast ,stable and thread-safe log lib(logger) for C/C++ language
+* [Baughn/Dwarf-Fortress--libgraphics-](https://github.com/Baughn/Dwarf-Fortress--libgraphics-) - The graphics segment of Dwarf Fortress
+* [albertz/python-embedded](https://github.com/albertz/python-embedded) - Python build script to create a small embeddable static Python lib
+* [mysqludf/lib_mysqludf_sys](https://github.com/mysqludf/lib_mysqludf_sys) - A UDF library with functions to interact with the operating system. These functions allow you to interact with the execution environment in which MySQL runs.
+* [mysqludf/lib_mysqludf_json](https://github.com/mysqludf/lib_mysqludf_json) - A UDF library of functions to map relational data to the JSON format.
+* [libratbag/libratbag](https://github.com/libratbag/libratbag) - A library to configure gaming mice
+* [reginaldl/librinoo](https://github.com/reginaldl/librinoo) - (A)synchronous socket management
+* [digidotcom/xbee_ansic_library](https://github.com/digidotcom/xbee_ansic_library) - A collection of portable ANSI C code for communicating with Digi International's XBee wireless radio modules in API mode.
+* [libssh2/libssh2](https://github.com/libssh2/libssh2) - the SSH library
+* [itkz/librtmp](https://github.com/itkz/librtmp) - RTMP server and client written by C
+* [toymachine/libredis](https://github.com/toymachine/libredis) - A C based general low-level PHP extension and client library for Redis, focusing on performance, generality and efficient parallel communication with multiple Redis servers. As a bonus, a  Ketama Consistent Hashing implementation is provided as well.
+* [stskeeps/libhybris](https://github.com/stskeeps/libhybris) - NOTE: Not official libhybris anymore. Use /libhybris/libhybris
+* [mono/libgdiplus](https://github.com/mono/libgdiplus) - C-based implementation of the GDI+ API
+* [dylanmtaylor/LibreScribe](https://github.com/dylanmtaylor/LibreScribe) - LibreScribe is an effort to create an open source, easy-to-use and feature complete LiveScribe desktop client replacement for the Linux operating system. A large portion of the "behind-the-scenes" code is based off of libsmartpen, by Steven Walter. This project is licensed under version 2 of the GNU General Public License.
+* [dajobe/librdf](https://github.com/dajobe/librdf) - Redland librdf RDF API and triple stores
+* [Juniper/libxo](https://github.com/Juniper/libxo) - The libxo library allows an application to generate text, XML, JSON, and HTML output using a common set of function calls. The application decides at run time which output style should be produced.
+* [flame/libflame](https://github.com/flame/libflame) - High-performance object-based library for DLA computations
+* [ClusterLabs/libqb](https://github.com/ClusterLabs/libqb) - libqb is a library providing high performance logging, tracing, ipc, and poll.
+* [spark/core-common-lib](https://github.com/spark/core-common-lib) - Common library for projects that use the Spark Core with the CC3000
+* [nfc-tools/libnfc](https://github.com/nfc-tools/libnfc) - Platform independent Near Field Communication (NFC) library
+* [libos-nuse/linux-libos-tools](https://github.com/libos-nuse/linux-libos-tools) - userspace tools for linux libos
+* [ynezz/librs232](https://github.com/ynezz/librs232) - multiplatform library for serial communications over RS-232 (serial port)
+* [teachop/FlexCAN_Library](https://github.com/teachop/FlexCAN_Library) - Arduino library for CAN on Teensy 3.1
+* [ktossell/libuvc](https://github.com/ktossell/libuvc) - a cross-platform library for USB video devices
+* [jib/libvmod-statsd](https://github.com/jib/libvmod-statsd) - Varnish module to send statistics to statsd
+* [greatscottgadgets/libbtbb](https://github.com/greatscottgadgets/libbtbb) - A Bluetooth baseband decoding library
+* [taf2/libebb](https://github.com/taf2/libebb) - a lightweight high-performance HTTP server library for C
+* [atheme/libmowgli-2](https://github.com/atheme/libmowgli-2) - mowgli development framework (version 2) -- generic runtime for atheme applications
+* [adobkin/libcapn](https://github.com/adobkin/libcapn) - A simple C Library for interact with the Apple Push Notification Service
+* [y-256/libdivsufsort](https://github.com/y-256/libdivsufsort) - A lightweight suffix-sorting library
+* [mfargo/ofxFilterLibrary](https://github.com/mfargo/ofxFilterLibrary) - An openFrameworks addon with a bunch of shader-based filters
+* [libyal/libfvde](https://github.com/libyal/libfvde) - Library and tools to access FileVault Drive Encryption (FVDE) encrypted volumes
+* [kanaka/libvncserver](https://github.com/kanaka/libvncserver) - Fork of libvncserver with support for tightPng encoding
+* [jrfoell/campfire-libpurple](https://github.com/jrfoell/campfire-libpurple) - A Campfire protocol plugin for libpurple (Pidgin)
+* [dankamongmen/libtorque](https://github.com/dankamongmen/libtorque) - A threaded, continuations-based I/O event library for manycore NUMA machines
+* [IlyaGrebnov/libbsc](https://github.com/IlyaGrebnov/libbsc) - High performance block-sorting data compression library
+* [ottypes/libot](https://github.com/ottypes/libot) - A minimal C library for operational transform
+* [ofiwg/libfabric](https://github.com/ofiwg/libfabric) - Open Fabric Interfaces
+* [libimobiledevice/libusbmuxd](https://github.com/libimobiledevice/libusbmuxd) - A client library to multiplex connections from and to iOS devices
+* [happyfish100/libfastcommon](https://github.com/happyfish100/libfastcommon) - c common functions library extracted from my open source projects FastDFS. this library is very simple and stable.  functions including: string, logger, chain, hash, socket, ini file reader, base64 encode / decode, url encode / decode, fasttimer etc. detail info please see the c header files.
+* [xnko/libapi](https://github.com/xnko/libapi) - libapi is a cross platform high performance io library written in c. It provides ability to write event driven servers and applications with continous code
+* [sahlberg/libnfs](https://github.com/sahlberg/libnfs) - NFS client library
+* [membase/libvbucket](https://github.com/membase/libvbucket) - Utility library providing mapping to virtual buckets
+* [mcolyer/libiphone](https://github.com/mcolyer/libiphone) - UNMAINTAINED
+* [Yubico/libu2f-host](https://github.com/Yubico/libu2f-host) - Yubico Universal 2nd Factor (U2F) Host C Library
+* [libressl/libressl](https://github.com/libressl/libressl) - An unofficial mirror of the OpenBSD team's LibreSSL project (a fork of OpenSSL)
+* [PetteriAimonen/libfixmatrix](https://github.com/PetteriAimonen/libfixmatrix) - C library for fixed point matrix, quaternion and vector calculations
+* [NVIDIA/libglvnd](https://github.com/NVIDIA/libglvnd) - The GL Vendor-Neutral Dispatch library
+* [wolkykim/libasyncd](https://github.com/wolkykim/libasyncd) - Embeddable Event-based Asynchronous Message/HTTP Server library for C/C++
+* [simplegeo/libgeohash](https://github.com/simplegeo/libgeohash) - A pure C implementation of the Geohash algorithm.
+* [openyou/libomron](https://github.com/openyou/libomron) - Libraries for accessing data from Omron medical devices
+* [nmathewson/libottery](https://github.com/nmathewson/libottery) - A fast secure userspace pseudorandom number generator
+* [menudoproblema/libemqtt](https://github.com/menudoproblema/libemqtt) - Embedded C client library for the MQTT protocol
+* [Theano/libgpuarray](https://github.com/Theano/libgpuarray) - Library to manipulate tensors on the GPU.
+* [NetEase/libpomelo2](https://github.com/NetEase/libpomelo2) - A New Client SDK for Pomelo
+* [DragonMinded/libdragon](https://github.com/DragonMinded/libdragon) - Open source library for N64 development.
+* [technion/libscrypt](https://github.com/technion/libscrypt) - A shared library that implements scrypt() functionality - a replacement for bcrypt()
+* [mypaint/libmypaint](https://github.com/mypaint/libmypaint) - libmypaint, a.k.a. "brushlib", is a library for making brushstrokes which is used by MyPaint and other projects.
+* [jvirkki/libbloom](https://github.com/jvirkki/libbloom) - A simple and small bloom filter implementation in plain C.
+* [varnish/libvmod-header](https://github.com/varnish/libvmod-header) - A header-modification vmod for Varnish
+* [storoj/libimobiledevice-win32](https://github.com/storoj/libimobiledevice-win32) - win32 port of libimobiledevice (http://libimobiledevice.org)
+* [rofl0r/libulz](https://github.com/rofl0r/libulz) - a collection of useful functions and data structures to create C apps faster. focus on simplicity, ability to statically link and minimal binary size.
+* [posixninja/libimobiledevice](https://github.com/posixninja/libimobiledevice) - A protocol library to access an iPhone or iPod Touch in Linux
+* [jedisct1/libchloride](https://github.com/jedisct1/libchloride) - Networking layer for libsodium, based on CurveCP
+* [djmuhlestein/fx2lib](https://github.com/djmuhlestein/fx2lib) - Library routines for creating firmware for the Cypress FX2 (CY7C68013 and variants) with SDCC
+* [aisk/libae](https://github.com/aisk/libae) - redis's async event loop library
+* [ZornsLemma/lib6502-jit](https://github.com/ZornsLemma/lib6502-jit) - JIT compiler for 6502 machine code, built on lib6502 and LLVM
+* [MatzeB/libfirm](https://github.com/MatzeB/libfirm) - graph based intermediate representation and backend for optimising compilers
+* [symisc/libcox](https://github.com/symisc/libcox) - Cross Platform UNIX commands & System Calls
+* [reference/OpenSSLRSAWrapper](https://github.com/reference/OpenSSLRSAWrapper) - Based on lib openssl.Support ARC.Only wrapper for rsa encrypt/decrypt.Also include some other functions.
+* [libretro/nxengine-libretro](https://github.com/libretro/nxengine-libretro) - Port of NxEngine to the libretro API. NXEngine is a Cave Story game engine clone
+* [Lupus/libevfibers](https://github.com/Lupus/libevfibers) - Small C fiber library that uses libev based event loop and libcoro based coroutine context switching.
+* [JonathanBeck/libplist](https://github.com/JonathanBeck/libplist) - A library to handle Apple Property List format whereas it's binary or XML
+* [sahlberg/libiscsi](https://github.com/sahlberg/libiscsi) - iscsi client library and utilities
+* [libimobiledevice/libirecovery](https://github.com/libimobiledevice/libirecovery) - Library and utility to talk to iBoot/iBSS via USB on Mac OS X, Windows, and Linux
+* [cmatsuoka/libxmp](https://github.com/cmatsuoka/libxmp) - Libxmp is a library that renders module files to PCM data.
+* [algernon/libmongo-client](https://github.com/algernon/libmongo-client) - An obsolete library. Don't use it in new projects.
+* [xhs/librtcdc](https://github.com/xhs/librtcdc) - librtcdc is a tiny WebRTC DataChannel implementation that works everywhere.
+* [vimeo/libvmod-boltsort](https://github.com/vimeo/libvmod-boltsort) - A fast Varnish module for sorting query string parameters.
+* [tudordavid/libslock](https://github.com/tudordavid/libslock) - Cross-platform atomic operations and lock algorithm library
+* [swift-nav/libswiftnav](https://github.com/swift-nav/libswiftnav) - A portable C library implementing GNSS related functions and algorithms.
+* [pozorvlak/libtap](https://github.com/pozorvlak/libtap) - Testing library for C, implementing the Test Anything Protocol. Written by Nik Clayton.
+* [philips/libuv-webserver](https://github.com/philips/libuv-webserver) - simple webserver in libuv
+* [libvirt/libvirt](https://github.com/libvirt/libvirt) - Automatic read-only mirror of http://libvirt.org/git/?p=libvirt.git;a=summary
+* [jackmitch/libsoc](https://github.com/jackmitch/libsoc) - libsoc: C library for interfacing with common SoC peripherals through generic kernel interfaces
+* [chrisa/libusdt](https://github.com/chrisa/libusdt) - Create DTrace probes at runtime
+* [baruch/libwire](https://github.com/baruch/libwire) - User space threading (aka coroutines) library for C resembling GoLang and goroutines
+* [seccomp/libseccomp](https://github.com/seccomp/libseccomp) - The main libseccomp repository
+* [lkarsten/libvmod-cookie](https://github.com/lkarsten/libvmod-cookie) - A Varnish module for simpler use of the cookie header.
+* [cloudwu/lua-int64](https://github.com/cloudwu/lua-int64) - A int64 lib for lua with lightuserdata in 64bit architecture
+* [choehwanjin/libhangul](https://github.com/choehwanjin/libhangul) - libhangul
+* [trenskow/libairfloat](https://github.com/trenskow/libairfloat) - Apple's AirPlay library - audio receiver only. Derived from the iOS app AirFloat.
+* [kierank/libmpegts](https://github.com/kierank/libmpegts) - Transport Stream Muxer which is spec compliant. Part of the Open Broadcast Encoder project
+* [yaml/libyaml](https://github.com/yaml/libyaml) - Mirror of https://bitbucket.org/xi/libyaml
+* [fmela/libdict](https://github.com/fmela/libdict) - C library of key-value data structures with an object-oriented interface.
+* [cnangel/pidgin-libqq](https://github.com/cnangel/pidgin-libqq) - libqq for pidgin
+* [PJK/libcbor](https://github.com/PJK/libcbor) - CBOR protocol implementation
+* [ByteInternet/libapache-mod-fastcgi](https://github.com/ByteInternet/libapache-mod-fastcgi) - libapache-mod-fastcgi
+* [yixia/librtmp](https://github.com/yixia/librtmp) - librtmp for Android  and iOS
+* [vincentjames501/libvorbis-libogg-android](https://github.com/vincentjames501/libvorbis-libogg-android) - JNI Android wrapper for encoding and decoding ogg/vorbis bitstreams
+* [shadeslayer/libnice](https://github.com/shadeslayer/libnice) - Libnice is an implementation of the IETF's Interactive Connectivity Establishment (ICE) standard (RFC 5245) and the Session Traversal Utilities for NAT (STUN) standard (RFC 5389).  It provides a GLib-based library, libnice and a Glib-free library, libstun as well as GStreamer elements.  ICE is useful for applications that want to establish peer-to-peer UDP data streams. It automates the process of traversing NATs and provides security against some attacks. It also allows applications to create reliable streams using a TCP over UDP layer.  Existing standards that use ICE include Session Initiation Protocol (SIP) and XMPP Jingle.
+* [scunningham/libeio](https://github.com/scunningham/libeio) - Unofficial mirror.
+* [sch3m4/libntoh](https://github.com/sch3m4/libntoh) - User-friendly C Library to perform TCP streams reassembly and IPv4 defragmentation
+* [rivella50/talib-ruby](https://github.com/rivella50/talib-ruby) - Ruby Wrapper for the Technical Analysis Library ta-lib
+* [martinh/libconfuse](https://github.com/martinh/libconfuse) - Small configuration file parser library for C.
+* [anrieff/libcpuid](https://github.com/anrieff/libcpuid) - a small C library for x86 CPU detection and feature extraction
+* [parmanoir/libffi-iphone](https://github.com/parmanoir/libffi-iphone) - libffi for the iPhone, including source code for simulator and device
+* [jwerle/progress.c](https://github.com/jwerle/progress.c) - Progress display lib for c
+* [fanchy/FFRPC](https://github.com/fanchy/FFRPC) - ffrpc is a C++ lib for encapsulating socket option. it is easy to complete asynchronous communication between different process
+* [dcreager/libpush](https://github.com/dcreager/libpush) - An arrow-based parser combinator library for C
+* [vy/libpqueue](https://github.com/vy/libpqueue) - Generic priority queue (heap) implementation used by the Apache HTTP Server project.
+* [varnish/libvmod-curl](https://github.com/varnish/libvmod-curl) - cURL bindings for Varnish through the Varnish Module interface
+* [jmcnamara/libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) - A C library for creating Excel XLSX files.
+* [dreamiurg/avr-liberty](https://github.com/dreamiurg/avr-liberty) - Library of routines for AVR microcontollers
+* [davidgaleano/libwebsockets](https://github.com/davidgaleano/libwebsockets) - This fork is out of date and no longer maintained. You really should use the official repository at https://github.com/warmcat/libwebsockets
+* [01org/liblwm2m](https://github.com/01org/liblwm2m) - liblwm2m is an implementation of the LWM2M protocol from the Open Mobile Alliance.
+* [tailhook/libwebsite](https://github.com/tailhook/libwebsite) - An HTTP and websocket protocol implementation for libev event loop
+* [mochtu/libsodium-ios](https://github.com/mochtu/libsodium-ios) - Strong encryption for iOS. NaCl / libsodium build for iOS development. Used in CocoaPod 'libsodium-ios'.
+* [impl/libcurvecpr](https://github.com/impl/libcurvecpr) - A portable implementation of CurveCP
+* [eliben/libjit-samples](https://github.com/eliben/libjit-samples) - Code samples for using libjit
+* [aumuell/libjpeg-turbo](https://github.com/aumuell/libjpeg-turbo) - Unofficial libjpeg-turbo repository focusing on iOS compatibility
+* [WaterJuice/CryptLib](https://github.com/WaterJuice/CryptLib) - Public Domain C Library of Cryptographic functions. Including: MD5, SHA1, SHA256, SHA512, RC4
+* [NordicSemiconductor/nrf51-pwm-library](https://github.com/NordicSemiconductor/nrf51-pwm-library) - PWM library with examples for the nRF51x22. Supports up to 4 PWM channels, and can be used with or without a SoftDevice.
+* [xkbcommon/libxkbcommon](https://github.com/xkbcommon/libxkbcommon) - keymap handling library for toolkits and window systems
+* [rscada/libmbus](https://github.com/rscada/libmbus) - Meter-bus library and utility programs
+* [lunixbochs/lib43](https://github.com/lunixbochs/lib43) - portable libc optimized for code size and readability
+* [Dridi/libvmod-querystring](https://github.com/Dridi/libvmod-querystring) - A general-purpose querystring manipulation module for Varnish
+* [Brainiarc7/ffmpeg_libnvenc](https://github.com/Brainiarc7/ffmpeg_libnvenc) - This is a build of FFmpeg that supports NVIDIA's NVENC SIP block for H.264 H/W accelerated video encodes.
+* [liyuming1978/NativeLibCompression](https://github.com/liyuming1978/NativeLibCompression) - The native library compression sdk is given to solve the apk size problem. It is easy to integrate and will get max 50% size decreasing. Not only sdk, a Java tool for package is provided to convert normal apk to compressed apk.  MIT Licence, you can use any where
+* [libyal/libesedb](https://github.com/libyal/libesedb) - Library and tools to access the Extensible Storage Engine (ESE) Database File (EDB) format.
+* [libretro/libretro-lutro](https://github.com/libretro/libretro-lutro) - An experimental lua game framework for libretro following the LÖVE API
+* [libamqp/libamqp](https://github.com/libamqp/libamqp) - libamqp is a C client for the AMQP 1.0 protocol
+* [ge0rg/libmpq](https://github.com/ge0rg/libmpq) - Libmpq is a library for reading MPQ files (archives used by Blizzard) which can be easily used in applications.
+* [gburd/libumem](https://github.com/gburd/libumem) - This is the user space slab memory allocator, umem, first available in Solaris 9 (SunOS 5.4) now the default allocator on Solaris and Illumos.  This implementation has been ported to other popular operating systems, such as Linux, Windows and BSDish systems (including Darwin/OSX) by OmniTI (portableumem) and includes changes made by Joyent as part of their ongoing work to improve SmartOS.
+* [dryproject/libc11](https://github.com/dryproject/libc11) - A public domain implementation of the C11 standard library.
+* [denik/libgevent](https://github.com/denik/libgevent) - green threading library for C on top of libuv and PyPy's stacklet
+* [deleisha/libuv-tls](https://github.com/deleisha/libuv-tls) - Add SSL/TLS functionality on top of libuv
+* [danfis/libccd](https://github.com/danfis/libccd) - Library for collision detection between two convex shapes
+* [ramonza/libcoro](https://github.com/ramonza/libcoro) - Lightweight C coroutines (derived from http://software.schmorp.de/pkg/libcoro.html)
+* [qdot/libnifalcon](https://github.com/qdot/libnifalcon) - Open source drivers for the Novint Falcon haptic controller
+* [couchbaselabs/iErl14](https://github.com/couchbaselabs/iErl14) - Project to build static lib for iOS containing Erlang VM BEAM, CouchDB drivers, emonk interface to spidermonkey
+* [bodokaiser/libuv-snippets](https://github.com/bodokaiser/libuv-snippets) - some libuv code snippets written while learning c and libuv
+* [alexmac/alcextra](https://github.com/alexmac/alcextra) - Ports of various open source libs using FlasCC to target Flash (http://gaming.adobe.com/technologies/flascc)
+* [wanduow/libtrace](https://github.com/wanduow/libtrace) - C Library for working with network packet traces
+* [makestuff/libfpgalink](https://github.com/makestuff/libfpgalink) - LIB:Library for interacting with an FPGA over USB
+* [libretro/mupen64plus-libretro](https://github.com/libretro/mupen64plus-libretro) - Libretro port of Mupen64 Plus.
+* [libical/libical](https://github.com/libical/libical) - Libical is an Open Source implementation of the iCalendar protocols and protocol data units.
+* [gootoomoon/WiringCB-python](https://github.com/gootoomoon/WiringCB-python) - wiring-like lib for cubieboard ,port from WiringPi2-Python
+* [ayanko/libevent](https://github.com/ayanko/libevent) - C extension to libevent library
+* [adah1972/libunibreak](https://github.com/adah1972/libunibreak) - The libunibreak library
+* [JeffBezanson/libsupport](https://github.com/JeffBezanson/libsupport) - a library of useful C utilities
+* [yhirano/SimpleLameLibForAndroid](https://github.com/yhirano/SimpleLameLibForAndroid) - LAME MP3 encoder simple interface library for Android.
+* [tiwe-de/libpam-pwdfile](https://github.com/tiwe-de/libpam-pwdfile) - PAM module allowing authentication via an /etc/passwd-like file
+* [stephenrkell/liballocs](https://github.com/stephenrkell/liballocs) - Runtime and toolchain for whole-program monitoring of allocations and their data types
+* [pagekite/libpagekite](https://github.com/pagekite/libpagekite) - A high performance PageKite implementation in C
+* [mheily/libkqueue](https://github.com/mheily/libkqueue) - kqueue(2) compatibility library
+* [markokr/libusual](https://github.com/markokr/libusual) - Modern C Environment
+* [kylemcdonald/ofxLibdc](https://github.com/kylemcdonald/ofxLibdc) - Open Frameworks wrapper for libdc1394.
+* [hgst/libzbc](https://github.com/hgst/libzbc) - ZBC device manipulation library
+* [felipec/libpurple-mini](https://github.com/felipec/libpurple-mini) - libpurple separate from pidgin.
+* [dhoerl/libjpeg-turbo-builder](https://github.com/dhoerl/libjpeg-turbo-builder) - Xcode project and script files to help build a fat library with multiple architectures including the Simulator
+* [dexgeh/webserver-libev-httpparser](https://github.com/dexgeh/webserver-libev-httpparser) - http server library
+* [xively/libxively](https://github.com/xively/libxively) - Our C library is an extremely portable way to interface your embedded product to the Xively™ API, with support for POSIX as well as real-time operating systems
+* [varnish/libvmod-digest](https://github.com/varnish/libvmod-digest) - Digest and HMAC vmod
+* [siuying/libupskirt](https://github.com/siuying/libupskirt) - Please do not use this fork, use the origin repo at http://fossil.instinctive.eu/libupskirt/home
+* [scoty755/libping_unhash_exploit_POC](https://github.com/scoty755/libping_unhash_exploit_POC) - CVE-2015-3636 exploit
+* [radarsat1/libmapper](https://github.com/radarsat1/libmapper) - A library for connecting things.
+* [nfc-tools/libfreefare](https://github.com/nfc-tools/libfreefare) - A convenience API for NFC cards manipulations on top of libnfc.
+* [libyal/libewf](https://github.com/libyal/libewf) - Libewf is a library to access the Expert Witness Compression Format (EWF)
+* [intervigilium/liblame](https://github.com/intervigilium/liblame) - LAME library for Android
+* [ifactorylab/librtmp-iOS](https://github.com/ifactorylab/librtmp-iOS) - librtmp build for iOS
+* [fuzyll/libctf](https://github.com/fuzyll/libctf) - Library for creating CTF services.
+* [fichtner/libpeak](https://github.com/fichtner/libpeak) - network-related library glue for C projects in userland
+* [fbx/librudp](https://github.com/fbx/librudp) - UDP transport with optional reliability
+* [dmatveev/libinotify-kqueue](https://github.com/dmatveev/libinotify-kqueue) - NetBSD Google Summer of Code 2011 project (#2)
+* [cloudwu/luabind](https://github.com/cloudwu/luabind) - simple and robust lua binding lib
+* [carlosabalde/libvmod-redis](https://github.com/carlosabalde/libvmod-redis) - VMOD using the synchronous hiredis library API to access Redis servers from VCL.
+* [brianwatling/libfiber](https://github.com/brianwatling/libfiber) - A User Space Threading Library Supporting Multi-Core Systems
+* [attie/libxbee3](https://github.com/attie/libxbee3) - A C/C++ library to aid the use of Digi XBee radios in API mode
+* [Harvie/libpurple-core-answerscripts](https://github.com/Harvie/libpurple-core-answerscripts) - Most-hackable Pidgin plugin! Framework for hooking scripts to respond received messages for various libpurple clients such as pidgin or finch
+* [xcir/libvmod-parsereq](https://github.com/xcir/libvmod-parsereq) - parsing post,get,cookie data
+* [wsxiaoys/libtask](https://github.com/wsxiaoys/libtask) - a fork of http://code.google.com/p/libtask/
+* [wendlers/libemb](https://github.com/wendlers/libemb) - "libemb" is a collection of libraries which try to make things needed in many STM32 (ARM-Cortex-M3) or MSP430 (MSP430G2553) based projects more convenient. It includes an API for the Nordic nRF24l01+ modules.
+* [grate-driver/libdrm](https://github.com/grate-driver/libdrm) - libdrm fork for open-source NVIDIA Tegra driver
+* [awatry/libvpx.opencl](https://github.com/awatry/libvpx.opencl) - OpenCL Decoder work for libvpx' VP8 decoder.
+* [Libvisual/libvisual](https://github.com/Libvisual/libvisual) - Libvisual
+* [varnish/libvmod-var](https://github.com/varnish/libvmod-var) - Variable support VMOD
+* [membase/libconflate](https://github.com/membase/libconflate) - A library for managing configuration of clustered applications -- Bringing it all together.
+* [libhostile/libhostile](https://github.com/libhostile/libhostile) - "What if I tossed small pox into a room filled with sprinters after filling their water cups with red bull."
+* [larsbs/id3v2lib](https://github.com/larsbs/id3v2lib) - id3v2lib is a library written in C to read and edit id3 tags from mp3 files.
+* [jmhodges/libssl](https://github.com/jmhodges/libssl) - A quick git copy of the OpenBSD fork of OpenSSL No promises on updates as git cvsimport is being buggy.
+* [jeffreykegler/libmarpa](https://github.com/jeffreykegler/libmarpa) - Marpa parse engine C library
+* [dmonakhov/libjingle-android](https://github.com/dmonakhov/libjingle-android) - Git super project for libjingle build
+* [cloudflare/lua-resty-json](https://github.com/cloudflare/lua-resty-json) - json lib for lua and C
+* [bsg/libserv](https://github.com/bsg/libserv) - Cross-platform non-blocking TCP server library
+* [Juniper/libslax](https://github.com/Juniper/libslax) - libslax is a C implementation of the SLAX programming language, a dialect of XSLT that is more perl/C-like and easier to read/code/use.  For additional information about SLAX, see
+* [varnamproject/libvarnam](https://github.com/varnamproject/libvarnam) - “Varnam” is an open source, cross platform transliterator for Indian languages
+* [trondn/libmemcached](https://github.com/trondn/libmemcached) - Where I do my development for libmemcached
+* [substack/libssh](https://github.com/substack/libssh) - mulitplatform C library implementing the SSHv2 and SSHv1 protocol on client and server side
+* [simonlynen/android_libs](https://github.com/simonlynen/android_libs) - some useful android libraries
+* [octo/liboping](https://github.com/octo/liboping) - Protocol independent ANSI-C ping library and command line utility.
+* [lucasepe/lib_mysqludf_haversine](https://github.com/lucasepe/lib_mysqludf_haversine) - MySQL UDF to compute the Haversine formula
+* [kwhat/libuiohook](https://github.com/kwhat/libuiohook) - A multi-platform C library to provide global input/ouput hooking from userland.
+* [gregoiresage/pebble-antialiasing-lib](https://github.com/gregoiresage/pebble-antialiasing-lib) - Antialiasing Library for Pebble Time
+* [frank26080115/Arduino-UsiSerial-Library](https://github.com/frank26080115/Arduino-UsiSerial-Library) - Arduino library to implement hardware serial using USI
+* [devttys0/libmpsse](https://github.com/devttys0/libmpsse) - Open source library for SPI/I2C control via FTDI chips
+* [b/libdtw](https://github.com/b/libdtw) - Fast dynamic time warping library based on the UCR Suite http://www.cs.ucr.edu/~eamonn/UCRsuite.html
+* [Shardcached/libshardcache](https://github.com/Shardcached/libshardcache) - C implementation of a caching and cache-filling library inspired to groupcache
+* [MaJerle/stm32fxxx_hal_libraries](https://github.com/MaJerle/stm32fxxx_hal_libraries) - Libraries for STM32F4xx and STM32F7xx built on HAL drivers from ST
+* [GNOME/libgconf-bridge](https://github.com/GNOME/libgconf-bridge) - A library to synchronise GConf keys and GObject properties, so that changing
+* [CedricGuillemet/libProfiler](https://github.com/CedricGuillemet/libProfiler) - Profile your c++ code
+* [radarsat1/liblo](https://github.com/radarsat1/liblo) - liblo is an implementation of the Open Sound Control protocol for POSIX systems
+* [gphoto/libgphoto2](https://github.com/gphoto/libgphoto2) - The libgphoto2 camera access and control library.
+* [glennrp/libpng](https://github.com/glennrp/libpng) - LIBPNG: Portable Network Graphics support, official libpng repository
+* [Harinadha/STM32_MPU6050lib](https://github.com/Harinadha/STM32_MPU6050lib) - MPU6050 I2C Library for STM32f103xx family of microcontrollers
+* [x42/libltc](https://github.com/x42/libltc) - Linear/Logitudinal Time Code (LTC) Library
+* [vilhelmk/libspotify-php](https://github.com/vilhelmk/libspotify-php) - Bindings to libspotify (focus on manipulating playlists) wrapped in a PHP extension.
+* [unbit/librethinkdb](https://github.com/unbit/librethinkdb) - a c library for accessing rethinkdb servers
+* [tnm/libpaxos2](https://github.com/tnm/libpaxos2) - A Paxos implementation in C originally by Marco Primi, built on top of libevent
+* [smibarber/libSOIL](https://github.com/smibarber/libSOIL) - The Simple OpenGL Image Library for Mac OS X
+* [rampantpixels/timer_lib](https://github.com/rampantpixels/timer_lib) - Cross-platform timer library
+* [postmodern/libBERT](https://github.com/postmodern/libBERT) - A C library for encoding and decoding BERT (Binary ERlang Term)
+* [nunoalves/BeagleBone_IO_lib](https://github.com/nunoalves/BeagleBone_IO_lib) - Updated library that performs IO with the BeagleBone
+* [merces/libpe](https://github.com/merces/libpe) - The PE library used by @merces/pev
+* [libtom/libtomfloat](https://github.com/libtom/libtomfloat) - A library that provides multiple precision floating point arithmetic
+* [julienr/libzip-android](https://github.com/julienr/libzip-android) - libzip port for Android NDK
+* [faelys/libsoldout](https://github.com/faelys/libsoldout) - Flexible C library for markdown parsing
+* [evilsocket/libpe](https://github.com/evilsocket/libpe) - A C/C++ library to parse Windows portable executables written with speed and stability in mind.
+* [bspeice/libcvautomation](https://github.com/bspeice/libcvautomation) - Use OpenCV to create a GUI testing framework - replaces Sikuli, Xpresser
+* [bergundy/libbeanstalkclient](https://github.com/bergundy/libbeanstalkclient) - A non blocking beanstalk client implementation in C
+* [x42/liboauth](https://github.com/x42/liboauth) - POSIX-C functions implementing the OAuth Core RFC 5849 standard
+* [tmzt/androix-xcb-libxcb](https://github.com/tmzt/androix-xcb-libxcb) - The AndroiX Android DDX and frontend for X on Android
+* [jmckaskill/libspdy](https://github.com/jmckaskill/libspdy) - SPDY v3 library in C
+* [fancycode/python-libevent](https://github.com/fancycode/python-libevent) - Python bindings for the libevent library.
+* [dunkelstern/libturbojpeg-ios](https://github.com/dunkelstern/libturbojpeg-ios) - Xcode project files and build script to create an universal (armv7, armv7s, i386) ios static library of libturbojpeg (no configure hassle anymore!)
+* [azukiapp/libnss-resolver](https://github.com/azukiapp/libnss-resolver) - A Linux extension that adds support to the /etc/resolver/[suffix].
+* [ThemsAllTook/libstem_gamepad](https://github.com/ThemsAllTook/libstem_gamepad) - Gamepad C API wrapper for OS X, Windows, and Linux
+* [sisoputnfrba/so-commons-library](https://github.com/sisoputnfrba/so-commons-library) - TADs de uso comun en aplicaciones desarrolladas en C
+* [libimobiledevice/libideviceactivation](https://github.com/libimobiledevice/libideviceactivation) - A library to handle the activation process of iOS devices
+* [kisom/libschannel](https://github.com/kisom/libschannel) - Bidirectional secure channels over TCP/IP
+* [kbhomes/libmtp-zune](https://github.com/kbhomes/libmtp-zune) - Adding Zune support to libmtp.
+* [jumpstarter-io/librcd](https://github.com/jumpstarter-io/librcd) - A library for Rapid {C|Concurrency|Correct} Development
+* [jib/libvmod-timers](https://github.com/jib/libvmod-timers) - Access to various timers in Varnish
+* [hchapman/libpulse-android](https://github.com/hchapman/libpulse-android) - A JNI interface to the pulseaudio library.
+* [gianlucaborello/libprocesshider](https://github.com/gianlucaborello/libprocesshider) - Hide a process under Linux using the ld preloader
+* [dpavlin/k3libre](https://github.com/dpavlin/k3libre) - Free Libre command-line tools for Kindle development
+* [cfdrake/swift-framework-c-library-example](https://github.com/cfdrake/swift-framework-c-library-example) - Example of a simple Swift framework that integrates with a C library without bridging headers.
+* [aporat/xcode-libmms](https://github.com/aporat/xcode-libmms) - Modified version of libMMS library which designed to run on ios devices
+* [D-Programming-Deimos/libX11](https://github.com/D-Programming-Deimos/libX11) - Core X11 protocol client library.
+* [wdalmut/libgps](https://github.com/wdalmut/libgps) - UART NMEA GPS library for Raspberry Pi
+* [watterott/Arduino-Libs](https://github.com/watterott/Arduino-Libs) - Arduino Libs & Examples: ADS1147, ADS7846, DAC8760, DS1307, RV8523, MCP2515, RedFly, WS2812, MI0283QT2, MI0283QT9, MI0283QT11, HX8347D, ILI9341, SSD1331
+* [twitter/libwatchman](https://github.com/twitter/libwatchman) - A C interface to watchman
+* [rillian/libusrsctp](https://github.com/rillian/libusrsctp) - Userland SCTP implementation
+* [pieter/libgit2](https://github.com/pieter/libgit2) - GitX clone of libgit2
+* [obgm/libcoap](https://github.com/obgm/libcoap) - A CoAP (RFC 7252) implementation in C
+* [mcinglis/libpp](https://github.com/mcinglis/libpp) - Functional-programming macros for the C preprocessor.
+* [libnice/libnice](https://github.com/libnice/libnice) - An implementation of the IETF’s Interactive Connectivity Establishment (ICE) standard — this is an official mirror of the upstream repository at http://cgit.freedesktop.org/libnice/libnice/.
+* [keybuk/libnih](https://github.com/keybuk/libnih) - NIH Utility Library
+* [hfp/libxsmm](https://github.com/hfp/libxsmm) - Library for small matrix-matrix multiplications targeting Intel Architecture (x86).
+* [geopaparazzi/libjsqlite-spatialite-android](https://github.com/geopaparazzi/libjsqlite-spatialite-android) - Project to create the libjsqlite.so used in geopaparazzi
+* [eventmachine/libeventmachine](https://github.com/eventmachine/libeventmachine) - C library component of the new EventMachine
+* [eduardok/libsmbclient-php](https://github.com/eduardok/libsmbclient-php) - smbclient's extension for PHP
+* [circonus-labs/libmtev](https://github.com/circonus-labs/libmtev) - Mount Everest Application Framework
+* [bodokaiser/libuv-internals](https://github.com/bodokaiser/libuv-internals) - libuv-internals is a collection of snippets which try to show up some architecture sections of libuv on simple examples
+* [bfabiszewski/libmobi](https://github.com/bfabiszewski/libmobi) - C library for handling Kindle (MOBI) formats of ebook documents
+* [bert/libdxf](https://github.com/bert/libdxf) - Library with DXF related functions (work in progress)
+* [bernd/librrd-ruby](https://github.com/bernd/librrd-ruby) - Ruby bindings for librrd. Extracted from the RRDtool source.
+* [bartsch/xcb-libxcb](https://github.com/bartsch/xcb-libxcb) - rev-xinput: necessary for the rev-xinput branch in the xcb-proto repository
+* [badoo/libpssh](https://github.com/badoo/libpssh) - library implementing asynchronous SSH connections
+* [agentzh/mod-libmemcached-cache](https://github.com/agentzh/mod-libmemcached-cache) - libmemcached-based cache storage module for Apache2's mod_cache
+* [Treeki/libxbr-standalone](https://github.com/Treeki/libxbr-standalone) - Library implementing the xBR pixel art scaling algorithm
+* [Themaister/libfmsynth](https://github.com/Themaister/libfmsynth) - A C library which implements an FM synthesizer
+* [Sectoid/libpam-sqlite](https://github.com/Sectoid/libpam-sqlite) - Debian git-buildpackage compatible report for libpam-sqlite package
+* [soywiz/as3libwebp](https://github.com/soywiz/as3libwebp) - Load and save WEBP images on Flash using FlashCC or faster ANEs
+* [rpm-software-management/librepo](https://github.com/rpm-software-management/librepo) - A library providing C and Python (libcURL like) API for downloading packages and linux repository metadata in rpm-md format
+* [railsware/libskypekit](https://github.com/railsware/libskypekit) - Thread-safe C library with synchronous API using asynchronous C++ SkypeKit SDK
+* [neovim/libvterm](https://github.com/neovim/libvterm) - Mirror of http://bazaar.leonerd.org.uk/c/libvterm/
+* [malvira/libmc1322x](https://github.com/malvira/libmc1322x) - Library code for the Freescale MC13224v ARM7 SoC with 802.15.4 radio
+* [lkarsten/libvmod-ipcast](https://github.com/lkarsten/libvmod-ipcast) - Convert strings to IP adresses for ACL checks in Varnish VCL.
+* [iUtvikler/ObjectiveLibModbus](https://github.com/iUtvikler/ObjectiveLibModbus) - Objective-C wrapper for the libmodbus library (http://libmodbus.org/)
+* [ggambetta/libz80](https://github.com/ggambetta/libz80) - An emulator of the Z80 processor (C library)
+* [edenhill/librd](https://github.com/edenhill/librd) - Rapid Development C utility library
+* [claus/libtess2.js](https://github.com/claus/libtess2.js) - libtess2 compiled to JavaScript via emscripten
+* [bluszcz/libplurc](https://github.com/bluszcz/libplurc) - Minimalistic library for Plurk.com microblogging service
+* [TimothyGu/libilbc](https://github.com/TimothyGu/libilbc) - Packaged version of iLBC codec from the WebRTC project
+* [SecPlus/libmalelf](https://github.com/SecPlus/libmalelf) - Library for Dissect and Infect ELF Binaries.
+* [FLCLjp/iPhone-libmecab](https://github.com/FLCLjp/iPhone-libmecab) - iPhoneにStatic Libraryとして追加したMecabを利用して、文字列の形態素解析を行うサンプルアプリケーション。
+* [ElektraInitiative/libelektra](https://github.com/ElektraInitiative/libelektra) - Elektra provides a universal and secure framework to store configuration parameters in a global, hierarchical key database.
+* [tuomasjjrasanen/libsuinput](https://github.com/tuomasjjrasanen/libsuinput) - Thin userspace library on top of Linux uinput kernel module.
+* [sharow/libconcurrent](https://github.com/sharow/libconcurrent) - Concurrent Programming Library (Coroutine) for C
+* [serge-rgb/TinyJPEG](https://github.com/serge-rgb/TinyJPEG) - Single header lib for JPEG encoding. Public domain. C99. stb style.
+* [rsyslog/liblognorm](https://github.com/rsyslog/liblognorm) - a fast samples-based log normalization library
+* [payden/libwsclient](https://github.com/payden/libwsclient) - WebSocket client library for C
+* [paulasmuth/libsmatrix](https://github.com/paulasmuth/libsmatrix) - thread-safe sparse matrix data structure
+* [opentalking/gif-for-cocos2dx](https://github.com/opentalking/gif-for-cocos2dx) - A Gif lib for cocos2dx
+* [moriyoshi/libmbfl](https://github.com/moriyoshi/libmbfl) - A library for handling various encoding, used in PHP's mbstring extension
+* [libusbg/libusbg](https://github.com/libusbg/libusbg) - USB Gadget Configfs Library
+* [liblouis/liblouis](https://github.com/liblouis/liblouis) - Open-source braille translator and back-translator.
+* [forensix/libusbip](https://github.com/forensix/libusbip) - USB over IP
+* [faragon/libsrt](https://github.com/faragon/libsrt) - libsrt is a C library for writing fast and safe C code, faster. It provides string, vector, tree, and map handling. Suitable for soft and hard real-time. Allows both heap and stack allocation.   *BETA*
+* [derekstavis/nrf24le1-libbcm2835](https://github.com/derekstavis/nrf24le1-libbcm2835) - A powerful userspace command-line tool to interface with Nordic's nRF24LE1 through SPI bus. Currently made for RaspberryPi.
+* [deirf/libumberlog](https://github.com/deirf/libumberlog) - CEE-enhanced syslog() API
+* [dailab/libsml](https://github.com/dailab/libsml) - Implementation in C of the Smart Message Language (SML) protocol
+* [cavaliercoder/libzbxpgsql](https://github.com/cavaliercoder/libzbxpgsql) - A comprehensive PostgreSQL monitoring module for Zabbix
+* [boundary/libdnet](https://github.com/boundary/libdnet) - updated fork of libdnet from https://code.google.com/p/libdnet/
+* [anael-seghezzi/Maratis-Tiny-C-library](https://github.com/anael-seghezzi/Maratis-Tiny-C-library) - tiny math and image processing in C
+* [Tieske/Lua_library_template](https://github.com/Tieske/Lua_library_template) - Template for a Lua library (C) for Windows and Unix
+* [SpecLad/libusb-android](https://github.com/SpecLad/libusb-android) - A fork of libusb-1.0 that uses Android's USB API.
+* [LibertyEiffel/Liberty](https://github.com/LibertyEiffel/Liberty) - Liberty Eiffel programming language
+* [CanalTP/libosmpbfreader](https://github.com/CanalTP/libosmpbfreader) - A simple C++ library to read OpenStreetMap binary files
+* [wojtekka/libgadu](https://github.com/wojtekka/libgadu) - Biblioteka do obsługi protokołu komunikatora Gadu-Gadu
+* [wharris/libesm](https://github.com/wharris/libesm) - C library for efficient string matching with Aho-Corasick
+* [w3c/libwww](https://github.com/w3c/libwww) - Libwww is a highly modular, general-purpose client side Web API written in C for Unix and Windows (Win32). It's well suited for both small and large applications, like browser/editors, robots, batch tools, etc. Pluggable modules provided with libwww include complete HTTP/1.1 (with caching, pipelining, PUT, POST, Digest Authentication, deflate, etc), MySQL logging, FTP, HTML/4, XML (expat), RDF (SiRPAC), WebDAV, and much more. The purpose of libwww is to serve as a testbed for protocol experiments.  This is a complete mirror of the libwww CVS repository
+* [toffaletti/libguri](https://github.com/toffaletti/libguri) - A very fast URI parser in C.
+* [timmartin/libfooid](https://github.com/timmartin/libfooid) - Fork of the libfooid audio fingerprinting library
+* [shieldlock/SoX-iPhone-Lib](https://github.com/shieldlock/SoX-iPhone-Lib) - sox library to manipulate audio files and easily create add sound effects on iOS. source and library optimized for iOS 6.0 armv7 and armv7s
+* [shesee/Gstreamer-vaapi-adapt-libavcodec53-ffmpeg-](https://github.com/shesee/Gstreamer-vaapi-adapt-libavcodec53-ffmpeg-) - av_parser_parse and av_decode_video depatured. change this av_parser_parse2 and av_decode_video2
+* [robclark/libdce](https://github.com/robclark/libdce) - distributed codec-engine shim.. see git://gitorious.org/gstreamer-omap/libdce.git for latest
+* [rboulton/libmicrohttpd](https://github.com/rboulton/libmicrohttpd) - Mirror from SVN of GNU libmicrohttpd
+* [nsqio/libnsq](https://github.com/nsqio/libnsq) - async C client library for NSQ
+* [mfriedl/libopenssh](https://github.com/mfriedl/libopenssh) - turn openssh into a library
+* [libyal/libpff](https://github.com/libyal/libpff) - Library and tools to access the Personal Folder File (PFF) and the Offline Folder File (OFF) format
+* [keesj/saleae-logic-libusb](https://github.com/keesj/saleae-logic-libusb) - Open Source libs to access the saleae logic analyzer hardware http://www.saleae.com/logic/
+* [ingydotnet/yaml-libyaml-pm](https://github.com/ingydotnet/yaml-libyaml-pm) - Perl Binding to libyaml
+* [helium/libhelium](https://github.com/helium/libhelium) - Cross-platform interface to the Helium ecosystem, written in C.
+* [gphoto/libgphoto2.OLDMIGRATION](https://github.com/gphoto/libgphoto2.OLDMIGRATION) - TESTING. PRELIMINARY REPO DO NOT USE SERIOUSLY YET
+* [dxjia/ffmpeg-for-android-shared-library](https://github.com/dxjia/ffmpeg-for-android-shared-library) - 移植ffmpeg到android，编译可用于jni调用的so库.
+* [dam2k/liborient](https://github.com/dam2k/liborient) - Simple LGPLv3 C OrientDB library
+* [biomimetics/imageproc-lib](https://github.com/biomimetics/imageproc-lib) - Shared library for ImageProc projects
+* [albertito/libfiu](https://github.com/albertito/libfiu) - A C library for fault injection
+* [PADL/libbrowserid](https://github.com/PADL/libbrowserid) - BrowserID C library
+* [CyanogenMod/android_external_libpng](https://github.com/CyanogenMod/android_external_libpng) - LibPNG for Android
+* [yrashk/libev-erlang](https://github.com/yrashk/libev-erlang) - libev NIF for Erlang
+* [winlibs/libiconv](https://github.com/winlibs/libiconv) - GNU character conversion library
+* [ulli-kroll/rtl8821au](https://github.com/ulli-kroll/rtl8821au) - Rewrite RTL 8812 driver for rtlwifi-lib
+* [stan/iphone-dev-libraries](https://github.com/stan/iphone-dev-libraries) - Misc libraries and scripts for iPhone development
+* [spriteray/libevlite](https://github.com/spriteray/libevlite) - libevlite - A simple Network library that contains the Event library, Thread library, Communications library. Event library is LIBEVENT Lite Edition, so named for the LIBEVLITE
+* [nubjs/libnub](https://github.com/nubjs/libnub) - C library that allows working with libuv handles off the main thread
+* [lyokato/libgeohash](https://github.com/lyokato/libgeohash) - GeoHash C Library
+* [librepilot/LibrePilot](https://github.com/librepilot/LibrePilot) - This is the GitHub mirror for the LibrePilot source code. The main development is taking place at https://bitbucket.org/librepilot
+* [julienr/libfont](https://github.com/julienr/libfont) - A small library to render text in OpenGL/OpenGL ES using freetype.
+* [ivansafrin/librgs](https://github.com/ivansafrin/librgs) - Retro game engine
+* [footplus/libvmod-secdown](https://github.com/footplus/libvmod-secdown) - Hash/time based protection for download links
+* [fontforge/libspiro](https://github.com/fontforge/libspiro) - Spiro is the creation of Raph Levien. It simplifies the drawing of beautiful curves. (Migrated here from libspiro.sourceforge.net on 2013-04-20)
+* [cesare/ruby-libc-libyaml](https://github.com/cesare/ruby-libc-libyaml) - Ruby binging of libyaml library, YAML::LibYAML
+* [ashtons/libtiff-ios](https://github.com/ashtons/libtiff-ios) - libTIFF, libPNG and JPEG compiled for iOS
+* [analogdevicesinc/libiio](https://github.com/analogdevicesinc/libiio) - Library for interfacing with IIO devices
+* [akumrao/libxcb](https://github.com/akumrao/libxcb) - libxcb
+* [aivarsk/libvmod-rewrite](https://github.com/aivarsk/libvmod-rewrite) - Varnish vmod for rewriting HTML content.
+* [ThomasKing2014/ELF-ARM-HOOK-Library](https://github.com/ThomasKing2014/ELF-ARM-HOOK-Library) - It's very smali to Substrate. But I give you three methods to do HOOK.
+* [Ralith/libreprap](https://github.com/Ralith/libreprap) - Now living at https://github.com/timschmidt/repsnapper -- Cross-platform cross-machine RepRap communications library
+* [Kedarius/php-libvirt](https://github.com/Kedarius/php-libvirt) - PHP bindings for Libvirt API
+* [Forceflow/libmorton](https://github.com/Forceflow/libmorton) - Libmorton is a C++ header-only library with methods to efficiently encode/decode 64-bit morton codes from/to 32-bit (x,y,z) coordinates
+* [Distrotech/libcanberra](https://github.com/Distrotech/libcanberra) - Mirror of git://git.0pointer.de/libcanberra
+* [wothke/libxmp-4.3.0](https://github.com/wothke/libxmp-4.3.0) - WebAudio plugin of XMP
+* [videolabs/libdsm](https://github.com/videolabs/libdsm) - Defective SMb: A minimalist and read-only implementation of SMB using Plain'Ol C
+* [rfc1036/libpam-vz](https://github.com/rfc1036/libpam-vz) - Run programs in a OpenVZ Context.
+* [prajnashi/libmad](https://github.com/prajnashi/libmad) - libmad for android
+* [patito/libpenetra](https://github.com/patito/libpenetra) - Library to access information about PE binary.
+* [pariahsoft/libvmod-authentication](https://github.com/pariahsoft/libvmod-authentication) - Basic HTTP authentication module for Varnish Cache.
+* [osmium-org/libdogma](https://github.com/osmium-org/libdogma) - An ad hoc fitting engine for the EVE Online multiplayer game.
+* [off-the-record/libotr](https://github.com/off-the-record/libotr) - C library that implements the OTR protocol.
+* [nathan7/libfringe](https://github.com/nathan7/libfringe) - fast, low-level green threading library for Rust
+* [michaelwu/libsndfile](https://github.com/michaelwu/libsndfile) - libsndfile 1.0.25 with an Android.mk file
+* [libtor/libtor](https://github.com/libtor/libtor) - Tor client library implementation.
+* [leixiaohua1020/simplest_librtmp_example](https://github.com/leixiaohua1020/simplest_librtmp_example) - Examples about usage of libRTMP
+* [leisurehuang/RabbitMQ-IOS-lib](https://github.com/leisurehuang/RabbitMQ-IOS-lib) - this project is for RabbitMQ of IOS lib
+* [keesj/librtlsdr-android](https://github.com/keesj/librtlsdr-android) - Getting rtl-sdr to work on android (the library part)
+* [gobby/libinfinity](https://github.com/gobby/libinfinity) - libinfinity collaborative editing library
+* [gebi/libowfat](https://github.com/gebi/libowfat) - Reimplement libdjb under GPL
+* [gass/libads](https://github.com/gass/libads) - Implementation of BECKHOFF's ADS protocol.
+* [fastly/libvmod-urlcode](https://github.com/fastly/libvmod-urlcode) - urlencode/urldecode functions vmod
+* [devinsmith/libexcel](https://github.com/devinsmith/libexcel) - C library for creating Microsoft Excel (XLS) files.
+* [denydias/libhashab](https://github.com/denydias/libhashab) - libhashab enables any libgpod compatible player to update an iPod nano 6th gen. This version is slightly modified to work on Slackware 64 -current multilib.
+* [davidfischer-ch/smpte2022lib](https://github.com/davidfischer-ch/smpte2022lib) - Optimized and cross platform SMPTE 2022-1 FEC library in C, Python, Java
+* [cpldcpu/TinyTouchLib](https://github.com/cpldcpu/TinyTouchLib) - ANSI-C Library for touch-button input on ATtiny AVR microcontrollers with integrated ADC
+* [VizLibrary/Visualization-Library](https://github.com/VizLibrary/Visualization-Library) - NOTE: OFFICIAL REPO AT http://code.google.com/p/visualizationlibrary/ - Visualization Library is a C++ middleware for high-performance 2D and 3D graphics applications based on the industry standard OpenGL 1.x-4.x, designed to develop portable applications for the Windows, Linux and Mac OS X operating systems.
+* [wuruxu/library-tools-for-android](https://github.com/wuruxu/library-tools-for-android) - build opensource library & tools for android
+* [wangeguo/libpb](https://github.com/wangeguo/libpb) - A small code-size Protocol Buffers implementation
+* [vmg/libewok](https://github.com/vmg/libewok) - EWAH Compressed Bitmaps
+* [ueno/libusb-gadget](https://github.com/ueno/libusb-gadget) - Simple wrapper library to access Linux USB GadgetFS
+* [schacon/libgit2-examples](https://github.com/schacon/libgit2-examples) - project to make sure the api guide examples run
+* [ninjin/liblinear](https://github.com/ninjin/liblinear) - Unofficial LibLinear repository (stale since 2012).
+* [mpatraw/libdrunkard](https://github.com/mpatraw/libdrunkard) - a smarter drunkard's walk
+* [kralf/libipc](https://github.com/kralf/libipc) - IPC provides flexible, efficient message passing between processes.
+* [julienr/libenet-android](https://github.com/julienr/libenet-android) - A port of libenet for Android NDK
+* [hexene/libav](https://github.com/hexene/libav) - GSoC: libav for Android with H/W accelerated decoding via the Stagefright framework
+* [davidandreoletti/libegl](https://github.com/davidandreoletti/libegl) - Khronos EGL 1.4 for iOS
+* [cvpcs/android_external_libncurses](https://github.com/cvpcs/android_external_libncurses) - NCurses terminal display library ported to android
+* [cls/libutf](https://github.com/cls/libutf) - Plan 9 compatible C89 UTF-8 library
+* [claus/libtess2.swc](https://github.com/claus/libtess2.swc) - libtess2 (GLU libtess refactored) compiled to ActionScript 3 via Adobe CrossBridge
+* [cjxgm/libcrude](https://github.com/cjxgm/libcrude) - The libBoost for GNU C11 Language.
+* [chadjoan/libsane](https://github.com/chadjoan/libsane) - Binding for the Scanner Access Now Easy API.
+* [android-rooting-tools/libmsm_vfe_read_exploit](https://github.com/android-rooting-tools/libmsm_vfe_read_exploit) - CVE-2014-4321 exploit
+* [Wiznet/W5200_Arduino_Ethernet_Lib](https://github.com/Wiznet/W5200_Arduino_Ethernet_Lib) - Arduino Ethernet Library using W5200 from Wiznet
+* [SteadfastInnovation/libhpdf-AndroidLibrary](https://github.com/SteadfastInnovation/libhpdf-AndroidLibrary) - An Android library project that provides JNI support for the libhpdf (libHaru) native PDF generation library.
+* [OpenLightingProject/libartnet](https://github.com/OpenLightingProject/libartnet) - An Open Source implementation of the ArtNet protocol
+* [D-Programming-Deimos/libevent](https://github.com/D-Programming-Deimos/libevent) - libevent is an asynchronous event notification software library.
+* [zhicheng/libloop](https://github.com/zhicheng/libloop) - Synchronous I/O Multiplexing and Timer Management
+* [xcir/libvmod-ldap](https://github.com/xcir/libvmod-ldap) - LDAP module for Varnish
+* [wfeldt/libx86emu](https://github.com/wfeldt/libx86emu) - x86 emulation library
+* [vsergeev/libGIS](https://github.com/vsergeev/libGIS) - libGIS is a collection of utility functions to create, read and write Atmel Generic, Intel HEX8, and Motorola S-Record formatted files.
+* [trevnorris/libuv-examples](https://github.com/trevnorris/libuv-examples) - Simple examples of how to use libuv
+* [thoughtpolice/libfault](https://github.com/thoughtpolice/libfault) - Simple C library for basic crash reporting functionality, based on Phusion Passenger.
+* [strukturag/gstreamer-libde265](https://github.com/strukturag/gstreamer-libde265) - HEVC/H.265 video decoder using libde265 (GStreamer plugin)
+* [sphia/libsphia](https://github.com/sphia/libsphia) - Higher level API for working with SophiaDB
+* [rpetrich/libspeex-iphone](https://github.com/rpetrich/libspeex-iphone) - libspeex 1.2rc1 built with theos
+* [reefangel/Libraries](https://github.com/reefangel/Libraries) - Arduino Libraries for your Reef Angel Controller
+* [pfalcon/android-platform-headers](https://github.com/pfalcon/android-platform-headers) - Collection of platform headers and link libs for all versions of Android. (repo is rebased, see wiki)
+* [nevali/liburi](https://github.com/nevali/liburi) - A URI (and IRI) parser with a straightforward API, based upon uriparser
+* [mverbert/libzdb_svn](https://github.com/mverbert/libzdb_svn) - Repo created from SVN (not updated any more, use https://github.com/mverbert/libzdb instead)
+* [mbroemme/libmpq](https://github.com/mbroemme/libmpq) - libmpq is a library for manipulating MPQ (MoPaQ) archives, which are used by Blizzard in most of their games (e.g., Diablo, Diablo 2, StarCraft, WarCraft 3, and World of Warcraft).
+* [mavlink/c_library](https://github.com/mavlink/c_library) - MAVLink protocol C/C++ implementation auto-generated from latest protocol specs.
+* [madwyn/libcube2cyl](https://github.com/madwyn/libcube2cyl) - A C/C++ panoramic lib, cubic to cylindrical projection conversion, create a panorama from 6 square images.
+* [libretro/imame4all-libretro](https://github.com/libretro/imame4all-libretro) - A port of iMAME4all to libretro
+* [lampeh/libvmod-geoip](https://github.com/lampeh/libvmod-geoip) - This Varnish module exports functions to look up GeoIP country codes in VCL
+* [kfish/liboggz](https://github.com/kfish/liboggz) - A library and tools for working with Ogg encapsulation, with support for seeking, chopping and validation.
+* [jmbr/libeve](https://github.com/jmbr/libeve) - Genetic algorithm library written in C
+* [gregier/libpeas](https://github.com/gregier/libpeas) - A GObject plugin library
+* [google/libpam-policycache](https://github.com/google/libpam-policycache) - Password caching module with advanced policies for PAM.
+* [gaccob/gbase](https://github.com/gaccob/gbase) - C lib
+* [flensrocker/libdbus2vdr](https://github.com/flensrocker/libdbus2vdr) - C interface to vdr's plugin dbus2vdr based on GIO
+* [dhewg/libsdl](https://github.com/dhewg/libsdl) - git-hg clone of http://hg.libsdl.org/
+* [dgryski/libchash](https://github.com/dgryski/libchash) - simple consistent hashing implementation
+* [cpence/libjit](https://github.com/cpence/libjit) - *UNOFFICIAL* libjit clone w/ patches
+* [chrisballinger/ffmpeg-ios-static-libs](https://github.com/chrisballinger/ffmpeg-ios-static-libs) - Precompiled static libs for FFmpeg, OpenSSL, and librtmp because Cocoapods can't properly handle C library dependencies.
+* [breckinloggins/libuseful](https://github.com/breckinloggins/libuseful) - A collection of useful data structures, algorithms, and utilities for C programming
+* [blanham/liballoc](https://github.com/blanham/liballoc) - liballoc - a memory allocator for hobbyist operating systems
+* [alist/libjingle_ios](https://github.com/alist/libjingle_ios) - checkout the unified builds and see the commits on each branch to learn how yourself
+* [Jaywalker/libadb](https://github.com/Jaywalker/libadb) - library and client for communiting over adb/ADK protocol
+* [Artefact2/libxm](https://github.com/Artefact2/libxm) - A small XM (FastTracker II Extended Module) player library.
+* [zeromq/libzmtp](https://github.com/zeromq/libzmtp) - Minimal ZMTP implementation in C
+* [toddtreece/lib_mysqludf_mongodb](https://github.com/toddtreece/lib_mysqludf_mongodb) - MySQL UDF for inserting data into MongoDB
+* [sylvainforet/libngs](https://github.com/sylvainforet/libngs) - The Nifty GNU Sequence Library
+* [stz2012/libarib25](https://github.com/stz2012/libarib25) - Linux用ARIB STD-B25ライブラリ（各録画ツールにarib25ソースを添付しなくとも、Makefile内で-larib25でコンパイルできる）
+* [rocky/libcdio-paranoia](https://github.com/rocky/libcdio-paranoia) - CD paranoia on top of libcdio
+* [rampantpixels/vector_lib](https://github.com/rampantpixels/vector_lib) - Math vector library
+* [q3k/libsteam](https://github.com/q3k/libsteam) - A steam-interfacing library written in C. Based off the SteamRE project.
+* [pierre/libsmile](https://github.com/pierre/libsmile) - C Streaming parser for Smile ( http://wiki.fasterxml.com/JacksonBinaryFormatSpec )
+* [netdata/libnodave](https://github.com/netdata/libnodave) - LIBNODAVE, a free library to communicate to Siemens S7 PLCs
+* [mlafeldt/libbig_int](https://github.com/mlafeldt/libbig_int) - Portable C library to calculate integers and bitsets of arbitrary length
+* [mindreframer/hetzner-stuff](https://github.com/mindreframer/hetzner-stuff) - libs for hetzner.com automation
+* [martinling/libserialport](https://github.com/martinling/libserialport) - Unofficial personal repository for libserialport - see git://sigrok.org/libserialport for official repo
+* [luke-jr/libbase58](https://github.com/luke-jr/libbase58) - C library for Bitcoin's base58 encoding
+* [legatvs/libquvi](https://github.com/legatvs/libquvi) - The library with an C API to parse the media stream properties, flash-free
+* [jimlawless/map_lib](https://github.com/jimlawless/map_lib) - A simple associative-array library in C.
+* [intervigilium/libresample](https://github.com/intervigilium/libresample) - PCM resampling library leveraging resample and libresample
+* [hiikezoe/libperf_event_exploit](https://github.com/hiikezoe/libperf_event_exploit) - CVE-2013-2094 exploit for android
+* [guiquanz/libngx](https://github.com/guiquanz/libngx) - libngx, a general c library, Nginx core code-based.
+* [fi01/libput_user_exploit](https://github.com/fi01/libput_user_exploit) - CVE-2013-6282 exploit
+* [fape/libgphoto2](https://github.com/fape/libgphoto2) - Please use official repo: https://github.com/gphoto/libgphoto2 This repo will removed soon.
+* [dottedmag/libsha1](https://github.com/dottedmag/libsha1) - Tiny SHA1 implementation for embedded devices
+* [dodng/BeLibnids](https://github.com/dodng/BeLibnids) - It is a platform to use multiprocess to combine dpdk and libnids together to support analyse packets in 10G port.
+* [coolaj86/libevn](https://github.com/coolaj86/libevn) - libev network library following nodejs's api
+* [chazomaticus/libbmpread](https://github.com/chazomaticus/libbmpread) - tiny, fast bitmap (.bmp) image file loader
+* [bobbens/libdq](https://github.com/bobbens/libdq) - Library for creating and manipulating dual quaternions.
+* [Wiznet/ioLibrary_Driver](https://github.com/Wiznet/ioLibrary_Driver) - Create a repository of WIZnet ioLibrary.
+* [WhisperSystems/libaxolotl-c](https://github.com/WhisperSystems/libaxolotl-c) - Axolotl C Library
+* [Spritetm/libesphttpd](https://github.com/Spritetm/libesphttpd) - Libesphttpd mirror of http://git.spritesserver.nl/libesphttpd.git/
+* [OpenSC/libp11](https://github.com/OpenSC/libp11) - PKCS#11 wrapper library
+* [LuaDist/libjpeg](https://github.com/LuaDist/libjpeg) - Independent JPEG Group's JPEG software
+* [GNOME/libsecret](https://github.com/GNOME/libsecret) - libsecrets
+* [ErikDubbelboer/libuv-lua-http-server](https://github.com/ErikDubbelboer/libuv-lua-http-server) - Simple example webserver using libuv and lua
+* [DragonBones/SkeletonAnimationLibraryCPP-out-of-date-](https://github.com/DragonBones/SkeletonAnimationLibraryCPP-out-of-date-) - Out of date. Find C++Library in DragonBonesCPP Project
+* [Distrotech/libdrm](https://github.com/Distrotech/libdrm) - Mirror of git://anongit.freedesktop.org/mesa/drm
+* [Chronic-Dev/libplist](https://github.com/Chronic-Dev/libplist) - A library to handle Apple Property List format in binary or XML
+* [Bluehorn/libp11](https://github.com/Bluehorn/libp11) - Mirror of libp11 from http://www.opensc-project.org/svn/libp11
+* [AdiKulkarni/myFFmpegX264LatestLibAndroid](https://github.com/AdiKulkarni/myFFmpegX264LatestLibAndroid) - FFmpeg Library with x264 encoder Android.
+* [01org/libdmclient](https://github.com/01org/libdmclient) - libdmclient is a communication library for mobile device management. It implements the client-side of OMA DM 1.2 protocol.
+* [vol4ok/libsplice](https://github.com/vol4ok/libsplice) - Library for kernel and user mode splicing for Windows (x86 and x64).
+* [tonyrog/libusb](https://github.com/tonyrog/libusb) - Erlang libusb binding
+* [tingsu/caut-lib](https://github.com/tingsu/caut-lib) - a CIL-based dynamic symbolic execution (DSE) engine for C language
+* [threatstack/libmagic](https://github.com/threatstack/libmagic) - libmagic 5.18 mirror
+* [tguillem/android-libav](https://github.com/tguillem/android-libav) - libav build on android (used for android-ampd)
+* [shevek/libspf2](https://github.com/shevek/libspf2) - Implementation of the Sender Policy Framework for SMTP authorization
+* [rdfa/librdfa](https://github.com/rdfa/librdfa) - SAX-based implementation of an RDFa Processor in C
+* [pmundkur/libcrm114](https://github.com/pmundkur/libcrm114) - C library version of CRM114, and a Python binding
+* [payden/libfprint](https://github.com/payden/libfprint) - libfprint mirror for branching off vfs0050 driver.
+* [nviennot/libscribe](https://github.com/nviennot/libscribe) - Scribe user-space library
+* [nobled/libtxc_dxtn](https://github.com/nobled/libtxc_dxtn) - library for S3TC compressed textures
+* [mirror/libX11](https://github.com/mirror/libX11) - git://anongit.freedesktop.org/xorg/lib/libX11
+* [minaguib/libstatsdc](https://github.com/minaguib/libstatsdc) - A C client library for the etsy/statsd daemon
+* [mifi/libxcomfort](https://github.com/mifi/libxcomfort) - Open source library for controlling Moeller XComfort devices through the USB/RS232 dongle
+* [libyuni/libyuni](https://github.com/libyuni/libyuni) - Cross-platform C++ framework for developing high-level and fast applications
+* [libcg/gLib2D](https://github.com/libcg/gLib2D) - A simple, fast, light-weight 2D graphics library for PSP.
+* [kaniini/libguess](https://github.com/kaniini/libguess) - character set guessing library
+* [jwerle/libutf8](https://github.com/jwerle/libutf8) - A whatwg compliant UTF8 encoding and decoding library
+* [jons/libnmea](https://github.com/jons/libnmea) - nmea 0183 tools
+* [henryk/libopenkey](https://github.com/henryk/libopenkey) - Open framework to use DESfire cards as secure pseudonymous authentication tokens.
+* [haad/libdm](https://github.com/haad/libdm) - libdevmapper like BSD licensed library for communication with NetBSD device-mapper driver.
+* [frsyuki/libkv](https://github.com/frsyuki/libkv) - An abstraction library for various key-value stores
+* [facebook/libafdt](https://github.com/facebook/libafdt) - LIBrary for Asynchronous File Descriptor Transfer
+* [erimatnor/libckit](https://github.com/erimatnor/libckit) - A kit of C-based utilities and data structures.
+* [entropia/libsocket-can-java](https://github.com/entropia/libsocket-can-java) - SocketCAN JNI wrapper
+* [edubart/android-libs](https://github.com/edubart/android-libs) - Port of C++ libraries to Android that I use in my projects
+* [brandonbloom/libclj](https://github.com/brandonbloom/libclj) - Embeddable reader and printer for Clojure forms
+* [bener2008/librtmpexample](https://github.com/bener2008/librtmpexample) - Same Example Use librtmpe
+* [armadillu/ofxTurboJpeg](https://github.com/armadillu/ofxTurboJpeg) - Rough OF addon that uses turbo-jpeg lib to read and write jpegs. 2-3 times faster than OF's freeImage based jpeg en/decoder
+* [a3linux/libstomp](https://github.com/a3linux/libstomp) - The C library used to talk the Stomp which is a simple to implement client protocol for working with ActiveMQ and other messaging systems.
+* [Mathias-L/STM32F4-libusb-example](https://github.com/Mathias-L/STM32F4-libusb-example) - Example interfacing an STM32F4 Discovery board with libusb usign ChibiOS
+* [Libvisual/LibVisualAndroid](https://github.com/Libvisual/LibVisualAndroid) - libvisual for android
+* [Jonimoose/libfxcg](https://github.com/Jonimoose/libfxcg) - Syscall and helper library for the Casio FX-CG (Prizm) color graphing calculator
+* [JRHeaton/libiusbcomm](https://github.com/JRHeaton/libiusbcomm) - An iPhone USB communication library.
+* [GNOME/libxml2](https://github.com/GNOME/libxml2) - libxml2
+* [DerArtem/huaweigeneric-ril-old](https://github.com/DerArtem/huaweigeneric-ril-old) - Old ril lib for Huawei USB modems
+* [Cangjians/libcangjie](https://github.com/Cangjians/libcangjie) - Library implementing the Cangjie input method
+* [CESNET/libnetconf](https://github.com/CESNET/libnetconf) - C NETCONF library
+* [ArcticaProject/nx-libs](https://github.com/ArcticaProject/nx-libs) - nx-libs
+* [44670/libntrplg](https://github.com/44670/libntrplg) - C library for writting plugins on the NTR CFW 2.0.
+* [ykst/librtsp](https://github.com/ykst/librtsp) - tiny RTSP(RFC2326) streaming server for H.264 video
+* [xudifsd/libsi](https://github.com/xudifsd/libsi) - C library for interpreting scheme
+* [varnish/libvmod-vsthrottle](https://github.com/varnish/libvmod-vsthrottle) - Improved request throttling module for Varnish
+* [theonewolf/libperf](https://github.com/theonewolf/libperf) - libperf is a library that wraps around the syscall perf_event_open().  This library exposes the kernel performance counters subsystem to userspace code.  It can be used to efficiently trace portions of code with kernel support.
+* [sunqm/libcint](https://github.com/sunqm/libcint) - general GTO integrals for quantum chemistry
+* [strukturag/vlc-libde265](https://github.com/strukturag/vlc-libde265) - Standalone plugin for VLC 2.x to support decoding of HEVC/H.265 using libde265.
+* [steamfire/WSWireLib](https://github.com/steamfire/WSWireLib) - Arduino Wire Library modified to add timeouts to the freeze-prone TWI while() loops
+* [square/libcrange](https://github.com/square/libcrange) - The libcrange cluster metadata library.
+* [sodabrew/libsieve](https://github.com/sodabrew/libsieve) - Implementation of the Sieve mail filtering language.
+* [shaobin0604/libmms-android](https://github.com/shaobin0604/libmms-android) - libmms android port based on https://code.google.com/p/aacplayer-android
+* [privly/privly-library](https://github.com/privly/privly-library) - Cryptography library for Privly-type extensions
+* [philips/libv4l](https://github.com/philips/libv4l) - libv4l
+* [pfalcon/libperipha](https://github.com/pfalcon/libperipha) - Grand unified collection of headers to access various hardware chips and components
+* [openyou/liblightstone](https://github.com/openyou/liblightstone) - Open Source Library for communicating with the Lightstone USB Biometrics Widget
+* [openvenues/libpostal](https://github.com/openvenues/libpostal) - Fast, multilingual NLP library for parsing/normalizing physical addresses
+* [nmathewson/libottery-lite](https://github.com/nmathewson/libottery-lite) - A simple, lightweight, public-domain secure random number generator
+* [mradev/libpd-audiobus](https://github.com/mradev/libpd-audiobus) - lipbd mod and template to use with AudioBus
+* [motmot/libcamiface](https://github.com/motmot/libcamiface) - camera interface C API
+* [mogaal/libquvi](https://github.com/mogaal/libquvi) - library for parsing video download links
+* [metabrainz/libdiscid](https://github.com/metabrainz/libdiscid) - C library for creating MusicBrainz DiscIDs from audio CDs
+* [melizalab/libtfr](https://github.com/melizalab/libtfr) - fast multitaper conventional and reassignment spectrograms
+* [lucas-j/libmpeg2-winrt](https://github.com/lucas-j/libmpeg2-winrt) - MPEG-2 decoder for Windows 8 apps
+* [lince/libffmpeg-c](https://github.com/lince/libffmpeg-c) - Lib FFMPEG
+* [kulv2012/libtask_epoll](https://github.com/kulv2012/libtask_epoll) - epoll version of libtask
+* [jstjohn/KentLib](https://github.com/jstjohn/KentLib) - Subset of the kent source libraries (perhaps out of date) that are easily built and installed on OSX and Linux. These libraries provide usefull utilities for bioinformatics programming in C. This may contain some of my own libraries for bioinformatics utilities as well as long as they install easily on both my mac and linux box.
+* [jotux/LaunchLib](https://github.com/jotux/LaunchLib) - An easy-to-use library to help kickstart your launchpad development.
+* [joshthecoder/libhttp](https://github.com/joshthecoder/libhttp) - HTTP library for C
+* [jadahl/libinput](https://github.com/jadahl/libinput) - (mostly not up to date) mirror of libinput
+* [ioerror/libmsr](https://github.com/ioerror/libmsr) - Reading, writing and analysis of magnetic stripe information
+* [intervigilium/libautotalent](https://github.com/intervigilium/libautotalent) - Autotalent library project for Android
+* [horsson/iUPnP](https://github.com/horsson/iUPnP) - UPnP lib for iOS.
+* [haakonnessjoen/librouteros-api](https://github.com/haakonnessjoen/librouteros-api) - C API library for Mikrotik RouterOS devices
+* [fxfactorial/ocaml-libssh](https://github.com/fxfactorial/ocaml-libssh) - :computer: OCaml bindings to libssh
+* [freebsd/libdevq](https://github.com/freebsd/libdevq) - Generic Device Query and Monitor interface
+* [fontforge/libuninameslist](https://github.com/fontforge/libuninameslist) - A library with a large (sparse) array mapping each unicode code point to the annotation data for it provided in http://www.unicode.org/Public/UNIDATA/NamesList.txt
+* [fgsch/libvmod-geoip2](https://github.com/fgsch/libvmod-geoip2) - GeoIP2 VMOD for Varnish 4.x
+* [fbx/libela](https://github.com/fbx/libela) - Runtime Event Loop Abstraction library
+* [dhewm/dhewm3-libs](https://github.com/dhewm/dhewm3-libs) - precompiled libraries for dhewm 3
+* [dgleich/libbvg](https://github.com/dgleich/libbvg) - A C implementation of a Boldi-Vigna graph decompressor
+* [depp/libfresample](https://github.com/depp/libfresample) - Fast audio sample rate conversion with simplified BSD license
+* [davidsun/LibAndroidHttp](https://github.com/davidsun/LibAndroidHttp) - cURL support for Android
+* [cubicdaiya/libngxcore](https://github.com/cubicdaiya/libngxcore) - libngxcore is the library built from nginx core APIs.
+* [cederom/LibSWD](https://github.com/cederom/LibSWD) - CeDeROM's Serial Wire Debug Open Library
+* [bk138/libvncserver](https://github.com/bk138/libvncserver) - A libvncserver with MulticastVNC.
+* [berkus/libnat](https://github.com/berkus/libnat) - Libraries for NAT traversal and hole punching
+* [bergundy/evbsc](https://github.com/bergundy/evbsc) - lib ev implementation of beanstalkclient (http://github.com/bergundy/libbeanstalkclient)
+* [baz/libORCDiscount](https://github.com/baz/libORCDiscount) - Objective-C static library wrapping the discount library
+* [avati/liboindirect](https://github.com/avati/liboindirect) - Bypass O_DIRECT open failures
+* [anarsoul/libfprint](https://github.com/anarsoul/libfprint) - libfprint with my WiP drivers
+* [alobbs/libhpack](https://github.com/alobbs/libhpack) - libhpack implements the “Header Compression for HTTP/2.0 protocol” specification
+* [albertito/libjio](https://github.com/albertito/libjio) - A library for Journaled I/O
+* [PocketInsanity/libSDL](https://github.com/PocketInsanity/libSDL) - Repository for Windows CE specific changes to libSDL (check the branches)
+* [JonnyWhatshisface/libwebsock](https://github.com/JonnyWhatshisface/libwebsock) - An easy to use and powerful open source websocket library written in C.
+* [H2CO3/libgpod-ondevice](https://github.com/H2CO3/libgpod-ondevice) - iPhone port of libgpod 0.8.2, now with corrected to run itdb postprocess commands properly.
+* [H2CO3/libavrutil](https://github.com/H2CO3/libavrutil) - Easy to use, lightweight and unified library for performing common microcontroller tasks
+* [GNOME/librsvg](https://github.com/GNOME/librsvg) - librsvg
+* [FrankBoesing/Arduino-Teensy-Codec-lib](https://github.com/FrankBoesing/Arduino-Teensy-Codec-lib) - MP3/AAC/FLAC Codecs for Teensy 3.1
+* [Estwald/PSDK3v2](https://github.com/Estwald/PSDK3v2) - Homebrew PS3 SDK under MinGW/Win32  based in the marioga compilation, psl1ght, Tiny3D, and others libs
+* [AquaQAnalytics/mongoq](https://github.com/AquaQAnalytics/mongoq) - A C shared lib along with associated q functions to allow push/pull access to mongoDB from within kdb+
+* [zvelo/libstemmer](https://github.com/zvelo/libstemmer) - Snowball Stemming Algorithms
+* [zerotao/libzt](https://github.com/zerotao/libzt) - Library of Useful C Utilities
+* [xerpi/libsicksaxis](https://github.com/xerpi/libsicksaxis) - SickSaxis is a C library that lets you connect a Sixaxis or a DualShock3 to the Wii and read its data. It also lets you turn on and off the controller LEDs, enable or disable the rumble and get and set the controllers' bluetooth MAC address.
+* [xant/p5-libnfc](https://github.com/xant/p5-libnfc) - perl bindings for libnfc
+* [x42/libtimecode](https://github.com/x42/libtimecode) - deal with A/V timecode and framerates
+* [waitman/libfortuna](https://github.com/waitman/libfortuna) - Fortuna library functions extracted from PostgreSQL source
+* [vstakhov/librdns](https://github.com/vstakhov/librdns) - Asynchronous DNS resolver
+* [usb4java/libusb4java](https://github.com/usb4java/libusb4java) - The native JNI library used by usb4java
+* [tytung/android_hardware_leo_libgps](https://github.com/tytung/android_hardware_leo_libgps) - GPS HAL (hardware abstraction layer) Lib with AGPS support for HTC HD2/Leo Gingerbread, ICS, JellyBean, and KitKat
+* [troglobit/libuev](https://github.com/troglobit/libuev) - Small and simple event loop.
+* [tmzt/androix-lib-libX11](https://github.com/tmzt/androix-lib-libX11) - The AndroiX Android DDX and frontend for X on Android
+* [slaeshjag/libdarnit](https://github.com/slaeshjag/libdarnit) - General purpose gamedev library that initially targeted the OpenPandora handheld
+* [sionescu/libfixposix](https://github.com/sionescu/libfixposix) - Thin wrapper over POSIX syscalls
+* [shaobin0604/rockplayer_ffmpeg_git_20100418](https://github.com/shaobin0604/rockplayer_ffmpeg_git_20100418) - FFmpeg lib used by RockPlayer 1.7.0 and later for Android. Original link is http://www.rockplayer.com/download/rockplayer_ffmpeg_git_20100418.zip
+* [shadowsocks/libsscrypto](https://github.com/shadowsocks/libsscrypto) - Build libsscrypto.dll for shadowsocks-windows.
+* [servo/libhubbub](https://github.com/servo/libhubbub) - [UNMAINTAINED] HTML parser library from the NetSurf project
+* [ryanbalsdon/libr](https://github.com/ryanbalsdon/libr) - A collection of useful, free, single-file libraries for C.
+* [rpm-software-management/libcomps](https://github.com/rpm-software-management/libcomps) - Libcomps is alternative for yum.comps library. It's written in pure C as library and there's bindings for python2 and python3.
+* [rockdaboot/libpsl](https://github.com/rockdaboot/libpsl) - C library for the Publix Suffix List
+* [randakar/y-lib](https://github.com/randakar/y-lib) - Ylib - libraries for the loadrunner performance test tool
+* [pornel/libicns](https://github.com/pornel/libicns) - icns2png / libicns for OS X icns files
+* [polyphony-ot/libot](https://github.com/polyphony-ot/libot) - A C library for operational transformation.
+* [penberg/libpacketio](https://github.com/penberg/libpacketio) - High-performance packet I/O userspace library
+* [pandamonia/libffi-iOS](https://github.com/pandamonia/libffi-iOS) - The popular portable foreign-function interface library, built for iOS.
+* [nmbook/pidgin-libbnet](https://github.com/nmbook/pidgin-libbnet) - Allows Pidgin-like clients to connect to the Classic Battle.net service.
+* [mreiferson/libevbuffsock](https://github.com/mreiferson/libevbuffsock) - buffered socket library for libev
+* [mkoppanen/libVISCA2](https://github.com/mkoppanen/libVISCA2) - Fork of http://damien.douxchamps.net/libvisca/
+* [mheily/libpwq](https://github.com/mheily/libpwq) - libpthread_workqueue - a POSIX threads workqueue library
+* [manimaul/AndXtideLib](https://github.com/manimaul/AndXtideLib) - Xtide Library for Android
+* [m-labs/liboscparse](https://github.com/m-labs/liboscparse) - Liblo (OSC library) without GNU/Autocrap and network dependent non-portable code
+* [leio/libdvbsub](https://github.com/leio/libdvbsub) - Library for DVB subtitles parsing and preparation for display
+* [kzk/libsstbl](https://github.com/kzk/libsstbl) - A library to handle SSTable, the immutable and compressed key-value file format
+* [koreader/libk2pdfopt](https://github.com/koreader/libk2pdfopt) - k2pdfopt library for koreader/kindlepdfviewer
+* [kierank/libzvbi-obe-dev](https://github.com/kierank/libzvbi-obe-dev) - libzvbi OBE development tree
+* [kakaroto/libcurl-ps3](https://github.com/kakaroto/libcurl-ps3) - libcurl - the multiprotocol file transfer library
+* [jpirko/libndp](https://github.com/jpirko/libndp) - Neighbor Discovery library
+* [jneidlinger/libcurlwp8](https://github.com/jneidlinger/libcurlwp8) - libcurl for Windows Phone 8
+* [ijacquez/libyaul](https://github.com/ijacquez/libyaul) - Sega Saturn programming library
+* [idevsoftware/librtmp](https://github.com/idevsoftware/librtmp) - librtmp from RTMPDump (http://rtmpdump.mplayerhq.hu/) as an iOS static lib Xcode project
+* [graphitemaster/libintrusive](https://github.com/graphitemaster/libintrusive) - Intrusive data structures for C
+* [grantbrown/libspatialSEIR](https://github.com/grantbrown/libspatialSEIR) - A C++ and OpenCL framework for fast Bayesian spatio-temporal compartmental epidemic modeling.
+* [g4lvanix/I2C-slave-lib](https://github.com/g4lvanix/I2C-slave-lib) - I2C slave library for AVR 8 bit mircocontrollers
+* [fredrikwidlund/libdynamic](https://github.com/fredrikwidlund/libdynamic) - Dynamic C containers
+* [felipensp/librwelf](https://github.com/felipensp/librwelf) - Library for reading and writing on ELF files in a class-independent way
+* [felipec/libomxil-bellagio](https://github.com/felipec/libomxil-bellagio) - Bellagio OpenMAX IL
+* [epico/libibuspinyin-compat](https://github.com/epico/libibuspinyin-compat) - compatible files for ibus-pinyin and libpinyin integration.
+* [duosecurity/libduo](https://github.com/duosecurity/libduo) - Duo two-factor authentication API in C
+* [drdaeman/haskell-library-ffi-example](https://github.com/drdaeman/haskell-library-ffi-example) - An example of building a shared library (.so) in Haskell and calling it from C and Python.
+* [dpryan79/libBigWig](https://github.com/dpryan79/libBigWig) - A C library for handling bigWig files
+* [donapieppo/libnss-ato](https://github.com/donapieppo/libnss-ato) - The libnss_ato module is a set of C library extensions which allows to map every nss request for unknown user to a single predefined user.
+* [devkitPro/libnds](https://github.com/devkitPro/libnds) - C library for Nintendo DS
+* [denen99/libmd5varnish](https://github.com/denen99/libmd5varnish) - An MD5 module for your Varnish VCL
+* [cybozu/libyrmcds](https://github.com/cybozu/libyrmcds) - A memcached client library for C/C++.  Best suited to yrmcds.
+* [coapp-packages/libssh2](https://github.com/coapp-packages/libssh2) - libssh2 is a client-side C library implementing the SSH2 protocol
+* [cisco/libfnr](https://github.com/cisco/libfnr) - FNR is a small domain block cipher to encrypt small objects ( < 128 bits )
+* [chrisforbes/libaof](https://github.com/chrisforbes/libaof) - Age Of Empires Data Format Parsers
+* [chris-allan/libjpeg-turbo](https://github.com/chris-allan/libjpeg-turbo) - git-svn mirror of libjpeg-turbo
+* [cginternals/libzeug](https://github.com/cginternals/libzeug) - C++ sanctuary for small but powerful and frequently required, stand alone features.
+* [ceph/libs3](https://github.com/ceph/libs3) - Fork of http://git.ischo.com/libs3.git
+* [blackwinter/libcdb-ruby](https://github.com/blackwinter/libcdb-ruby) - Ruby bindings for CDB Constant Databases.
+* [benswift/kiss_fft](https://github.com/benswift/kiss_fft) - A fork of KissFFT to add shared-lib building to the makefile
+* [benedictpaten/sonLib](https://github.com/benedictpaten/sonLib) - Small general purpose library for C and Python with focus on bioinformatics.
+* [angeloseme/ofxLibsndfileRecorder](https://github.com/angeloseme/ofxLibsndfileRecorder) - Audio recorder using sndfile libraries
+* [agrif/libredstone](https://github.com/agrif/libredstone) - a C library for all things Minecraft
+* [Yawning/libelligator](https://github.com/Yawning/libelligator) - A C++ Elligator2 implementation
+* [Tasssadar/libbootimg](https://github.com/Tasssadar/libbootimg) - Small library to work with Android boot images
+* [SawfishWM/librep](https://github.com/SawfishWM/librep) - fast, lightweight, versatile lisp environment
+* [RickCHodgin/libsf](https://github.com/RickCHodgin/libsf) - Liberty Software Foundation's source code respository (see libsf-full for Exodus 32-bit Operating System)
+* [OpenSMTPD/libasr](https://github.com/OpenSMTPD/libasr) - Portable asr. Work in progress.
+* [MITRECND/libnids](https://github.com/MITRECND/libnids) - libnids
+* [LuaDist/libbsd](https://github.com/LuaDist/libbsd) - BSD functions common only on BSD systems, for portability to non-BSD systems.
+* [GerHobbelt/libtre](https://github.com/GerHobbelt/libtre) - TRE library by Ville Laurikari
+* [GNOME/libgweather](https://github.com/GNOME/libgweather) - libgweather
+* [Distrotech/libsecret](https://github.com/Distrotech/libsecret) - Mirror of git://git.gnome.org/libsecret
+* [Chronic-Dev/libgcrypt](https://github.com/Chronic-Dev/libgcrypt) - GNU Crypto library
+* [4dsystems/ViSi-Genie-RaspPi-Library](https://github.com/4dsystems/ViSi-Genie-RaspPi-Library) - ViSi-Genie - Raspberry Pi Library
+* [yixia/libupnp](https://github.com/yixia/libupnp) - Build libupnp for Android, run ./build_android.sh
+* [toddr/libtidy](https://github.com/toddr/libtidy) - git clone of the cvs sources for libtidy
+* [stump/libsmf](https://github.com/stump/libsmf) - C library for handling Standard MIDI Files (*.mid)
+* [strukturag/libde265-ffmpeg](https://github.com/strukturag/libde265-ffmpeg) - h.265 codec for ffmpeg using libde265
+* [stoni/ta-lib](https://github.com/stoni/ta-lib) - mirror to serve my projects as dependency
+* [srsbsns/libsrsbsns](https://github.com/srsbsns/libsrsbsns) - Award winning unique innovative solution for cutting edge revolutionary business application. Feature rich robust scalable platform provides seamless and user-friendly out-of-box experience. State of art next generation cloud ecosystem leverages best practices for sustainable real-time performance. De-facto industry standard and 42% more serious than the competition.
+* [servo/libcss](https://github.com/servo/libcss) - [UNMAINTAINED] Servo fork of libcss from the NetSurf project
+* [nexgenta/libMXF](https://github.com/nexgenta/libMXF) - Material Exchange Format handling library. Clone of the libMXF repository from BBC’s Ingex
+* [naychrist/ofxLibArtnet](https://github.com/naychrist/ofxLibArtnet) - OF wrapper for libartnet
+* [microe/libdvdnav](https://github.com/microe/libdvdnav) - LIbrary to navigate DVDs
+* [lxde/libfm](https://github.com/lxde/libfm) - Core library of PCManFM file manager
+* [libyal/libolecf](https://github.com/libyal/libolecf) -  Library and tools to access the OLE 2 Compound File (OLECF) format
+* [libyal/liblnk](https://github.com/libyal/liblnk) - Library and tools to access the Windows Shortcut File (LNK) format
+* [libyal/libbde](https://github.com/libyal/libbde) - Library and tools to access the BitLocker Drive Encryption (BDE) encrypted volumes
+* [libical/XbICalendar](https://github.com/libical/XbICalendar) - Objective-C Wrapper for the libical library
+* [lanoxx/libwnck](https://github.com/lanoxx/libwnck) - This is a copy of the libwnck code on git.gnome.org
+* [kphillisjr/libsdl2](https://github.com/kphillisjr/libsdl2) - LibSDL2 Package scripts base for Ubuntu
+* [jmgiacalone/Arduino-libraries](https://github.com/jmgiacalone/Arduino-libraries) - Arduino libraries
+* [jitesh1337/mythread_lib](https://github.com/jitesh1337/mythread_lib) - Our own thread library similar to pthreads
+* [ius/libsamsung-ipc](https://github.com/ius/libsamsung-ipc) - Samsung IPC library
+* [gngrwzrd/libgwrl](https://github.com/gngrwzrd/libgwrl) - High performance cross platform event reactor and proactor written in C
+* [giuliopaci/libexttextcat](https://github.com/giuliopaci/libexttextcat) - Unofficial libexttextcat changes to match my personal needs
+* [gittup/libavutil](https://github.com/gittup/libavutil) - gittup.org's libavutil
+* [dridri/libge](https://github.com/dridri/libge) - Fast and easy multiplatform game engine
+* [dmtx/libdmtx](https://github.com/dmtx/libdmtx) - libdmtx Library
+* [devkitPro/libogc](https://github.com/devkitPro/libogc) - C Library for Wii and Gamecube homebrew
+* [deoxxa/libmcnet](https://github.com/deoxxa/libmcnet) - An event based, zero-copy, portable Minecraft network protocol parser.
+* [davvid/libapply](https://github.com/davvid/libapply) - Higher-order functions for C
+* [codebrainz/libcfu](https://github.com/codebrainz/libcfu) - Updates to libcfu, orignally found here: http://libcfu.sourceforge.net/
+* [cloudwu/lua-crypt](https://github.com/cloudwu/lua-crypt) - simple crypt lib
+* [christinaa/libSystem_and_linker](https://github.com/christinaa/libSystem_and_linker) - Linker, libSystem and other stuff for Magenta.
+* [chrisforbes/libdrm](https://github.com/chrisforbes/libdrm) - My bits for libdrm
+* [android-rooting-tools/libfutex_exploit](https://github.com/android-rooting-tools/libfutex_exploit) - CVE-2014-3153 exploit
+* [amarullz/libaroma](https://github.com/amarullz/libaroma) - an embedded ui toolkit
+* [Thinkerfans/lib-mp4v2](https://github.com/Thinkerfans/lib-mp4v2) - lib of mp4v2 resource
+* [SynBioDex/libSBOLc](https://github.com/SynBioDex/libSBOLc) - Synthetic Biology Open Language (SBOL) C Library
+* [Starlon/LibVisual](https://github.com/Starlon/LibVisual) - Libvisual is a library that acts as a middle layer between applications that want audio visualisation and audio visualisation plugins.
+* [GNOME/libgnome-keyring](https://github.com/GNOME/libgnome-keyring) - libgnome-keyring
+* [Freescale/libimxvpuapi](https://github.com/Freescale/libimxvpuapi) - i.MX VPU API Library
+* [Chronic-Dev/libusb](https://github.com/Chronic-Dev/libusb) - libusb 1.0
+* [C0deH4cker/libstubhook-examples](https://github.com/C0deH4cker/libstubhook-examples) - Examples showcasing the functionality of libstubhook
+* [AlexAlbala/AlterNative-CXX-Lib](https://github.com/AlexAlbala/AlterNative-CXX-Lib) - C++ library for AlterNative engine
 * [jdduke/three_cpp](https://github.com/jdduke/three_cpp) - A port of three.js to C++
 * [SRombauts/SQLiteCpp](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper.
 * [BennyQBD/3DEngineCpp](https://github.com/BennyQBD/3DEngineCpp) - It's like the 3D Game Engine, except in C++
@@ -17,7 +846,6 @@ A curated list of awesome cpp frameworks, libraries and software.
 * [jacket-code/redlock-cpp](https://github.com/jacket-code/redlock-cpp) - C++实现redis分布式锁(Redlock Redis-based distributed locks implementation in C++)
 * [cirosantilli/cpp-cheat](https://github.com/cirosantilli/cpp-cheat) - C and C++ information, cheatsheets and mini-projects. Examples, unit tests, tutorials.
 * [davisford/cmake-cpputest](https://github.com/davisford/cmake-cpputest) - Setup test project for embedded C development with CppUTest built using CMake
-* [DragonBones/SkeletonAnimationLibraryCPP-out-of-date-](https://github.com/DragonBones/SkeletonAnimationLibraryCPP-out-of-date-) - Out of date. Find C++Library in DragonBonesCPP Project
 * [mschiffm/cppip](https://github.com/mschiffm/cppip) - The Compressed Pcap Packet Indexing Program
 * [wayfinder/Wayfinder-CppCore-v3](https://github.com/wayfinder/Wayfinder-CppCore-v3) - Version 3 of the Core module for Cpp based clients
 * [drbasic/CppLinq](https://github.com/drbasic/CppLinq) - c++11 Linq implementation
@@ -962,7 +1790,6 @@ A curated list of awesome cpp frameworks, libraries and software.
 * [percyliang/brown-cluster](https://github.com/percyliang/brown-cluster) - C++ implementation of the Brown word clustering algorithm.
 * [herumi/xbyak](https://github.com/herumi/xbyak) - a JIT assembler for x86(IA-32)/x64(AMD64, x86-64) MMX/SSE/SSE2/SSE3/SSSE3/SSE4/FPU/AVX/AVX2 by C++ header
 * [cjcliffe/CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application
-* [DoubleSpout/ccap](https://github.com/DoubleSpout/ccap) - node.js generate captcha using c++ library CImg without install any other lib or software
 * [blackberry/Cascades-Community-Samples](https://github.com/blackberry/Cascades-Community-Samples) - Samples authored by the Community showing how to use Cascades.
 * [bbcrd/audiowaveform](https://github.com/bbcrd/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files
 * [lzhang10/maxent](https://github.com/lzhang10/maxent) - Maximum Entropy Modeling Toolkit for Python and C++
