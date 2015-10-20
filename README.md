@@ -2,6 +2,655 @@
 
 A curated list of awesome cpp frameworks, libraries and software.
 
+* [jdduke/three_cpp](https://github.com/jdduke/three_cpp) - A port of three.js to C++
+* [SRombauts/SQLiteCpp](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper.
+* [BennyQBD/3DEngineCpp](https://github.com/BennyQBD/3DEngineCpp) - It's like the 3D Game Engine, except in C++
+* [LuaDist/toluapp](https://github.com/LuaDist/toluapp) - tolua++ is an extension of toLua, a tool to integrate C/Cpp code with Lua
+* [mitkook/Career-Cup-CPP-Solutions](https://github.com/mitkook/Career-Cup-CPP-Solutions) - Career Cup C++ Solutions
+* [nowsecure/nscrypto-cpp](https://github.com/nowsecure/nscrypto-cpp) - A C++11 library providing simple API for public-key encryption
+* [aminroosta/sqlite_modern_cpp](https://github.com/aminroosta/sqlite_modern_cpp) - a c++11 wrapper around sqlite library
+* [joeyates/cpp-active-record](https://github.com/joeyates/cpp-active-record) - A C++ Implementation of the Active Record Pattern
+* [JasonL9000/cppcon14](https://github.com/JasonL9000/cppcon14) - source code for CppCon 2014 talk on polymorphic unions
+* [three-x/three-cpp](https://github.com/three-x/three-cpp) - The successor of the original three_cpp port of three.js to C++
+* [ADN-DevTech/Maya-Cpp-Wizards](https://github.com/ADN-DevTech/Maya-Cpp-Wizards) - A new Maya C++ Wizards
+* [cdmh/cpp_immutable_string](https://github.com/cdmh/cpp_immutable_string) - An Immutable String class for C++
+* [jacket-code/redlock-cpp](https://github.com/jacket-code/redlock-cpp) - C++实现redis分布式锁(Redlock Redis-based distributed locks implementation in C++)
+* [cirosantilli/cpp-cheat](https://github.com/cirosantilli/cpp-cheat) - C and C++ information, cheatsheets and mini-projects. Examples, unit tests, tutorials.
+* [davisford/cmake-cpputest](https://github.com/davisford/cmake-cpputest) - Setup test project for embedded C development with CppUTest built using CMake
+* [DragonBones/SkeletonAnimationLibraryCPP-out-of-date-](https://github.com/DragonBones/SkeletonAnimationLibraryCPP-out-of-date-) - Out of date. Find C++Library in DragonBonesCPP Project
+* [mschiffm/cppip](https://github.com/mschiffm/cppip) - The Compressed Pcap Packet Indexing Program
+* [wayfinder/Wayfinder-CppCore-v3](https://github.com/wayfinder/Wayfinder-CppCore-v3) - Version 3 of the Core module for Cpp based clients
+* [drbasic/CppLinq](https://github.com/drbasic/CppLinq) - c++11 Linq implementation
+* [bakercp/ofxSQLiteCpp](https://github.com/bakercp/ofxSQLiteCpp) - A package and examples around ofxSQLiteCpp.
+* [waneck/hxffi](https://github.com/waneck/hxffi) - libffi bindings to cpp / neko
+* [catnapgames/TestMongooseCppSite](https://github.com/catnapgames/TestMongooseCppSite) - TestMongooseCppSite
+* [RajatGoyal/DollarNGestureRecognizer-cpp-RG](https://github.com/RajatGoyal/DollarNGestureRecognizer-cpp-RG) - C++ impelementation of $N gesture Recognizer found here http://depts.washington.edu/aimgroup/proj/dollar/ndollar.html
+* [LeszekSwirski/cpp-curry](https://github.com/LeszekSwirski/cpp-curry) - A C++ functional currying helper
+* [lyokato/cpp-urilite](https://github.com/lyokato/cpp-urilite) - C++ uri handler(encode, decode, parse and build)
+* [kapilratnani/DocIt](https://github.com/kapilratnani/DocIt) - A plugin for Notepad++, which aids in documentation. It generates documentation templates for functions. Supports C/CPP, Java and PHP
+* [Raphy/bomberman](https://github.com/Raphy/bomberman) - Epitech - Tech 2 - cpp_bomberman
+* [Infinideastudio/NEWorld-CPP](https://github.com/Infinideastudio/NEWorld-CPP) - the c++ version of NEWorld.
+* [BennyQBD/3DGameEngineCpp_60](https://github.com/BennyQBD/3DGameEngineCpp_60) - The C++ version of the 3D Game Engine, as of the end of the 3D Game Engine Tutorial
+* [mkalten/TUIO20_CPP](https://github.com/mkalten/TUIO20_CPP) - C++ TUIO 2.0 reference implementation
+* [jwgrenning/cpputest-starter-project](https://github.com/jwgrenning/cpputest-starter-project) - gcc cpputest starter project, with instructions to help get your legacy code into cpputest for the first time
+* [jimon/cppgm_tools](https://github.com/jimon/cppgm_tools) - cppgm tools
+* [bakercp/ofxUnicode](https://github.com/bakercp/ofxUnicode) - An openFrameworks addon that wraps the UTF8-CPP and POCO libraries for UTF8 and Unicode support.
+* [yuriykulikov/Abandoned-xmega_cpp_example](https://github.com/yuriykulikov/Abandoned-xmega_cpp_example) - Abandoned, C++ did not work out so well
+* [rti7743/sexyhook](https://github.com/rti7743/sexyhook) - cpp force Seam point maker
+* [cppsp/cppspx](https://github.com/cppsp/cppspx) - cppspx, special fork, independant of cpoll_cppsp... note the extra x
+* [aldrin/cpp](https://github.com/aldrin/cpp) - Public C++ Code
+* [BR903/cppp](https://github.com/BR903/cppp) - A program for automatically resolving #ifdef statements in C code.
+* [smilejay/c-cpp](https://github.com/smilejay/c-cpp) - some my shared c or c++ programs
+* [noct/cutf](https://github.com/noct/cutf) - Minimal C port of UTF8-CPP
+* [mkalten/TUIO11_CPP](https://github.com/mkalten/TUIO11_CPP) - C++ TUIO 1.1 reference implementation
+* [me115/cppset](https://github.com/me115/cppset) - 示例代码集
+* [darknoon/GLKitMathCPP](https://github.com/darknoon/GLKitMathCPP) - Extends the GLKit math functions with c++ operator overloading
+* [daiwei1999/AwayCPP](https://github.com/daiwei1999/AwayCPP) - C++ porting of Away3D engine independent of Adobe's Flash/Air runtimes
+* [clsr/container-macros](https://github.com/clsr/container-macros) - C container templates implemented with the CPP
+* [bxm156/Java2CPP](https://github.com/bxm156/Java2CPP) - EECS 337, Compilers Project. Compiles Java code to C++ . Final Score: 190/180 A+
+* [SmilyOrg/hxlode](https://github.com/SmilyOrg/hxlode) - PNG image decoder haxelib for neko/cpp using LodePNG / PicoPNG
+* [RedInquisitive/3DS-CPP](https://github.com/RedInquisitive/3DS-CPP) - A test for the Circle Pad Pro and other 3DS inputs.
+* [Krozark/cpp-ORM](https://github.com/Krozark/cpp-ORM) - A project to create a simple ORM.
+* [ysugimoto/socket.io-cpp](https://github.com/ysugimoto/socket.io-cpp) - Socket.IO Client for C++ ( use for cocos2d-x )
+* [wibbe/three-cpp](https://github.com/wibbe/three-cpp) - Three++, a C++ implementation of the Three.js library.
+* [vladp/CppOrm](https://github.com/vladp/CppOrm) - ActiveRecord-like implementation for C++ based on OTL library for database access
+* [sensel/sensel-api-c-cpp](https://github.com/sensel/sensel-api-c-cpp) - Sensel API for C/C++
+* [qiniu/cpp-sdk](https://github.com/qiniu/cpp-sdk) - Qiniu Resource Storage C++ SDK
+* [palichis/mogadecppclient](https://github.com/palichis/mogadecppclient) - Cliente escrito en cpp para Mogade
+* [lyokato/cpp-jsonlite](https://github.com/lyokato/cpp-jsonlite) - This is a C++ library which provides you a simple way to build JSON formatted string
+* [lyokato/cpp-datetimelite](https://github.com/lyokato/cpp-datetimelite) - C++ library for parsing datetime formatted string
+* [iichenbf/cppgl](https://github.com/iichenbf/cppgl) - C++ wrapper for modern OpenGL
+* [ht4n/CPPMNISTParser](https://github.com/ht4n/CPPMNISTParser) - C++ Parser for MNIST Dataset (specification can be found in http://yann.lecun.com/exdb/mnist/)
+* [hflicka/Ring-buffer-Cpp-template](https://github.com/hflicka/Ring-buffer-Cpp-template) - A simple ring buffer implementation as C++ template
+* [dsbs/LPC1769_cpp](https://github.com/dsbs/LPC1769_cpp) - example project cortex m3 usage with LPC1769 in c plus plus
+* [dreamsxin/Zephir-CPP](https://github.com/dreamsxin/Zephir-CPP) - Zephir-CPP is c++ implementation of the zephir.
+* [KevinStern/software-and-algorithms-cpp](https://github.com/KevinStern/software-and-algorithms-cpp) - Neat algorithm implementations in C++
+* [wme7/aero-shock](https://github.com/wme7/aero-shock) - My Cpp, python and fortran practice files
+* [wibbe/scheme-cpp](https://github.com/wibbe/scheme-cpp) - A lightweight wrapper around TinyScheme
+* [toddlipcon/cpp-dfsclient](https://github.com/toddlipcon/cpp-dfsclient) - some hacking around a DFS client in C++
+* [tjd/sqlite_cpp](https://github.com/tjd/sqlite_cpp) - Experiments with sqlite in C++.
+* [suschuk/cpp-lessons](https://github.com/suschuk/cpp-lessons) - The first repo on github. For testing.
+* [skelletons/poker-cpp-cards-mixer-win32](https://github.com/skelletons/poker-cpp-cards-mixer-win32) - Quick example for mixing a poker cards set in c++ using dSFMT and the Windows cryptographic service provider (CSP)
+* [ned14/NiallsCPP11Utilities](https://github.com/ned14/NiallsCPP11Utilities) - Some C++ 11 rewrites of useful stuff from TnFOX (http://www.nedprod.com/TnFOX/)
+* [mage/mage-sdk-cpp](https://github.com/mage/mage-sdk-cpp) - MAGE SDK and libraries for C++ Development
+* [lteacy/mcts-cpp](https://github.com/lteacy/mcts-cpp) - Monte Carlo Tree Search implemented in C++
+* [leogtzr/math_evaluator_cpp](https://github.com/leogtzr/math_evaluator_cpp) - A tiny c++ math library for evaluate and recognize expressions.
+* [lelabo-marc/cpp_project](https://github.com/lelabo-marc/cpp_project) - all of my cpp project
+* [jakezhaojb/LDA-Cpp](https://github.com/jakezhaojb/LDA-Cpp) - This package implements Linear Discriminative Analysis (LDA), in C++ and with the assistance of LAPACK.
+* [herberthamaral/cpp_multiplatform_experiment](https://github.com/herberthamaral/cpp_multiplatform_experiment) - Experimental C/C++ project that runs on every platform
+* [gillesgagniard/wso2-wsf-cpp-gg](https://github.com/gillesgagniard/wso2-wsf-cpp-gg) - WSO2 WSF/C++ with additional fixes
+* [georgik/fimuni-c-cpp-examples](https://github.com/georgik/fimuni-c-cpp-examples) - Examples related to talks at FI MUNI
+* [fysiskhund/mjEngineCPP](https://github.com/fysiskhund/mjEngineCPP) - motorj android cpp
+* [flo2k/CppZip](https://github.com/flo2k/CppZip) - CppZip
+* [easytiger/sqlite3cpp](https://github.com/easytiger/sqlite3cpp) - Simple easy to use dependency free sqlite3 wrapper
+* [dojeda/nsga2-cpp](https://github.com/dojeda/nsga2-cpp) - NSGA-II Implementation in C++
+* [dewind/messagepack](https://github.com/dewind/messagepack) - C Implementation pulled from CPP Impl
+* [darketik/stm32f4_cpp_makefile_template](https://github.com/darketik/stm32f4_cpp_makefile_template) - Template project for stm32f40_41xxx microcontroller with CPP support and makefile environnement
+* [avicennax/SQLite-Wrapper-Cpp](https://github.com/avicennax/SQLite-Wrapper-Cpp) - A lightweight C++ SQLite3 API wrapper.
+* [ansgri/cpp-boilerplate-minimal](https://github.com/ansgri/cpp-boilerplate-minimal) - skeleton for writing image processing C++
+* [agordon/stl_helpers](https://github.com/agordon/stl_helpers) - CPP convenience functions, mostly STL adapters
+* [YimingYAN/cppipm](https://github.com/YimingYAN/cppipm) - C++ implementation of the Interior Point Method (CPIPM)
+* [Yacoby/cpp-bsa](https://github.com/Yacoby/cpp-bsa) - Library for parsing Morrowind BSA files
+* [JohannAnhofer/cpp_db](https://github.com/JohannAnhofer/cpp_db) - A Database access layer for C++
+* [Carrigan/CvCPP](https://github.com/Carrigan/CvCPP) - An embedded coding experiment to compare the efficiency of C++ to C.
+* [BennyQBD/3DEngineCpp_31](https://github.com/BennyQBD/3DEngineCpp_31) - The 3D Engine in C++, as of tutorial 31
+* [BenjaminNitschke/CppCourse](https://github.com/BenjaminNitschke/CppCourse) - Games Academy Basic C++ Course May 2015
+* [zilong/cj](https://github.com/zilong/cj) - The Project trys to supply some cpp for let your cpp-program look like java
+* [zhaowoxin/work](https://github.com/zhaowoxin/work) - cpp exercise
+* [yuchengwen/cms.cpp](https://github.com/yuchengwen/cms.cpp) - A cross-platform cms write by C++
+* [xaratustrah/barion_cpp](https://github.com/xaratustrah/barion_cpp) - A scientific calculator and data table for chemical elements and their isotopes for the experimental and accelerator physicist.
+* [vim-scripts/tags-for-std-cpp-STL-streams-...](https://github.com/vim-scripts/tags-for-std-cpp-STL-streams-...) - Modified libstdc++ headers for use with ctags
+* [twostars/usdx-cpp](https://github.com/twostars/usdx-cpp) - Unofficial C++ port of UltraStar Deluxe (non-functional at the moment)
+* [tun57/StephenSowoleG52CPP](https://github.com/tun57/StephenSowoleG52CPP) - C++ Game Written For G52CPP Module
+* [truvorskameikin/routines-cpp](https://github.com/truvorskameikin/routines-cpp) - The collection of header-only routines for C++
+* [threez/foundation-cpp](https://github.com/threez/foundation-cpp) - a small c++ library for common uses like vectors, strings, testing and so on, with the convenience of the ruby stdlib
+* [tgjones/aether-cpp](https://github.com/tgjones/aether-cpp) - Ray tracer
+* [spravo13/c-math](https://github.com/spravo13/c-math) - A copy of cpp-math, though written in c
+* [spatialaudio/schunk-cpp](https://github.com/spatialaudio/schunk-cpp) - Implementation of Schunk Motion Protocol in C++
+* [smithandrewc/robovero_cpp](https://github.com/smithandrewc/robovero_cpp) - C++ class files that allow access to Robovero resources through the Overo using C++ code
+* [sfzhao/cpplaboratory](https://github.com/sfzhao/cpplaboratory) - lab
+* [scriptum/cppcheck-libs](https://github.com/scriptum/cppcheck-libs) - cppckeck rules compiler with more fine-grained GTK support
+* [scott2014/httpserver-cpp](https://github.com/scott2014/httpserver-cpp) - 使用C++实现的简单httpserver,依赖于mongoose api,依赖库地址:https://github.com/Gregwar/mongoose-cpp,该程序可以用于app后台开发
+* [santhoshvai/Cpp_MIT_course_Assignments](https://github.com/santhoshvai/Cpp_MIT_course_Assignments) - A collection of assignments and lectures studied and done for MIT OCW courses for C and C++
+* [santazhang/kmp-cpp](https://github.com/santazhang/kmp-cpp) - KMP searching algorithm in C++, with template generic programming
+* [saga-project/saga-cpp-adaptor-bes](https://github.com/saga-project/saga-cpp-adaptor-bes) - BES bindings to SAGA-C++
+* [rhsmith/EntropyCpp](https://github.com/rhsmith/EntropyCpp) - Conversion of matlab script to c++
+* [rd3k/BotCppTest](https://github.com/rd3k/BotCppTest) - Adventures in visual programming
+* [rbtnn/cpp-vimgrep](https://github.com/rbtnn/cpp-vimgrep) - This is `vimgrep` which is an external command.
+* [pix/cppp](https://github.com/pix/cppp) - Fork of cppp: A Partial Preprocessor for C from Brian Raiter
+* [pingles/c-and-cpp-adventures](https://github.com/pingles/c-and-cpp-adventures) - Me playing around with various C and C++ libs
+* [opendrone/flymaple-cpp](https://github.com/opendrone/flymaple-cpp) - flymaple c++ code originally developed by Yi Xie
+* [netguy204/cpp-starter-project](https://github.com/netguy204/cpp-starter-project) - A c++ starter project that builds using the lazy-cpp pre-processor and the Boehm collector
+* [nabuchi/cpp-3col2](https://github.com/nabuchi/cpp-3col2) - Improved Generic Algorithm for 3-Collisions Parallelizable
+* [munsuri/objective-c-cpp_from_c-cpp](https://github.com/munsuri/objective-c-cpp_from_c-cpp) - Bunch of examples to ilustrate the multiple ways of accessing Objective C/C++ from C/C++
+* [mike-zhang/cppCallLua](https://github.com/mike-zhang/cppCallLua) - cppCallLua by mike
+* [mapcode-foundation/mapcode-cpp](https://github.com/mapcode-foundation/mapcode-cpp) - Mapcode Library for C/C++
+* [magiczhao/devcpp](https://github.com/magiczhao/devcpp) - cpp files
+* [lxdiyun/C](https://github.com/lxdiyun/C) - C/CPP Code
+* [liyanghua/skiplists-for-cpp](https://github.com/liyanghua/skiplists-for-cpp) - A template skiplists implementation in c++
+* [lewtsi/CppPrimer](https://github.com/lewtsi/CppPrimer) - C++ Primer v3 Samples
+* [laneease/cpp](https://github.com/laneease/cpp) - cpp
+* [kcauchy/google-btree](https://github.com/kcauchy/google-btree) - A copy of google cpp btree
+* [kaushalaman/oops-cpp-c-important-programs](https://github.com/kaushalaman/oops-cpp-c-important-programs) - Run these programs, get results, learn & have fun
+* [kamalcoder/cpputil](https://github.com/kamalcoder/cpputil) - cpp snippets
+* [jwgrenning/cpputest-starter-project-vs](https://github.com/jwgrenning/cpputest-starter-project-vs) - A cpputest starter project with instructions for visual studio
+* [johnstorm/PixelwaveCPP](https://github.com/johnstorm/PixelwaveCPP) - C++ version of pixelwave
+* [johannesh/judy-nif-cpp](https://github.com/johannesh/judy-nif-cpp) - Erlang NIF for judy arrays [JudyHS]
+* [jlchan/CodesCpp](https://github.com/jlchan/CodesCpp) - Warburton/Hesthaven nodal DG codes in C++
+* [jimbocoder/blowfish-cpp](https://github.com/jimbocoder/blowfish-cpp) - ECB-mode-only blowfish implementation.
+* [jcfr/MIDAScpp](https://github.com/jcfr/MIDAScpp) - Fork of MIDAScpp - The Midas CPP API provides a client-side way of interacting with a MIDAS server
+* [ivanarellano/cpp-eightpuzzle](https://github.com/ivanarellano/cpp-eightpuzzle) - Eight puzzle solved with A* pathfinding.
+* [insidepower/cpptest](https://github.com/insidepower/cpptest) - testing small c, c++ program
+* [hominlinx/cppbed](https://github.com/hominlinx/cppbed) - some cpp test,such as boost,zeromq
+* [holylance/TestCouchbaseCpp](https://github.com/holylance/TestCouchbaseCpp) - This is test console project about libCouchbase(c/c++)
+* [hoheinzollern/cpnunf-cpp](https://github.com/hoheinzollern/cpnunf-cpp) - Unfolder for contextual Petri nets
+* [hemmerling/cpp-fatedit](https://github.com/hemmerling/cpp-fatedit) - FAT12 and FAT16 disk editor, for editing the File Allocation Table ( FAT ) and the directory of MSDOS disks with 12-bit FAT ( FAT12 ) and of harddisks with 16-bit FAT ( FAT16 ).
+* [hawkerpl/cython_python_to_cpp_example](https://github.com/hawkerpl/cython_python_to_cpp_example) - example of compiling python to c++
+* [gutomaia/hellow_cpp](https://github.com/gutomaia/hellow_cpp) - c++ msn lib: More than a Hello World!
+* [grosi/cpp_4_in_a_row](https://github.com/grosi/cpp_4_in_a_row) - A small C++ embedded project with the aim to develop the game "4 in a row"
+* [gregtour/tedge-cpp](https://github.com/gregtour/tedge-cpp) - Team Duck Game Engine
+* [grantlj/CppProjects](https://github.com/grantlj/CppProjects) - Grant's Cpp Projects.
+* [gary-test-account/HelloCpp](https://github.com/gary-test-account/HelloCpp) - Cpp first test of git
+* [find/cpputils](https://github.com/find/cpputils) - cpp utilities
+* [egmkang/antlr3-dsl](https://github.com/egmkang/antlr3-dsl) - a message compiler generating cpp codes
+* [dougbradbury/TddCpp](https://github.com/dougbradbury/TddCpp) - Test Driven Development Katas in C++
+* [doubleleft/hook-cpp](https://github.com/doubleleft/hook-cpp) - (alpha) C++ client for hook
+* [dholm/cpptmpdyncode](https://github.com/dholm/cpptmpdyncode) - Dynamic Binary Compiler Using C++ TMP
+* [devemouse/glcd](https://github.com/devemouse/glcd) - Project where I try to run glcd (LGDP4531) in cpp
+* [dacechavez/cppbox](https://github.com/dacechavez/cppbox) - C++ wrapper for the termbox library
+* [cot246/my-leetcode](https://github.com/cot246/my-leetcode) - my cpp solutions for leetcode
+* [cokeboL/Cimpple](https://github.com/cokeboL/Cimpple) - Cimpple is a base game server framwork using simple cpp; Cimpple means Cpp and Simple. I hope more people join in.
+* [chuckzhang/CppSQLite](https://github.com/chuckzhang/CppSQLite) - A very thin C++ wrapper around the public domain SQLite database library.  Fork from codeproject(http://www.codeproject.com/KB/database/CppSQLite.aspx)
+* [chenee/Lua-Objective-C-CPP](https://github.com/chenee/Lua-Objective-C-CPP) - this is a demo ,show you how to hybrid Lua, C++, Objective-C. e.g. call C++ from OC, operate C++ class by Lua，which called by OC ...
+* [carlcook/cpp-skiplist](https://github.com/carlcook/cpp-skiplist) - stl compliant skip list (sorted list with logarithmic insert/find/erase)
+* [cad-san/TDD4EC_CppUTest](https://github.com/cad-san/TDD4EC_CppUTest) - Transcription sample code of "Test Driven Development for Embedded C" with CppUTest
+* [bihicheng/debug_cp](https://github.com/bihicheng/debug_cp) - debug c cpp python
+* [anaspk/huffman-encoding-cpp](https://github.com/anaspk/huffman-encoding-cpp) - A very simple implementation of Huffman Encoding in C++ for compressing text files
+* [adirzim/CPP-Ex4](https://github.com/adirzim/CPP-Ex4) - exercise 4 of the advance programing topic course
+* [Yifan-DU/CPP-Computer-Graphic-OpenGL](https://github.com/Yifan-DU/CPP-Computer-Graphic-OpenGL) - A series of progs graphic driven by VS C++ 2010+ with OpenGL.
+* [WillKwon/Cpp_College_Projects](https://github.com/WillKwon/Cpp_College_Projects) - C/C++ codes for the projects done in school
+* [Vdragon/NTOU_CPP_HW_Opensource_Project](https://github.com/Vdragon/NTOU_CPP_HW_Opensource_Project) - 海洋大學C++ 作業開放程式原始碼專案
+* [Vdragon/C_CPP_program_templates](https://github.com/Vdragon/C_CPP_program_templates) - 我用來寫C和C++程式的程式原始碼範本
+* [SkyAngeLoL/LuaStack](https://github.com/SkyAngeLoL/LuaStack) - CPP class for working with lua scripts
+* [RealSense-Book/RealSense-Book-CPP](https://github.com/RealSense-Book/RealSense-Book-CPP) - C++のサンプルコードです
+* [Mortal/fib.cpp](https://github.com/Mortal/fib.cpp) - Fibonacci sequence precalculated at compile-time with C++ templates in two different ways
+* [MR-KO/CPP](https://github.com/MR-KO/CPP) - MURT U MAD FGT AIDS & EBOLA
+* [LeonardVollmann/3DGameEngineCpp](https://github.com/LeonardVollmann/3DGameEngineCpp) - A 3D Game Engine written in C++
+* [JosiahOne/quickbase-cpp-wrapper](https://github.com/JosiahOne/quickbase-cpp-wrapper) - A QuickBase API Wrapper in c++.
+* [JGRennison/cpp-btree](https://github.com/JGRennison/cpp-btree) - Clone of Google's cpp-btree B-tree set and map containers, with minor fixes/modifications.
+* [Infinideastudio/NEWorld-Cpp-dyt](https://github.com/Infinideastudio/NEWorld-Cpp-dyt) - A C++ implemation of NEWorld
+* [GithSystems/CountlyCpp](https://github.com/GithSystems/CountlyCpp) - C++ SDK for Countly (count.ly)
+* [FHV-ITM13/C-CPP](https://github.com/FHV-ITM13/C-CPP) - projects master studies
+* [DanielPalliser/c-cpp-java-1](https://github.com/DanielPalliser/c-cpp-java-1) - Ship information assignment
+* [Daiver/cpp-cgi-snippet](https://github.com/Daiver/cpp-cgi-snippet) - Nano C++ web framework
+* [Chetan496/cpp-algortihms](https://github.com/Chetan496/cpp-algortihms) - Common algorithms and data structures in C
+* [BorisBresciani/cpp_bomberman](https://github.com/BorisBresciani/cpp_bomberman) - cpp_bomberman
+* [BenLand100/CppCraft](https://github.com/BenLand100/CppCraft) - Toy  MineCraft client written in C++ to avoid the speed limitations of python that I ran into with PyCraft
+* [ATofighi/PHP-CPP-Compile](https://github.com/ATofighi/PHP-CPP-Compile) - Compile C++ via PHP
+* [zlua/py-c-cpp](https://github.com/zlua/py-c-cpp) - Python 与 C/C++ 混合编程
+* [zhuangbo/cpp](https://github.com/zhuangbo/cpp) - Programs in C++
+* [zhouyang209117/CppTutorial](https://github.com/zhouyang209117/CppTutorial) - C语言学习
+* [zhou1990/AlgorithmsCpp](https://github.com/zhou1990/AlgorithmsCpp) - A variety of language implementation of the algorithm by C or C++
+* [zhangyuchi/cpptestzj](https://github.com/zhangyuchi/cpptestzj) - test cpp example
+* [zengzhining/advenLua](https://github.com/zengzhining/advenLua) - a game use cocos2d-x cpp+lua
+* [zengyuxing007/perl_xs_cpp](https://github.com/zengyuxing007/perl_xs_cpp) - perl_xs_cpp
+* [zdanozdan/prestashop-cpp-api-client](https://github.com/zdanozdan/prestashop-cpp-api-client) - PrestaShop client in C++
+* [zchrissirhcz/cppos-template](https://github.com/zchrissirhcz/cppos-template) - osdev上某教程的demo
+* [zchrissirhcz/CppOS](https://github.com/zchrissirhcz/CppOS) - A hobby OS written in C++
+* [z0rr0/cppcourse](https://github.com/z0rr0/cppcourse) - my cpp lib
+* [yyt1994/CPPstudy](https://github.com/yyt1994/CPPstudy) - C++自学
+* [yxmsw2007/SampleC-CPP](https://github.com/yxmsw2007/SampleC-CPP) - This app provides c/cpp examples
+* [ywnwa/complier-pl0-cpp](https://github.com/ywnwa/complier-pl0-cpp) - complier for pl0 with c++
+* [yuvrajsingla/ctci_c_cpp](https://github.com/yuvrajsingla/ctci_c_cpp) - Solutions to cracking the coding interview problems in C / C++
+* [yunyan/cppPractice](https://github.com/yunyan/cppPractice) - my practice repo
+* [yourcaptain/linux_cpp](https://github.com/yourcaptain/linux_cpp) - linux programing
+* [yomichi/cpp-random-test](https://github.com/yomichi/cpp-random-test) - Survay for efficiency of several C/C++ implementation of Mersenne Twister
+* [yhirose/cpp-sqlitelib](https://github.com/yhirose/cpp-sqlitelib) - C++ SQLite wrapper library
+* [yczhangsjtu/Cpp-Palace](https://github.com/yczhangsjtu/Cpp-Palace) - A C++ opengl game.
+* [yansyaf/cmake-c-cpp-library-template](https://github.com/yansyaf/cmake-c-cpp-library-template) - CMake template for creating C/C++ library, it will generate both static and dynamic library and doxygen documentation.
+* [xsky123/Ccodes](https://github.com/xsky123/Ccodes) - My C(CPP) Codes
+* [xjr20042/first](https://github.com/xjr20042/first) - Cpp
+* [wwvuillemot/CPP-Projects](https://github.com/wwvuillemot/CPP-Projects) - Various C, CPP projects including basic data structures
+* [wweic/BerkeleyDB](https://github.com/wweic/BerkeleyDB) - unofficial mirror of BerkeleyDB cpp source code
+* [wistery-k/mjai-server-cpp](https://github.com/wistery-k/mjai-server-cpp) - C++ implementation of mjai server
+* [winnie2015/finaltest-cpp](https://github.com/winnie2015/finaltest-cpp) - create a makefile
+* [williamhorstkamp/SQLiterForCpp11](https://github.com/williamhorstkamp/SQLiterForCpp11) - SQLiter For C++11 is an SQLite3 wrapper with C++11 features.
+* [wikimedia/mediawiki-extensions-Parsoid-cpp-contrib-libhubbub](https://github.com/wikimedia/mediawiki-extensions-Parsoid-cpp-contrib-libhubbub) - Github mirror of MediaWiki extension Parsoid/cpp/contrib/libhubbub - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
+* [wentz-s/rush1](https://github.com/wentz-s/rush1) - git du premier rush de piscine cpp
+* [weizijun/cpp](https://github.com/weizijun/cpp) - cpp resource
+* [wb113347/testCPP](https://github.com/wb113347/testCPP) - test CPP
+* [warrenonedge/C-CPP-code](https://github.com/warrenonedge/C-CPP-code) - Collection of all C and C++ files/assignments that I've coded
+* [vssouza/CppOpenCVJunkies](https://github.com/vssouza/CppOpenCVJunkies) - OpenCV and C++ junkies and stuff.
+* [vpiotr/mongoose_cpp](https://github.com/vpiotr/mongoose_cpp) - Embeddable http server with C++ wrapper included.
+* [vmlaker/hello-cpp](https://github.com/vmlaker/hello-cpp) - Review of C++, my first love
+* [vlttnv/cpp-linked-list](https://github.com/vlttnv/cpp-linked-list) - A simple C++ linked list
+* [vislee/libbc](https://github.com/vislee/libbc) - c cpp 基础函数。
+* [vibgy/cpp](https://github.com/vibgy/cpp) - My C++ Projects
+* [universeroc/cpp_programmer](https://github.com/universeroc/cpp_programmer) - Being a programmer we must know everything about what programming language you use, and also data structure, design pattern, and algorithm. Here is just some cases I came across when I review some aspects or prepare for some skills usage. Maybe it could help you to recall your memory or give you some tips.
+* [undefx/FM_Cpp](https://github.com/undefx/FM_Cpp) - An implementation of the FGB2003 model of influenza transmission and evolution.
+* [ucyixl/DiPBaCpp](https://github.com/ucyixl/DiPBaCpp) - C++ implementation of Dirichlet Process Bayesian Clustering
+* [tyr-sl3/lua-cpp-api](https://github.com/tyr-sl3/lua-cpp-api) - Projet LuaLibCpp ! Version 2.0 (refonte totale), Mai 2014
+* [typedefnqde/C_CPP](https://github.com/typedefnqde/C_CPP) - programming languages: C, C++
+* [twishi/Cpp](https://github.com/twishi/Cpp) - TP / Projet C++
+* [tsteinholz/CPP-SRHS](https://github.com/tsteinholz/CPP-SRHS) - This is my repository for all of my CPP code for the SRHS course "C++ with Gaming"
+* [tsovince/8051-CPP-templates](https://github.com/tsovince/8051-CPP-templates) - Templates and library for 8051
+* [tshm/matrix_cpp](https://github.com/tshm/matrix_cpp) - experimental cpp library for dealing with 2D matrix arithmetic.
+* [triposorbust/triangles-osx](https://github.com/triposorbust/triangles-osx) - Red Book Example: Triangles.cpp ported to Mac OSX.
+* [toolbits/cpp-netlib-cpp-netlib-0.9.4_xcode462_universal](https://github.com/toolbits/cpp-netlib-cpp-netlib-0.9.4_xcode462_universal) - Patch files to enable you to compile universal binary libraries with gcc under xcode 4.6.2.
+* [toeb/cppaccessor](https://github.com/toeb/cppaccessor) - the accessor pattern in c++
+* [tktk/fg4cpp.old](https://github.com/tktk/fg4cpp.old) - fgのC++用ラッパー(バックアップ)
+* [tktk/dp4cpp.old](https://github.com/tktk/dp4cpp.old) - C++用ゲーム向けライブラリ(バックアップ)
+* [tjp5115/cppRPG](https://github.com/tjp5115/cppRPG) - Point and Click Role Playing game
+* [tinygg/cpp.gui.kxnf](https://github.com/tinygg/cpp.gui.kxnf) - try make new version gui system for ags of kxnf
+* [thzoechbauer/cpp-embedded](https://github.com/thzoechbauer/cpp-embedded) - This project goes along with the blog https://cppembedded.wordpress.com and provides some code for embedded systems, especially for the STM32 F3 Discovery. A modified version of the "Real-Time C++"-Library by C. Kormanyos is used, see https://github.com/ckormanyos/real-time-cpp for further information on the library.
+* [thylm55/Fruit-Ninja-Cpp](https://github.com/thylm55/Fruit-Ninja-Cpp) - Fruit Ninja in C++
+* [three-x/three-package-sdl2](https://github.com/three-x/three-package-sdl2) - SDL2 package for three-cpp
+* [three-x/three-package-openal](https://github.com/three-x/three-package-openal) - OpenAl sound package for three-cpp
+* [thiagodp/cpp-util](https://github.com/thiagodp/cpp-util) - Some useful C++ libs
+* [thebagmaster/CPP_ARAB_League_of_Legends](https://github.com/thebagmaster/CPP_ARAB_League_of_Legends) - A C++ program I wrote to read memory from the League of Legends client and support banning players from certain custom games. League of Legends had no support for this. The client was written in CPP and the back-end was a SQL database with PHP website access.
+* [tcafiero/CppTestLab](https://github.com/tcafiero/CppTestLab) - A Lab for C++Test
+* [talalbutt/xplus-xsd2cpp](https://github.com/talalbutt/xplus-xsd2cpp) - Automatically exported from code.google.com/p/xplus-xsd2cpp
+* [syvjohan/cppFun](https://github.com/syvjohan/cppFun) - c++
+* [syntheticpp/cpptex](https://github.com/syntheticpp/cpptex) - Port of TeX++ to actual C++ compilers
+* [swrangsar/cppTest](https://github.com/swrangsar/cppTest) - cpp test and gtk test
+* [sw-eng-2014/CPP-JOYSTICK](https://github.com/sw-eng-2014/CPP-JOYSTICK) - Example project in Visual C++ to show the usage of hidapi library
+* [sumantro93/All-C-CPP-programs](https://github.com/sumantro93/All-C-CPP-programs) - This is a collection of all C and C++ programs
+* [sukesan1984/test_cpp](https://github.com/sukesan1984/test_cpp) - test_cpp
+* [stupigou/cpp_nibbler](https://github.com/stupigou/cpp_nibbler) - Snake for Epitech Project {SDL, OpenGL, NCurses}
+* [stockandawe/c-and-cpp-test-programs](https://github.com/stockandawe/c-and-cpp-test-programs) - Small test programs in c and c++
+* [stevenio/ProgCpp](https://github.com/stevenio/ProgCpp) - C++
+* [spurserh/ImmutableCPP](https://github.com/spurserh/ImmutableCPP) - Immutable data structures for C++
+* [spoiltos/cppbindings](https://github.com/spoiltos/cppbindings) - Reflection metadata for C++
+* [specific008/github-c_cpp](https://github.com/specific008/github-c_cpp) - this repository is for c/c++
+* [soul376/virtualPhysiX](https://github.com/soul376/virtualPhysiX) - The cpp game
+* [slonix/c_cpp_projects](https://github.com/slonix/c_cpp_projects) - Here you can find some of my C and C++ projects developed at University of Warsaw.
+* [skybosi/map_c-cpp](https://github.com/skybosi/map_c-cpp) - Generate a program diagram of function call
+* [sinojelly/cpp-utils](https://github.com/sinojelly/cpp-utils) - Automatically exported from code.google.com/p/cpp-utils
+* [siggame/cppVis](https://github.com/siggame/cppVis) - The current C++ visualizer
+* [shaswat770/cplusplus](https://github.com/shaswat770/cplusplus) - Random cpp programs during BTech course
+* [sexybear/FTPserver-in-Cpp](https://github.com/sexybear/FTPserver-in-Cpp) - Ftpserver in cpp
+* [secret32/cpptest](https://github.com/secret32/cpptest) - study and testing
+* [scirelli/cppreview](https://github.com/scirelli/cppreview) - Practice repo for reviewing C++
+* [schnet25/basketbitpp](https://github.com/schnet25/basketbitpp) - BasketBit Base cpp libary
+* [sambaranhazra/cpp_practice](https://github.com/sambaranhazra/cpp_practice) - Sample c++ programs for practice purpose
+* [salmanwahed/c-programming](https://github.com/salmanwahed/c-programming) - simple c/cpp codes
+* [saga-project/saga-cpp-legacy-projects](https://github.com/saga-project/saga-cpp-legacy-projects) - legacy code migrated from CCT
+* [saga-project/saga-cpp-legacy-adaptors](https://github.com/saga-project/saga-cpp-legacy-adaptors) - legacy cpp adaptors code migrated from CCT
+* [ryanjbcom/Cpp_Jumper_Game](https://github.com/ryanjbcom/Cpp_Jumper_Game) - Ryanjbcom, C++, Allegro Lib, Jumper, Side Scrolling Game
+* [rwwiv/Learn_Cpp](https://github.com/rwwiv/Learn_Cpp) - Learn C++
+* [rtk2112/CplusplusPrograms](https://github.com/rtk2112/CplusplusPrograms) - Has all my c  and cpp programs
+* [rshegde/cpp_pokerhands](https://github.com/rshegde/cpp_pokerhands) - A simple poker odds calculator
+* [rpeden/cpp-fun](https://github.com/rpeden/cpp-fun) - Haven't done much C++ lately, so going to just start from scratch here and have a little fun.
+* [rosrad/cpp-rep](https://github.com/rosrad/cpp-rep) - some files of c++ project, such clang, git , gcc, kaldi ,rtag
+* [ros2/tlsf_cpp](https://github.com/ros2/tlsf_cpp) - std::allocator_traits interface to the TLSF allocator
+* [rominavarela/cpp-web](https://github.com/rominavarela/cpp-web) - Web Services in C++
+* [rominavarela-demo/cpp-http](https://github.com/rominavarela-demo/cpp-http) - HTTP WebServices from various C++ alternatives
+* [rockhowse/AdvancedCppGraphicsTutorials](https://github.com/rockhowse/AdvancedCppGraphicsTutorials) - This is a github repo that contains one commit per video tracking the excellent C++ Graphics tutorials created by MakingGamesWithBen on youtube. — Edit
+* [rjdgtn/OreDepsForBorlandCpp](https://github.com/rjdgtn/OreDepsForBorlandCpp) - Patched dependensies for build Ogre over Borland bcc32 compiler
+* [rehmanz/cpp-programming](https://github.com/rehmanz/cpp-programming) - C++ Programming
+* [ray1992/cpp_shit](https://github.com/ray1992/cpp_shit) - practice
+* [rateyu/testCppHello](https://github.com/rateyu/testCppHello) - testCppHello
+* [rararrara/ra_eclipse_cpp](https://github.com/rararrara/ra_eclipse_cpp) - Github projects with EGit to learn cpp
+* [rararrara/ra_dellVS2013](https://github.com/rararrara/ra_dellVS2013) - cpp coding using vs2013
+* [rambo/chibios_cpp](https://github.com/rambo/chibios_cpp) - Trying to get OOP to ChibiOS (and if it works will probably become RuuviTracker firmware)
+* [rajko-d/learn_cpp](https://github.com/rajko-d/learn_cpp) - Adventures in C++
+* [rafat2/cpp](https://github.com/rafat2/cpp) - C++ ts
+* [rAum/robocar_jurek_cpp](https://github.com/rAum/robocar_jurek_cpp) - software for autonomous car "Jurek".
+* [quinteroheg2/C-CppPractice](https://github.com/quinteroheg2/C-CppPractice) - Practicing with the C/C++ Languages.
+* [quicky2000/soda_analyzer_cpp_if](https://github.com/quicky2000/soda_analyzer_cpp_if) - Interface defining communication API betweem Soda and modules receiving C++ representation of OSM differences
+* [qq644531343/cppsrc](https://github.com/qq644531343/cppsrc) - 存放一些C++的练习代码
+* [qoowedsub/cpp_practice](https://github.com/qoowedsub/cpp_practice) - learning c++
+* [qinglangee/mooc_code](https://github.com/qinglangee/mooc_code) - cpp code of mooc
+* [pvuillemin/BenabouVuilleminCppProject](https://github.com/pvuillemin/BenabouVuilleminCppProject) - Cpp project on the multiarmed bandit.
+* [ptodev/LaplaceSolverCpp](https://github.com/ptodev/LaplaceSolverCpp) - Solving the Laplace equation.
+* [psie/C-Cpp-related](https://github.com/psie/C-Cpp-related) - Some (basic) code (snippets) not falling under above categories
+* [prototype-U/cpp-sources](https://github.com/prototype-U/cpp-sources) - All programs created by me
+* [potzkovge/CCPP](https://github.com/potzkovge/CCPP) - C and CPP version
+* [polyf/cppvsc](https://github.com/polyf/cppvsc) - c++ vs c90
+* [pmachard/cpp_common](https://github.com/pmachard/cpp_common) - Common librairie
+* [pinkapp/cpp](https://github.com/pinkapp/cpp) - c++ 仓库
+* [philomuzzi/Cpp_Database_Demo](https://github.com/philomuzzi/Cpp_Database_Demo) - varies database connect demo
+* [phass/C_and_Cpp](https://github.com/phass/C_and_Cpp) - Przykładowe algorytmy. Kod w języku C / C++.
+* [phaltness/stm32f4disco_RTOS_cpp](https://github.com/phaltness/stm32f4disco_RTOS_cpp) - test cpp app with RTOS init on STM32F429 - DISCO
+* [pgbovine/opt-cpp-backend](https://github.com/pgbovine/opt-cpp-backend) - prototype C/C++ backend for Online Python Tutor
+* [pganti/cpproxy](https://github.com/pganti/cpproxy) - connection pooling proxy that implements HTTP Tunneling over nginx
+* [pedroedrasousa/opengl-stuff-cpp](https://github.com/pedroedrasousa/opengl-stuff-cpp) - C++ code from an OpenGL engine developed a long long time ago
+* [paulrobichaud/CPP-Test](https://github.com/paulrobichaud/CPP-Test) - Visual C++ Test
+* [paulrobichaud/CPP-Sandbox](https://github.com/paulrobichaud/CPP-Sandbox) - C Plus Plus Sandbox
+* [ozzieem/UniCpp](https://github.com/ozzieem/UniCpp) - Almost all the coding I'm doing relating to university courses.
+* [oswjk/cpp-utils](https://github.com/oswjk/cpp-utils) - C++ utilities
+* [orchid1214/cpp-pool](https://github.com/orchid1214/cpp-pool) - C/C++ source codes
+* [onepeach/LearningCPPandSDL2](https://github.com/onepeach/LearningCPPandSDL2) - I'm learning C++ and SDL2 with Twinklebear's tutorials.
+* [om21prakash/CLab](https://github.com/om21prakash/CLab) - Experiments with C, CPP
+* [olibre/CppUsefullBasics](https://github.com/olibre/CppUsefullBasics) - Basic C/C++ functions for debugging, logging, printing...
+* [oli-obk/clang](https://github.com/oli-obk/clang) - libclang bindings + include_cpp! macro
+* [oisee/autodiver_cpp](https://github.com/oisee/autodiver_cpp) - autodiver c++
+* [ofirmen/CPP](https://github.com/ofirmen/CPP) - my cpp learning repository
+* [nurozhikun/cpp](https://github.com/nurozhikun/cpp) - iocp基础模块
+* [nootanghimire/browser-cpp](https://github.com/nootanghimire/browser-cpp) - Web Browser using C plus plus (Flex/Bison)
+* [nishantghai/c_cpp_basics](https://github.com/nishantghai/c_cpp_basics) - first checkin
+* [ninomllr/cppvr_tests](https://github.com/ninomllr/cppvr_tests) - Test applications and snippets in C++ Virtual Reality
+* [nikitazu/GameOfCpp](https://github.com/nikitazu/GameOfCpp) - Game of Life in c++
+* [nfvguru/myLearn](https://github.com/nfvguru/myLearn) - My Learing C, CPP, GO, Python, Java and NodeJs
+* [ndkoval/cpp_splay_tree](https://github.com/ndkoval/cpp_splay_tree) - Splay tree on typenames
+* [nbdd0121/CppCoroutine](https://github.com/nbdd0121/CppCoroutine) - Lightweight coroutine library for C++
+* [namiller/cpplay](https://github.com/namiller/cpplay) - playing around with c++
+* [mxui/cpplogin](https://github.com/mxui/cpplogin) - 数字中南登陆使用C++和curl实现
+* [mvf4z7/cpp_chat_server](https://github.com/mvf4z7/cpp_chat_server) - A multi-threaded chat server written in C++
+* [munificentissimus/anderson_cpp_git_repo](https://github.com/munificentissimus/anderson_cpp_git_repo) - novas opções
+* [mrshu/cpp-todotxt](https://github.com/mrshu/cpp-todotxt) - A C++ library for handling todotxt format
+* [mrahman/client](https://github.com/mrahman/client) - CPP HTTP Client
+* [mpasko/cpp_real_time_krk_31](https://github.com/mpasko/cpp_real_time_krk_31) - cpp_real_time_krk_31
+* [moon5ckq/SimpleCppConfig](https://github.com/moon5ckq/SimpleCppConfig) - A Simple C++ header file for reading ini config file.
+* [molixiaoge/cppStudy](https://github.com/molixiaoge/cppStudy) - cpp
+* [mmMike/cpp-enum-tools](https://github.com/mmMike/cpp-enum-tools) - Compile-time checked array indexing with enums
+* [miregit/perl-cpp-performance](https://github.com/miregit/perl-cpp-performance) - Performance testing - perl vs. c++
+* [miregit/perl-cpp](https://github.com/miregit/perl-cpp) - A simple example on how to call C++ code from perl
+* [mingqiu/oldCppVersion](https://github.com/mingqiu/oldCppVersion) - ad3-8
+* [mikesmullin/win-cpp-opengl](https://github.com/mikesmullin/win-cpp-opengl) - Windows 8, VIsual Studio 2015, GLEW, GLFW, OpenGL
+* [mikea/cpp-stream-fusion](https://github.com/mikea/cpp-stream-fusion) - C++ Stream Fusion
+* [michniewicz/cpp-samples](https://github.com/michniewicz/cpp-samples) - useful basic c++ classes
+* [mdejong/GvmCpp](https://github.com/mdejong/GvmCpp) - C++ impl of GVM clustering
+* [mbedded-ninja/TemplatePsocEclipseCpp](https://github.com/mbedded-ninja/TemplatePsocEclipseCpp) - A quick-start template Eclipse C++ project for use with the PSoC range of microcontrollers.
+* [mazvis00/Parcel-Service-Cpp](https://github.com/mazvis00/Parcel-Service-Cpp) - Courier Parcel Service Application C++
+* [mayth/ylaciexpr](https://github.com/mayth/ylaciexpr) - laciexpr with cpp and yacc
+* [maximusprimate/aks](https://github.com/maximusprimate/aks) - AKS in cpp
+* [matty5749/lobo2cpp](https://github.com/matty5749/lobo2cpp) - Traduit un fichier ecrit en lobo en c++
+* [mattparks/OrcaOS](https://github.com/mattparks/OrcaOS) - Experimental CPP & ASM OS
+* [mathanek/CPP](https://github.com/mathanek/CPP) - Test code
+* [math-vsu/cpp](https://github.com/math-vsu/cpp) - 1 курс, практика по ТП
+* [markcerqueira/cpp_ntp](https://github.com/markcerqueira/cpp_ntp) - A simple (and maybe shitty) implementation of NTP in C (or maybe C++)
+* [marcinklimek/cpp_real_time_krk_1](https://github.com/marcinklimek/cpp_real_time_krk_1) - cpp_real_time_krk_1
+* [mapx/cpp-closure-template](https://github.com/mapx/cpp-closure-template) - Google Closure Templates' c++ adapter.
+* [manthrax/xplus-xsd2cpp](https://github.com/manthrax/xplus-xsd2cpp) - Automatically exported from code.google.com/p/xplus-xsd2cpp
+* [mahakal/cpp](https://github.com/mahakal/cpp) - \c \pre \processor
+* [madebits/cpp-magic-square](https://github.com/madebits/cpp-magic-square) - 2000 Magic squares generator in C & JavaScript
+* [madebits/cpp-ana-language](https://github.com/madebits/cpp-ana-language) - 2001 Simple interpreted language with syntax similar to C
+* [madebits/cpp-aes-tool](https://github.com/madebits/cpp-aes-tool) - 2008 Command-line tool that encrypts / decrypts one file at a time using a password
+* [lukxchr/G52CPP-CW2013](https://github.com/lukxchr/G52CPP-CW2013) - coursework for http://modulecatalogue.nottingham.ac.uk/Nottingham/asp/moduledetails.asp?crs_id=022258&year_id=000111
+* [lukevp/CPP_Practice](https://github.com/lukevp/CPP_Practice) - Going through some basic C++ Tutorials
+* [loicoudot/java4cpp-sample](https://github.com/loicoudot/java4cpp-sample) - Demonstrate java4cpp capabilities
+* [ljw7630/cppAlgorithm](https://github.com/ljw7630/cppAlgorithm) - Solving algorithm problems in C++
+* [liyangyao/libuv-cpp-wrapper](https://github.com/liyangyao/libuv-cpp-wrapper) - libuv c++ wrapper
+* [littlepretty/ReadHPSTL](https://github.com/littlepretty/ReadHPSTL) - read stl for cpp learing
+* [lighta/ra_cpp](https://github.com/lighta/ra_cpp) - Rathena in Cpp version
+* [lierdakil/cpp-ndarray](https://github.com/lierdakil/cpp-ndarray) - Thin wrapper around numpy.ndarray for boost.python
+* [liangX-cn/SockLib](https://github.com/liangX-cn/SockLib) - A SockLib for CPP and LUA
+* [li1397937810/Visual-CPP-6.0-PLUS](https://github.com/li1397937810/Visual-CPP-6.0-PLUS) - 让VC6支持C99和C++11的程序
+* [leea/diff-cpp](https://github.com/leea/diff-cpp) - C++ template library for computing a longest common subsequence (diff)
+* [larusx/Xproject](https://github.com/larusx/Xproject) - cpp implement
+* [kss5041/testCpp](https://github.com/kss5041/testCpp) - Test of new GitHub repository TestCpp
+* [klpanagi/cpp](https://github.com/klpanagi/cpp) - Includes C++ Projects
+* [kfalconspb/c-cpp](https://github.com/kfalconspb/c-cpp) - C and CPP examples and testing
+* [kevin-coyle/cpp_sqlite3](https://github.com/kevin-coyle/cpp_sqlite3) - An example application that will query an SQLite db from C++
+* [kerorv/sproto-cpp](https://github.com/kerorv/sproto-cpp) - cpp binding of sproto
+* [kennycason/cpp_gl_games](https://github.com/kennycason/cpp_gl_games) - A demo showing OpenGL used in an OOP manner
+* [ken61502/Data_Structure_in_CPP](https://github.com/ken61502/Data_Structure_in_CPP) - Data_Structure_in_CPP
+* [kellman/heartrate_cpp](https://github.com/kellman/heartrate_cpp) - heart rate cpp implementation
+* [kalininei/SuiteSparseWrap_cpp_cs](https://github.com/kalininei/SuiteSparseWrap_cpp_cs) - Simple wrapper libraries (cpp, c#) for SuiteSparse sparse matrix solvers. Linux and Windows build scripts are included.
+* [jsion/jsion_cpp](https://github.com/jsion/jsion_cpp) - jsion's c++ source code.
+* [jsion/cpp](https://github.com/jsion/cpp) - jsion's c++ source code.
+* [jsdevel/cpp-unit-testing](https://github.com/jsdevel/cpp-unit-testing) - A single header file is all you need :)
+* [joslup9/nmap.cpp](https://github.com/joslup9/nmap.cpp) - Revisa el correo electrónico de una cuenta, este se comunica mediante puerto 25 no cifrado
+* [joprice/cpp-util](https://github.com/joprice/cpp-util) - Useful snippets of cpp
+* [johnteslade/cppc](https://github.com/johnteslade/cppc) - Test code for combining c and C++ code
+* [johnsmith0209/c-cpp-practice](https://github.com/johnsmith0209/c-cpp-practice) - Study C/C++ programming language from ground up
+* [johnarban/TestCppApp](https://github.com/johnarban/TestCppApp) - TestC++App
+* [john0xff/LinearFunctionDrawer](https://github.com/john0xff/LinearFunctionDrawer) - cpp openGL
+* [john0xff/LabyrinthGame](https://github.com/john0xff/LabyrinthGame) - cpp openGL
+* [john0xff/Breakout-Snake-Tetris](https://github.com/john0xff/Breakout-Snake-Tetris) - cpp source code
+* [jochemgeussens/OpenGL-Test-CPP](https://github.com/jochemgeussens/OpenGL-Test-CPP) - A simple opengl test using glew and freeglut. Uses particle system and a shader designed for this to display a single Trefoil knot shape. Also applies normals and basic material use (ambient, specular, diffuse, shininess,...).
+* [jnovak/cpp-refresher](https://github.com/jnovak/cpp-refresher) - Try to remember how to write C/C++…
+* [jnksu/CPP](https://github.com/jnksu/CPP) - C Primer Plus
+* [jmalangoni/DSP-Cpp_MEX](https://github.com/jmalangoni/DSP-Cpp_MEX) - DSP coursework in C++ and MEX (C-Matlab interface), Spring 2013
+* [jholownia/cppsqlite](https://github.com/jholownia/cppsqlite) - A small, modern C++ wrapper for sqlite database library.
+* [jdmichaud/cppa](https://github.com/jdmichaud/cppa) - Automatically exported from code.google.com/p/cppa
+* [jchatel/cpplibraries](https://github.com/jchatel/cpplibraries) - My C++ libraries
+* [jay-lau/cracking-the-coding-interview-c-cpp-java](https://github.com/jay-lau/cracking-the-coding-interview-c-cpp-java) - cracking-the-coding-interview-c-cpp-java
+* [jasonjei/libyaml-cpp](https://github.com/jasonjei/libyaml-cpp) - A lightweight C++ wrapper around libyaml
+* [jarinosuke/cpp_practice](https://github.com/jarinosuke/cpp_practice) - my messy, struggling cpp files
+* [janturon/CPP-Properties](https://github.com/janturon/CPP-Properties) - Introduces properties into C++
+* [jack-zh/zCPP-Qt](https://github.com/jack-zh/zCPP-Qt) - Learn teach demo qt and cpp code.
+* [ivenovalue/Cpp](https://github.com/ivenovalue/Cpp) - C++ projects
+* [ivantuksa/cpp-scratch](https://github.com/ivantuksa/cpp-scratch) - My scratchboard repo for learning c++
+* [imrehg/MeilhausTimingCpp](https://github.com/imrehg/MeilhausTimingCpp) - Timing code for Meilhaus 6100 analog output card
+* [ilardm/lib-cppmisc](https://github.com/ilardm/lib-cppmisc) - Miscellaneous C++ stuff
+* [iiMarco/cppwinping](https://github.com/iiMarco/cppwinping) - C++ Winsock2 Ping Utility
+* [igorzel/cpptests](https://github.com/igorzel/cpptests) - small and test projects which purpose are learning, understanding, trying and eventually using different features of c++
+* [ideaplat/Other-CTP4CPP](https://github.com/ideaplat/Other-CTP4CPP) - 跟踪上期技术的CTP发布版
+* [ichigotake/cpp-sandbox](https://github.com/ichigotake/cpp-sandbox) - C/C++ sandbox
+* [iancanada/STM32Cube-Cpp-programming-example](https://github.com/iancanada/STM32Cube-Cpp-programming-example) - This example will show you how to program STM32 in C++ with STM32 HAL drivers and STM32CubeMX generated code frame
+* [iMkh-GH/cpp_SKL](https://github.com/iMkh-GH/cpp_SKL) - SKL - C++ Pool - Rush1
+* [hyf042/PomeloCpp](https://github.com/hyf042/PomeloCpp) - A naive cpp encapsulation of libpomelo
+* [honeybear/S3cppsdk](https://github.com/honeybear/S3cppsdk) - An AWS S3 C++ devTools
+* [hkurosu/cpp-hashmap](https://github.com/hkurosu/cpp-hashmap) - Lightweigt hashmap implementation with C++
+* [hillgreen012/cpp-util](https://github.com/hillgreen012/cpp-util) - cpp utilities.
+* [heuristicus/opsys-cpp](https://github.com/heuristicus/opsys-cpp) - Exercises for final year module Operating Systems with C/C++
+* [herbertshuai/cpp](https://github.com/herbertshuai/cpp) - this repository is for testing
+* [henglinli/base](https://github.com/henglinli/base) - base of cpp
+* [hemmerling/cpp-paketwender](https://github.com/hemmerling/cpp-paketwender) - Embeddded software for control of the fischertechnik model "Paketwendeanlage" ( in German language )
+* [hemmerling/cpp-compress](https://github.com/hemmerling/cpp-compress) - In dem Versuch „Datenkompression“ des Datenverarbeitungslabors sollten drei Programme geschrieben werden, die einen Einblick in die Methoden und Algorithmen der Datenkompression digitaler Daten vermitteln.
+* [haved/2DSmithCPP](https://github.com/haved/2DSmithCPP) - A game I make as an exercise in C++. I've never made anything in C++ before.
+* [hasantayyar/cpp-utils](https://github.com/hasantayyar/cpp-utils) - some handy c++ scripts
+* [hackinginformation/cpp](https://github.com/hackinginformation/cpp) - A place for me to put random C++ scripts, programs and stuff to test around with.
+* [habibimustafa/game-taktikjitu-cpp](https://github.com/habibimustafa/game-taktikjitu-cpp) - Game Tak Tik Jitu C++
+* [h198798337/TestCppDataStruct](https://github.com/h198798337/TestCppDataStruct) - TestCppDataStruct
+* [gverdian/encog-cpp](https://github.com/gverdian/encog-cpp) - Automatically exported from code.google.com/p/encog-cpp
+* [guowengen/common](https://github.com/guowengen/common) - cpp library for common use
+* [guowenchao/final_test_cpp](https://github.com/guowenchao/final_test_cpp) - 郭文超
+* [gsiatras/cpp_marine_ecosystem](https://github.com/gsiatras/cpp_marine_ecosystem) - Simulation of a marine ecosystem using C++
+* [gsalazarq/codes_cpp](https://github.com/gsalazarq/codes_cpp) - bunch of codes for learning cpp
+* [grahamboree/cppimage](https://github.com/grahamboree/cppimage) - Updated and refined CxImage
+* [godlikeJia/studyCPP](https://github.com/godlikeJia/studyCPP) - studyCPP
+* [gnuwilliam/c-cpp](https://github.com/gnuwilliam/c-cpp) - C/C++
+* [gloryming/Language_Cpp](https://github.com/gloryming/Language_Cpp) - Language Compare of Performance Benchmark
+* [gitpan/Text-CPP](https://github.com/gitpan/Text-CPP) - Read-only release history for Text-CPP
+* [ghostincircuit/clcpp](https://github.com/ghostincircuit/clcpp) - cpp wrapper for opencl
+* [gctronic/elisa3_node_cpp](https://github.com/gctronic/elisa3_node_cpp) - Elisa-3 ROS node based on roscpp.
+* [gchavez2/acrCPP](https://github.com/gchavez2/acrCPP) - C++ implementation of Accelerated Cyclic Reduction (ACR)
+* [gansidui/cpp-example](https://github.com/gansidui/cpp-example) - c/c++ example
+* [fusijie/Cpp_Lua_VS2012](https://github.com/fusijie/Cpp_Lua_VS2012) - VS2012实现C++和Lua交互
+* [from-nibly/cpplist](https://github.com/from-nibly/cpplist) - A linq like list in c++
+* [fresheneesz/cppUtils](https://github.com/fresheneesz/cppUtils) - C and C++ utility modules
+* [freeonsky/learning-cpp](https://github.com/freeonsky/learning-cpp) - learing c++
+* [fredbr/cpp](https://github.com/fredbr/cpp) - C++ Drills
+* [fishedee/FishJsonCpp](https://github.com/fishedee/FishJsonCpp) - C++结构体自动化相互转换json
+* [fingerballet/CppTest](https://github.com/fingerballet/CppTest) - Cpp project used for test my first github repo!
+* [figield/CPP](https://github.com/figield/CPP) - C and C++ samples
+* [felixjones/xiCppLib](https://github.com/felixjones/xiCppLib) - Smart pointer and OS header file
+* [exzackly/CPPLyric](https://github.com/exzackly/CPPLyric) - C++
+* [evelan/SzachySDL](https://github.com/evelan/SzachySDL) - Platforma do gry w szachy CPP + SDL
+* [egustafson/pgr4cpp](https://github.com/egustafson/pgr4cpp) - Property Graph for C++
+* [eflittle/cpp](https://github.com/eflittle/cpp) - learning cpp files
+* [eduardonunesp/cpp-mongoose](https://github.com/eduardonunesp/cpp-mongoose) - C++ wrapper for mongoose (clone from https://code.google.com/r/vpiotr-mongoose-cpp/)
+* [ed-george/cpp-space](https://github.com/ed-george/cpp-space) - G53GRA coursework creating Solar System in Visual C++ and GLUT
+* [easebone/cppdemos](https://github.com/easebone/cppdemos) - C++ samples including boost
+* [duanwujie/atar](https://github.com/duanwujie/atar) - tar for embed into cpp aplication
+* [dpdwht/Cpp-Study](https://github.com/dpdwht/Cpp-Study) - Cpp 공부 Repositories
+* [doslab/gcc-designated-initializer-support-cpp](https://github.com/doslab/gcc-designated-initializer-support-cpp) - gcc compiler with designated initializer support in c++
+* [dolorem/CppAlgorithms](https://github.com/dolorem/CppAlgorithms) - Set of algorithms and data structures which may be useful in programming contests, written in C++.
+* [dnizna/cppcode](https://github.com/dnizna/cppcode) - c++ 代码，常用的工具使用方式
+* [dkorolev/xplus-xsd2cpp](https://github.com/dkorolev/xplus-xsd2cpp) - Automatically exported from code.google.com/p/xplus-xsd2cpp
+* [derek2012/cpp](https://github.com/derek2012/cpp) - c and cpp src db
+* [depthtest/CppGameTest](https://github.com/depthtest/CppGameTest) - Match-3 clone game
+* [dasimaznG/Cpp_dasimaLib](https://github.com/dasimaznG/Cpp_dasimaLib) - this is my  c++ engineer library
+* [dareTake/cppHexGame](https://github.com/dareTake/cppHexGame) - A game of Hex with AI using montel carlo simulation ( C++ 11)
+* [danilafedotov/cpp_checkers](https://github.com/danilafedotov/cpp_checkers) - University laboratory work
+* [dabaobei144/cpp](https://github.com/dabaobei144/cpp) - c and cpp reference
+* [d-chugunov/asn1cpp](https://github.com/d-chugunov/asn1cpp) - Free compiler from ASN.1 to C++11. It is based on asn1c by Lev Walkin.
+* [cui-liqiang/cpp_unit_test_template](https://github.com/cui-liqiang/cpp_unit_test_template) - this is a template project with makefile to handle compile and running tests
+* [cuekoo/C-CPP-sugar](https://github.com/cuekoo/C-CPP-sugar) - small c programs illustrating language usage
+* [cswuyg/swig_cpp_for_py](https://github.com/cswuyg/swig_cpp_for_py) - swig wraps c or cpp for python example.
+* [csoma/Cpp-DB-Test](https://github.com/csoma/Cpp-DB-Test) - Comparison test of C++ Database libraries
+* [cs0rbagomba/random_play](https://github.com/cs0rbagomba/random_play) - c, cpp, bash, perl, python play
+* [crubier/QuaternionDisplay](https://github.com/crubier/QuaternionDisplay) - Quaternion PFD in openframeworks cpp
+* [cross-language-object/clobject-cpp](https://github.com/cross-language-object/clobject-cpp) - The submodule java of clobject
+* [crespo2014/cpp-lib](https://github.com/crespo2014/cpp-lib) - C++ common libraries
+* [credil/cpp-netlink](https://github.com/credil/cpp-netlink) - C++ interface for network programs that need to deal with many interfaces, includes test harness.
+* [commshare/rtmp-cpp](https://github.com/commshare/rtmp-cpp) - Automatically exported from code.google.com/p/rtmp-cpp
+* [coldfix/cpproperty](https://github.com/coldfix/cpproperty) - C++ {g,s}etters are madness
+* [cloudffx/lua-cpp-bind-study](https://github.com/cloudffx/lua-cpp-bind-study) - study only
+* [cleversoap/cpp-phantom-logger](https://github.com/cleversoap/cpp-phantom-logger) - A C++ macro based logger that hides itself from compilation when not in use.
+* [cibech/cppbech](https://github.com/cibech/cppbech) - Automatically exported from code.google.com/p/cppbech
+* [chupakabr/algo-cpp](https://github.com/chupakabr/algo-cpp) - Well-known algorithms and data structures in C++
+* [christinatucker/CPP](https://github.com/christinatucker/CPP) - C++
+* [chrisjleaf/learningCPPObjects](https://github.com/chrisjleaf/learningCPPObjects) - C++ Objects from C
+* [cedriclam/googlehashcode_cpp](https://github.com/cedriclam/googlehashcode_cpp) - Google hash code cpp
+* [caway/Freetype2-Standalone-CPP-Rasterizer-Wrapper](https://github.com/caway/Freetype2-Standalone-CPP-Rasterizer-Wrapper) - Freetype2 Standalone Rasterizer Wrapper
+* [captainwong/instant_markup_cpp](https://github.com/captainwong/instant_markup_cpp) - cpp version of instant_markup
+* [camlorn/speex_resampler_cpp](https://github.com/camlorn/speex_resampler_cpp) - A C++ wrapper over the Speex resampler.
+* [calebickler/Capstone_Qt_Cpp_Program](https://github.com/calebickler/Capstone_Qt_Cpp_Program) - GiS capstone project code
+* [c88lopez/LearningCpp](https://github.com/c88lopez/LearningCpp) - Branch para aprender C / C++
+* [c41x/cpptoolset](https://github.com/c41x/cpptoolset) - My C++ common libs
+* [bwyyoung/NYP_CPP_COL](https://github.com/bwyyoung/NYP_CPP_COL) - Circle Of Life Game Project. Group Project done for C++ Programming. November 2007.
+* [bryanchadwick/MiscCpp](https://github.com/bryanchadwick/MiscCpp) - Miscellaneous C/C++ Programs
+* [boubad/CppStatDataManager](https://github.com/boubad/CppStatDataManager) - CppStatDataManager
+* [boubad/CPPStats](https://github.com/boubad/CPPStats) - IntraStat CPP library
+* [boding/log](https://github.com/boding/log) - a common log component programmed in c/cpp.
+* [bmwcmw/C-CPP-Stuffs](https://github.com/bmwcmw/C-CPP-Stuffs) - Basic tools and tests for C and C++
+* [ben-nakash/Programming-in-C-and-CPP](https://github.com/ben-nakash/Programming-in-C-and-CPP) - 2nd Year Course in C & C++
+* [bdsaunders/udods](https://github.com/bdsaunders/udods) - UD CISC220 version of ods/cpp
+* [bangusi/cppsql](https://github.com/bangusi/cppsql) - JDBC inspired c++ library
+* [balazsracz/xpresso-cpp-test](https://github.com/balazsracz/xpresso-cpp-test) - Test project to build C++ with LPCXpresso
+* [bagrusss/cpp_project](https://github.com/bagrusss/cpp_project) - Technopark cpp project
+* [babayega/linked_lists](https://github.com/babayega/linked_lists) - basic programs in c and cpp
+* [ba1dr/days.cpp](https://github.com/ba1dr/days.cpp) - Reminder for important dates (MSDOS)
+* [b5strbal/Arnoux_Yoccoz_0.2_cpp_Qt](https://github.com/b5strbal/Arnoux_Yoccoz_0.2_cpp_Qt) - The second version of the pseudo-anosov searching program. Added graphical interface and generalized the algorithm compared to version 0.1. It builds and runs but it is unfinished and abandoned.
+* [b5strbal/Arnoux_Yoccoz_0.1_cpp](https://github.com/b5strbal/Arnoux_Yoccoz_0.1_cpp) - A program for searching for pseudo-anosov homeomorphisms. This is the first version, written in C++. It only works for the projective plane, and even there only in a very special case.
+* [avinashtrivedi/C-and-CPP](https://github.com/avinashtrivedi/C-and-CPP) - All the programs that I have written during my B.Tech
+* [avinashphilip/c_and_cpp_example](https://github.com/avinashphilip/c_and_cpp_example) - c and cpp study and experiment
+* [asm2500/gtk_cpp](https://github.com/asm2500/gtk_cpp) - repository for beginning gtk+ projects
+* [ascheglov/lzma-cpp](https://github.com/ascheglov/lzma-cpp) - LZMA2 Decoder
+* [appcodev/cpp_csv2arff](https://github.com/appcodev/cpp_csv2arff) - Converting CSV file to ARFF file in C
+* [apfohl/logging-cpp](https://github.com/apfohl/logging-cpp) - Mirror of the Configurable Logging Framework In C++
+* [anthonywei/c_call_cpp](https://github.com/anthonywei/c_call_cpp) - c call  cpp example
+* [annidy/cpp-startup](https://github.com/annidy/cpp-startup) - some headers collection, which every your  c++/c demo project may need.
+* [anirudhvr/cpputils](https://github.com/anirudhvr/cpputils) - C++ utility libraries
+* [angusliu/cpp-ex](https://github.com/angusliu/cpp-ex) - C/C++ examples
+* [andyroiiid/cppclass](https://github.com/andyroiiid/cppclass) - Solutions for HUST C++ Programming Language Course Assignments
+* [amadeuzou/cpp-transform](https://github.com/amadeuzou/cpp-transform) - simple STL container transform functions
+* [altrevi2/Cpp](https://github.com/altrevi2/Cpp) - First publish
+* [allenbo/py2cpp](https://github.com/allenbo/py2cpp) - A program can transform python source file into C++ source file
+* [algorithm-ninja/cpp-btree](https://github.com/algorithm-ninja/cpp-btree) - Git mirror of the official (mercurial) repository of cpp-btree
+* [alexpolt/PS3AVRFlasher](https://github.com/alexpolt/PS3AVRFlasher) - atmel atmega32 based flasher, c language firmware + cpp windows client
+* [alexlevy0/cpp_abstractvm](https://github.com/alexlevy0/cpp_abstractvm) - Teck2 EPITECH
+* [akadjoker/hxsdl](https://github.com/akadjoker/hxsdl) - SDL Bindings for Haxe/CPP
+* [aimerjing/cpp](https://github.com/aimerjing/cpp) - newbie to c++
+* [afruizc/parallel-cloaked-index](https://github.com/afruizc/parallel-cloaked-index) - Implementation of an invertex index calculation using pthreads and cpp
+* [adrijere/cpp_SKL](https://github.com/adrijere/cpp_SKL) - Rush Piscine C++ Tech 2
+* [adrijere/Bomberman](https://github.com/adrijere/Bomberman) - Epitech Project Cpp Tek2
+* [adamoz/Cpp](https://github.com/adamoz/Cpp) - C++ experiments.
+* [abelsiqueira/compare-cpp-fortran](https://github.com/abelsiqueira/compare-cpp-fortran) - C, Cpp and Fortran comparison
+* [abdulkareemsn/cppgl](https://github.com/abdulkareemsn/cppgl) - OpenGL Object System
+* [abdelmo/C-CPP](https://github.com/abdelmo/C-CPP) - examples of my C/C++ projects
+* [a60814billy/cpp_2014s_tutorial](https://github.com/a60814billy/cpp_2014s_tutorial) - 2014 Spring C++ Tutorial
+* [ZyperPL/bmp2cpp](https://github.com/ZyperPL/bmp2cpp) - Simple tool for converting bmp file to data array in C++ file
+* [Xcox123/CPP-OpenGL1](https://github.com/Xcox123/CPP-OpenGL1) - c++ opengl
+* [WispProxy/OpenGL-Teapot-based-on-Qt-Cpp](https://github.com/WispProxy/OpenGL-Teapot-based-on-Qt-Cpp) - This repository with small OpenGl widget implements teapot. Based on Qt and C++
+* [WildAndrewLee/Mangos--CPP](https://github.com/WildAndrewLee/Mangos--CPP) - Mangos: C++ Library
+* [Vdragon/C_CPP_program_element_templates](https://github.com/Vdragon/C_CPP_program_element_templates) - Ｃ或Ｃ＋＋的程式元素範本
+* [TylerSustare/cpp-Inheritance-Example](https://github.com/TylerSustare/cpp-Inheritance-Example) - C++ Class Inheritance Example
+* [Turbine1991/cpp-event-system](https://github.com/Turbine1991/cpp-event-system) - C++ extensible hook system. Providing an implementation for generic function delegation and the handling of theem. Designed as a C++ equivalent to the hook functionality found in Garry's Mod.
+* [TomoProg/c_cpp](https://github.com/TomoProg/c_cpp) - c_cpp
+* [TomPeerdeman/CPP2012](https://github.com/TomPeerdeman/CPP2012) - Opdrachten voor Concurrency & Parallel programmeren
+* [Thiryn/cpp_SKL](https://github.com/Thiryn/cpp_SKL) - Rush cpp tek 2 epitech
+* [ThePedestrian/CPP-GenericList](https://github.com/ThePedestrian/CPP-GenericList) - Generic list that easily allows you to push, pop, delete, and index nodes. Useful for a variety of applications where you need a doubly-linked list.
+* [TheLocky/cpp](https://github.com/TheLocky/cpp) - C++ progs
+* [TaikiJL/ESGI_CPP](https://github.com/TaikiJL/ESGI_CPP) - TD de CPP
+* [SzymonTadeusz/Pong_Cpp](https://github.com/SzymonTadeusz/Pong_Cpp) - Pong 3D z kodem źródłowym w języku C++
+* [Sweetheart502/Study_CPP](https://github.com/Sweetheart502/Study_CPP) - 大二学习C++的相关代码集合.
+* [Soledad89/LearnCpp](https://github.com/Soledad89/LearnCpp) - Learn how to program using Cpp
+* [Skydive/CPP-2D-Engine](https://github.com/Skydive/CPP-2D-Engine) - 2D C++ Game Engine.
+* [Sky-Ranger/Final_Test_cpp](https://github.com/Sky-Ranger/Final_Test_cpp) - Linux 下C/C++ 程序设计
+* [ShawnLMP/CppMacro](https://github.com/ShawnLMP/CppMacro) - The c++ macros that I use very often
+* [SerialDev/cppLearnMiniProjects](https://github.com/SerialDev/cppLearnMiniProjects) - C++ mini projects 2015
+* [SeedKunY/MyCppGame](https://github.com/SeedKunY/MyCppGame) - test bubble_kun game
+* [SanHot/JcPimMultiBandV2](https://github.com/SanHot/JcPimMultiBandV2) - CPP
+* [SDRLurker/soen_cpp](https://github.com/SDRLurker/soen_cpp) - 혼자 연구하는 C/C++ 개인적으로 공부한 내용입니다.
+* [Ry0/cpp_learning](https://github.com/Ry0/cpp_learning) - c++のオベンキョレポジトリ
+* [RandomDSdevel/Programming-_Principles_and_Practice_Using_Cpp](https://github.com/RandomDSdevel/Programming-_Principles_and_Practice_Using_Cpp) - This repository houses the header files available from http://www.stroustrup.com/Programming/PPP2code for use while learning C++ from Bjarne Stroustrup's book 'Programming:  Principles and Practice Using C++ (Second Edition).'
+* [Quantum64/IsLearningCPP](https://github.com/Quantum64/IsLearningCPP) - Basically a repo where I play around with some C++ stuff
+* [PrzemekWirkus/mbed-tetris-cpp](https://github.com/PrzemekWirkus/mbed-tetris-cpp) - Tetris clone for mbed application board
+* [ProgramingExamples/C-Cpp](https://github.com/ProgramingExamples/C-Cpp) - examples c/cpp ==> ejemplos c/c++
+* [Playzio/slots-cpp](https://github.com/Playzio/slots-cpp) - virtual-currency slot-machine simulator developed on cocos2d-x framework
+* [Plasticoo/PassShelter_CPP](https://github.com/Plasticoo/PassShelter_CPP) - PassShelter - Password Manager. Just a project to get some knowledge, not secure!
+* [PehrGit/OS3_Week1_Cpp](https://github.com/PehrGit/OS3_Week1_Cpp) - OS3_Week1_Cpp
+* [PedDavid/NubDevEngineCpp](https://github.com/PedDavid/NubDevEngineCpp) - Implementation of the previous engine in c++
+* [OrientMantis24/Saper_cpp](https://github.com/OrientMantis24/Saper_cpp) - Wersja #2
+* [OS2World/DEV-UTIL-CPP2HTML](https://github.com/OS2World/DEV-UTIL-CPP2HTML) - C++2HTML converter.
+* [OS2World/DEV-SAMPLES-CPP-wordwrap](https://github.com/OS2World/DEV-SAMPLES-CPP-wordwrap) - wordwrap margin sample tool
+* [MrGuardian/cppgl](https://github.com/MrGuardian/cppgl) - Cpp software rasterizer
+* [MichaelRoop/CPP_TestHarness](https://github.com/MichaelRoop/CPP_TestHarness) - A C test harness that looks and behaves like C# NUnit
+* [MeowAlienOwO/CppCW](https://github.com/MeowAlienOwO/CppCW) - a small clone for touhou
+* [Memorix101/CPP_Utility_Tools](https://github.com/Memorix101/CPP_Utility_Tools) - C++ Utility Tools for a more modern and eaysier workflow / feel
+* [MeMark2/C-Cpp-Function-Library](https://github.com/MeMark2/C-Cpp-Function-Library) - A library of re-usable C functions.
+* [MavenRain/base64cpp](https://github.com/MavenRain/base64cpp) - A semi-modern c++ port of Sean Starkey's (sean@seanstarkey.com) ANSI C implementation of the Base64 Encoding and Decoding functions
+* [Marware/Cpp_AEC](https://github.com/Marware/Cpp_AEC) - Acoustic Echo Cancellation
+* [MarkIngramUK/CppTree](https://github.com/MarkIngramUK/CppTree) - A collection of tree classes implemented using C++
+* [Manuel4131/CandCppFT](https://github.com/Manuel4131/CandCppFT) - For fundamental training of C and CPP syntax, algorithm and common topics.
+* [MMmaomao/cpp](https://github.com/MMmaomao/cpp) - C++ scripts for learning
+* [LeeyuVincent/cppPrimer](https://github.com/LeeyuVincent/cppPrimer) - study case when reading cppPrimer
+* [LEEMYEONGHYEON/Algorithm-Cpp](https://github.com/LEEMYEONGHYEON/Algorithm-Cpp) - C++코드
+* [KuanYuChen/sqlite_tutorial](https://github.com/KuanYuChen/sqlite_tutorial) - http://www.tutorialspoint.com/sqlite/sqlite_c_cpp.htm
+* [KristjanJ/CPP-Course-Spring-2011-Project04](https://github.com/KristjanJ/CPP-Course-Spring-2011-Project04) - CPP-Course-Spring-2011-Project04
+* [KorotkiyEugene/LAG_Cpp_predef_traffic_predef_links_opt](https://github.com/KorotkiyEugene/LAG_Cpp_predef_traffic_predef_links_opt) - High-speed simulation model for Network-on-Chip with Link Aggregation written in SystemC (C++). Not synthesizable. Allows to define traffic pattern for a given application, configure number of physical links in each trunk and perform optimization of NoC's hardware costs for a given traffic pattern
+* [KiiPlatform/KiiCpp](https://github.com/KiiPlatform/KiiCpp) - Kii Cloud SDK written in C++
+* [John-Chan/dnssdpp](https://github.com/John-Chan/dnssdpp) - DNS Service Discovery(cpp warp for apple's dnssd api)
+* [JayWalker512/3DEngineCpp](https://github.com/JayWalker512/3DEngineCpp) - Simple 3D engine for experimentation
+* [JavaWantaBe/CS162-project-templates](https://github.com/JavaWantaBe/CS162-project-templates) - Project templates for CS162 in CPP and GNU Toolchain
+* [JatinMalviya/C-CPP-Programs](https://github.com/JatinMalviya/C-CPP-Programs) - Some of my C & C++ Codes
+* [JasonOldWoo/linux-C-CPP](https://github.com/JasonOldWoo/linux-C-CPP) - linux c/c++
+* [Jared-Adamson/CSE-C-Cpp-LISP-Prolog-Programs](https://github.com/Jared-Adamson/CSE-C-Cpp-LISP-Prolog-Programs) - C,  C++, & Other Work for CSE
+* [IrleiNascimento/_C-Cpp_](https://github.com/IrleiNascimento/_C-Cpp_) - Material de estudos na linguagem C
+* [Imxset21/c_v_cpp](https://github.com/Imxset21/c_v_cpp) - Small perf-based analysis of various C and C++ equivalent programs
+* [IgorVieira/CodeC-CPP](https://github.com/IgorVieira/CodeC-CPP) - Códigos em c e c++
+* [IgorStepanov/D-CPP-Exception-Handle](https://github.com/IgorStepanov/D-CPP-Exception-Handle) - Experemental code for CPP exception catching from C++
+* [IAmAnubhavSaini/py-c-cpp-cs](https://github.com/IAmAnubhavSaini/py-c-cpp-cs) - libraries implemented in other languages.
+* [HuangZhuo/CppTest](https://github.com/HuangZhuo/CppTest) - C++11语法，标准库，第三方库，算法，设计模式，心得。
+* [HarrieO/cpp](https://github.com/HarrieO/cpp) - cpp met jellon
+* [HUANG-Zhi/cpp](https://github.com/HUANG-Zhi/cpp) - small programs from web or HUANGZhi
+* [HAOSov/CPP](https://github.com/HAOSov/CPP) - beta
+* [Guiz7/cpp_nibbler](https://github.com/Guiz7/cpp_nibbler) - Snake game in C++
+* [GhostTap/SimpleGameCPP](https://github.com/GhostTap/SimpleGameCPP) - Various Tutorial Projects.
+* [GasperPaul/DeveloperTools_CPP_](https://github.com/GasperPaul/DeveloperTools_CPP_) - MinGW64 + msys1.0 + git1.8.4
+* [FredStober/cpp2numpy](https://github.com/FredStober/cpp2numpy) - cpp2numpy is a C++ library to write numpy files
+* [EricRobert/crim-cpp052](https://github.com/EricRobert/crim-cpp052) - Langage C++ avancé
+* [ErasmusMC-BME/CommonCPP](https://github.com/ErasmusMC-BME/CommonCPP) - CommonCPP
+* [Echtzeitsysteme/tud-cpp-ucincludes](https://github.com/Echtzeitsysteme/tud-cpp-ucincludes) - Header files for the uc library
+* [Echtzeitsysteme/tud-cpp-16FXlib](https://github.com/Echtzeitsysteme/tud-cpp-16FXlib) - A minimal library for the LCD- and slider-enhanced evaluation boards SK-16FX-EUROscope
+* [DronHackathon/cpp_backend](https://github.com/DronHackathon/cpp_backend) - Repo for bindings of cpp code to python
+* [DouglasAllen/C-CPP-AstroAlorithms](https://github.com/DouglasAllen/C-CPP-AstroAlorithms) - The code from http://www.christophedavid.org/w/c/w.php/Trails/AstronomicalAlgorithms and the test results.
+* [DmytryGlazkov/GameOfChips](https://github.com/DmytryGlazkov/GameOfChips) - Simple game on cpp with OpenGL
+* [DeviousMalcontent/CPP-BGI-Pong](https://github.com/DeviousMalcontent/CPP-BGI-Pong) - (Unfinished) Pong Game Clone that uses open source implementation of Borland Graphics Interface
+* [DeppPublicSpaceRelationshipFromBLZGames/CPP_HelloWorld](https://github.com/DeppPublicSpaceRelationshipFromBLZGames/CPP_HelloWorld) - 测试所用代码
+* [DengZuoheng/cpp-etude](https://github.com/DengZuoheng/cpp-etude) - my cpp practice code, the name "etude" just for zhuangbility, don't be serious ; )
+* [DemonShi/utf-string.cpp](https://github.com/DemonShi/utf-string.cpp) - A missing class string for C++ that supports unicode
+* [DeforaOS/cpp](https://github.com/DeforaOS/cpp) - DeforaOS Code pre-processor
+* [DawnShepherd/c-cpp](https://github.com/DawnShepherd/c-cpp) - c & cpp source files
+* [DaoDuyNhan/C_CPP_2014](https://github.com/DaoDuyNhan/C_CPP_2014) - C-C++ Repository: Create at 28-01-2014.
+* [DanielAtSamraksh/cppopts](https://github.com/DanielAtSamraksh/cppopts) - C++ class that takes parameters passed through argv and stores them in an object.
+* [Daniel-Norman/Pathfinding-Cpp](https://github.com/Daniel-Norman/Pathfinding-Cpp) - Simple pathfinding of a small 2D graph
+* [DLuhmann/cpp-final-project](https://github.com/DLuhmann/cpp-final-project) - The final project for c++
+* [Cronom/nodejs-cpp](https://github.com/Cronom/nodejs-cpp) - cpp call from node.js + realtime monitoring via websockets
+* [CodeBag-Debashish/calculator-flex-bison-cpp](https://github.com/CodeBag-Debashish/calculator-flex-bison-cpp) - flex and bison
+* [ChrisWongAtCUHK/cpp](https://github.com/ChrisWongAtCUHK/cpp) - C++ programming
+* [ChrisQuignon/CPP](https://github.com/ChrisQuignon/CPP) - Cell processor programming project from SS10. Aligning prime numbers on space filling curves.
+* [CaueNakamura/c-cpp](https://github.com/CaueNakamura/c-cpp) - Aprendendo C e C++ :)
+* [CMe3z/C-and-Cpp](https://github.com/CMe3z/C-and-Cpp) - C & C++
+* [CBriggeman/C-and-CPP](https://github.com/CBriggeman/C-and-CPP) - Collection of C/C++ libraries and programs I have made.
+* [Blackhart/cpp-opengl-superbible6](https://github.com/Blackhart/cpp-opengl-superbible6) - OpenGL teaching
+* [BinotaLiu/OnlineJudge-Workspace](https://github.com/BinotaLiu/OnlineJudge-Workspace) - My online judge workspace, for practice c/cpp/java.
+* [Beatrice7/CPP_RECORD](https://github.com/Beatrice7/CPP_RECORD) - about daily coding...
+* [Batname/test_cpp](https://github.com/Batname/test_cpp) - test_cpp
+* [Amrzser/smart_pointer-cpp](https://github.com/Amrzser/smart_pointer-cpp) - implementation by string
+* [AlgoLab/cppp](https://github.com/AlgoLab/cppp) - Constrained Persistent Perfect Phylogeny
+* [Alevsk/CPP-Yacc-Flex-Assembler](https://github.com/Alevsk/CPP-Yacc-Flex-Assembler) - An Assembler designed using yacc and flex
+* [Alerion/cpp-example](https://github.com/Alerion/cpp-example) - Python/C API, С++ experiments
+* [Albaniusz/cpp_spoj](https://github.com/Albaniusz/cpp_spoj) - my cpp spoj sandbox
+* [AirVan21/CPP](https://github.com/AirVan21/CPP) - C++ Code from Different Projects
+* [AbhineetJain/Algorithmic-Programming](https://github.com/AbhineetJain/Algorithmic-Programming) - Mostly CPP codes for competitive programming.
+* [99men/cpp](https://github.com/99men/cpp) - C Primer Plus
+* [0xB767B/cpponemb](https://github.com/0xB767B/cpponemb) - Various experiments using C++ features on embedded devices
 * [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x) - cocos2d-x for C++
 * [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
 * [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
