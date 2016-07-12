@@ -6,854 +6,908 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x) - cocos2d-x for C++
 * [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 * [Microsoft/CNTK](https://github.com/Microsoft/CNTK) - Computational Network Toolkit (CNTK)
+* [CRYTEK-CRYENGINE/CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) - CRYENGINE source code.
 * [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
-* [facebook/proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
 * [ocornut/imgui](https://github.com/ocornut/imgui) - Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+* [facebook/proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
+* [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+* [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 * [sandstorm-io/capnproto](https://github.com/sandstorm-io/capnproto) - Cap'n Proto serialization/RPC system
 * [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework
-* [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
-* [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
-* [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
-* [sass/libsass](https://github.com/sass/libsass) - A C/C++ implementation of a Sass compiler
 * [philsquared/Catch](https://github.com/philsquared/Catch) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD
-* [miloyip/rapidjson](https://github.com/miloyip/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
+* [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 * [Yalantis/uCrop](https://github.com/Yalantis/uCrop) - Image Cropping Library for Android
+* [sass/libsass](https://github.com/sass/libsass) - A C/C++ implementation of a Sass compiler
+* [miloyip/rapidjson](https://github.com/miloyip/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
+* [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 * [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - Support c++ code for a short computer graphics course
 * [zeromq/libzmq](https://github.com/zeromq/libzmq) - ZeroMQ core engine in C++, implements ZMTP/3.0
-* [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
-* [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac, Linux and Blackberry 10, written in C++. Want to contribute? Join us in #ppsspp on freenode (IRC) or just send pull requests / issues.
 * [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more
 * [chenshuo/muduo](https://github.com/chenshuo/muduo) - A C++ non-blocking network library for multi-threaded server in Linux
-* [ipkn/crow](https://github.com/ipkn/crow) - Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
+* [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac, Linux and Blackberry 10, written in C++. Want to contribute? Join us in #ppsspp on freenode (IRC) or just send pull requests / issues.
 * [ceph/ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform
+* [ipkn/crow](https://github.com/ipkn/crow) - Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
 * [citra-emu/citra](https://github.com/citra-emu/citra) - Nintendo 3DS Emulator
 * [gameplay3d/GamePlay](https://github.com/gameplay3d/GamePlay) - Open-source, cross-platform, C++ game framework/engine for creating 2D/3D mobile and desktop games.
 * [CppCon/CppCon2014](https://github.com/CppCon/CppCon2014) - Speaker materials from CppCon 2014
 * [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
-* [aquynh/capstone](https://github.com/aquynh/capstone) - Capstone disassembly/disassembler framework: Core (Arm, Arm64, M68K, Mips, PPC, Sparc, SystemZ, X86, X86_64, XCore) + bindings (Python, Java, Ocaml)
-* [oclint/oclint](https://github.com/oclint/oclint) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C
 * [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - A project for conversion between Traditional and Simplified Chinese
+* [oclint/oclint](https://github.com/oclint/oclint) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C
 * [cuberite/cuberite](https://github.com/cuberite/cuberite) - A custom Minecraft compatible game server written in C++
-* [chukong/quick-cocos2d-x](https://github.com/chukong/quick-cocos2d-x) - quick-cocos2d-x is a quick framework, based on cocos2d-x. Make mobile games in Lua.
-* [mapbox/mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Render Mapbox styles in mobile, desktop, and node applications using C++ and OpenGL
-* [cocos2d/cocos2d-js](https://github.com/cocos2d/cocos2d-js) - cocos2d-x for JS
-* [open-source-parsers/jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
-* [jrowberg/i2cdevlib](https://github.com/jrowberg/i2cdevlib) - I2C device library collection for AVR/Arduino or other C++-based MCUs
-* [zaphoyd/websocketpp](https://github.com/zaphoyd/websocketpp) - C++ websocket client/server library
-* [thrust/thrust](https://github.com/thrust/thrust) - Thrust is a parallel algorithms library which resembles the C++ Standard Template Library (STL).
-* [Mooophy/Cpp-Primer](https://github.com/Mooophy/Cpp-Primer) - C++ Primer 5ed answers
-* [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Project OSRM: C++ backend
 * [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
-* [leethomason/tinyxml2](https://github.com/leethomason/tinyxml2) - TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrating into other programs.
+* [open-source-parsers/jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
+* [mapbox/mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Render Mapbox styles in mobile, desktop, and node applications using C++ and OpenGL
+* [Mooophy/Cpp-Primer](https://github.com/Mooophy/Cpp-Primer) - C++ Primer 5ed answers
+* [zaphoyd/websocketpp](https://github.com/zaphoyd/websocketpp) - C++ websocket client/server library
 * [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
-* [MasteringOpenCV/code](https://github.com/MasteringOpenCV/code) - Code for the book "Mastering OpenCV with Practical Computer Vision Projects" by Packt Publishing 2012.
-* [gosu/gosu](https://github.com/gosu/gosu) - 2D game development library for the desktop (Ruby and C++) and iOS (C++ only). MIT licensed.
-* [matt-42/silicon](https://github.com/matt-42/silicon) - A high performance, middleware oriented C++14 http web framework
-* [miguelfreitas/twister-core](https://github.com/miguelfreitas/twister-core) - twister core / daemon
-* [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
-* [arturadib/node-qt](https://github.com/arturadib/node-qt) - C++ Qt bindings for Node.js
-* [nghttp2/nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
-* [d5/node.native](https://github.com/d5/node.native) - C++11 port for the Node: native performance and modern simplicity.
-* [forhappy/Cplusplus-Concurrency-In-Practice](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice) - A Detailed Cplusplus Concurrency Tutorial 《C++ 并发编程指南》
-* [dmlc/cxxnet](https://github.com/dmlc/cxxnet) - move forward to https://github.com/dmlc/mxnet
+* [yandex/ClickHouse](https://github.com/yandex/ClickHouse) - ClickHouse is a free analytic DBMS for big data.
+* [jrowberg/i2cdevlib](https://github.com/jrowberg/i2cdevlib) - I2C device library collection for AVR/Arduino or other C++-based MCUs
+* [chukong/quick-cocos2d-x](https://github.com/chukong/quick-cocos2d-x) - quick-cocos2d-x is a quick framework, based on cocos2d-x. Make mobile games in Lua.
+* [cocos2d/cocos2d-js](https://github.com/cocos2d/cocos2d-js) - cocos2d-x for JS
+* [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Project OSRM: C++ backend
+* [thrust/thrust](https://github.com/thrust/thrust) - Thrust is a parallel algorithms library which resembles the C++ Standard Template Library (STL).
+* [leethomason/tinyxml2](https://github.com/leethomason/tinyxml2) - TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrating into other programs.
 * [gabime/spdlog](https://github.com/gabime/spdlog) - Super fast C++ logging library.
+* [MasteringOpenCV/code](https://github.com/MasteringOpenCV/code) - Code for the book "Mastering OpenCV with Practical Computer Vision Projects" by Packt Publishing 2012.
+* [nghttp2/nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
+* [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
+* [mosra/magnum](https://github.com/mosra/magnum) - C++11/C++14 and OpenGL graphics engine
+* [matt-42/silicon](https://github.com/matt-42/silicon) - A high performance, middleware oriented C++14 http web framework
+* [gosu/gosu](https://github.com/gosu/gosu) - 2D game development library for the desktop (Ruby and C++) and iOS (C++ only). MIT licensed.
+* [miguelfreitas/twister-core](https://github.com/miguelfreitas/twister-core) - twister core / daemon
+* [arturadib/node-qt](https://github.com/arturadib/node-qt) - C++ Qt bindings for Node.js
 * [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
+* [forhappy/Cplusplus-Concurrency-In-Practice](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice) - A Detailed Cplusplus Concurrency Tutorial 《C++ 并发编程指南》
 * [google/zopfli](https://github.com/google/zopfli) - Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.
+* [mlpack/mlpack](https://github.com/mlpack/mlpack) - mlpack: a scalable C++ machine learning library
+* [d5/node.native](https://github.com/d5/node.native) - C++11 port for the Node: native performance and modern simplicity.
+* [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+* [nyanp/tiny-cnn](https://github.com/nyanp/tiny-cnn) - header only, dependency-free deep learning framework in C++11
 * [CppCon/CppCon2015](https://github.com/CppCon/CppCon2015) - Presentation Materials from CppCon 2015
 * [dropbox/json11](https://github.com/dropbox/json11) - A tiny JSON library for C++11.
+* [dmlc/cxxnet](https://github.com/dmlc/cxxnet) - move forward to https://github.com/dmlc/mxnet
+* [xtaci/algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++
+* [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) - 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
+* [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A fork/variant of Cataclysm Roguelike by Whales.
 * [drmeister/clasp](https://github.com/drmeister/clasp) - clasp Common Lisp environment
 * [ibaaj/dijkstra-cartography](https://github.com/ibaaj/dijkstra-cartography) - Using Dijkstra's algorithm ("finding the shortest paths between nodes in a graph") to draw maps :earth_africa:.
-* [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A fork/variant of Cataclysm Roguelike by Whales.
-* [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) - 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
-* [xtaci/algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++
-* [Hawstein/cracking-the-coding-interview](https://github.com/Hawstein/cracking-the-coding-interview) - Solutions for the book: Cracking the coding interview V4. Written in C++.
-* [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 * [danmar/cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
+* [Hawstein/cracking-the-coding-interview](https://github.com/Hawstein/cracking-the-coding-interview) - Solutions for the book: Cracking the coding interview V4. Written in C++.
 * [simtr/The-Powder-Toy](https://github.com/simtr/The-Powder-Toy) - Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat.
-* [cocaine/cocaine-core](https://github.com/cocaine/cocaine-core) - An open platform to build your own PaaS clouds.
 * [llvm-mirror/clang](https://github.com/llvm-mirror/clang) - Mirror of official clang git repository located at http://llvm.org/git/clang.  Updated every five minutes.
-* [mlpack/mlpack](https://github.com/mlpack/mlpack) - mlpack: a scalable C++ machine learning library
-* [vgvassilev/cling](https://github.com/vgvassilev/cling) - Cling is an interactive C++ interpreter, built on top of Clang and LLVM compiler infrastructure.
-* [actor-framework/actor-framework](https://github.com/actor-framework/actor-framework) - An Open Source Implementation of the Actor Model in C++
-* [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
-* [easylogging/easyloggingpp](https://github.com/easylogging/easyloggingpp) - Single header only C++ logging library. It is extremely light-weight, robust, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs in your own customized format. It also provide support for logging your classes, third-party libraries, STL and third-party containers etc.
 * [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official code of FreeCAD ( http://www.freecadweb.org ). Clone this if you want to start FreeCAD development!  Please always announce your pull requests on http://forum.freecadweb.org otherwise they might go on unnoticed for a long time, thanks!
-* [Itseez/opencv_contrib](https://github.com/Itseez/opencv_contrib) - Repository for OpenCV's extra modules
-* [mosra/magnum](https://github.com/mosra/magnum) - C++11/C++14 and OpenGL graphics engine
-* [USCiLab/cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization
-* [kobalicek/asmjit](https://github.com/kobalicek/asmjit) - Complete x86/x64 JIT and Remote Assembler for C++
-* [floooh/oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework
-* [Microsoft/Win2D](https://github.com/Microsoft/Win2D) - Win2D is an easy-to-use Windows Runtime API for immediate mode 2D graphics rendering with GPU acceleration. It is available to C# and C++ developers writing Windows apps for Windows 8.1, Windows Phone 8.1 and Windows 10. It utilizes the power of Direct2D, and integrates seamlessly with XAML and CoreWindow.
-* [9miao/CrossApp](https://github.com/9miao/CrossApp) - Cross-Platform Mobile APP Development Engine
-* [facebook/fbthrift](https://github.com/facebook/fbthrift) - Facebook's branch of Apache Thrift, including a new C++ server.
-* [kripken/BananaBread](https://github.com/kripken/BananaBread) - BananaBread is a C++ 3D game engine that runs on the web using JavaScript+WebGL+HTML
-* [msgpack/msgpack-c](https://github.com/msgpack/msgpack-c) - MessagePack implementation for C and C++ / msgpack.org[C/C++]
-* [google/glog](https://github.com/google/glog) - C++ implementation of the Google logging module
 * [jgh-/VideoCore](https://github.com/jgh-/VideoCore) - An audio and video manipulation pipeline
+* [cocaine/cocaine-core](https://github.com/cocaine/cocaine-core) - An open platform to build your own PaaS clouds.
+* [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
+* [actor-framework/actor-framework](https://github.com/actor-framework/actor-framework) - An Open Source Implementation of the Actor Model in C++
+* [opencv/opencv_contrib](https://github.com/opencv/opencv_contrib) - Repository for OpenCV's extra modules
+* [vgvassilev/cling](https://github.com/vgvassilev/cling) - Cling is an interactive C++ interpreter, built on top of Clang and LLVM compiler infrastructure.
+* [easylogging/easyloggingpp](https://github.com/easylogging/easyloggingpp) - Single header only C++ logging library. It is extremely light-weight, robust, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs in your own customized format. It also provide support for logging your classes, third-party libraries, STL and third-party containers etc.
+* [google/glog](https://github.com/google/glog) - C++ implementation of the Google logging module
+* [USCiLab/cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization
+* [Microsoft/cpprestsdk](https://github.com/Microsoft/cpprestsdk) - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
+* [kobalicek/asmjit](https://github.com/kobalicek/asmjit) - Complete x86/x64 JIT and Remote Assembler for C++
+* [facebook/fbthrift](https://github.com/facebook/fbthrift) - Facebook's branch of Apache Thrift, including a new C++ server.
+* [Microsoft/Win2D](https://github.com/Microsoft/Win2D) - Win2D is an easy-to-use Windows Runtime API for immediate mode 2D graphics rendering with GPU acceleration. It is available to C# and C++ developers writing Windows apps for Windows 8.1, Windows Phone 8.1 and Windows 10. It utilizes the power of Direct2D, and integrates seamlessly with XAML and CoreWindow.
+* [floooh/oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework
+* [msgpack/msgpack-c](https://github.com/msgpack/msgpack-c) - MessagePack implementation for C and C++ / msgpack.org[C/C++]
+* [kripken/BananaBread](https://github.com/kripken/BananaBread) - BananaBread is a C++ 3D game engine that runs on the web using JavaScript+WebGL+HTML
+* [9miao/CrossApp](https://github.com/9miao/CrossApp) - Cross-Platform Mobile APP Development Engine
+* [RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus) - Change C++ code at runtime
+* [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 * [solodon4/Mach7](https://github.com/solodon4/Mach7) - Pattern-matching library for C++
 * [beark/ftl](https://github.com/beark/ftl) - C++ template library for fans of functional programming
-* [RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus) - Change C++ code at runtime
-* [spotify/echoprint-codegen](https://github.com/spotify/echoprint-codegen) - Codegen for Echoprint
 * [owncloud/client](https://github.com/owncloud/client) - :computer: Desktop Syncing Client for ownCloud
-* [CopernicaMarketingSoftware/PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - Library to build PHP extensions with C++
-* [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
-* [quarnster/SublimeClang](https://github.com/quarnster/SublimeClang) - C/C++/ObjC/ObjC++ autocompletions and code navigation
 * [zeux/pugixml](https://github.com/zeux/pugixml) - Light-weight, simple and fast XML parser for C++ with XPath support
-* [tunabrain/tungsten](https://github.com/tunabrain/tungsten) - High performance physically based renderer in C++11
+* [beniz/deepdetect](https://github.com/beniz/deepdetect) - Deep Learning API and Server in C++11 with Python bindings and support for Caffe and XGBoost
+* [CopernicaMarketingSoftware/PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - Library to build PHP extensions with C++
+* [spotify/echoprint-codegen](https://github.com/spotify/echoprint-codegen) - Codegen for Echoprint
+* [TencentOpen/behaviac](https://github.com/TencentOpen/behaviac) - behaviac is a framework of the game AI development, and it also can be used as a rapid game prototype design tool.   behaviac supports the behavior tree(BT), finite state machine(FSM) and hierarchical task network(HTN).  Behaviors can be designed and debugged in the designer, exported and executed by the game. The designer can only run on the Windows platforms.   The run time library is implemented with C++ and C#, and it supports all major platforms (Windows, Linux, Android, iOS, Unity etc.) and Unity. The C++ version is suitable for the client and server side.
+* [quarnster/SublimeClang](https://github.com/quarnster/SublimeClang) - C/C++/ObjC/ObjC++ autocompletions and code navigation
 * [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) - Asio C++ Library
 * [alecthomas/entityx](https://github.com/alecthomas/entityx) - EntityX - A fast, type-safe C++ Entity-Component system
-* [Microsoft/cpprestsdk](https://github.com/Microsoft/cpprestsdk) - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
-* [mfontanini/libtins](https://github.com/mfontanini/libtins) - High-level, multiplatform C++ network packet sniffing and crafting library.
-* [eranif/codelite](https://github.com/eranif/codelite) - CodeLite, a cross platform C/C++/PHP and Node.js IDE written in C++
-* [nyanp/tiny-cnn](https://github.com/nyanp/tiny-cnn) - header only, dependency-free deep learning framework in C++11
-* [sftrabbit/CppSamples-Samples](https://github.com/sftrabbit/CppSamples-Samples) - A repository of modern C++ samples curated by the community.
-* [gigablast/open-source-search-engine](https://github.com/gigablast/open-source-search-engine) - A distributed open source search engine and spider/crawler written in C/C++ for Linux on Intel/AMD. From gigablast dot com, which has binaries for download. See the README.md file at the very bottom of this page for instructions.
 * [Andersbakken/rtags](https://github.com/Andersbakken/rtags) - A c/c++ client/server indexer for c/c++/objc[++] with integration for Emacs based on clang.
-* [TencentOpen/behaviac](https://github.com/TencentOpen/behaviac) - behaviac is a framework of the game AI development, and it also can be used as a rapid game prototype design tool.   behaviac supports the behavior tree(BT), finite state machine(FSM) and hierarchical task network(HTN).  Behaviors can be designed and debugged in the designer, exported and executed by the game. The designer can only run on the Windows platforms.   The run time library is implemented with C++ and C#, and it supports all major platforms (Windows, Linux, Android, iOS, Unity etc.) and Unity. The C++ version is suitable for the client and server side.
-* [ericniebler/range-v3](https://github.com/ericniebler/range-v3) - Experimental range library for C++11/14/17
-* [schlangster/cpp.react](https://github.com/schlangster/cpp.react) - C++React: A reactive programming library for C++11.
-* [simbody/simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
-* [beniz/deepdetect](https://github.com/beniz/deepdetect) - Deep Learning API and Server in C++11 with Python bindings and support for Caffe
-* [ChaiScript/ChaiScript](https://github.com/ChaiScript/ChaiScript) - Embedded Scripting Language Designed for C++
-* [bloomberg/bde](https://github.com/bloomberg/bde) - Basic Development Environment - a set of foundational C++ libraries used at Bloomberg.
-* [cloose/CuteMarkEd](https://github.com/cloose/CuteMarkEd) - Qt Markdown Editor
-* [kkaefer/node-cpp-modules](https://github.com/kkaefer/node-cpp-modules) - Guide for writing C++ node.js extensions
-* [google/mathfu](https://github.com/google/mathfu) - C++ math library developed primarily for games focused on simplicity and efficiency.
-* [dmlc/minerva](https://github.com/dmlc/minerva) - Minerva: a fast and flexible tool for deep learning on multi-GPU. It provides ndarray programming interface, just like Numpy. Python bindings and C++ bindings are both available. The resulting code can be run on CPU or GPU. Multi-GPU support is very easy.
-* [OpenRTMFP/Cumulus](https://github.com/OpenRTMFP/Cumulus) - CumulusServer is a complete open source and cross-platform RTMFP server extensible by way of scripting
-* [shurcooL/Conception](https://github.com/shurcooL/Conception) - Conception is an experimental project, looking for ways to make software development more efficient.
-* [progschj/ThreadPool](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation
-* [nvpro-pipeline/vkcpp](https://github.com/nvpro-pipeline/vkcpp) - C++ Vulkan API
-* [boostorg/compute](https://github.com/boostorg/compute) - A C++ GPU Computing Library for OpenCL
-* [lballabio/quantlib-old](https://github.com/lballabio/quantlib-old) - The QuantLib C++ library and extensions
-* [serge-sans-paille/pythran](https://github.com/serge-sans-paille/pythran) - a claimless python to c++ converter
+* [tunabrain/tungsten](https://github.com/tunabrain/tungsten) - High performance physically based renderer in C++11
+* [eranif/codelite](https://github.com/eranif/codelite) - CodeLite, a cross platform C/C++/PHP and Node.js IDE written in C++
+* [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 * [ccMSC/ckb](https://github.com/ccMSC/ckb) - RGB Driver for Linux and OS X
-* [rbock/sqlpp11](https://github.com/rbock/sqlpp11) - A type safe SQL template library for C++
-* [eliben/llvm-clang-samples](https://github.com/eliben/llvm-clang-samples) - Examples of using the LLVM and Clang compilation libraries and tools
-* [bombela/backward-cpp](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++
-* [nodejs/node-addon-examples](https://github.com/nodejs/node-addon-examples) - Node.js C++ addon examples from http://nodejs.org/docs/latest/api/addons.html
+* [ericniebler/range-v3](https://github.com/ericniebler/range-v3) - Experimental range library for C++11/14/17
+* [mfontanini/libtins](https://github.com/mfontanini/libtins) - High-level, multiplatform C++ network packet sniffing and crafting library.
+* [ChaiScript/ChaiScript](https://github.com/ChaiScript/ChaiScript) - Embedded Scripting Language Designed for C++
+* [gigablast/open-source-search-engine](https://github.com/gigablast/open-source-search-engine) - A distributed open source search engine and spider/crawler written in C/C++ for Linux on Intel/AMD. From gigablast dot com, which has binaries for download. See the README.md file at the very bottom of this page for instructions.
+* [sftrabbit/CppSamples-Samples](https://github.com/sftrabbit/CppSamples-Samples) - A repository of modern C++ samples curated by the community.
+* [google/mathfu](https://github.com/google/mathfu) - C++ math library developed primarily for games focused on simplicity and efficiency.
+* [nvpro-pipeline/vkcpp](https://github.com/nvpro-pipeline/vkcpp) - C++ Vulkan API
+* [progschj/ThreadPool](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation
 * [happynear/caffe-windows](https://github.com/happynear/caffe-windows) - Configure Caffe in one hour for Windows users.
-* [REhints/HexRaysCodeXplorer](https://github.com/REhints/HexRaysCodeXplorer) - Hex-Rays Decompiler plugin for better code navigation
-* [yanyiwu/cppjieba](https://github.com/yanyiwu/cppjieba) - "结巴"中文分词的C++版本
+* [simbody/simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
+* [cloose/CuteMarkEd](https://github.com/cloose/CuteMarkEd) - Qt Markdown Editor
+* [bloomberg/bde](https://github.com/bloomberg/bde) - Basic Development Environment - a set of foundational C++ libraries used at Bloomberg.
 * [whoshuu/cpr](https://github.com/whoshuu/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests
-* [facebook/fatal](https://github.com/facebook/fatal) - Fatal is a library for fast prototyping software in modern C++. It provides facilities to enhance the expressive power of C++. The library is heavily based on template meta-programming, while keeping the complexity under-the-hood.
-* [socketio/socket.io-client-cpp](https://github.com/socketio/socket.io-client-cpp) - C++11 implementation of Socket.IO client
+* [tencent-wechat/phxpaxos](https://github.com/tencent-wechat/phxpaxos) - C++ Paxos library that has been used in Wechat production environment.
+* [onqtam/doctest](https://github.com/onqtam/doctest) - The lightest feature-rich C++ single-header testing framework for unit tests and TDD - docs:
+* [kkaefer/node-cpp-modules](https://github.com/kkaefer/node-cpp-modules) - Guide for writing C++ node.js extensions
+* [schlangster/cpp.react](https://github.com/schlangster/cpp.react) - C++React: A reactive programming library for C++11.
+* [boostorg/compute](https://github.com/boostorg/compute) - A C++ GPU Computing Library for OpenCL
+* [rbock/sqlpp11](https://github.com/rbock/sqlpp11) - A type safe SQL template library for C++
+* [nodejs/node-addon-examples](https://github.com/nodejs/node-addon-examples) - Node.js C++ addon examples from http://nodejs.org/docs/latest/api/addons.html
+* [charto/nbind](https://github.com/charto/nbind) - Magical headers that make your C++ library accessible from JavaScript
+* [dmlc/minerva](https://github.com/dmlc/minerva) - Minerva: a fast and flexible tool for deep learning on multi-GPU. It provides ndarray programming interface, just like Numpy. Python bindings and C++ bindings are both available. The resulting code can be run on CPU or GPU. Multi-GPU support is very easy.
+* [eliben/llvm-clang-samples](https://github.com/eliben/llvm-clang-samples) - Examples of using the LLVM and Clang compilation libraries and tools
+* [OpenRTMFP/Cumulus](https://github.com/OpenRTMFP/Cumulus) - CumulusServer is a complete open source and cross-platform RTMFP server extensible by way of scripting
+* [gzc/CLRS](https://github.com/gzc/CLRS) - :notebook:Solutions to Introduction to Algorithms
+* [bombela/backward-cpp](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++
+* [serge-sans-paille/pythran](https://github.com/serge-sans-paille/pythran) - a claimless python to c++ converter
+* [yanyiwu/cppjieba](https://github.com/yanyiwu/cppjieba) - "结巴"中文分词的C++版本
+* [shurcooL/Conception](https://github.com/shurcooL/Conception) - Conception is an experimental project, looking for ways to make software development more efficient.
 * [dmlc/mshadow](https://github.com/dmlc/mshadow) - Matrix Shadow:Lightweight CPU/GPU Matrix and Tensor  Template Library in C++/CUDA for (Deep) Machine Learning
-* [iauns/cpm](https://github.com/iauns/cpm) - C++ Package Manager
+* [REhints/HexRaysCodeXplorer](https://github.com/REhints/HexRaysCodeXplorer) - Hex-Rays Decompiler plugin for better code navigation
 * [Microsoft/DirectXTK](https://github.com/Microsoft/DirectXTK) - The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code in C++
-* [matt-42/iod](https://github.com/matt-42/iod) - Meta programming utilities for C++14
+* [ketoo/NoahGameFrame](https://github.com/ketoo/NoahGameFrame) - A fast, scalable, distributed game server framework for C++, include actor library, network library,can be used as a  real time multiplayer game engine ( MMO RPG ), which plan to support C#/Python/Lua script, and support Unity3d, Cocos2dx, FlashAir client access.
+* [socketio/socket.io-client-cpp](https://github.com/socketio/socket.io-client-cpp) - C++11 implementation of Socket.IO client
+* [lballabio/quantlib-old](https://github.com/lballabio/quantlib-old) - The QuantLib C++ library and extensions
+* [facebook/fatal](https://github.com/facebook/fatal) - Fatal is a library for fast prototyping software in modern C++. It provides facilities to enhance the expressive power of C++. The library is heavily based on template meta-programming, while keeping the complexity under-the-hood.
 * [jeremyong/Selene](https://github.com/jeremyong/Selene) - Simple C++11 friendly header-only bindings to Lua
 * [protobuf-c/protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C
-* [jeaye/color_coded](https://github.com/jeaye/color_coded) - A vim plugin for libclang-based highlighting in C, C++, ObjC
-* [lukasmartinelli/py14](https://github.com/lukasmartinelli/py14) -  Python to C++ 14 transpiler
-* [GraphChi/graphchi-cpp](https://github.com/GraphChi/graphchi-cpp) - GraphChi's C++ version.  Big Data - small machine.
-* [preshing/junction](https://github.com/preshing/junction) - Concurrent data structures in C++
-* [STEllAR-GROUP/hpx](https://github.com/STEllAR-GROUP/hpx) - A general purpose C++ runtime system for parallel and distributed applications of any scale
-* [jscheiny/Streams](https://github.com/jscheiny/Streams) - Lazy evaluation in C++ - http://jscheiny.github.io/Streams/
 * [vczh-libraries/GacUI](https://github.com/vczh-libraries/GacUI) - GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features.
-* [inspircd/inspircd](https://github.com/inspircd/inspircd) - A modular C++ IRC daemon (ircd).
-* [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze #includes in C and C++ source files
-* [gflags/gflags](https://github.com/gflags/gflags) - The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at:
-* [zeroc-ice/ice](https://github.com/zeroc-ice/ice) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python and more.
-* [kazuho/picojson](https://github.com/kazuho/picojson) - a header-file-only, JSON parser serializer in C++
+* [jeaye/color_coded](https://github.com/jeaye/color_coded) - A vim plugin for libclang-based highlighting in C, C++, ObjC
+* [preshing/junction](https://github.com/preshing/junction) - Concurrent data structures in C++
+* [iauns/cpm](https://github.com/iauns/cpm) - C++ Package Manager
 * [Reactive-Extensions/RxCpp](https://github.com/Reactive-Extensions/RxCpp) - Reactive Extensions for C++
-* [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
+* [zeroc-ice/ice](https://github.com/zeroc-ice/ice) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python and more.
 * [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
-* [mmackh/MAImagePickerController-of-InstaPDF](https://github.com/mmackh/MAImagePickerController-of-InstaPDF) - Fully customizable UIImagePicker replacement with flexible cropping, filters, perspective correction, rotation etc.
-* [myang-git/QR-Code-Encoder-for-Objective-C](https://github.com/myang-git/QR-Code-Encoder-for-Objective-C) - An implementation of QR code encoder for Objective-C ported from Psytec library
-* [Hotsotse/Hang-man](https://github.com/Hotsotse/Hang-man) - A very broken C++ hangman game.
-* [tomhrr/dale](https://github.com/tomhrr/dale) - Lisp-flavoured C
-* [Cockatrice/Cockatrice](https://github.com/Cockatrice/Cockatrice) - A cross-platform virtual tabletop for multiplayer card games
-* [cztomczak/cef2go](https://github.com/cztomczak/cef2go) - CEF2go is an HTML 5 based GUI toolkit for the Go language.  ★ Forum:
+* [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze #includes in C and C++ source files
+* [matt-42/iod](https://github.com/matt-42/iod) - Meta programming utilities for C++14
+* [STEllAR-GROUP/hpx](https://github.com/STEllAR-GROUP/hpx) - A general purpose C++ runtime system for parallel and distributed applications of any scale
+* [gflags/gflags](https://github.com/gflags/gflags) - The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at:
 * [xuelangZF/CS_Offer](https://github.com/xuelangZF/CS_Offer) - 深入理解计算机面试中的经典题目！
-* [jerrymarino/cupertinojs](https://github.com/jerrymarino/cupertinojs) - Cupertino.js - Compile Javascript to Cocoa
+* [GraphChi/graphchi-cpp](https://github.com/GraphChi/graphchi-cpp) - GraphChi's C++ version.  Big Data - small machine.
 * [arvidn/libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
-* [billmccord/OpenCV-Android](https://github.com/billmccord/OpenCV-Android) - A project for porting and optimizing OpenCV for Google's Android OS
-* [Polytonic/Chlorine](https://github.com/Polytonic/Chlorine) - Dead Simple OpenCL (Compute)
-* [leetcoders/LeetCode](https://github.com/leetcoders/LeetCode) - Solve problems from LeetCode.
-* [cameron314/readerwriterqueue](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++
-* [boostcon/cppnow_presentations_2014](https://github.com/boostcon/cppnow_presentations_2014) - Presentation materials presented at C++Now 2014
-* [RSATom/WebChimera.js](https://github.com/RSATom/WebChimera.js) - libvlc binding for node.js/io.js/Node-Webkit/NW.js/Electron
-* [vinniefalco/DSPFilters](https://github.com/vinniefalco/DSPFilters) - A Collection of Useful C++ Classes for Digital Signal Processing
-* [hughperkins/DeepCL](https://github.com/hughperkins/DeepCL) - OpenCL library to train deep convolutional neural networks
-* [c-ares/c-ares](https://github.com/c-ares/c-ares) - c-ares is a C library for asynchronous DNS requests
-* [kylemcdonald/ofxCv](https://github.com/kylemcdonald/ofxCv) - Alternative approach to interfacing with OpenCv from openFrameworks.
-* [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a 2D CAD drawing tool based on the community edition of QCad. LibreCAD has been re-structured and ported to Qt 4/5 and works natively cross platform between OSX, Windows and Linux. It can read DWG and DXF files; and it can write DXF, SVG, PDF and more!
-* [SkyFireArchives/SkyFireEMU_406a](https://github.com/SkyFireArchives/SkyFireEMU_406a) - SkyFireEMU is a full featured F/OSS World of Warcraft: Cataclysm emulator written in C++. || Compatible with World of Warcraft client 4.0.6a (Build:13623)  ||  Public DB is located on forum
-* [SOCI/soci](https://github.com/SOCI/soci) - SOCI - The C++ Database Access Library. This is official repository the SOCI project.
-* [rdp/screen-capture-recorder-to-video-windows-free](https://github.com/rdp/screen-capture-recorder-to-video-windows-free) - a free open source  windows "screen capture" device and recorder (also allows VLC et al to capture/stream desktop/audio)
-* [kmike/marisa-trie](https://github.com/kmike/marisa-trie) - Static memory-efficient Trie-like structures for Python (2.x and 3.x). Uses marisa-trie C++ library.
-* [lvandeve/lodepng](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.
-* [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++
-* [khizmax/libcds](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures
-* [MTG/essentia](https://github.com/MTG/essentia) - C++ library of algorithms to extract features from audio files, including Python bindings.
-* [lsegal/my_toy_compiler](https://github.com/lsegal/my_toy_compiler) - My Toy Compiler. Read about how I did it at the homepage URL
-* [loarabia/Clang-tutorial](https://github.com/loarabia/Clang-tutorial) - A collection of code samples showing usage of clang and llvm as a library
+* [lukasmartinelli/py14](https://github.com/lukasmartinelli/py14) -  Python to C++ 14 transpiler
 * [lltcggie/waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) - waifu2xのCaffe版
-* [Ultimaker/CuraEngine](https://github.com/Ultimaker/CuraEngine) - CuraEngine is a powerful, fast and robust engine for processing 3D models into 3D printing instruction for Ultimaker and other GCode based 3D printers. It is part of the larger open source project called "Cura".
-* [webcoyote/coho](https://github.com/webcoyote/coho) - Base libraries for C++ development
-* [docopt/docopt.cpp](https://github.com/docopt/docopt.cpp) - C++11 port of docopt
-* [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - Full C++ implementation of I2P client
-* [weicao/cascadb](https://github.com/weicao/cascadb) - Yet another write-optimized storage engine, using buffered B-tree algorithm inspired by TokuDB
-* [micknoise/Maximilian](https://github.com/micknoise/Maximilian) - C++ Audio and Music DSP Library
-* [topcpporg/cinatra](https://github.com/topcpporg/cinatra) - A sinatra inspired modern c++ web framework
-* [ddemidov/vexcl](https://github.com/ddemidov/vexcl) - VexCL is a C++ vector expression template library for OpenCL/CUDA
-* [SDLash3D/cs16-client](https://github.com/SDLash3D/cs16-client) - Counter-Strike 1.6 rewritten client.dll. Without VGUI, ParticleMan and ecology friendy.
-* [mozilla/mozilla-central](https://github.com/mozilla/mozilla-central) - Note: this repo has been shut down, see http://bit.ly/17U3eMC
-* [stefanocasazza/ULib](https://github.com/stefanocasazza/ULib) - C++ application development framework, to help developers create and deploy applications very fast and more simple
-* [libigl/libigl](https://github.com/libigl/libigl) - Simple C++ geometry processing library.
-* [gzc/CLRS](https://github.com/gzc/CLRS) - :notebook:Solutions to Introduction to Algorithms
-* [csmith-project/creduce](https://github.com/csmith-project/creduce) - C-Reduce, a C program reducer
-* [otland/forgottenserver](https://github.com/otland/forgottenserver) - A free and open-source MMORPG server emulator written in C++
-* [douban/libmc](https://github.com/douban/libmc) - Fast and light-weight memcached client for C++ / #python / #golang #libmc
+* [jscheiny/Streams](https://github.com/jscheiny/Streams) - Lazy evaluation in C++ - http://jscheiny.github.io/Streams/
+* [inspircd/inspircd](https://github.com/inspircd/inspircd) - A modular C++ IRC daemon (ircd).
+* [Dobiasd/FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - helps you write concise and readable C++ code.
+* [kazuho/picojson](https://github.com/kazuho/picojson) - a header-file-only, JSON parser serializer in C++
+* [Cockatrice/Cockatrice](https://github.com/Cockatrice/Cockatrice) - A cross-platform virtual tabletop for multiplayer card games
+* [mmackh/MAImagePickerController-of-InstaPDF](https://github.com/mmackh/MAImagePickerController-of-InstaPDF) - Fully customizable UIImagePicker replacement with flexible cropping, filters, perspective correction, rotation etc.
 * [cppit/jucipp](https://github.com/cppit/jucipp) - juCi++: a lightweight, cross-platform C++-IDE  supporting C++11, C++14, and experimental C++17 features
-* [Smoothieware/Smoothieware](https://github.com/Smoothieware/Smoothieware) - Modular, opensource, high performance G-code interpreter and CNC controller written in Object-Oriented C++
-* [google/fruit](https://github.com/google/fruit) - Fruit, a dependency injection framework for C++
+* [cameron314/readerwriterqueue](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++
+* [tomhrr/dale](https://github.com/tomhrr/dale) - Lisp-flavoured C
+* [cztomczak/cef2go](https://github.com/cztomczak/cef2go) - CEF2go is an HTML 5 based GUI toolkit for the Go language.  ★ Forum:
+* [myang-git/QR-Code-Encoder-for-Objective-C](https://github.com/myang-git/QR-Code-Encoder-for-Objective-C) - An implementation of QR code encoder for Objective-C ported from Psytec library
+* [vinniefalco/DSPFilters](https://github.com/vinniefalco/DSPFilters) - A Collection of Useful C++ Classes for Digital Signal Processing
+* [billmccord/OpenCV-Android](https://github.com/billmccord/OpenCV-Android) - A project for porting and optimizing OpenCV for Google's Android OS
+* [RSATom/WebChimera.js](https://github.com/RSATom/WebChimera.js) - libvlc binding for node.js/io.js/Node-Webkit/NW.js/Electron
+* [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a 2D CAD drawing tool based on the community edition of QCad. LibreCAD has been re-structured and ported to Qt 4/5 and works natively cross platform between OSX, Windows and Linux. It can read DWG and DXF files; and it can write DXF, SVG, PDF and more!
+* [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++
+* [hughperkins/DeepCL](https://github.com/hughperkins/DeepCL) - OpenCL library to train deep convolutional neural networks
+* [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - Full C++ implementation of I2P client
+* [leetcoders/LeetCode](https://github.com/leetcoders/LeetCode) - Solve problems from LeetCode.
+* [Polytonic/Chlorine](https://github.com/Polytonic/Chlorine) - Dead Simple OpenCL (Compute)
+* [jerrymarino/cupertinojs](https://github.com/jerrymarino/cupertinojs) - Cupertino.js - Compile Javascript to Cocoa
+* [rdp/screen-capture-recorder-to-video-windows-free](https://github.com/rdp/screen-capture-recorder-to-video-windows-free) - a free open source  windows "screen capture" device and recorder (also allows VLC/ffmpeg and others to capture/stream desktop/audio)
+* [pytries/marisa-trie](https://github.com/pytries/marisa-trie) - Static memory-efficient Trie-like structures for Python (2.x and 3.x). Uses marisa-trie C++ library.
 * [pezy/CppPrimer](https://github.com/pezy/CppPrimer) - :books: C++ Primer 5  exercise answers.
+* [libigl/libigl](https://github.com/libigl/libigl) - Simple C++ geometry processing library.
+* [c-ares/c-ares](https://github.com/c-ares/c-ares) - c-ares is a C library for asynchronous DNS requests
+* [micknoise/Maximilian](https://github.com/micknoise/Maximilian) - C++ Audio and Music DSP Library
+* [lvandeve/lodepng](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.
+* [Ultimaker/CuraEngine](https://github.com/Ultimaker/CuraEngine) - CuraEngine is a powerful, fast and robust engine for processing 3D models into 3D printing instruction for Ultimaker and other GCode based 3D printers. It is part of the larger open source project called "Cura".
+* [boostcon/cppnow_presentations_2014](https://github.com/boostcon/cppnow_presentations_2014) - Presentation materials presented at C++Now 2014
+* [khizmax/libcds](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures
+* [SOCI/soci](https://github.com/SOCI/soci) - SOCI - The C++ Database Access Library. This is official repository the SOCI project.
+* [eidheim/Simple-Web-Server](https://github.com/eidheim/Simple-Web-Server) - A very simple, fast, multithreaded, platform independent HTTP and HTTPS server and client library implemented using C++11 and Boost.Asio. Created to be an easy way to make REST resources available from C++ applications.
+* [kylemcdonald/ofxCv](https://github.com/kylemcdonald/ofxCv) - Alternative approach to interfacing with OpenCv from openFrameworks.
+* [google/fruit](https://github.com/google/fruit) - Fruit, a dependency injection framework for C++
+* [MTG/essentia](https://github.com/MTG/essentia) - C++ library of algorithms to extract features from audio files, including Python bindings.
+* [docopt/docopt.cpp](https://github.com/docopt/docopt.cpp) - C++11 port of docopt
 * [aws/aws-sdk-cpp](https://github.com/aws/aws-sdk-cpp) - AWS SDK for C++
-* [herumi/xbyak](https://github.com/herumi/xbyak) - a JIT assembler for x86(IA-32)/x64(AMD64, x86-64) MMX/SSE/SSE2/SSE3/SSSE3/SSE4/FPU/AVX/AVX2 by C++ header
+* [loarabia/Clang-tutorial](https://github.com/loarabia/Clang-tutorial) - A collection of code samples showing usage of clang and llvm as a library
+* [julianstorer/JUCE](https://github.com/julianstorer/JUCE) - The JUCE cross-platform C++ framework.
+* [ChenglongChen/Kaggle_CrowdFlower](https://github.com/ChenglongChen/Kaggle_CrowdFlower) - 1st Place Solution for Search Results Relevance Competition on Kaggle (https://www.kaggle.com/c/crowdflower-search-relevance)
+* [SkyFireArchives/SkyFireEMU_406a](https://github.com/SkyFireArchives/SkyFireEMU_406a) - SkyFireEMU is a full featured F/OSS World of Warcraft: Cataclysm emulator written in C++. || Compatible with World of Warcraft client 4.0.6a (Build:13623)  ||  Public DB is located on forum
+* [lsegal/my_toy_compiler](https://github.com/lsegal/my_toy_compiler) - My Toy Compiler. Read about how I did it at the homepage URL
+* [webcoyote/coho](https://github.com/webcoyote/coho) - Base libraries for C++ development
+* [csmith-project/creduce](https://github.com/csmith-project/creduce) - C-Reduce, a C program reducer
+* [SDLash3D/cs16-client](https://github.com/SDLash3D/cs16-client) - Counter-Strike 1.6 rewritten client.dll. Without VGUI, ParticleMan and ecology friendy.
+* [randombit/botan](https://github.com/randombit/botan) - Crypto and TLS for C++11
+* [topcpporg/cinatra](https://github.com/topcpporg/cinatra) - A sinatra inspired modern c++ web framework
+* [thewtex/tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM, and load monitor for use with tmux
+* [Smoothieware/Smoothieware](https://github.com/Smoothieware/Smoothieware) - Modular, opensource, high performance G-code interpreter and CNC controller written in Object-Oriented C++
 * [cjcliffe/CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application
-* [rjpower/falcon](https://github.com/rjpower/falcon) - C Python, made faster.
-* [thewtex/tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM memory, and load monitor for use with tmux
-* [cpputest/cpputest](https://github.com/cpputest/cpputest) - CppUTest unit testing and mocking framework for C/C++
-* [ketoo/NoahGameFrame](https://github.com/ketoo/NoahGameFrame) - A fast, scalable, distributed game server framework for C++, include actor library, network library,can be used as a  real time multiplayer game engine ( MMO RPG ), which plan to support C#/Python/Lua script, and support Unity3d, Cocos2dx, FlashAir client access.
-* [ryanhaining/cppitertools](https://github.com/ryanhaining/cppitertools) - Implementation of python itertools and builtin iteration functions for C++11
-* [xiaojiaqi/C1000kPracticeGuide](https://github.com/xiaojiaqi/C1000kPracticeGuide) - A C1000k demo with detailed description
-* [Ableton/atria](https://github.com/Ableton/atria) - A toolkit for modern C++ development
-* [stellar/stellar-core](https://github.com/stellar/stellar-core) - stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network. Optionally, stellar-core can store historical records of the ledger and participate in consensus.
-* [Level/leveldown](https://github.com/Level/leveldown) - Pure C++ Node.js LevelDB binding serving as the back-end to LevelUP
-* [matus-chochlik/oglplus](https://github.com/matus-chochlik/oglplus) - OGLplus is a collection of open-source, cross-platform libraries which implement an object-oriented facade over the OpenGL® (version 3 and higher) and also OpenAL® (version 1.1) and EGL (version 1.4) C-language APIs. It provides wrappers which automate resource and object management and make the use of these libraries in C++ safer and more convenient.
+* [herumi/xbyak](https://github.com/herumi/xbyak) - a JIT assembler for x86(IA-32)/x64(AMD64, x86-64) MMX/SSE/SSE2/SSE3/SSSE3/SSE4/FPU/AVX/AVX2 by C++ header
+* [otland/forgottenserver](https://github.com/otland/forgottenserver) - A free and open-source MMORPG server emulator written in C++
 * [kylemcdonald/FaceTracker](https://github.com/kylemcdonald/FaceTracker) - Real time deformable face tracking in C++ with OpenCV 2.
-* [jckarter/clay](https://github.com/jckarter/clay) - The Clay programming language
-* [gto76/comp-cpp](https://github.com/gto76/comp-cpp) - Simple 4-bit virtual computer
+* [ddemidov/vexcl](https://github.com/ddemidov/vexcl) - VexCL is a C++ vector expression template library for OpenCL/CUDA
+* [weicao/cascadb](https://github.com/weicao/cascadb) - Yet another write-optimized storage engine, using buffered B-tree algorithm inspired by TokuDB
+* [GPUOpen-Tools/CodeXL](https://github.com/GPUOpen-Tools/CodeXL) - CodeXL is a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.
+* [quickfix/quickfix](https://github.com/quickfix/quickfix) - QuickFIX C++ Fix Engine Library
+* [douban/libmc](https://github.com/douban/libmc) - Fast and light-weight memcached client for C++ / #python / #golang #libmc
+* [cginternals/glbinding](https://github.com/cginternals/glbinding) - A C++ binding for the OpenGL API, generated using the gl.xml specification.
+* [ErisBlastar/cplusequality](https://github.com/ErisBlastar/cplusequality) - Feminist Software Foundation C+=, a new language for us feminists
+* [yedf/handy](https://github.com/yedf/handy) - 简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework
+* [cpputest/cpputest](https://github.com/cpputest/cpputest) - CppUTest unit testing and mocking framework for C/C++
+* [stefanocasazza/ULib](https://github.com/stefanocasazza/ULib) - C++ application development framework, to help developers create and deploy applications very fast and more simple
+* [stellar/stellar-core](https://github.com/stellar/stellar-core) - stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network. Optionally, stellar-core can store historical records of the ledger and participate in consensus.
+* [Ableton/atria](https://github.com/Ableton/atria) - A toolkit for modern C++ development
+* [xiaojiaqi/C1000kPracticeGuide](https://github.com/xiaojiaqi/C1000kPracticeGuide) - A C1000k demo with detailed description
+* [ryanhaining/cppitertools](https://github.com/ryanhaining/cppitertools) - Implementation of python itertools and builtin iteration functions for C++11
+* [mozilla/mozilla-central](https://github.com/mozilla/mozilla-central) - Note: this repo has been shut down, see http://bit.ly/17U3eMC
+* [yyzybb537/libgo](https://github.com/yyzybb537/libgo) - C++ coroutine library, CSP mode, likes golang
+* [rjpower/falcon](https://github.com/rjpower/falcon) - C Python, made faster.
+* [mrtazz/restclient-cpp](https://github.com/mrtazz/restclient-cpp) - C++ client for making HTTP/REST requests
+* [Level/leveldown](https://github.com/Level/leveldown) - Pure C++ Node.js LevelDB binding serving as the back-end to LevelUP
 * [cms-sw/cmssw](https://github.com/cms-sw/cmssw) - CMS Offline Software
+* [vrtadmin/clamav-devel](https://github.com/vrtadmin/clamav-devel) - ClamAV Development
+* [jckarter/clay](https://github.com/jckarter/clay) - The Clay programming language
+* [matus-chochlik/oglplus](https://github.com/matus-chochlik/oglplus) - OGLplus is a collection of open-source, cross-platform libraries which implement an object-oriented facade over the OpenGL® (version 3 and higher) and also OpenAL® (version 1.1) and EGL (version 1.4) C-language APIs. It provides wrappers which automate resource and object management and make the use of these libraries in C++ safer and more convenient.
 * [andrewrk/zig](https://github.com/andrewrk/zig) - System programming language intended to replace C
 * [richgel999/lzham_codec](https://github.com/richgel999/lzham_codec) - Lossless data compression codec with LZMA-like ratios but 1.5x-8x faster decompression speed, C/C++
 * [klmr/named-operator](https://github.com/klmr/named-operator) - Named operators for C++
-* [vrtadmin/clamav-devel](https://github.com/vrtadmin/clamav-devel) - ClamAV Development
-* [Dobiasd/FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - helps you write concise and readable C++ code.
-* [quickfix/quickfix](https://github.com/quickfix/quickfix) - QuickFIX C++ Fix Engine Library
-* [ChenglongChen/Kaggle_CrowdFlower](https://github.com/ChenglongChen/Kaggle_CrowdFlower) - 1st Place Solution for Search Results Relevance Competition on Kaggle (https://www.kaggle.com/c/crowdflower-search-relevance)
-* [treefrogframework/treefrog-framework](https://github.com/treefrogframework/treefrog-framework) - TreeFrog Framework : High-speed C++ MVC Framework for Web Application
-* [eidheim/Simple-Web-Server](https://github.com/eidheim/Simple-Web-Server) - A very simple, fast, multithreaded, platform independent HTTP and HTTPS server and client library implemented using C++11 and Boost.Asio. Created to be an easy way to make REST resources available from C++ applications.
-* [clMathLibraries/clFFT](https://github.com/clMathLibraries/clFFT) - a software library containing FFT functions written in OpenCL
-* [cginternals/glbinding](https://github.com/cginternals/glbinding) - A C++ binding for the OpenGL API, generated using the gl.xml specification.
-* [Gladdy/EasyOpenCL](https://github.com/Gladdy/EasyOpenCL) - The easiest way to get started with OpenCL!
-* [phoboslab/JavaScriptCore-iOS](https://github.com/phoboslab/JavaScriptCore-iOS) - Apple's JavaScript Engine, with modified project files for iOS
-* [BloodAxe/OpenCV-Tutorial](https://github.com/BloodAxe/OpenCV-Tutorial) - A sample project demonstrating use of OpenCV library in iOS platform
-* [julianstorer/JUCE](https://github.com/julianstorer/JUCE) - The JUCE cross-platform C++ framework.
-* [haptork/easyLambda](https://github.com/haptork/easyLambda) - data processing with modern C++ and MPI. Modular, parallel, based on data-flow with map and reduce.
-* [pfultz2/Fit](https://github.com/pfultz2/Fit) - C++ function utility library
-* [fador/mineserver](https://github.com/fador/mineserver) - Custom Minecraft server software written in C++ for Windows and Linux
-* [nurupo/ProjectTox-Qt-GUI](https://github.com/nurupo/ProjectTox-Qt-GUI) - A cross-platform front end for ProjectTox Core library, written in C++11 with use of Qt5
-* [mrtazz/restclient-cpp](https://github.com/mrtazz/restclient-cpp) - C++ client for making HTTP/REST requests
-* [gwaldron/osgearth](https://github.com/gwaldron/osgearth) - A free open source C++ geospatial toolkit.
-* [dariomanesku/cmftStudio](https://github.com/dariomanesku/cmftStudio) - cmftStudio - GUI counterpart for:
 * [junhyukoh/caffe-lstm](https://github.com/junhyukoh/caffe-lstm) - LSTM implementation on Caffe
-* [colobot/colobot](https://github.com/colobot/colobot) - Source code of open-source Colobot: Gold Edition project developed by Epsitec and TerranovaTeam
-* [dmlc/dmlc-core](https://github.com/dmlc/dmlc-core) - A common bricks library  for building scalable and portable distributed machine learning.
-* [ErisBlastar/cplusequality](https://github.com/ErisBlastar/cplusequality) - Feminist Software Foundation C+=, a new language for us feminists
+* [phoboslab/JavaScriptCore-iOS](https://github.com/phoboslab/JavaScriptCore-iOS) - Apple's JavaScript Engine, with modified project files for iOS
+* [clMathLibraries/clFFT](https://github.com/clMathLibraries/clFFT) - a software library containing FFT functions written in OpenCL
+* [dariomanesku/cmftStudio](https://github.com/dariomanesku/cmftStudio) - cmftStudio - GUI counterpart for:
+* [haptork/easyLambda](https://github.com/haptork/easyLambda) - data processing with modern C++ and MPI. Modular, parallel, based on data-flow with map and reduce.
+* [BloodAxe/OpenCV-Tutorial](https://github.com/BloodAxe/OpenCV-Tutorial) - A sample project demonstrating use of OpenCV library in iOS platform
+* [gto76/comp-cpp](https://github.com/gto76/comp-cpp) - Simple 4-bit virtual computer
+* [shadowsocks/libQtShadowsocks](https://github.com/shadowsocks/libQtShadowsocks) - A lightweight and ultra-fast shadowsocks library written in C++/Qt
+* [pfultz2/Fit](https://github.com/pfultz2/Fit) - C++ function utility library
 * [meganz/sdk](https://github.com/meganz/sdk) - MEGA C++ SDK
-* [BearishSun/BansheeEngine](https://github.com/BearishSun/BansheeEngine) - A modern open source game development toolkit. It features low and high level engine systems, DirectX 11 and OpenGL support, complete asset pipeline, C# scripting support and a fully featured editor.
-* [randombit/botan](https://github.com/randombit/botan) - Crypto and TLS for C++11
+* [colobot/colobot](https://github.com/colobot/colobot) - Source code of open-source Colobot: Gold Edition project developed by Epsitec and TerranovaTeam
+* [fador/mineserver](https://github.com/fador/mineserver) - Custom Minecraft server software written in C++ for Windows and Linux
+* [Gladdy/EasyOpenCL](https://github.com/Gladdy/EasyOpenCL) - The easiest way to get started with OpenCL!
+* [dmlc/dmlc-core](https://github.com/dmlc/dmlc-core) - A common bricks library  for building scalable and portable distributed machine learning.
 * [Amanieu/asyncplusplus](https://github.com/Amanieu/asyncplusplus) - Async++ concurrency framework for C++11
+* [FidoProject/Fido](https://github.com/FidoProject/Fido) - A lightweight C++ machine learning library for embedded electronics and robotics.
+* [nurupo/ProjectTox-Qt-GUI](https://github.com/nurupo/ProjectTox-Qt-GUI) - A cross-platform front end for ProjectTox Core library, written in C++11 with use of Qt5
+* [bolero-MURAKAMI/Sprout](https://github.com/bolero-MURAKAMI/Sprout) - C++11/14 constexpr based Containers, Algorithms, Random numbers, Parsing, Ray tracing, Synthesizer, and others.
 * [milesburton/Arduino-Temperature-Control-Library](https://github.com/milesburton/Arduino-Temperature-Control-Library) - Arduino plug and go library for the Maxim (previously Dallas) DS18B20 (and similar) temperature ICs
+* [pmoulon/CMVS-PMVS](https://github.com/pmoulon/CMVS-PMVS) - This software (CMVS) takes the output of a structure-from-motion (SfM) software as input, then decomposes the input images into a set of image clusters of managable size. An MVS software can be used to process each cluster independently and in parallel, where the union of reconstructions from all the clusters should not miss any details that can be otherwise obtained from the whole image set. CMVS should be used in conjunction with an SfM software Bundler and an MVS software PMVS2 (PMVS version 2).
+* [HeliumProject/Helium](https://github.com/HeliumProject/Helium) - C++ Frameworks and Game Engine
+* [graphql/libgraphqlparser](https://github.com/graphql/libgraphqlparser) - A GraphQL query parser in C++ with C and C++ APIs
+* [mongodb/mongo-cxx-driver](https://github.com/mongodb/mongo-cxx-driver) - C++ Driver for MongoDB
+* [google/certificate-transparency](https://github.com/google/certificate-transparency) - Auditing for TLS certificates.
 * [botonchou/libdnn](https://github.com/botonchou/libdnn) - A lightweight and user friendly C++ library for deep and convolutional neural network with GPU acceleration
 * [qiniu/cerl](https://github.com/qiniu/cerl) - CERL2.0 - Erlang Model for C++
-* [graphql/libgraphqlparser](https://github.com/graphql/libgraphqlparser) - A GraphQL query parser in C++ with C and C++ APIs
-* [HeliumProject/Helium](https://github.com/HeliumProject/Helium) - C++ Frameworks and Game Engine
-* [bolero-MURAKAMI/Sprout](https://github.com/bolero-MURAKAMI/Sprout) - C++11/14 constexpr based Containers, Algorithms, Random numbers, Parsing, Ray tracing, Synthesizer, and others.
-* [mongodb/mongo-cxx-driver](https://github.com/mongodb/mongo-cxx-driver) - C++ Driver for MongoDB
 * [kennykerr/modern](https://github.com/kennykerr/modern) - Modern C++ for the Windows Runtime
-* [shadowsocks/libQtShadowsocks](https://github.com/shadowsocks/libQtShadowsocks) - A lightweight and ultra-fast shadowsocks library written in C++/Qt
-* [mtytel/cursynth](https://github.com/mtytel/cursynth) - GNU ncurses terminal synthesizer
-* [soomla/cocos2dx-store](https://github.com/soomla/cocos2dx-store) - Cocos2d-x in-app purchase & virtual economy library. Part of The SOOMLA Framework - for game design, economy modeling and faster development.
-* [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
-* [libspatialindex/libspatialindex](https://github.com/libspatialindex/libspatialindex) - C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API
-* [jdeng/rbm-mnist](https://github.com/jdeng/rbm-mnist) - C++ 11 implementation of  Geoff Hinton's Deep Learning matlab code
-* [pmoulon/CMVS-PMVS](https://github.com/pmoulon/CMVS-PMVS) - This software (CMVS) takes the output of a structure-from-motion (SfM) software as input, then decomposes the input images into a set of image clusters of managable size. An MVS software can be used to process each cluster independently and in parallel, where the union of reconstructions from all the clusters should not miss any details that can be otherwise obtained from the whole image set. CMVS should be used in conjunction with an SfM software Bundler and an MVS software PMVS2 (PMVS version 2).
-* [zrax/pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
-* [pfultz2/Linq](https://github.com/pfultz2/Linq) - Linq for list comprehension in C++
-* [rprichard/sourceweb](https://github.com/rprichard/sourceweb) - C/C++ source code indexer and navigator
-* [adafruit/Adafruit_CC3000_Library](https://github.com/adafruit/Adafruit_CC3000_Library) - Library code for Adafruit's CC3000 WiFi breakouts &c
-* [WL-Amigo/waifu2x-converter-cpp](https://github.com/WL-Amigo/waifu2x-converter-cpp) - waifu2x(original : https://github.com/nagadomi/waifu2x) re-implementation in C++ using OpenCV [NO LONGER UPDATED]
-* [plenluno/libnode](https://github.com/plenluno/libnode) - C++ implementation of Node.js
-* [kohler/click](https://github.com/kohler/click) - The Click modular router: fast modular packet processing and analysis
-* [plasma-umass/coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
-* [google/certificate-transparency](https://github.com/google/certificate-transparency) - Auditing for TLS certificates.
-* [kashif/node-cuda](https://github.com/kashif/node-cuda) - NVIDIA CUDA™ bindings for Node.js
-* [pennyliang/MachineLearning-C---code](https://github.com/pennyliang/MachineLearning-C---code) - using c++ code to show the example of machine learning
-* [imageworks/OpenColorIO](https://github.com/imageworks/OpenColorIO) - A color management framework for visual effects and animation.
-* [pmed/v8pp](https://github.com/pmed/v8pp) - Bind C++ functions and classes into V8 JavaScript engine
-* [mikeizbicki/ucr-cs100](https://github.com/mikeizbicki/ucr-cs100) - open source software construction course
-* [crawl/crawl](https://github.com/crawl/crawl) - Dungeon Crawl: Stone Soup official repository
-* [woboq/woboq_codebrowser](https://github.com/woboq/woboq_codebrowser) - Woboq CodeBrowser
-* [YCAMInterlab/ProCamToolkit](https://github.com/YCAMInterlab/ProCamToolkit) - Research and development of a new toolkit for projector-camera calibration at YCAM.
-* [zeromq/cppzmq](https://github.com/zeromq/cppzmq) - C++ binding for 0MQ
-* [TonicAudio/Tonic](https://github.com/TonicAudio/Tonic) - Easy and efficient audio synthesis in C++
-* [Arkania/ArkCORE](https://github.com/Arkania/ArkCORE) - ArkCORE is a World of Warcraft game server application. It is derived from TrinityCore, the Massive Network Game Object Server, and is based on the code of that project. Supported Client 4.0.6
-* [zhangshine/MdCharm](https://github.com/zhangshine/MdCharm) - MdCharm Source Code
-* [lemire/FastPFor](https://github.com/lemire/FastPFor) - The FastPFOR C++ library: Fast integer compression
-* [vinipsmaker/tufao](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt
-* [Proj-Ascension/Client](https://github.com/Proj-Ascension/Client) - Client repository for the Project Ascension game launcher.
-* [bbcrd/audiowaveform](https://github.com/bbcrd/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files
-* [CGAL/cgal](https://github.com/CGAL/cgal) - The public CGAL repository
-* [CE-Programming/CEmu](https://github.com/CE-Programming/CEmu) - Third-party TI-84 Plus CE / TI-83 Premium CE calculator emulator with developer features
-* [fsaintjacques/disruptor--](https://github.com/fsaintjacques/disruptor--) - disruptor concurency pattern in c++
-* [supertuxkart/stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
-* [mattbierner/Super-Template-Tetris](https://github.com/mattbierner/Super-Template-Tetris) - Tetris as a C++ Template Metaprogram
-* [julianshen/ScreenCap](https://github.com/julianshen/ScreenCap) - Screen capture for Android
-* [cat/cat](https://github.com/cat/cat) - C++14 functional library
-* [BartoszMilewski/Okasaki](https://github.com/BartoszMilewski/Okasaki) - Functional data structures in C++
-* [meta-toolkit/meta](https://github.com/meta-toolkit/meta) - A Modern C++ Data Sciences Toolkit
-* [mrnugget/opencv-haar-classifier-training](https://github.com/mrnugget/opencv-haar-classifier-training) - Learn how to train your own OpenCV Haar classifier
-* [JosephP91/curlcpp](https://github.com/JosephP91/curlcpp) - An object oriented C++ wrapper for CURL (libcurl)
-* [sourcey/libsourcey](https://github.com/sourcey/libsourcey) - C++11 evented IO for realtime video streaming and high performance networking applications
-* [scriptdev2/scriptdev2](https://github.com/scriptdev2/scriptdev2) - Replacement for the Script Library that comes with MaNGOS, written in C++ and is compatible with both Windows and Linux. SQL supports MySQL and PGSql.
-* [miguelmartin75/anax](https://github.com/miguelmartin75/anax) - An open source C++ entity system.
-* [card-io/card.io-Android-source](https://github.com/card-io/card.io-Android-source) - The open-source code for the card.io-Android-SDK: provides fast, easy credit card scanning in mobile apps
-* [jfalcou/nt2](https://github.com/jfalcou/nt2) - The Numerical Template Toolbox - C++ Scientific Computing Made Easy
-* [hjiang/jsonxx](https://github.com/hjiang/jsonxx) - A JSON parser in C++
-* [wjwwood/serial](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++
-* [preshing/cpp11-on-multicore](https://github.com/preshing/cpp11-on-multicore) - Various synchronization primitives for multithreaded applications in C++11.
-* [dariomanesku/cmft](https://github.com/dariomanesku/cmft) - Cross-platform open-source command-line cubemap filtering tool.
-* [geometer/FBReader](https://github.com/geometer/FBReader) - Official FBReader C++ project repository
-* [Whales/Cataclysm](https://github.com/Whales/Cataclysm) - A post-apocalyptic roguelike.
-* [yyzybb537/libgo](https://github.com/yyzybb537/libgo) - C++ coroutine library, likes golang
-* [aptogo/OpenCVForiPhone](https://github.com/aptogo/OpenCVForiPhone) - OpenCV build for iPhone with example project
-* [oxygine/oxygine-framework](https://github.com/oxygine/oxygine-framework) - Oxygine is C++ engine and framework for 2D games on iOS, Android, Windows, Linux and Mac
-* [HSA-Libraries/Bolt](https://github.com/HSA-Libraries/Bolt) - Bolt is a C++ template library optimized for GPUs. Bolt provides high-performance library implementations for common algorithms such as scan, reduce, transform, and sort.
-* [udoprog/c10t](https://github.com/udoprog/c10t) - A minecraft cartography tool
-* [pezy/LeetCode](https://github.com/pezy/LeetCode) - :pencil2: LeetCode solutions in C++ 11
-* [paulftw/hiberlite](https://github.com/paulftw/hiberlite) - C++ ORM for SQLite
-* [log4cplus/log4cplus](https://github.com/log4cplus/log4cplus) - log4cplus is a simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration. It is modelled after the Java log4j API.
-* [SuperV1234/SSVOpenHexagon](https://github.com/SuperV1234/SSVOpenHexagon) - C++14 open source clone of "Super Hexagon". Depends on SSVStart, SSVEntitySystem, SSVLuaWrapper, SSVMenuSystem, JSONcpp, SFML2.0. Features JSON/LUA customizable game files, a soundtrack by BOSSFIGHT, pseudo-3D effects. I need someone to maintain the Linux port, and someone to create and maintain an OSX port.
-* [esbanarango/Competitive-Programming](https://github.com/esbanarango/Competitive-Programming) - My solutions from different contests and online Judge.
 * [amd/OpenCL-caffe](https://github.com/amd/OpenCL-caffe) - OpenCL version of caffe developed by AMD research lab
-* [esnme/ultramemcache](https://github.com/esnme/ultramemcache) - Ultra fast memcache client written in highly optimized C++ with Python bindings.
-* [sandym/swiftpp](https://github.com/sandym/swiftpp) - A C++ to swift bridge implemented as a clang tool
-* [jdeng/word2vec](https://github.com/jdeng/word2vec) - Word2Vec in C++ 11
-* [Constellation/iv](https://github.com/Constellation/iv) - ECMAScript Lexer / Parser / Interpreter / VM / method JIT written in C++
-* [lloeki/xbox_one_controller](https://github.com/lloeki/xbox_one_controller) - HID-compliant Xbox One Controller driver for OS X
-* [datasift/served](https://github.com/datasift/served) - A C++11 RESTful web server library
+* [crawl/crawl](https://github.com/crawl/crawl) - Dungeon Crawl: Stone Soup official repository
+* [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
+* [CGAL/cgal](https://github.com/CGAL/cgal) - The public CGAL repository
+* [mtytel/cursynth](https://github.com/mtytel/cursynth) - GNU ncurses terminal synthesizer
+* [libspatialindex/libspatialindex](https://github.com/libspatialindex/libspatialindex) - C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API
+* [sourcey/libsourcey](https://github.com/sourcey/libsourcey) - C++11 evented IO for realtime video streaming and high performance networking applications
+* [zrax/pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
+* [TwoLivesLeft/Codea-Runtime](https://github.com/TwoLivesLeft/Codea-Runtime) - Codea Runtime Library for iPad by Two Lives Left
+* [jdeng/rbm-mnist](https://github.com/jdeng/rbm-mnist) - C++ 11 implementation of  Geoff Hinton's Deep Learning matlab code
+* [pmed/v8pp](https://github.com/pmed/v8pp) - Bind C++ functions and classes into V8 JavaScript engine
+* [pfultz2/Linq](https://github.com/pfultz2/Linq) - Linq for list comprehension in C++
+* [vinipsmaker/tufao](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt
+* [soomla/cocos2dx-store](https://github.com/soomla/cocos2dx-store) - Cocos2d-x in-app purchase & virtual economy library. Part of The SOOMLA Framework - for game design, economy modeling and faster development.
+* [plenluno/libnode](https://github.com/plenluno/libnode) - C++ implementation of Node.js
+* [oxygine/oxygine-framework](https://github.com/oxygine/oxygine-framework) - Oxygine is C++ engine and framework for 2D games on iOS, Android, Windows, Linux and Mac
+* [kohler/click](https://github.com/kohler/click) - The Click modular router: fast modular packet processing and analysis
 * [Corvusoft/restbed](https://github.com/Corvusoft/restbed) - Corvusoft's Restbed framework brings asynchronous RESTful functionality to C++11 applications.
-* [frida/cryptoshark](https://github.com/frida/cryptoshark) - Self-optimizing cross-platform code tracer based on dynamic recompilation
-* [paulnasca/paulstretch_cpp](https://github.com/paulnasca/paulstretch_cpp) - PaulStretch
-* [louisdx/cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A header-only library for C++(0x) that allows automagic pretty-printing of any container.
-* [swisspol/ComicFlow](https://github.com/swisspol/ComicFlow) - Full source code for the ComicFlow comic reader for iPad
-* [spex66/RTSP-Camera-for-Android](https://github.com/spex66/RTSP-Camera-for-Android) - Android based RTSP Server which is able to serve live camera view to multiple RTSP clients, such as VLC.
-* [mutse/qt5-book-code](https://github.com/mutse/qt5-book-code) - Porting source code of the book C++ GUI Programming with Qt 4 from Qt4 to Qt5
-* [metashell/metashell](https://github.com/metashell/metashell) - C++ metaprogramming shell
-* [matt-42/vpp](https://github.com/matt-42/vpp) - Video++, a C++14 high performance video and image processing library.
-* [yedf/handy](https://github.com/yedf/handy) - 简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework
-* [ruben2020/codequery](https://github.com/ruben2020/codequery) - A code-understanding,  code-browsing or code-search tool. This is a tool to index, then query or search C, C++, Java, Python, Ruby, Go and Javascript source code. It builds upon the databases of cscope and ctags, and provides a nice GUI tool.
+* [zhangshine/MdCharm](https://github.com/zhangshine/MdCharm) - MdCharm Source Code
+* [mikeizbicki/ucr-cs100](https://github.com/mikeizbicki/ucr-cs100) - open source software construction course
+* [kashif/node-cuda](https://github.com/kashif/node-cuda) - NVIDIA CUDA™ bindings for Node.js
+* [card-io/card.io-Android-source](https://github.com/card-io/card.io-Android-source) - The open-source code for the card.io-Android-SDK: provides fast, easy credit card scanning in mobile apps
+* [WL-Amigo/waifu2x-converter-cpp](https://github.com/WL-Amigo/waifu2x-converter-cpp) - waifu2x(original : https://github.com/nagadomi/waifu2x) re-implementation in C++ using OpenCV [NO LONGER UPDATED]
+* [supertuxkart/stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
+* [plasma-umass/coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
+* [rprichard/sourceweb](https://github.com/rprichard/sourceweb) - C/C++ source code indexer and navigator
+* [clab/cnn](https://github.com/clab/cnn) - C++ neural network library
+* [zeromq/cppzmq](https://github.com/zeromq/cppzmq) - C++ binding for 0MQ
+* [pezy/LeetCode](https://github.com/pezy/LeetCode) - :pencil2: LeetCode solutions in C++ 11
+* [pennyliang/MachineLearning-C---code](https://github.com/pennyliang/MachineLearning-C---code) - using c++ code to show the example of machine learning
+* [miguelmartin75/anax](https://github.com/miguelmartin75/anax) - An open source C++ entity system.
+* [lemire/FastPFor](https://github.com/lemire/FastPFor) - The FastPFOR C++ library: Fast integer compression
+* [imageworks/OpenColorIO](https://github.com/imageworks/OpenColorIO) - A color management framework for visual effects and animation.
+* [adafruit/Adafruit_CC3000_Library](https://github.com/adafruit/Adafruit_CC3000_Library) - Library code for Adafruit's CC3000 WiFi breakouts &c
+* [bbcrd/audiowaveform](https://github.com/bbcrd/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files
+* [BartoszMilewski/Okasaki](https://github.com/BartoszMilewski/Okasaki) - Functional data structures in C++
+* [wjwwood/serial](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++
+* [TonicAudio/Tonic](https://github.com/TonicAudio/Tonic) - Easy and efficient audio synthesis in C++
+* [preshing/cpp11-on-multicore](https://github.com/preshing/cpp11-on-multicore) - Various synchronization primitives for multithreaded applications in C++11.
+* [woboq/woboq_codebrowser](https://github.com/woboq/woboq_codebrowser) - Woboq CodeBrowser
+* [log4cplus/log4cplus](https://github.com/log4cplus/log4cplus) - log4cplus is a simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration. It is modelled after the Java log4j API.
+* [dariomanesku/cmft](https://github.com/dariomanesku/cmft) - Cross-platform open-source command-line cubemap filtering tool.
+* [JosephP91/curlcpp](https://github.com/JosephP91/curlcpp) - An object oriented C++ wrapper for CURL (libcurl)
+* [YCAMInterlab/ProCamToolkit](https://github.com/YCAMInterlab/ProCamToolkit) - Research and development of a new toolkit for projector-camera calibration at YCAM.
 * [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave) - a C++ and DotNet library to control Z-Wave Networks via a Z-Wave Controller.
-* [readium/readium-sdk](https://github.com/readium/readium-sdk) - A C++ ePub renderer SDK of similar capability to Adobe's RMSDK.
-* [jeaye/stdman](https://github.com/jeaye/stdman) - Formatted C++17 stdlib man pages (cppreference)
+* [hjiang/jsonxx](https://github.com/hjiang/jsonxx) - A JSON parser in C++
+* [Arkania/ArkCORE](https://github.com/Arkania/ArkCORE) - ArkCORE is a World of Warcraft game server application. It is derived from TrinityCore, the Massive Network Game Object Server, and is based on the code of that project. Supported Client 4.0.6
+* [fsaintjacques/disruptor--](https://github.com/fsaintjacques/disruptor--) - disruptor concurency pattern in c++
+* [dpayne/cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
+* [CE-Programming/CEmu](https://github.com/CE-Programming/CEmu) - A developer-oriented emulator of the eZ80-based TI-84 Plus CE / TI-83 Premium CE calculators
+* [julianshen/ScreenCap](https://github.com/julianshen/ScreenCap) - Screen capture for Android
+* [meta-toolkit/meta](https://github.com/meta-toolkit/meta) - A Modern C++ Data Sciences Toolkit
+* [Proj-Ascension/Client](https://github.com/Proj-Ascension/Client) - Client repository for Project Ascension, an open source game launcher.
+* [mattbierner/Super-Template-Tetris](https://github.com/mattbierner/Super-Template-Tetris) - Tetris as a C++ Template Metaprogram
+* [ThePhD/sol2](https://github.com/ThePhD/sol2) - Sol v2.0 - a C++ <-> Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
+* [jfalcou/nt2](https://github.com/jfalcou/nt2) - The Numerical Template Toolbox - C++ Scientific Computing Made Easy
+* [geometer/FBReader](https://github.com/geometer/FBReader) - Official FBReader C++ project repository
+* [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
+* [paulftw/hiberlite](https://github.com/paulftw/hiberlite) - C++ ORM for SQLite
+* [sandym/swiftpp](https://github.com/sandym/swiftpp) - A C++ to swift bridge implemented as a clang tool
 * [boost-experimental/di](https://github.com/boost-experimental/di) - Boost.DI: C++14 Dependency Injection Library
-* [unittest-cpp/unittest-cpp](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++
-* [idmillington/cyclone-physics](https://github.com/idmillington/cyclone-physics) - The Physics engine that accompanies the book "Game Physics Engine Design"
-* [bsdnoobz/opencv-code](https://github.com/bsdnoobz/opencv-code) - C++ and Python code extracted from the tutorials at http://opencv-code.com
-* [krohling/ArduinoWebsocketClient](https://github.com/krohling/ArduinoWebsocketClient) - Websocket client for Arduino
-* [juj/MathGeoLib](https://github.com/juj/MathGeoLib) - A C++ library for linear algebra and geometry manipulation for computer graphics.
-* [cinemast/libjson-rpc-cpp](https://github.com/cinemast/libjson-rpc-cpp) - C++ framework for json-rpc (json remote procedure call)
-* [Juniper/contrail-controller](https://github.com/Juniper/contrail-controller) - Contrail Controller
-* [scipr-lab/libsnark](https://github.com/scipr-lab/libsnark) - libsnark: a C++ library for zkSNARK proofs
-* [opengm/opengm](https://github.com/opengm/opengm) - A C++ Library for Discrete Graphical Models
-* [HunanTV/redis-cerberus](https://github.com/HunanTV/redis-cerberus) - Redis Cluster Proxy
-* [facebook/facebook-clang-plugins](https://github.com/facebook/facebook-clang-plugins) - Plugins to clang-analyzer and clang-frontend
-* [dropbox/nn](https://github.com/dropbox/nn) - Non-nullable pointers for C++
-* [ukoethe/vigra](https://github.com/ukoethe/vigra) - a generic C++ library for image analysis
-* [mgdm/OpenCV-for-PHP](https://github.com/mgdm/OpenCV-for-PHP) - An OpenCV binding for PHP
-* [emilk/loguru](https://github.com/emilk/loguru) - A lightweight C++ logging library
+* [aptogo/OpenCVForiPhone](https://github.com/aptogo/OpenCVForiPhone) - OpenCV build for iPhone with example project
+* [datasift/served](https://github.com/datasift/served) - A C++11 RESTful web server library
+* [cat/cat](https://github.com/cat/cat) - C++14 functional library
+* [SuperV1234/SSVOpenHexagon](https://github.com/SuperV1234/SSVOpenHexagon) - C++14 open source clone of "Super Hexagon". Depends on SSVStart, SSVEntitySystem, SSVLuaWrapper, SSVMenuSystem, JSONcpp, SFML2.0. Features JSON/LUA customizable game files, a soundtrack by BOSSFIGHT, pseudo-3D effects. I need someone to maintain the Linux port, and someone to create and maintain an OSX port.
+* [scriptdev2/scriptdev2](https://github.com/scriptdev2/scriptdev2) - Replacement for the Script Library that comes with MaNGOS, written in C++ and is compatible with both Windows and Linux. SQL supports MySQL and PGSql.
+* [HSA-Libraries/Bolt](https://github.com/HSA-Libraries/Bolt) - Bolt is a C++ template library optimized for GPUs. Bolt provides high-performance library implementations for common algorithms such as scan, reduce, transform, and sort.
+* [HowardHinnant/date](https://github.com/HowardHinnant/date) - A date and time library based on the C++11 (and beyond) <chrono> header
 * [cnjinhao/nana](https://github.com/cnjinhao/nana) - a modern C++ GUI library
-* [kimwalisch/primesieve](https://github.com/kimwalisch/primesieve) - Fast C/C++ prime number generator
+* [jdeng/word2vec](https://github.com/jdeng/word2vec) - Word2Vec in C++ 11
+* [paulnasca/paulstretch_cpp](https://github.com/paulnasca/paulstretch_cpp) - PaulStretch
+* [matt-42/vpp](https://github.com/matt-42/vpp) - Video++, a C++14 high performance video and image processing library.
+* [Whales/Cataclysm](https://github.com/Whales/Cataclysm) - A post-apocalyptic roguelike.
+* [jeaye/stdman](https://github.com/jeaye/stdman) - Formatted C++17 stdlib man pages (cppreference)
+* [Constellation/iv](https://github.com/Constellation/iv) - ECMAScript Lexer / Parser / Interpreter / VM / method JIT written in C++
+* [swisspol/ComicFlow](https://github.com/swisspol/ComicFlow) - Full source code for the ComicFlow comic reader for iPad
+* [louisdx/cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A header-only library for C++(0x) that allows automagic pretty-printing of any container.
+* [esbanarango/Competitive-Programming](https://github.com/esbanarango/Competitive-Programming) - My solutions from different contests and online Judge.
+* [spex66/RTSP-Camera-for-Android](https://github.com/spex66/RTSP-Camera-for-Android) - Android based RTSP Server which is able to serve live camera view to multiple RTSP clients, such as VLC.
+* [udoprog/c10t](https://github.com/udoprog/c10t) - A minecraft cartography tool
+* [metashell/metashell](https://github.com/metashell/metashell) - C++ metaprogramming shell
+* [mutse/qt5-book-code](https://github.com/mutse/qt5-book-code) - Porting source code of the book C++ GUI Programming with Qt 4 from Qt4 to Qt5
+* [frida/cryptoshark](https://github.com/frida/cryptoshark) - Self-optimizing cross-platform code tracer based on dynamic recompilation
+* [esnme/ultramemcache](https://github.com/esnme/ultramemcache) - Ultra fast memcache client written in highly optimized C++ with Python bindings.
+* [lballabio/QuantLib](https://github.com/lballabio/QuantLib) - The QuantLib C++ library
+* [lloeki/xbox_one_controller](https://github.com/lloeki/xbox_one_controller) - HID-compliant Xbox One Controller driver for OS X
+* [cztomczak/cefpython](https://github.com/cztomczak/cefpython) - Python bindings for the Chromium Embedded Framework.  ★ Forum:
+* [ruben2020/codequery](https://github.com/ruben2020/codequery) - A code-understanding,  code-browsing or code-search tool. This is a tool to index, then query or search C, C++, Java, Python, Ruby, Go and Javascript source code. It builds upon the databases of cscope and ctags, and provides a nice GUI tool.
+* [cinemast/libjson-rpc-cpp](https://github.com/cinemast/libjson-rpc-cpp) - C++ framework for json-rpc (json remote procedure call)
+* [unittest-cpp/unittest-cpp](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++
+* [opengm/opengm](https://github.com/opengm/opengm) - A C++ Library for Discrete Graphical Models
+* [Juniper/contrail-controller](https://github.com/Juniper/contrail-controller) - Contrail Controller
 * [ideawu/sim](https://github.com/ideawu/sim) - Simple C++ network server framework
 * [chokkan/crfsuite](https://github.com/chokkan/crfsuite) - CRFsuite: a fast implementation of Conditional Random Fields (CRFs)
+* [juj/MathGeoLib](https://github.com/juj/MathGeoLib) - A C++ library for linear algebra and geometry manipulation for computer graphics.
 * [jbandela/stackless_coroutine](https://github.com/jbandela/stackless_coroutine) - Use C++14 generic lambdas to simulate stackless coroutines without macros or type erasure.
-* [HowardHinnant/date](https://github.com/HowardHinnant/date) - A date and time library based on the C++11 (and beyond) <chrono> header
-* [edubart/otclient](https://github.com/edubart/otclient) - An alternative tibia client for otserv written in C++2011, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize
-* [dpayne/cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
-* [chukong/CocosStudioSamples](https://github.com/chukong/CocosStudioSamples) - Samples For Cocos Studio
+* [HunanTV/redis-cerberus](https://github.com/HunanTV/redis-cerberus) - Redis Cluster Proxy
+* [ukoethe/vigra](https://github.com/ukoethe/vigra) - a generic C++ library for image analysis
+* [krohling/ArduinoWebsocketClient](https://github.com/krohling/ArduinoWebsocketClient) - Websocket client for Arduino
+* [kimwalisch/primesieve](https://github.com/kimwalisch/primesieve) - Fast C/C++ prime number generator
+* [bsdnoobz/opencv-code](https://github.com/bsdnoobz/opencv-code) - C++ and Python code extracted from the tutorials at http://opencv-code.com
+* [scipr-lab/libsnark](https://github.com/scipr-lab/libsnark) - libsnark: a C++ library for zkSNARK proofs
+* [idmillington/cyclone-physics](https://github.com/idmillington/cyclone-physics) - The Physics engine that accompanies the book "Game Physics Engine Design"
+* [emilk/loguru](https://github.com/emilk/loguru) - A lightweight C++ logging library
+* [csmith-project/csmith](https://github.com/csmith-project/csmith) - Csmith, a random generator of C programs
+* [facebook/facebook-clang-plugins](https://github.com/facebook/facebook-clang-plugins) - Plugins to clang-analyzer and clang-frontend
+* [takmin/OpenCV-Marker-less-AR](https://github.com/takmin/OpenCV-Marker-less-AR) - This is a marker less augmented reality application developed using OpenCV. This code can be used under MIT license.  Demo movie: http://youtu.be/KgQguj78qMA
+* [mgdm/OpenCV-for-PHP](https://github.com/mgdm/OpenCV-for-PHP) - An OpenCV binding for PHP
+* [luceneplusplus/LucenePlusPlus](https://github.com/luceneplusplus/LucenePlusPlus) - Lucene++ is an up to date C++ port of the popular Java Lucene library, a high-performance, full-featured text search engine.
 * [sphair/ClanLib](https://github.com/sphair/ClanLib) - ClanLib is a cross platform C++ toolkit library.
-* [indutny/candor](https://github.com/indutny/candor) - Experimental VM for a `Candor` language
-* [ProjectSkyfire/SkyFire.548](https://github.com/ProjectSkyfire/SkyFire.548) - SkyFireEMU is a full featured World of Warcraft: Mists of Pandaria emulator written in C++. || Compatible with World of Warcraft client 5.4.8 (Build: 18414)
+* [dropbox/nn](https://github.com/dropbox/nn) - Non-nullable pointers for C++
+* [alexgkendall/caffe-segnet](https://github.com/alexgkendall/caffe-segnet) - Implementation of SegNet: A Deep Convolutional Encoder-Decoder Architecture for Semantic Pixel-Wise Labelling
 * [rpwoodbu/mosh-chrome](https://github.com/rpwoodbu/mosh-chrome) - Mosh for Chrome
-* [VerbalExpressions/CppVerbalExpressions](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy
+* [jlblancoc/nanoflann](https://github.com/jlblancoc/nanoflann) - nanoflann: a C++ header-only library for Nearest Neighbor (NN) search wih KD-trees
+* [edubart/otclient](https://github.com/edubart/otclient) - An alternative tibia client for otserv written in C++2011, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize
+* [OpenCPN/OpenCPN](https://github.com/OpenCPN/OpenCPN) - A concise ChartPlotter/Navigator. A cross-platform ship-borne GUI application supporting * GPS/GPDS Postition Input * BSB Raster Chart Display * S57 Vector ENChart Display * AIS Input Decoding * Waypoint Autopilot Navigation
+* [google/google-api-cpp-client](https://github.com/google/google-api-cpp-client) - The core C++ SK for using Google APIs
+* [edouarda/brigand](https://github.com/edouarda/brigand) - small and powerful C++ 11 MPL
+* [RcppCore/Rcpp](https://github.com/RcppCore/Rcpp) - Seamless R and C++ Integration
+* [chukong/CocosStudioSamples](https://github.com/chukong/CocosStudioSamples) - Samples For Cocos Studio
+* [TadasBaltrusaitis/CLM-framework](https://github.com/TadasBaltrusaitis/CLM-framework) - CLM-framework (a.k.a Cambridge Face Tracker) is a framework for various Constrained Local Model based face tracking and landmark detection algorithms and their extensions/applications. Includes CLM-Z and CLNF.
+* [maniacbug/StandardCplusplus](https://github.com/maniacbug/StandardCplusplus) - Standard C++ for Arduino (port of uClibc++)
+* [googlesamples/tango-examples-c](https://github.com/googlesamples/tango-examples-c) - JNI example projects for Project Tango C-API
+* [cmangos/mangos-classic](https://github.com/cmangos/mangos-classic) - C(ontinued)-MaNGOS (Classic fork) is about: -- Doing WoW-Emulation Right!
 * [mikaelpatel/Cosa](https://github.com/mikaelpatel/Cosa) - An Object-Oriented Platform for Arduino/AVR Programming.
-* [robinst/taglib-ruby](https://github.com/robinst/taglib-ruby) - Ruby interface for the TagLib C++ library, for reading and writing meta-data (tags) of many audio formats
-* [lzhang10/maxent](https://github.com/lzhang10/maxent) - Maximum Entropy Modeling Toolkit for Python and C++
 * [libbitcoin/libbitcoin](https://github.com/libbitcoin/libbitcoin) - Bitcoin Cross-Platform C++ Development Toolkit
 * [calamares/calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework
-* [stubma/cocos2dx-better](https://github.com/stubma/cocos2dx-better) - Better cocos2d-x, without modifying cocos2d-x code. Better UI controls, better utilities, better compatibility
-* [percyliang/brown-cluster](https://github.com/percyliang/brown-cluster) - C++ implementation of the Brown word clustering algorithm.
-* [maniacbug/StandardCplusplus](https://github.com/maniacbug/StandardCplusplus) - Standard C++ for Arduino (port of uClibc++)
-* [eerolanguage/clang](https://github.com/eerolanguage/clang) - This was the working repo for Eero changes to clang. Please build using llvm from this project. See eerolanguage/eero for example code, issue tracking, and the project wiki
-* [RcppCore/Rcpp](https://github.com/RcppCore/Rcpp) - Seamless R and C++ Integration
-* [OpenCPN/OpenCPN](https://github.com/OpenCPN/OpenCPN) - A concise ChartPlotter/Navigator. A cross-platform ship-borne GUI application supporting * GPS/GPDS Postition Input * BSB Raster Chart Display * S57 Vector ENChart Display * AIS Input Decoding * Waypoint Autopilot Navigation
-* [mrtazz/plustache](https://github.com/mrtazz/plustache) - {{mustaches}} for C++
-* [datastax/cpp-driver](https://github.com/datastax/cpp-driver) - DataStax C/C++ Driver for Apache Cassandra
-* [typcn/LeanClub](https://github.com/typcn/LeanClub) - C++ forum system
-* [pluskid/pymmseg-cpp](https://github.com/pluskid/pymmseg-cpp) - rmmseg-cpp with Python interface
-* [jlblancoc/nanoflann](https://github.com/jlblancoc/nanoflann) - nanoflann: a C++ header-only library for Nearest Neighbor (NN) search wih KD-trees
-* [google/google-api-cpp-client](https://github.com/google/google-api-cpp-client) - The core C++ SK for using Google APIs
-* [pezmaster31/bamtools](https://github.com/pezmaster31/bamtools) - C++ API & command-line toolkit for working with BAM data
-* [andyfischer/circa](https://github.com/andyfischer/circa) - A programming language for live coding
-* [CaptainCrowbar/unicorn-lib](https://github.com/CaptainCrowbar/unicorn-lib) - Unicode library for C++
-* [luceneplusplus/LucenePlusPlus](https://github.com/luceneplusplus/LucenePlusPlus) - Lucene++ is an up to date C++ port of the popular Java Lucene library, a high-performance, full-featured text search engine.
-* [google/double-conversion](https://github.com/google/double-conversion) - Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.
-* [LibreOffice/core](https://github.com/LibreOffice/core) - Read-only LibreOffice core repo - no pull request
-* [lemire/EWAHBoolArray](https://github.com/lemire/EWAHBoolArray) - A compressed bitmap class in C++.
-* [taylor001/crown](https://github.com/taylor001/crown) - The flexible game engine.
-* [TadasBaltrusaitis/CLM-framework](https://github.com/TadasBaltrusaitis/CLM-framework) - CLM-framework (a.k.a Cambridge Face Tracker) is a framework for various Constrained Local Model based face tracking and landmark detection algorithms and their extensions/applications. Includes CLM-Z and CLNF.
-* [cmangos/mangos-classic](https://github.com/cmangos/mangos-classic) - C(ontinued)-MaNGOS (Classic fork) is about: -- Doing WoW-Emulation Right!
 * [AustinBrunkhorst/CPP-Reflection](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection Parser / Runtime Skeleton
-* [sumeetchhetri/ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development, c++ framework, c++ web framework, c++ application framework, c++ rest framework, c++ soap framework, c++ web sites,c++ web applications, c++ driven web development - c++
-* [rdp/virtual-audio-capture-grabber-device](https://github.com/rdp/virtual-audio-capture-grabber-device) - free audio capture device to capture all the "wave out sound" that is playing on your speakers  (i.e. record what you hear) for Windows 7/Vista.  Releases downloadable in this package:
-* [emil-e/rapidcheck](https://github.com/emil-e/rapidcheck) - QuickCheck clone for C++ with the goal of being simple to use with as little boilerplate as possible.
-* [cdmh/mapreduce](https://github.com/cdmh/mapreduce) - C++ MapReduce Library for efficient multi-threading on single-machine
-* [csmith-project/csmith](https://github.com/csmith-project/csmith) - Csmith, a random generator of C programs
-* [edouarda/brigand](https://github.com/edouarda/brigand) - small and powerful C++ 11 MPL
-* [deeplearningais/CUV](https://github.com/deeplearningais/CUV) - Matrix library for CUDA in C++ and Python
-* [thestk/rtaudio](https://github.com/thestk/rtaudio) - A set of C++ classes that provide a common API for realtime audio input/output across Linux (native ALSA, JACK, PulseAudio and OSS), Macintosh OS X (CoreAudio and JACK), and Windows (DirectSound, ASIO, and WASAPI) operating systems.
-* [vivkin/gason](https://github.com/vivkin/gason) - Lightweight and fast JSON parser for C++
-* [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser
-* [Netflix/NfWebCrypto](https://github.com/Netflix/NfWebCrypto) - Web Cryptography API Polyfill
-* [tromp/cuckoo](https://github.com/tromp/cuckoo) - a memory-bound graph-theoretic proof-of-work system
-* [rprichard/x11-canvas-screencast](https://github.com/rprichard/x11-canvas-screencast) - UNIX-to-HTML5-Canvas screencasting (X11 or OS X)
-* [fix8/fix8](https://github.com/fix8/fix8) - Modern open source C++ FIX framework featuring complete schema customisation, high performance and fast development.
-* [MaskRay/LeetCode](https://github.com/MaskRay/LeetCode) - Solutions of LeetCode Online Judge
-* [takmin/OpenCV-Marker-less-AR](https://github.com/takmin/OpenCV-Marker-less-AR) - This is a marker less augmented reality application developed using OpenCV. This code can be used under MIT license.  Demo movie: http://youtu.be/KgQguj78qMA
-* [nickbruun/hayai](https://github.com/nickbruun/hayai) - C++ benchmarking framework
-* [lballabio/QuantLib](https://github.com/lballabio/QuantLib) - The QuantLib C++ library
-* [googlesamples/tango-examples-c](https://github.com/googlesamples/tango-examples-c) - JNI example projects for Project Tango C-API
-* [amcewen/HttpClient](https://github.com/amcewen/HttpClient) - Arduino HTTP library
-* [vinova/Artemis-Cpp](https://github.com/vinova/Artemis-Cpp) - A C++ port of Artemis Entity System Framework
-* [numenta/nupic.core](https://github.com/numenta/nupic.core) - Implementation of core NuPIC algorithms in C++ (under construction)
-* [cocos2d/cocos2d-x-extensions](https://github.com/cocos2d/cocos2d-x-extensions) - samples games & code snips for cocos2d-x
-* [cmangos/mangos-wotlk](https://github.com/cmangos/mangos-wotlk) - C(ontinued)-MaNGOS is about: -- Doing WoW-Emulation Right!
-* [SonarOpenCommunity/sonar-cxx](https://github.com/SonarOpenCommunity/sonar-cxx) - This repository contains a SonarQube plugin implementing C++ support.
-* [p12tic/libsimdpp](https://github.com/p12tic/libsimdpp) - Header-only zero-overhead C++ wrapper for SIMD intrinsics of multiple instruction sets
-* [duckduckgo/cpp-libface](https://github.com/duckduckgo/cpp-libface) - Fastest auto-complete in the east
+* [VerbalExpressions/CppVerbalExpressions](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy
+* [ProjectSkyfire/SkyFire.548](https://github.com/ProjectSkyfire/SkyFire.548) - SkyFireEMU is a full featured World of Warcraft: Mists of Pandaria emulator written in C++. || Compatible with World of Warcraft client 5.4.8 (Build: 18414)
+* [percyliang/brown-cluster](https://github.com/percyliang/brown-cluster) - C++ implementation of the Brown word clustering algorithm.
+* [lzhang10/maxent](https://github.com/lzhang10/maxent) - Maximum Entropy Modeling Toolkit for Python and C++
+* [LibreOffice/core](https://github.com/LibreOffice/core) - Read-only LibreOffice core repo - no pull request
+* [indutny/candor](https://github.com/indutny/candor) - Experimental VM for a `Candor` language
+* [google/double-conversion](https://github.com/google/double-conversion) - Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.
+* [robinst/taglib-ruby](https://github.com/robinst/taglib-ruby) - Ruby interface for the TagLib C++ library, for reading and writing meta-data (tags) of many audio formats
 * [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
-* [blackberry/Cascades-Community-Samples](https://github.com/blackberry/Cascades-Community-Samples) - Samples authored by the Community showing how to use Cascades.
-* [leaningtech/cheerp-clang](https://github.com/leaningtech/cheerp-clang) - clang compiler including cheerp support
-* [c2lang/c2compiler](https://github.com/c2lang/c2compiler) - the c2 programming language
-* [lastfm/libmoost](https://github.com/lastfm/libmoost) - moost — Last.fm's collection of C++ utility libraries
-* [dermesser/libsocket](https://github.com/dermesser/libsocket) - The ultimate socket library for C and C++, supporting TCP, UDP and Unix sockets (DGRAM and STREAM) on Linux, FreeBSD, Solaris. Only ZMQ is better. Developer's documentation:
-* [dougbinks/enkiTS](https://github.com/dougbinks/enkiTS) - C++ and C multithreading task scheduler
-* [alexgkendall/caffe-segnet](https://github.com/alexgkendall/caffe-segnet) - Implementation of SegNet: A Deep Convolutional Encoder-Decoder Architecture for Semantic Pixel-Wise Labelling
-* [RC1140/cr-gpg](https://github.com/RC1140/cr-gpg) - A chrome plugin that enables gpg encryption and decryption for the gmail web interface
-* [haiwen/seafile-client](https://github.com/haiwen/seafile-client) - Seafile desktop client.
-* [vcflib/vcflib](https://github.com/vcflib/vcflib) - a simple C++ library for parsing and manipulating VCF files, + many command-line utilities
-* [libdynd/libdynd](https://github.com/libdynd/libdynd) - C++ dynamic ndarray library, with Python exposure
-* [imageworks/pystring](https://github.com/imageworks/pystring) - C++ functions matching the interface and behavior of python string methods with std::string
-* [ImageEngine/cortex](https://github.com/ImageEngine/cortex) - Libraries for visual effects software development
-* [foonathan/memory](https://github.com/foonathan/memory) - STL compatible C++ memory allocator library using a new RawAllocator concept that is similar to an Allocator but easier to use and write.
-* [facebook/thpp](https://github.com/facebook/thpp) - TH++, C++ interface to the torch7 TH library
-* [ThePhD/sol2](https://github.com/ThePhD/sol2) - Sol v2.0 - a C++ <-> Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
-* [marcogulino/AndroidUsbCamera](https://github.com/marcogulino/AndroidUsbCamera) - Android USB Camera Driver/Bridge for GNU/Linux
-* [macchina-io/macchina.io](https://github.com/macchina-io/macchina.io) - macchina.io is a toolkit for building IoT applications in JavaScript and C++
-* [blackberry/WebWorks-Community-APIs](https://github.com/blackberry/WebWorks-Community-APIs) - Community owned repository containing JavaScript Extensions for BlackBerry WebWorks
-* [Zerocoin/libzerocoin](https://github.com/Zerocoin/libzerocoin) - Zerocoin: C++ lib for anonymous extension to bitcoin
-* [DragonBones/DragonBonesCPP](https://github.com/DragonBones/DragonBonesCPP) - DragonBones C++ Library
-* [DigitalInBlue/Celero](https://github.com/DigitalInBlue/Celero) - C++ Benchmark Authoring Library/Framework
-* [rollbear/basicpp](https://github.com/rollbear/basicpp) - BASIC in C++
-* [powervr-graphics/Native_SDK](https://github.com/powervr-graphics/Native_SDK) - C++ cross-platform 3D graphics SDK. Includes demos & helper code (resource loading etc.) to speed up development of Vulkan, OpenGL ES 1.x, 2.0 & 3.x applications
-* [joakimkarlsson/bandit](https://github.com/joakimkarlsson/bandit) - Human friendly unit testing for C++11
-* [headmyshoulder/odeint-v2](https://github.com/headmyshoulder/odeint-v2) - odeint - solving ordinary differential equations in c++ v2
-* [eranpeer/FakeIt](https://github.com/eranpeer/FakeIt) - C++ mocking made easy. A simple yet very expressive, headers only library for c++ mocking.
-* [dhbaird/easywsclient](https://github.com/dhbaird/easywsclient) - A short and sweet WebSocket client for C++
-* [kamyu104/LintCode](https://github.com/kamyu104/LintCode) - :pencil2: C++ 11 Solutions of All 278 LintCode Problems
-* [zsiciarz/aquila](https://github.com/zsiciarz/aquila) - Aquila is a digital signal processing library for C++11.
-* [shuax/GreenChrome](https://github.com/shuax/GreenChrome) - 增强Chrome的工具
-* [milakov/nnForge](https://github.com/milakov/nnForge) - Convolutional neural networks C++ framework with CPU and GPU (CUDA) backends
-* [cusplibrary/cusplibrary](https://github.com/cusplibrary/cusplibrary) - CUSP : A C++ Templated Sparse Matrix Library
-* [Hotsotse/cowsay](https://github.com/Hotsotse/cowsay) - remake of the famous "cowsay"
+* [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser
+* [emil-e/rapidcheck](https://github.com/emil-e/rapidcheck) - QuickCheck clone for C++ with the goal of being simple to use with as little boilerplate as possible.
+* [typcn/LeanClub](https://github.com/typcn/LeanClub) - C++ forum system
 * [dtschump/CImg](https://github.com/dtschump/CImg) - The CImg Library is a small, open-source, and modern C++ toolkit for image processing
-* [commontk/CTK](https://github.com/commontk/CTK) - A set of common support code for medical imaging, surgical navigation, and related purposes.
+* [DragonBones/DragonBonesCPP](https://github.com/DragonBones/DragonBonesCPP) - DragonBones C++ Runtime
+* [datastax/cpp-driver](https://github.com/datastax/cpp-driver) - DataStax C/C++ Driver for Apache Cassandra
+* [stubma/cocos2dx-better](https://github.com/stubma/cocos2dx-better) - Better cocos2d-x, without modifying cocos2d-x code. Better UI controls, better utilities, better compatibility
+* [pezmaster31/bamtools](https://github.com/pezmaster31/bamtools) - C++ API & command-line toolkit for working with BAM data
+* [p12tic/libsimdpp](https://github.com/p12tic/libsimdpp) - Header-only zero-overhead C++ wrapper for SIMD intrinsics of multiple instruction sets
+* [thestk/rtaudio](https://github.com/thestk/rtaudio) - A set of C++ classes that provide a common API for realtime audio input/output across Linux (native ALSA, JACK, PulseAudio and OSS), Macintosh OS X (CoreAudio and JACK), and Windows (DirectSound, ASIO, and WASAPI) operating systems.
+* [pluskid/pymmseg-cpp](https://github.com/pluskid/pymmseg-cpp) - rmmseg-cpp with Python interface
+* [lemire/EWAHBoolArray](https://github.com/lemire/EWAHBoolArray) - A compressed bitmap class in C++.
+* [OSVR/OSVR-Core](https://github.com/OSVR/OSVR-Core) - The core libraries, applications, and plugins of the OSVR software platform.
+* [mrtazz/plustache](https://github.com/mrtazz/plustache) - {{mustaches}} for C++
+* [facebook/C3D](https://github.com/facebook/C3D) - C3D is a modified version of BVLC caffe to support 3D ConvNets.
+* [eerolanguage/clang](https://github.com/eerolanguage/clang) - This was the working repo for Eero changes to clang. Please build using llvm from this project. See eerolanguage/eero for example code, issue tracking, and the project wiki
+* [macchina-io/macchina.io](https://github.com/macchina-io/macchina.io) - macchina.io is a toolkit for building IoT applications in JavaScript and C++
+* [sumeetchhetri/ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development, c++ framework, c++ web framework, c++ application framework, c++ rest framework, c++ soap framework, c++ web sites,c++ web applications, c++ driven web development - c++
 * [CLD2Owners/cld2](https://github.com/CLD2Owners/cld2) - Compact Language Detector 2
-* [qxmpp-project/qxmpp](https://github.com/qxmpp-project/qxmpp) -  Cross-platform C++ XMPP client and server library
-* [falltergeist/falltergeist](https://github.com/falltergeist/falltergeist) - Opensource crossplatform Fallout 2™ game engine writen in C++ and SDL. Current version: 0.3.0
-* [Burgestrand/spotify](https://github.com/Burgestrand/spotify) - Low-level Ruby bindings for libspotify, the official Spotify C API
-* [wangkuiyi/mapreduce-lite](https://github.com/wangkuiyi/mapreduce-lite) - A C++ implementaton of MapReduce without distributed filesystem
-* [orangeduck/CPP_COMPLETE](https://github.com/orangeduck/CPP_COMPLETE) - Brainfuck interpreter written in the C preprocessor
-* [mnmlstc/core](https://github.com/mnmlstc/core) - C++14 (and beyond) library features implemented in C++11
-* [gto76/comp-m2](https://github.com/gto76/comp-m2) - Simple 4-bit virtual computer
+* [CaptainCrowbar/unicorn-lib](https://github.com/CaptainCrowbar/unicorn-lib) - Unicode library for C++
+* [nickbruun/hayai](https://github.com/nickbruun/hayai) - C++ benchmarking framework
+* [cdmh/mapreduce](https://github.com/cdmh/mapreduce) - C++ MapReduce Library for efficient multi-threading on single-machine
+* [andyfischer/circa](https://github.com/andyfischer/circa) - A programming language for live coding
+* [vivkin/gason](https://github.com/vivkin/gason) - Lightweight and fast JSON parser for C++
+* [rdp/virtual-audio-capture-grabber-device](https://github.com/rdp/virtual-audio-capture-grabber-device) - free audio capture device to capture all the "wave out sound" that is playing on your speakers  (i.e. record what you hear) for Windows 7/Vista.  Releases downloadable in this package:
+* [SonarOpenCommunity/sonar-cxx](https://github.com/SonarOpenCommunity/sonar-cxx) - This repository contains a SonarQube plugin implementing C++ support.
+* [MaskRay/LeetCode](https://github.com/MaskRay/LeetCode) - Solutions of LeetCode Online Judge
+* [kamyu104/LintCode](https://github.com/kamyu104/LintCode) - :pencil2: C++ 11 Solutions of All 284 LintCode Problems
+* [tromp/cuckoo](https://github.com/tromp/cuckoo) - a memory-bound graph-theoretic proof-of-work system
 * [checkcheckzz/coding-questions](https://github.com/checkcheckzz/coding-questions) - Coding interview questions with solutions (C++)
+* [vinova/Artemis-Cpp](https://github.com/vinova/Artemis-Cpp) - A C++ port of Artemis Entity System Framework
+* [rprichard/x11-canvas-screencast](https://github.com/rprichard/x11-canvas-screencast) - UNIX-to-HTML5-Canvas screencasting (X11 or OS X)
+* [numenta/nupic.core](https://github.com/numenta/nupic.core) - Implementation of core NuPIC algorithms in C++ (under construction)
+* [Netflix/NfWebCrypto](https://github.com/Netflix/NfWebCrypto) - Web Cryptography API Polyfill
+* [fix8/fix8](https://github.com/fix8/fix8) - Modern open source C++ FIX framework featuring complete schema customisation, high performance and fast development.
+* [eranpeer/FakeIt](https://github.com/eranpeer/FakeIt) - C++ mocking made easy. A simple yet very expressive, headers only library for c++ mocking.
+* [dermesser/libsocket](https://github.com/dermesser/libsocket) - The ultimate socket library for C and C++, supporting TCP, UDP and Unix sockets (DGRAM and STREAM) on Linux, FreeBSD, Solaris. Only ZMQ is better. Developer's documentation:
+* [deeplearningais/CUV](https://github.com/deeplearningais/CUV) - Matrix library for CUDA in C++ and Python
+* [amcewen/HttpClient](https://github.com/amcewen/HttpClient) - Arduino HTTP library
+* [simonask/w](https://github.com/simonask/w) - A simple C++ web framework based on Libevent.
+* [libdynd/libdynd](https://github.com/libdynd/libdynd) - C++ dynamic ndarray library, with Python exposure
+* [DigitalInBlue/Celero](https://github.com/DigitalInBlue/Celero) - C++ Benchmark Authoring Library/Framework
+* [foonathan/memory](https://github.com/foonathan/memory) - STL compatible C++ memory allocator library using a new RawAllocator concept that is similar to an Allocator but easier to use and write.
+* [dougbinks/enkiTS](https://github.com/dougbinks/enkiTS) - C++ and C multithreading task scheduler
+* [duckduckgo/cpp-libface](https://github.com/duckduckgo/cpp-libface) - Fastest auto-complete in the east
+* [shuax/GreenChrome](https://github.com/shuax/GreenChrome) - 增强Chrome的工具
+* [haiwen/seafile-client](https://github.com/haiwen/seafile-client) - Seafile desktop client.
+* [powervr-graphics/Native_SDK](https://github.com/powervr-graphics/Native_SDK) - C++ cross-platform 3D graphics SDK. Includes demos & helper code (resource loading etc.) to speed up development of Vulkan, OpenGL ES 1.x, 2.0 & 3.x applications
+* [vcflib/vcflib](https://github.com/vcflib/vcflib) - a simple C++ library for parsing and manipulating VCF files, + many command-line utilities
+* [imageworks/pystring](https://github.com/imageworks/pystring) - C++ functions matching the interface and behavior of python string methods with std::string
+* [illuz/leetcode](https://github.com/illuz/leetcode) - (229 / 280) [中文|English] Solutions and notes of LEETCODE using C++/Java/Python/Sql/Shell Script.
+* [facebook/thpp](https://github.com/facebook/thpp) - TH++, C++ interface to the torch7 TH library
+* [joakimkarlsson/bandit](https://github.com/joakimkarlsson/bandit) - Human friendly unit testing for C++11
+* [c2lang/c2compiler](https://github.com/c2lang/c2compiler) - the c2 programming language
+* [blackberry/Cascades-Community-Samples](https://github.com/blackberry/Cascades-Community-Samples) - Samples authored by the Community showing how to use Cascades.
+* [zsiciarz/aquila](https://github.com/zsiciarz/aquila) - Aquila is a digital signal processing library for C++11.
+* [ImageEngine/cortex](https://github.com/ImageEngine/cortex) - Libraries for visual effects software development
+* [iboB/dynamix](https://github.com/iboB/dynamix) - :fish_cake: A new take on polymorphism in C++
+* [dhbaird/easywsclient](https://github.com/dhbaird/easywsclient) - A short and sweet WebSocket client for C++
+* [cocos2d/cocos2d-x-extensions](https://github.com/cocos2d/cocos2d-x-extensions) - samples games & code snips for cocos2d-x
+* [SergiusTheBest/plog](https://github.com/SergiusTheBest/plog) - Portable, simple and extensible C++ logging library
+* [hmartiro/redox](https://github.com/hmartiro/redox) - Modern, asynchronous, and wicked fast C++11 client for Redis
+* [cmangos/mangos-wotlk](https://github.com/cmangos/mangos-wotlk) - C(ontinued)-MaNGOS is about: -- Doing WoW-Emulation Right!
+* [RC1140/cr-gpg](https://github.com/RC1140/cr-gpg) - A chrome plugin that enables gpg encryption and decryption for the gmail web interface
+* [lastfm/libmoost](https://github.com/lastfm/libmoost) - moost — Last.fm's collection of C++ utility libraries
+* [KjellKod/g3log](https://github.com/KjellKod/g3log) - G3log is  an asynchronous, "crash safe", logger that is easy to use with default logging sinks or you can add your own.  G3log is made with plain C++11 with no external libraries (except gtest used for unit tests). G3log is made to be cross-platform, currently running on OSX, Windows and several Linux distros.  See Readme below for details of usage.
+* [hughperkins/cltorch](https://github.com/hughperkins/cltorch) - An OpenCL backend for torch.
+* [symengine/symengine](https://github.com/symengine/symengine) - SymEngine is a fast symbolic manipulation library, written in C++
+* [leaningtech/cheerp-clang](https://github.com/leaningtech/cheerp-clang) - clang compiler including cheerp support
+* [falltergeist/falltergeist](https://github.com/falltergeist/falltergeist) - Opensource crossplatform Fallout 2™ game engine writen in C++ and SDL. Current version: 0.3.0
+* [eidheim/Simple-WebSocket-Server](https://github.com/eidheim/Simple-WebSocket-Server) - A very simple, fast, multithreaded, platform independent WebSocket (WS) and WebSocket Secure (WSS) server and client library implemented using C++11, Boost.Asio and OpenSSL. Created to be an easy way to make WebSocket endpoints in C++.
+* [marcogulino/AndroidUsbCamera](https://github.com/marcogulino/AndroidUsbCamera) - Android USB Camera Driver/Bridge for GNU/Linux
+* [Zerocoin/libzerocoin](https://github.com/Zerocoin/libzerocoin) - Zerocoin: C++ lib for anonymous extension to bitcoin
+* [qxmpp-project/qxmpp](https://github.com/qxmpp-project/qxmpp) -  Cross-platform C++ XMPP client and server library
+* [muupan/dqn-in-the-caffe](https://github.com/muupan/dqn-in-the-caffe) - An implementation of Deep Q-Network using Caffe
+* [btgraham/SparseConvNet](https://github.com/btgraham/SparseConvNet) - Spatially-sparse convolutional networks. Allows processing of sparse 2, 3 and 4 dimensional data.Build CNNs on the square/cubic/hypercubic or triangular/tetrahedral/hyper-tetrahedral lattices.
+* [headmyshoulder/odeint-v2](https://github.com/headmyshoulder/odeint-v2) - odeint - solving ordinary differential equations in c++ v2
+* [google/cctz](https://github.com/google/cctz) - CCTZ is a C++ library for translating between absolute and civil times using the rules of a time zone.
+* [RehabMan/OS-X-Voodoo-PS2-Controller](https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller) - Contains updated Voodoo PS/2 Controller, improved Keyboard & Synaptics TouchPad
+* [mattgodbolt/seasocks](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support
+* [FreeRDP/FreeRDP-WebConnect](https://github.com/FreeRDP/FreeRDP-WebConnect) - A gateway for seamless access to your RDP-Sessions in any HTML5-compliant browser
+* [c42f/tinyformat](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++
+* [wangkuiyi/mapreduce-lite](https://github.com/wangkuiyi/mapreduce-lite) - A C++ implementaton of MapReduce without distributed filesystem
+* [rollbear/basicpp](https://github.com/rollbear/basicpp) - BASIC in C++
+* [cusplibrary/cusplibrary](https://github.com/cusplibrary/cusplibrary) - CUSP : A C++ Templated Sparse Matrix Library
+* [brofield/simpleini](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files
+* [blackberry/WebWorks-Community-APIs](https://github.com/blackberry/WebWorks-Community-APIs) - Community owned repository containing JavaScript Extensions for BlackBerry WebWorks
+* [preshing/turf](https://github.com/preshing/turf) - Configurable C++ platform adapter
+* [mnmlstc/core](https://github.com/mnmlstc/core) - C++14 (and beyond) library features implemented in C++11
+* [milakov/nnForge](https://github.com/milakov/nnForge) - Convolutional neural networks C++ framework with CPU and GPU (CUDA) backends
+* [Burgestrand/spotify](https://github.com/Burgestrand/spotify) - Low-level Ruby bindings for libspotify, the official Spotify C API
+* [quora/qmf](https://github.com/quora/qmf) - A fast and scalable C++ library for implicit-feedback matrix factorization models
+* [orangeduck/CPP_COMPLETE](https://github.com/orangeduck/CPP_COMPLETE) - Brainfuck interpreter written in the C preprocessor
+* [Oberon00/synth](https://github.com/Oberon00/synth) - Semantic syntax highlighting and hyperlinking of C/C++ source code with libclang. (Demo: https://oberon00.github.io/synth)
+* [indutny/llnode](https://github.com/indutny/llnode) - Node.js C++ lldb plugin
+* [commontk/CTK](https://github.com/commontk/CTK) - A set of common support code for medical imaging, surgical navigation, and related purposes.
+* [ccrma/chuck](https://github.com/ccrma/chuck) - ChucK Music Programming Language
+* [WhitneyLand/SwiftOpenCV](https://github.com/WhitneyLand/SwiftOpenCV) - OpenCV and Tesseract OCR from Swift and iOS
+* [jpbarrette/curlpp](https://github.com/jpbarrette/curlpp) - C++ wrapper around libcURL
+* [Hotsotse/cowsay](https://github.com/Hotsotse/cowsay) - remake of the famous "cowsay"
+* [djyt/cannonball](https://github.com/djyt/cannonball) - Cannonball: An Enhanced OutRun Engine
+* [andrivet/ADVobfuscator](https://github.com/andrivet/ADVobfuscator) - Obfuscator based on C++11
+* [VcDevel/Vc](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++
+* [gto76/comp-m2](https://github.com/gto76/comp-m2) - Simple 4-bit virtual computer
+* [Evrytania/LTE-Cell-Scanner](https://github.com/Evrytania/LTE-Cell-Scanner) - LTE SDR cell scanner optimized to work with very low performance RF front ends (8bit A/D, 20dB noise figure)
 * [BromiumLabs/PackerAttacker](https://github.com/BromiumLabs/PackerAttacker) - C++ application that uses memory and code hooks to detect packers
 * [dualface/cocos2d-x-extensions](https://github.com/dualface/cocos2d-x-extensions) - Extensions for cocos2-x.
-* [djyt/cannonball](https://github.com/djyt/cannonball) - Cannonball: An Enhanced OutRun Engine
-* [clab/cnn](https://github.com/clab/cnn) - C++ neural network library
-* [bnoguchi/node-hash-ring](https://github.com/bnoguchi/node-hash-ring) - A Consistent Hashing C++ add-on for node.js
-* [hmartiro/redox](https://github.com/hmartiro/redox) - Modern, asynchronous, and wicked fast C++11 client for Redis
-* [RehabMan/OS-X-Voodoo-PS2-Controller](https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller) - Contains updated Voodoo PS/2 Controller, improved Keyboard & Synaptics TouchPad
-* [OSVR/OSVR-Core](https://github.com/OSVR/OSVR-Core) - The core libraries, applications, and plugins of the OSVR software platform.
-* [c42f/tinyformat](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++
-* [Oberon00/synth](https://github.com/Oberon00/synth) - Semantic syntax highlighting and hyperlinking of C/C++ source code with libclang. (Demo: https://oberon00.github.io/synth)
-* [symengine/symengine](https://github.com/symengine/symengine) - SymEngine is a fast symbolic manipulation library, written in C++
-* [mavam/libbf](https://github.com/mavam/libbf) - :dart: Bloom filters for C++11
-* [andrivet/ADVobfuscator](https://github.com/andrivet/ADVobfuscator) - Obfuscator based on C++11
-* [FreeRDP/FreeRDP-WebConnect](https://github.com/FreeRDP/FreeRDP-WebConnect) - A gateway for seamless access to your RDP-Sessions in any HTML5-compliant browser
-* [simonask/w](https://github.com/simonask/w) - A simple C++ web framework based on Libevent.
 * [davidsiaw/luacppinterface](https://github.com/davidsiaw/luacppinterface) - A Simple C++ Interface to Lua
-* [btgraham/SparseConvNet](https://github.com/btgraham/SparseConvNet) - Spatially-sparse convolutional networks. Allows processing of sparse 2, 3 and 4 dimensional data.Build CNNs on the square/cubic/hypercubic or triangular/tetrahedral/hyper-tetrahedral lattices.
+* [mavam/libbf](https://github.com/mavam/libbf) - :dart: Bloom filters for C++11
+* [martinmoene/lest](https://github.com/martinmoene/lest) - A modern, C++11-native, single-file header-only, tiny framework for unit-tests, TDD and BDD
+* [google/shaka-packager](https://github.com/google/shaka-packager) - A media packaging SDK intended for C++ programmers writing MPEG-DASH packaging applications with Widevine DRM and Common Encryption support.
+* [bnoguchi/node-hash-ring](https://github.com/bnoguchi/node-hash-ring) - A Consistent Hashing C++ add-on for node.js
 * [pkrumins/node-gif](https://github.com/pkrumins/node-gif) - A node.js C++ module for creating GIF images and animated GIFs from RGB or RGBA buffers.
-* [mattgodbolt/seasocks](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support
-* [facebook/C3D](https://github.com/facebook/C3D) - C3D is a modified version of BVLC caffe to support 3D ConvNets.
-* [ccrma/chuck](https://github.com/ccrma/chuck) - ChucK Music Programming Language
-* [Evrytania/LTE-Cell-Scanner](https://github.com/Evrytania/LTE-Cell-Scanner) - LTE SDR cell scanner optimized to work with very low performance RF front ends (8bit A/D, 20dB noise figure)
-* [SergiusTheBest/plog](https://github.com/SergiusTheBest/plog) - Portable, simple and extensible C++ logging library
-* [jiangmiao/node-curl](https://github.com/jiangmiao/node-curl) - node curl wrapper with fully implemented
-* [brofield/simpleini](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files
-* [CaledoniaProject/XLCloudClient](https://github.com/CaledoniaProject/XLCloudClient) - 迅雷离线Linux客户端，多种漏洞利用 ；-P 大家慢慢挖掘吧 哈哈 觉得好就点下 Star / Fork 吧
-* [waveto/node-compress](https://github.com/waveto/node-compress) - A streaming compression / gzip library for node.js
-* [larroy/clearskies_core](https://github.com/larroy/clearskies_core) - Open source, distributed, secure data synchronization using the clearskies protocol
-* [indutny/llnode](https://github.com/indutny/llnode) - Node.js C++ lldb plugin
-* [WhitneyLand/SwiftOpenCV](https://github.com/WhitneyLand/SwiftOpenCV) - OpenCV and Tesseract OCR from Swift and iOS
-* [zeromq/zmqpp](https://github.com/zeromq/zmqpp) - 0mq 'highlevel' C++ bindings
-* [muupan/dqn-in-the-caffe](https://github.com/muupan/dqn-in-the-caffe) - An implementation of Deep Q-Network using Caffe
-* [illuz/leetcode](https://github.com/illuz/leetcode) - (229 / 280) [中文|English] Solutions and notes of LEETCODE using C++/Java/Python/Sql/Shell Script.
-* [google/cctz](https://github.com/google/cctz) - CCTZ is a C++ library for translating between absolute and civil times using the rules of a time zone.
-* [mingchen/protobuf-ios](https://github.com/mingchen/protobuf-ios) - An Objective-C implementation of Google proto buffer for iOS
-* [ewimberley/AdvancedMemoryChallenges](https://github.com/ewimberley/AdvancedMemoryChallenges) - Advanced buffer overflow and memory corruption security challenges
-* [KjellKod/g3log](https://github.com/KjellKod/g3log) - G3log is  an asynchronous, "crash safe", logger that is easy to use with default logging sinks or you can add your own.  G3log is made with plain C++11 with no external libraries (except gtest used for unit tests). G3log is made to be cross-platform, currently running on OSX, Windows and several Linux distros.  See Readme below for details of usage.
-* [wg-perception/PartsBasedDetector](https://github.com/wg-perception/PartsBasedDetector) - C++ implementation of Deva Ramanan's "Articulated Pose Estimation with Flexible Mixtures of Parts"
-* [kroimon/Arduino-SerialCommand](https://github.com/kroimon/Arduino-SerialCommand) - A Wiring/Arduino library to tokenize and parse commands received over a serial port.
-* [openpeer/ortc-lib](https://github.com/openpeer/ortc-lib) - ORTC (Object RTC) C++ Library wrapper for WebRTC
-* [krohling/ArduinoPusherClient](https://github.com/krohling/ArduinoPusherClient) - An Arduino interface to Pusher (pusherapp.com)
-* [eidheim/Simple-WebSocket-Server](https://github.com/eidheim/Simple-WebSocket-Server) - A very simple, fast, multithreaded, platform independent WebSocket (WS) and WebSocket Secure (WSS) server and client library implemented using C++11, Boost.Asio and OpenSSL. Created to be an easy way to make WebSocket endpoints in C++.
-* [MingMingCheng/CmCode](https://github.com/MingMingCheng/CmCode) - Ming-Ming Cheng's open source projects
-* [matpow2/cuwo](https://github.com/matpow2/cuwo) - Open server and utilities for Cube World
-* [martinmoene/lest](https://github.com/martinmoene/lest) - A modern, C++11-native, header-only, tiny framework for unit-tests, TDD and BDD
-* [jpbarrette/curlpp](https://github.com/jpbarrette/curlpp) - C++ wrapper around libcURL
-* [jesyspa/linear-cpp](https://github.com/jesyspa/linear-cpp) - An attempt at a C++ tutorial.
-* [Rapptz/sol](https://github.com/Rapptz/sol) - A C++11 Lua wrapper
-* [tongwang/s3fs-c](https://github.com/tongwang/s3fs-c) - S3FS-C is a FUSE (File System in User Space) based file system backed by Amazon S3 storage buckets. Once mounted, S3 can be used just like it was a local file system. This project was forked from S3FS (http://code.google.com/p/s3fs/) release 1.59 and being rewritten to be compatible with other S3 clients such as s3cmd, AWS Management Console, etc.
-* [google/edash-packager](https://github.com/google/edash-packager) - A media packaging SDK intended for C++ programmers writing MPEG-DASH packaging applications with Widevine DRM and Common Encryption support.
-* [akrzemi1/Optional](https://github.com/akrzemi1/Optional) - optional (nullable) objects for C++14
-* [redpony/cdec](https://github.com/redpony/cdec) - Decoder, aligner, and model optimizer for statistical machine translation and other structured prediction models based on (mostly) context-free formalisms
+* [Limeoats/cavestory-development](https://github.com/Limeoats/cavestory-development) - All of the source code from my Remaking Cavestory in C++ youtube series can be found in this repository.
 * [liancheng/llvm-tutorial-cn](https://github.com/liancheng/llvm-tutorial-cn) - Simplified Chinese translation for the LLVM Tutorial
-* [jesusfv/Comparison-Programming-Languages-Economics](https://github.com/jesusfv/Comparison-Programming-Languages-Economics) - A Comparison of Programming Languages in Economics
-* [away3d/awayphysics-core-fp11](https://github.com/away3d/awayphysics-core-fp11) - Away Physics - 3D physics library for the Away3D Engine in Flash Player 11
-* [pellegre/libcrafter](https://github.com/pellegre/libcrafter) - A high level C++ network packet sniffing and crafting library.
-* [glynos/cpp-netlib](https://github.com/glynos/cpp-netlib) - The C++ Network Library Project -- header-only, cross-platform, standards compliant networking library.
+* [kevinlin311tw/caffe-cvprw15](https://github.com/kevinlin311tw/caffe-cvprw15) - :heart::coffee: Deep Learning of Binary Hash Codes for Fast Image Retrieval (CVPRW15)
+* [jesyspa/linear-cpp](https://github.com/jesyspa/linear-cpp) - An attempt at a C++ tutorial.
+* [openpeer/ortc-lib](https://github.com/openpeer/ortc-lib) - ORTC (Object RTC) C++ Library wrapper for WebRTC
+* [mingchen/protobuf-ios](https://github.com/mingchen/protobuf-ios) - An Objective-C implementation of Google proto buffer for iOS
+* [Emotiv/community-sdk](https://github.com/Emotiv/community-sdk) - Emotiv SDK Community Edition
+* [zeromq/zmqpp](https://github.com/zeromq/zmqpp) - 0mq 'highlevel' C++ bindings
+* [MingMingCheng/CmCode](https://github.com/MingMingCheng/CmCode) - Ming-Ming Cheng's open source projects
+* [jiangmiao/node-curl](https://github.com/jiangmiao/node-curl) - node curl wrapper with fully implemented
+* [iTyran/Quick-Cocos2dx-Community](https://github.com/iTyran/Quick-Cocos2dx-Community) - A Community version of Quick-Cocos2d-x
 * [SteveKChiu/lua-intf](https://github.com/SteveKChiu/lua-intf) - A binding between C++11 and Lua language
 * [chriskohlhoff/executors](https://github.com/chriskohlhoff/executors) - C++ library for executors
-* [quora/qmf](https://github.com/quora/qmf) - A fast and scalable C++ library for implicit-feedback matrix factorization models
-* [jverkoey/liteqr](https://github.com/jverkoey/liteqr) - Lite QR Reader in Objective C ported from zxing
-* [harrism/hemi](https://github.com/harrism/hemi) - Simple utilities to enable code reuse and portability between CUDA C/C++ and standard C/C++.
-* [bluetiger9/SmtpClient-for-Qt](https://github.com/bluetiger9/SmtpClient-for-Qt) - An SMTP Client writen in C++ for Qt. Allows applications to send emails (MIME with text, html, attachments, inline files, etc.) via SMTP. Supports SSL and SMTP authentication.
-* [aevum/libgdx-cpp](https://github.com/aevum/libgdx-cpp) - A cross platform (iOS, Android, Desktop) c++ port of java's libgdx awesome framework.
-* [VcDevel/Vc](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++
-* [richgel999/crunch](https://github.com/richgel999/crunch) - Advanced DXTc texture compression library
-* [preshing/turf](https://github.com/preshing/turf) - Configurable C++ platform adapter
-* [pfi/pficommon](https://github.com/pfi/pficommon) - General purpose C++ library for PFI
-* [MJPA/SimpleJSON](https://github.com/MJPA/SimpleJSON) - SimpleJSON is a simple JSON library written in C++. It is designed to be simple to use and be cross platform.
-* [vczh-libraries/Vlpp](https://github.com/vczh-libraries/Vlpp) - Common C++ construction, including string operation / generic container / linq / General-LR parser generator / multithreading / reflection for C++ / etc
-* [thestk/stk](https://github.com/thestk/stk) - The Synthesis ToolKit in C++ (STK) is a set of open source audio signal processing and algorithmic synthesis classes written in the C++ programming language.
-* [joakimkarlsson/igloo](https://github.com/joakimkarlsson/igloo) - A framework for unit testing in C++
-* [msoos/cryptominisat](https://github.com/msoos/cryptominisat) - An advanced SAT Solver
-* [hughperkins/cltorch](https://github.com/hughperkins/cltorch) - An OpenCL backend for torch.
-* [pokerth/pokerth](https://github.com/pokerth/pokerth) - PokerTH is a poker game written in C++/Qt.
-* [objectcomputing/liquibook](https://github.com/objectcomputing/liquibook) - Blazing fast C++ limit order book matching engine
-* [artagnon/rhine](https://github.com/artagnon/rhine) - a C++ compiler middle-end for a typed ruby, using an LLVM backend
-* [HandsOnOpenCL/Exercises-Solutions](https://github.com/HandsOnOpenCL/Exercises-Solutions) - C, C++ and Python Code for Exercises and Solutions
-* [t-mat/lz4mt](https://github.com/t-mat/lz4mt) - Platform independent, multi-threading implementation of lz4 stream in C++11
+* [Rapptz/sol](https://github.com/Rapptz/sol) - A C++11 Lua wrapper
+* [PatWie/CppNumericalSolvers](https://github.com/PatWie/CppNumericalSolvers) - L-BFGS-B implementation in C++11 using Eigen
+* [CaledoniaProject/XLCloudClient](https://github.com/CaledoniaProject/XLCloudClient) - 迅雷离线Linux客户端，多种漏洞利用 ；-P 大家慢慢挖掘吧 哈哈 觉得好就点下 Star / Fork 吧
+* [akrzemi1/Optional](https://github.com/akrzemi1/Optional) - optional (nullable) objects for C++14
 * [patrikhuber/superviseddescent](https://github.com/patrikhuber/superviseddescent) - C++11 implementation of the supervised descent optimisation method
-* [joto/osmium](https://github.com/joto/osmium) - C++/Javascript framework for working with OSM files.
-* [vipjeffreylee/QQrobot](https://github.com/vipjeffreylee/QQrobot) - QQrobot是用C++语言开发设计，程序界面、网络通迅等模块使用了Qt，Qt是开源的，跨平台C++程序图形界面框架库,QQrobot具备跨平台特性，可在linux、MAC OS以及Windows等操作系统中运行，集成开发编译环境请到 http://qt-project.org/ 下载。  QQrobot基于腾讯公司WebQQ协议实现，可以向QQ群或者是个人自动发送信息。分为两个部分，QQ主体和robot插件。QQ主体解析WebQQ协议，负责QQ号码登录，信息接收和发送功能。robot分析聊天内容，跟据聊天内容智能做出回应。  QQ主体窗口内，可监控显示聊天信息、好友列表、群列表和机器人列表。为QQ群或者个人指定随意多个机器人为之提供服务。也提供了信息发送功能，可随时向QQ群或者个人发送信息。  robot插件，使用Qt5的plugin技术，可单独开发，编译后拷贝到plugins目录中，QQ主体自动识别安装运行。robot插件只要完成接口RobotInterface内的name和listenandsay方法就ok，name返回robot的名子，listenandsay的参数是收到的聊天内容和发送者信息，返回值是robot回应信息。
-* [kmike/DAWG](https://github.com/kmike/DAWG) - DAFSA-based dictionary-like read-only objects for Python. Based on `dawgdic` C++ library.
-* [dophist/kaldi-lstm](https://github.com/dophist/kaldi-lstm) - C++  implementation of LSTM (Long Short Term Memory), in Kaldi's nnet1 framework. Used for automatic speech recognition, possibly language modeling etc, the training can be switched between CPU and GPU(CUDA). This repo is now merged into official Kaldi codebase(Karel's setup), so this repo is no longer maintained, please check out the Kaldi project instead.
-* [dgpdec/course](https://github.com/dgpdec/course) - Source code for the applications presented in the course "Geometry Processing with Discrete Exterior Calculus"
-* [FlatRockSoft/Catacomb3D](https://github.com/FlatRockSoft/Catacomb3D) - GPL release of Catacomb 3D source code.
-* [AS3NUI/airkinect-2-core](https://github.com/AS3NUI/airkinect-2-core) - AIRKinect 2.0 Core
-* [technobly/SparkCore-NeoPixel](https://github.com/technobly/SparkCore-NeoPixel) - An Implementation of Adafruit's NeoPixel Library for Particle devices: Spark Core, Photon, P1 and Electron.
-* [etr/libhttpserver](https://github.com/etr/libhttpserver) - C++ library for creating an embedded Rest HTTP server (and more)
-* [HorizonLauncher/Client](https://github.com/HorizonLauncher/Client) - Horizon Launcher client repository.
-* [kevinlin311tw/caffe-cvprw15](https://github.com/kevinlin311tw/caffe-cvprw15) - :heart::coffee: Deep Learning of Binary Hash Codes for Fast Image Retrieval (CVPRW15)
-* [billroy/socket.io-arduino-client](https://github.com/billroy/socket.io-arduino-client) - A socket.io client for the Arduino Ethernet shield
-* [nbsdx/ThreadPool](https://github.com/nbsdx/ThreadPool) - Lightweight, Generic, Pure C++11 ThreadPool
-* [fjz13/Cocos2d-x-ParticleEditor-for-Windows](https://github.com/fjz13/Cocos2d-x-ParticleEditor-for-Windows) - A FREE WINDOWS cocos2d particle editor Upgraded to Cocos2dx 2.12，and support saving texture into plist。
-* [adafruit/Adafruit_NFCShield_I2C](https://github.com/adafruit/Adafruit_NFCShield_I2C) - I2C Driver for Adafruit's PN532-based NFC Shield
+* [harrism/hemi](https://github.com/harrism/hemi) - Simple utilities to enable code reuse and portability between CUDA C/C++ and standard C/C++.
+* [waveto/node-compress](https://github.com/waveto/node-compress) - A streaming compression / gzip library for node.js
+* [kroimon/Arduino-SerialCommand](https://github.com/kroimon/Arduino-SerialCommand) - A Wiring/Arduino library to tokenize and parse commands received over a serial port.
+* [glynos/cpp-netlib](https://github.com/glynos/cpp-netlib) - The C++ Network Library Project -- header-only, cross-platform, standards compliant networking library.
+* [ewimberley/AdvancedMemoryChallenges](https://github.com/ewimberley/AdvancedMemoryChallenges) - Advanced buffer overflow and memory corruption security challenges
+* [vczh-libraries/Vlpp](https://github.com/vczh-libraries/Vlpp) - Common C++ construction, including string operation / generic container / linq / General-LR parser generator / multithreading / reflection for C++ / etc
+* [rmartinho/nonius](https://github.com/rmartinho/nonius) - A C++ micro-benchmarking framework
 * [CDrummond/cantata](https://github.com/CDrummond/cantata) - Graphical MPD Client for Linux (Qt4, Qt5, KDE4), Windows (Qt5), Mac OSX (Qt5)
+* [thestk/stk](https://github.com/thestk/stk) - The Synthesis ToolKit in C++ (STK) is a set of open source audio signal processing and algorithmic synthesis classes written in the C++ programming language.
+* [savoirfairelinux/opendht](https://github.com/savoirfairelinux/opendht) - A C++11 Distributed Hash Table implementation
+* [msoos/cryptominisat](https://github.com/msoos/cryptominisat) - An advanced SAT Solver
+* [larroy/clearskies_core](https://github.com/larroy/clearskies_core) - Open source, distributed, secure data synchronization using the clearskies protocol
+* [wg-perception/PartsBasedDetector](https://github.com/wg-perception/PartsBasedDetector) - C++ implementation of Deva Ramanan's "Articulated Pose Estimation with Flexible Mixtures of Parts"
+* [bluetiger9/SmtpClient-for-Qt](https://github.com/bluetiger9/SmtpClient-for-Qt) - An SMTP Client writen in C++ for Qt. Allows applications to send emails (MIME with text, html, attachments, inline files, etc.) via SMTP. Supports SSL and SMTP authentication.
+* [QianMo/OpenCV3-Intro-Book-Src](https://github.com/QianMo/OpenCV3-Intro-Book-Src) - 《OpenCV3编程入门》书本配套源码||《Introduction to OpenCV3 Programming》Book Source Code
+* [krohling/ArduinoPusherClient](https://github.com/krohling/ArduinoPusherClient) - An Arduino interface to Pusher (pusherapp.com)
+* [zhuzhenpeng/CTP-TradeServer](https://github.com/zhuzhenpeng/CTP-TradeServer) - 多账户-多策略期货交易程序（ctp开发经验分享）
+* [libSDL2pp/libSDL2pp](https://github.com/libSDL2pp/libSDL2pp) - C++11 bindings/wrapper for SDL2
+* [j0sh/crtmpserver](https://github.com/j0sh/crtmpserver) - Git mirror of crtmpserver's SVN trunk
+* [tongwang/s3fs-c](https://github.com/tongwang/s3fs-c) - S3FS-C is a FUSE (File System in User Space) based file system backed by Amazon S3 storage buckets. Once mounted, S3 can be used just like it was a local file system. This project was forked from S3FS (http://code.google.com/p/s3fs/) release 1.59 and being rewritten to be compatible with other S3 clients such as s3cmd, AWS Management Console, etc.
+* [pytries/DAWG](https://github.com/pytries/DAWG) - DAFSA-based dictionary-like read-only objects for Python. Based on `dawgdic` C++ library.
+* [objectcomputing/liquibook](https://github.com/objectcomputing/liquibook) - Blazing fast C++ limit order book matching engine
+* [matpow2/cuwo](https://github.com/matpow2/cuwo) - Open server and utilities for Cube World
+* [jesusfv/Comparison-Programming-Languages-Economics](https://github.com/jesusfv/Comparison-Programming-Languages-Economics) - A Comparison of Programming Languages in Economics
+* [HandsOnOpenCL/Exercises-Solutions](https://github.com/HandsOnOpenCL/Exercises-Solutions) - C, C++ and Python Code for Exercises and Solutions
+* [redpony/cdec](https://github.com/redpony/cdec) - Decoder, aligner, and model optimizer for statistical machine translation and other structured prediction models based on (mostly) context-free formalisms
+* [pokerth/pokerth](https://github.com/pokerth/pokerth) - PokerTH is a poker game written in C++/Qt.
+* [pellegre/libcrafter](https://github.com/pellegre/libcrafter) - A high level C++ network packet sniffing and crafting library.
+* [zsummer/log4z](https://github.com/zsummer/log4z) - Log4z is an open source C++ lightweight & cross platform log library
+* [MJPA/SimpleJSON](https://github.com/MJPA/SimpleJSON) - SimpleJSON is a simple JSON library written in C++. It is designed to be simple to use and be cross platform.
+* [etr/libhttpserver](https://github.com/etr/libhttpserver) - C++ library for creating an embedded Rest HTTP server (and more)
+* [away3d/awayphysics-core-fp11](https://github.com/away3d/awayphysics-core-fp11) - Away Physics - 3D physics library for the Away3D Engine in Flash Player 11
+* [shicai/Caffe_Manual](https://github.com/shicai/Caffe_Manual) - Caffe使用教程
+* [dophist/kaldi-lstm](https://github.com/dophist/kaldi-lstm) - C++  implementation of LSTM (Long Short Term Memory), in Kaldi's nnet1 framework. Used for automatic speech recognition, possibly language modeling etc, the training can be switched between CPU and GPU(CUDA). This repo is now merged into official Kaldi codebase(Karel's setup), so this repo is no longer maintained, please check out the Kaldi project instead.
+* [aevum/libgdx-cpp](https://github.com/aevum/libgdx-cpp) - A cross platform (iOS, Android, Desktop) c++ port of java's libgdx awesome framework.
+* [vipjeffreylee/QQrobot](https://github.com/vipjeffreylee/QQrobot) - QQrobot是用C++语言开发设计，程序界面、网络通迅等模块使用了Qt，Qt是开源的，跨平台C++程序图形界面框架库,QQrobot具备跨平台特性，可在linux、MAC OS以及Windows等操作系统中运行，集成开发编译环境请到 http://qt-project.org/ 下载。  QQrobot基于腾讯公司WebQQ协议实现，可以向QQ群或者是个人自动发送信息。分为两个部分，QQ主体和robot插件。QQ主体解析WebQQ协议，负责QQ号码登录，信息接收和发送功能。robot分析聊天内容，跟据聊天内容智能做出回应。  QQ主体窗口内，可监控显示聊天信息、好友列表、群列表和机器人列表。为QQ群或者个人指定随意多个机器人为之提供服务。也提供了信息发送功能，可随时向QQ群或者个人发送信息。  robot插件，使用Qt5的plugin技术，可单独开发，编译后拷贝到plugins目录中，QQ主体自动识别安装运行。robot插件只要完成接口RobotInterface内的name和listenandsay方法就ok，name返回robot的名子，listenandsay的参数是收到的聊天内容和发送者信息，返回值是robot回应信息。
+* [t-mat/lz4mt](https://github.com/t-mat/lz4mt) - Platform independent, multi-threading implementation of lz4 stream in C++11
+* [ladislav-zezula/CascLib](https://github.com/ladislav-zezula/CascLib) - An open-source implementation of library for reading CASC storage from Blizzard games since 2014
+* [pfi/pficommon](https://github.com/pfi/pficommon) - General purpose C++ library for PFI
+* [jverkoey/liteqr](https://github.com/jverkoey/liteqr) - Lite QR Reader in Objective C ported from zxing
+* [joakimkarlsson/igloo](https://github.com/joakimkarlsson/igloo) - A framework for unit testing in C++
+* [dgpdec/course](https://github.com/dgpdec/course) - Source code for the applications presented in the course "Geometry Processing with Discrete Exterior Calculus"
 * [3rdparty/libprocess](https://github.com/3rdparty/libprocess) - Library that provides an actor style message-passing programming model (in C++).
 * [lxrite/azure-http-proxy](https://github.com/lxrite/azure-http-proxy) - A fast, secure, lightweight and cross-platform HTTP proxy written in C++11, based on Boost.Asio and OpenSSL.
-* [iTyran/Quick-Cocos2dx-Community](https://github.com/iTyran/Quick-Cocos2dx-Community) - A Community version of Quick-Cocos2d-x
-* [acristoffers/CEFSimpleSample](https://github.com/acristoffers/CEFSimpleSample) - Simple sample on how to use Chromium Embedded Framework. More like a Hello World.
-* [vinzenz/libpypa](https://github.com/vinzenz/libpypa) - libpypa is a Python parser implemented in pure C++
-* [falkTX/Carla](https://github.com/falkTX/Carla) - Audio plugin host
-* [cucumber/cucumber-cpp](https://github.com/cucumber/cucumber-cpp) - Support for writing Cucumber step definitions in C++
-* [zsummer/log4z](https://github.com/zsummer/log4z) - Log4z is an open source C++ lightweight & cross platform log library
-* [pfultz2/ClangComplete](https://github.com/pfultz2/ClangComplete) - Clang completion for sublime
-* [libSDL2pp/libSDL2pp](https://github.com/libSDL2pp/libSDL2pp) - C++11 bindings/wrapper for SDL2
+* [HorizonLauncher/Client](https://github.com/HorizonLauncher/Client) - Horizon Launcher client repository.
+* [billroy/socket.io-arduino-client](https://github.com/billroy/socket.io-arduino-client) - A socket.io client for the Arduino Ethernet shield
+* [artagnon/rhine](https://github.com/artagnon/rhine) - a C++ compiler middle-end for a typed ruby, using an LLVM backend
+* [yulequan/face-alignment-in-3000fps](https://github.com/yulequan/face-alignment-in-3000fps) - a c++ implementation of face alignment in 3000fps
+* [nbsdx/ThreadPool](https://github.com/nbsdx/ThreadPool) - Lightweight, Generic, Pure C++11 ThreadPool
 * [imneme/pcg-cpp](https://github.com/imneme/pcg-cpp) - PCG — C++ Implementation
-* [vapourismo/luwra](https://github.com/vapourismo/luwra) - Minimal-overhead Lua wrapper for C++
-* [rmartinho/nonius](https://github.com/rmartinho/nonius) - A C++ micro-benchmarking framework
-* [jonnydee/nzmqt](https://github.com/jonnydee/nzmqt) - nzmqt - A lightweight C++ Qt binding for ZeroMQ
-* [goldeneye-source/ges-code](https://github.com/goldeneye-source/ges-code) - GoldenEye: Source on SDK 2013
-* [Jason-lee-c/CocosWidget](https://github.com/Jason-lee-c/CocosWidget) - CocosWidget
+* [feixiao/DesignPattern](https://github.com/feixiao/DesignPattern) - 设计模式实现(Java、C++、Golang)
+* [vapourismo/luwra](https://github.com/vapourismo/luwra) - Minimal-overhead C++ wrapper for Lua
+* [rcorcs/rcc](https://github.com/rcorcs/rcc) - rcor C compiler (under development)
+* [technobly/SparkCore-NeoPixel](https://github.com/technobly/SparkCore-NeoPixel) - An Implementation of Adafruit's NeoPixel Library for Particle devices: Spark Core, Photon, P1 and Electron.
+* [FlatRockSoft/Catacomb3D](https://github.com/FlatRockSoft/Catacomb3D) - GPL release of Catacomb 3D source code.
+* [cacay/MemoryPool](https://github.com/cacay/MemoryPool) - An easy to use and efficient memory pool allocator written in C++.
+* [joto/osmium](https://github.com/joto/osmium) - C++/Javascript framework for working with OSM files.
+* [falkTX/Carla](https://github.com/falkTX/Carla) - Audio plugin host
+* [AS3NUI/airkinect-2-core](https://github.com/AS3NUI/airkinect-2-core) - AIRKinect 2.0 Core
+* [Xiang1993/jack-compiler](https://github.com/Xiang1993/jack-compiler) - jack语言编译器
 * [pornel/jpeg-compressor](https://github.com/pornel/jpeg-compressor) - Research JPEG encoder
-* [jvaelen/2048](https://github.com/jvaelen/2048) - A C++/Qt clone of the popular 2048 game
-* [ckw-mod/ckw-mod](https://github.com/ckw-mod/ckw-mod) - ckw is yet another command prompt.
-* [savoirfairelinux/opendht](https://github.com/savoirfairelinux/opendht) - A C++11 Distributed Hash Table implementation
-* [axr/core](https://github.com/axr/core) - The AXR core library
-* [rygorous/intel_occlusion_cull](https://github.com/rygorous/intel_occlusion_cull) - Intel's Software Occlusion Culling demo with my modifications
+* [mattiasflodin/reckless](https://github.com/mattiasflodin/reckless) - Reckless logging. Low-latency, high-throughput, asynchronous logging library for C++.
+* [leethomason/MicroPather](https://github.com/leethomason/MicroPather) - MicroPather is a path finder and A* solver (astar or a-star) written in platform independent C++ that can be easily integrated into existing code. MicroPather focuses on being a path finding engine for video games but is a generic A* solver.
+* [Komnomnomnom/swigibpy](https://github.com/Komnomnomnom/swigibpy) - Third party Interactive Brokers Python API generated from TWS C++ API using SWIG.
+* [cucumber/cucumber-cpp](https://github.com/cucumber/cucumber-cpp) - Support for writing Cucumber step definitions in C++
+* [resiprocate/resiprocate](https://github.com/resiprocate/resiprocate) - C++ implementation of SIP, ICE, TURN and related protocols
+* [GPUOpen-ProfessionalCompute-Tools/HIP](https://github.com/GPUOpen-ProfessionalCompute-Tools/HIP) - HIP : Convert CUDA to Portable C++ Code
+* [casadi/casadi](https://github.com/casadi/casadi) - CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs. It supports self-contained C-code generation and interfaces state-of-the-art codes such as SUNDIALS, IPOPT etc. It can be used from C++, Python or Matlab
+* [alembic/alembic](https://github.com/alembic/alembic) - Alembic is an open framework for storing and sharing scene data that includes a C++ library, a file format, and client plugins and applications.
+* [adafruit/Adafruit_NFCShield_I2C](https://github.com/adafruit/Adafruit_NFCShield_I2C) - I2C Driver for Adafruit's PN532-based NFC Shield
+* [thestk/rtmidi](https://github.com/thestk/rtmidi) - A set of C++ classes that provide a common API for realtime MIDI input/output across Linux (ALSA & JACK), Macintosh OS X (CoreMIDI) and Windows (Multimedia)
+* [shedskin/shedskin](https://github.com/shedskin/shedskin) - Shed Skin is a Python to C++ compiler. Read the introduction below to learn about the restrictions.
+* [fjz13/Cocos2d-x-ParticleEditor-for-Windows](https://github.com/fjz13/Cocos2d-x-ParticleEditor-for-Windows) - A FREE WINDOWS cocos2d particle editor Upgraded to Cocos2dx 2.12，and support saving texture into plist。
+* [vinzenz/libpypa](https://github.com/vinzenz/libpypa) - libpypa is a Python parser implemented in pure C++
+* [Svalorzen/AI-Toolbox](https://github.com/Svalorzen/AI-Toolbox) - A C++ framework for MDPs and POMDPs with Python bindings
 * [r-lyeh/tracey](https://github.com/r-lyeh/tracey) - :squirrel: Tracey is a lightweight and simple C++ memory leak finder with no dependencies.
 * [lemire/SIMDCompressionAndIntersection](https://github.com/lemire/SIMDCompressionAndIntersection) - A C++ library to compress and intersect sorted lists of integers using SIMD instructions
 * [leaningtech/cheerp-llvm](https://github.com/leaningtech/cheerp-llvm) - LLVM infrastructure including cheerp support
-* [couchbase/libcouchbase](https://github.com/couchbase/libcouchbase) - The couchbase client for C.
-* [Svalorzen/AI-Toolbox](https://github.com/Svalorzen/AI-Toolbox) - A C++ framework for MDPs and POMDPs with Python bindings
+* [jvaelen/2048](https://github.com/jvaelen/2048) - A C++/Qt clone of the popular 2048 game
+* [jakowskidev/uMario_Jakowski](https://github.com/jakowskidev/uMario_Jakowski) - uMario C++/SDL2 Game by Łykasz Jakowski
+* [christinaa/LLVM-VideoCore4](https://github.com/christinaa/LLVM-VideoCore4) - LLVM for VideoCore4 (Raspberry Pi VPU)
 * [Baidu-ecom/CC](https://github.com/Baidu-ecom/CC) - 百度开发的一套基于互联网应用模式的呼叫中心套件
-* [zhuzhenpeng/CTP-TradeServer](https://github.com/zhuzhenpeng/CTP-TradeServer) - 多账户-多策略期货交易程序（ctp开发经验分享）
-* [wired/colloquypush](https://github.com/wired/colloquypush) - Modules for irc clients and bouncers that add Push support to Colloquy Mobile
-* [shicai/Caffe_Manual](https://github.com/shicai/Caffe_Manual) - Caffe使用教程
-* [resiprocate/resiprocate](https://github.com/resiprocate/resiprocate) - C++ implementation of SIP, ICE, TURN and related protocols
-* [leapmotion/autowiring](https://github.com/leapmotion/autowiring) - A C++ Inversion of Control Framework
-* [feixiao/DesignPattern](https://github.com/feixiao/DesignPattern) - 设计模式实现(Java、C++、Golang)
+* [Jason-lee-c/CocosWidget](https://github.com/Jason-lee-c/CocosWidget) - CocosWidget
+* [goldeneye-source/ges-code](https://github.com/goldeneye-source/ges-code) - GoldenEye: Source on SDK 2013
+* [esa/pagmo](https://github.com/esa/pagmo) - A C++ / Python platform to perform parallel computations of optimisation tasks (global and local) via the asynchronous generalized island model. State of the art optimization algorithms are included.  A common interface is provided to other optimization frameworks/algorithms such as NLOPT, SciPy, SNOPT, IPOPT, GSL
 * [chen3feng/toft](https://github.com/chen3feng/toft) - C++ Base Library
-* [casadi/casadi](https://github.com/casadi/casadi) - CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs. It supports self-contained C-code generation and interfaces state-of-the-art codes such as SUNDIALS, IPOPT etc. It can be used from C++, Python or Matlab
-* [alembic/alembic](https://github.com/alembic/alembic) - Alembic is an open framework for storing and sharing scene data that includes a C++ library, a file format, and client plugins and applications.
-* [Komnomnomnom/swigibpy](https://github.com/Komnomnomnom/swigibpy) - Third party Interactive Brokers Python API generated from TWS C++ API using SWIG.
-* [Floby/node-libspotify](https://github.com/Floby/node-libspotify) - Node bindings for the libspotify C library
-* [scogswell/ArduinoSerialCommand](https://github.com/scogswell/ArduinoSerialCommand) - An Arduino library to tokenize and parse commands received over a serial port.
-* [j0sh/crtmpserver](https://github.com/j0sh/crtmpserver) - Git mirror of crtmpserver's SVN trunk
+* [acristoffers/CEFSimpleSample](https://github.com/acristoffers/CEFSimpleSample) - Simple sample on how to use Chromium Embedded Framework. More like a Hello World.
+* [sansumbrella/Choreograph](https://github.com/sansumbrella/Choreograph) - A simple, modern C++ animation and timing library.
+* [rygorous/intel_occlusion_cull](https://github.com/rygorous/intel_occlusion_cull) - Intel's Software Occlusion Culling demo with my modifications
+* [crossbario/autobahn-cpp](https://github.com/crossbario/autobahn-cpp) - WAMP in C++ for Boost/Asio
+* [ckw-mod/ckw-mod](https://github.com/ckw-mod/ckw-mod) - ckw is yet another command prompt.
 * [ChilliWorks/ChilliSource](https://github.com/ChilliWorks/ChilliSource) - An open source, cross-platform game engine designed for indie developers.
-* [thestk/rtmidi](https://github.com/thestk/rtmidi) - A set of C++ classes that provide a common API for realtime MIDI input/output across Linux (ALSA & JACK), Macintosh OS X (CoreMIDI) and Windows (Multimedia)
-* [spalx/cocos2d-x-extensions](https://github.com/spalx/cocos2d-x-extensions) - Cool cocos2d-x extensions
-* [scriptum/Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool
-* [ladislav-zezula/CascLib](https://github.com/ladislav-zezula/CascLib) - An open-source implementation of library for reading CASC storage from Blizzard games since 2014
-* [jbandela/cppcomponents](https://github.com/jbandela/cppcomponents) - Allows you to write binary components in C++11 that can be used across different compilers and standard libraries
-* [dachev/node-cld](https://github.com/dachev/node-cld) - Language detection for Javascript (Node). Based on the CLD2 (Compact Language Detector) library from Google.
-* [QianMo/OpenCV3-Intro-Book-Src](https://github.com/QianMo/OpenCV3-Intro-Book-Src) - 《OpenCV3编程入门》书本配套源码||《Introduction to OpenCV3 Programming》Book Source Code
-* [PatWie/CppNumericalSolvers](https://github.com/PatWie/CppNumericalSolvers) - L-BFGS-B implementation in C++11 using Eigen
-* [Eoinocal/Halite](https://github.com/Eoinocal/Halite) - Halite (named after the mineral) is a C++ BitTorrent client based on the excellent libtorrent library developed by Arvid Norberg.
-* [k06a/boolinq](https://github.com/k06a/boolinq) - Simplest C++ header-only LINQ template library
+* [StyleCop/StyleCop](https://github.com/StyleCop/StyleCop) - Mirror of official StyleCop repo (which appears to be abandoned) to port to ReSharper 9. Forked by @citizenmatt. Let's talk.
+* [KhronosGroup/SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross) - SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.
 * [justinhj/astar-algorithm-cpp](https://github.com/justinhj/astar-algorithm-cpp) - Implementation of the A* algorithm in C++ and C#
-* [crossbario/autobahn-cpp](https://github.com/crossbario/autobahn-cpp) - WAMP for C++ 11 on Boost/Asio
+* [glassechidna/zxing-cpp](https://github.com/glassechidna/zxing-cpp) - ZXing C++ Library
+* [ValveSoftware/csgo-demoinfo](https://github.com/ValveSoftware/csgo-demoinfo) - CS:GO demo parsing tool
+* [pfultz2/ClangComplete](https://github.com/pfultz2/ClangComplete) - Clang completion for sublime
+* [jonnydee/nzmqt](https://github.com/jonnydee/nzmqt) - nzmqt - A lightweight C++ Qt binding for ZeroMQ
+* [couchbase/libcouchbase](https://github.com/couchbase/libcouchbase) - The couchbase client for C.
+* [ben-strasser/fast-cpp-csv-parser](https://github.com/ben-strasser/fast-cpp-csv-parser) - fast-cpp-csv-parser
+* [spalx/cocos2d-x-extensions](https://github.com/spalx/cocos2d-x-extensions) - Cool cocos2d-x extensions
+* [scogswell/ArduinoSerialCommand](https://github.com/scogswell/ArduinoSerialCommand) - An Arduino library to tokenize and parse commands received over a serial port.
+* [k06a/boolinq](https://github.com/k06a/boolinq) - Simplest C++ header-only LINQ template library
+* [huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms](https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms) - 《算法导论》第三版中算法的C++实现
+* [simongeilfus/Cinder-Experiments](https://github.com/simongeilfus/Cinder-Experiments) - A collection of experiments, samples and other bits of code.
+* [sasq64/chipmachine](https://github.com/sasq64/chipmachine) - Demoscene/Retro Music Player
+* [leapmotion/autowiring](https://github.com/leapmotion/autowiring) - A C++ Inversion of Control Framework
+* [gzwl/leetcode](https://github.com/gzwl/leetcode) - The optimum C++  solutions for the leetcode
+* [dmonopoly/gtest-cmake-example](https://github.com/dmonopoly/gtest-cmake-example) - Helpful example of a gtest and cmake set up for C++.
+* [dachev/node-cld](https://github.com/dachev/node-cld) - Language detection for Javascript (Node). Based on the CLD2 (Compact Language Detector) library from Google.
+* [scriptum/Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool
+* [Floby/node-libspotify](https://github.com/Floby/node-libspotify) - Node bindings for the libspotify C library
+* [Eoinocal/Halite](https://github.com/Eoinocal/Halite) - Halite (named after the mineral) is a C++ BitTorrent client based on the excellent libtorrent library developed by Arvid Norberg.
+* [yixuan/spectra](https://github.com/yixuan/spectra) - A header-only C++ library for large scale eigenvalue problems
+* [wired/colloquypush](https://github.com/wired/colloquypush) - Modules for irc clients and bouncers that add Push support to Colloquy Mobile
+* [jbandela/cppcomponents](https://github.com/jbandela/cppcomponents) - Allows you to write binary components in C++11 that can be used across different compilers and standard libraries
+* [iwongu/sqlite3pp](https://github.com/iwongu/sqlite3pp) - SQLite3++ - C++ wrapper of SQLite3 API
+* [FreeOpcUa/freeopcua](https://github.com/FreeOpcUa/freeopcua) - Open Source C++ OPC-UA Server and Client Library
+* [axr/core](https://github.com/axr/core) - The AXR core library
+* [andrewssobral/simple_vehicle_counting](https://github.com/andrewssobral/simple_vehicle_counting) - Vehicle Detection, Tracking and Counting
+* [puku0x/cvdrone](https://github.com/puku0x/cvdrone) - CV Drone (= OpenCV + AR.Drone)
+* [dsw/oink-stack](https://github.com/dsw/oink-stack) - Oink is a collaboration of C++ static analysis tools.
+* [copperspice/copperspice](https://github.com/copperspice/copperspice) - Stable release 1.3.0
+* [ybainier/Hypodermic](https://github.com/ybainier/Hypodermic) - Hypodermic is an IoC container for C++. It provides dependency injection to your existing design.
+* [ThrowTheSwitch/CMock](https://github.com/ThrowTheSwitch/CMock) - CMock - Mock/stub generator for C
+* [no1msd/mstch](https://github.com/no1msd/mstch) - mstch is a complete implementation of {{mustache}} templates using modern C++
+* [jlaine/qdjango](https://github.com/jlaine/qdjango) - QDjango, a Qt-based C++ web framework
+* [FreedomZZQ/IcePlayer](https://github.com/FreedomZZQ/IcePlayer) - A Nice Music Player by Qt5 and C++
+* [sabel83/mpllibs](https://github.com/sabel83/mpllibs) - C++ template metaprogramming library collection
+* [MKLab-ITI/CUDA](https://github.com/MKLab-ITI/CUDA) - GPU-accelerated LIBSVM is a modification of the original LIBSVM that exploits the CUDA framework to significantly reduce processing time while producing identical results. The functionality and interface of LIBSVM remains the same. The modifications were done in the kernel computation, that is now performed using the GPU.
+* [gpakosz/Assert](https://github.com/gpakosz/Assert) - PPK_ASSERT is a cross platform drop-in & self-contained C++ assertion library
+* [CBaquero/delta-enabled-crdts](https://github.com/CBaquero/delta-enabled-crdts) - Reference implementations of state-based CRDTs that offer deltas for all mutations.
+* [acoustid/chromaprint](https://github.com/acoustid/chromaprint) - C library for generating audio fingerprints used by AcoustID
 * [trailofbits/codereason](https://github.com/trailofbits/codereason) - Semantic Binary Code Analysis Framework
 * [joaquintides/cpp14monadworkshop](https://github.com/joaquintides/cpp14monadworkshop) - Material for a workshop on monads with C++14
-* [sabel83/mpllibs](https://github.com/sabel83/mpllibs) - C++ template metaprogramming library collection
-* [lalinsky/chromaprint](https://github.com/lalinsky/chromaprint) - MOVED TO https://bitbucket.org/acoustid/chromaprint
-* [jefftimesten/CodeForArt](https://github.com/jefftimesten/CodeForArt) - Sample code for my class, Code For Art, at the Parsons Design and Technology program
-* [cacay/MemoryPool](https://github.com/cacay/MemoryPool) - An easy to use and efficient memory pool allocator written in C++.
-* [leethomason/MicroPather](https://github.com/leethomason/MicroPather) - MicroPather is a path finder and A* solver (astar or a-star) written in platform independent C++ that can be easily integrated into existing code. MicroPather focuses on being a path finding engine for video games but is a generic A* solver.
-* [frsyuki/mpio](https://github.com/frsyuki/mpio) - Multipurpose parallel I/O framework for C++ with fully multithreaded event loop implementation
-* [Emotiv/community-sdk](https://github.com/Emotiv/community-sdk) - Emotiv SDK Community Edition
-* [yixuan/spectra](https://github.com/yixuan/spectra) - A header-only C++ library for large scale eigenvalue problems
-* [netbeen/flyingACE](https://github.com/netbeen/flyingACE) - A Cocos2d-3.0 games about plane fighting, using Cocos2d-x-3.3 binding c++.   Cocos2dx游戏《王牌飞行员》，使用Cocos2d-x-3.3开发
-* [dsw/oink-stack](https://github.com/dsw/oink-stack) - Oink is a collaboration of C++ static analysis tools.
-* [StyleCop/StyleCop](https://github.com/StyleCop/StyleCop) - Mirror of official StyleCop repo (which appears to be abandoned) to port to ReSharper 9. Forked by @citizenmatt. Let's talk.
-* [yulequan/face-alignment-in-3000fps](https://github.com/yulequan/face-alignment-in-3000fps) - a c++ implementation of face alignment in 3000fps
-* [stepcode/stepcode](https://github.com/stepcode/stepcode) - STEPcode (formerly NIST's STEP Class Library) is used with IFC, STEP, and other standards that utilize the technologies of ISO10303 (STEP). It generates C++ and Python from EXPRESS (10303-11) schemas. The code is capable of reading and writing STEP Part 21 exchange files. It also utilizes Parts 22 and 23 (SDAI and its C++ binding).
-* [shedskin/shedskin](https://github.com/shedskin/shedskin) - Shed Skin is a Python to C++ compiler. Read the introduction below to learn about the restrictions.
-* [puku0x/cvdrone](https://github.com/puku0x/cvdrone) - CV Drone (= OpenCV + AR.Drone)
-* [CRVI/OpenCLIPP](https://github.com/CRVI/OpenCLIPP) - OpenCL Integrated Performance Primitives - A library of optimized OpenCL image processing functions
+* [inetic/club](https://github.com/inetic/club) - Decentralized game networking
+* [CopernicaMarketingSoftware/AMQP-CPP](https://github.com/CopernicaMarketingSoftware/AMQP-CPP) - C++ library for asynchronous non-blocking communication with RabbitMQ
 * [tgockel/json-voorhees](https://github.com/tgockel/json-voorhees) - A killer modern C++ library for interacting with JSON.
-* [sansumbrella/Choreograph](https://github.com/sansumbrella/Choreograph) - A simple, modern C++ animation and timing library.
-* [dmonopoly/gtest-cmake-example](https://github.com/dmonopoly/gtest-cmake-example) - Helpful example of a gtest and cmake set up for C++.
-* [MKLab-ITI/CUDA](https://github.com/MKLab-ITI/CUDA) - GPU-accelerated LIBSVM is a modification of the original LIBSVM that exploits the CUDA framework to significantly reduce processing time while producing identical results. The functionality and interface of LIBSVM remains the same. The modifications were done in the kernel computation, that is now performed using the GPU.
-* [CBaquero/delta-enabled-crdts](https://github.com/CBaquero/delta-enabled-crdts) - Reference implementations of state-based CRDTs that offer deltas for all mutations.
+* [stepcode/stepcode](https://github.com/stepcode/stepcode) - STEPcode (formerly NIST's STEP Class Library) is used with IFC, STEP, and other standards that utilize the technologies of ISO10303 (STEP). It generates C++ and Python from EXPRESS (10303-11) schemas. The code is capable of reading and writing STEP Part 21 exchange files. It also utilizes Parts 22 and 23 (SDAI and its C++ binding).
 * [sirikata/liboauthcpp](https://github.com/sirikata/liboauthcpp) - A pure C++ OAuth library
-* [jbenet/bson-cpp](https://github.com/jbenet/bson-cpp) - Standalone repository for mongodb's BSON C++ Implementation
-* [esa/pagmo](https://github.com/esa/pagmo) - A C++ / Python platform to perform parallel computations of optimisation tasks (global and local) via the asynchronous generalized island model. State of the art optimization algorithms are included.  A common interface is provided to other optimization frameworks/algorithms such as NLOPT, SciPy, SNOPT, IPOPT, GSL
-* [ayoy/qoauth](https://github.com/ayoy/qoauth) - A Qt-based C++ library for OAuth authorization scheme
-* [abique/hefur](https://github.com/abique/hefur) - Standalone C++ BitTorrent tracker
-* [Limeoats/cavestory-development](https://github.com/Limeoats/cavestory-development) - All of the source code from my Remaking Cavestory in C++ youtube series can be found in this repository.
-* [FreeOpcUa/freeopcua](https://github.com/FreeOpcUa/freeopcua) - Open Source C++ OPC-UA Server and Client Library
-* [Doppp/LHL-Sudoku-Solver](https://github.com/Doppp/LHL-Sudoku-Solver) - PM Lee's C++ Sudoku Solver Souce Code. Storing on GitHub for posterity. :D
-* [cinder/Cinder-OpenCV](https://github.com/cinder/Cinder-OpenCV) - OpenCV CinderBlock
-* [ValveSoftware/csgo-demoinfo](https://github.com/ValveSoftware/csgo-demoinfo) - CS:GO demo parsing tool
-* [GPUOpen-ProfessionalCompute-Tools/HIP](https://github.com/GPUOpen-ProfessionalCompute-Tools/HIP) - HIP : Convert CUDA to Portable C++ Code
-* [vorg/MowaLibs](https://github.com/vorg/MowaLibs) - Collection of my C++ classes that I use together with CinderLib
-* [springmeyer/libuv-webserver](https://github.com/springmeyer/libuv-webserver) - Pure C (or C++) webserver (and experimental http client) based on libuv and http-parser
-* [sasq64/chipmachine](https://github.com/sasq64/chipmachine) - Demoscene/Retro Music Player
-* [jimple/OpenCVSample](https://github.com/jimple/OpenCVSample) - OpenCV的iOS例子
-* [iwongu/sqlite3pp](https://github.com/iwongu/sqlite3pp) - SQLite3++ - C++ wrapper of SQLite3 API
-* [deeplearningais/curfil](https://github.com/deeplearningais/curfil) - CUDA Random Forest implementation for Image Labeling tasks
-* [patriciogonzalezvivo/KinectCoreVision](https://github.com/patriciogonzalezvivo/KinectCoreVision) - Kinect Implementation of CCV
-* [memo/ofxMSAFluid](https://github.com/memo/ofxMSAFluid) - C++ openFrameworks addon for solving and drawing 2D fluid systems based on Navier-Stokes equations and Jos Stam's paper "Real-Time Fluid Dynamics for Games" http://www.dgp.toronto.edu/people/stam/reality/Research/pdf/GDC03.pdf
-* [larroy/mycelium](https://github.com/larroy/mycelium) - An open source information retrieval system written in C++11 and Python. Aspires to be an alternative to Nutch / Lucene. It uses MongoDB as an storage engine.
-* [jlaine/qdjango](https://github.com/jlaine/qdjango) - QDjango, a Qt-based C++ web framework
-* [jbandela/simple_match](https://github.com/jbandela/simple_match) - Simple header only pattern matching for c++14
-* [glassechidna/zxing-cpp](https://github.com/glassechidna/zxing-cpp) - ZXing C++ Library
-* [chewing/windows-chewing-tsf](https://github.com/chewing/windows-chewing-tsf) - New free software implementation of windows-chewing based on TSF
+* [netbeen/flyingACE](https://github.com/netbeen/flyingACE) - A Cocos2d-3.0 games about plane fighting, using Cocos2d-x-3.3 binding c++.   Cocos2dx游戏《王牌飞行员》，使用Cocos2d-x-3.3开发
+* [emilk/emilib](https://github.com/emilk/emilib) - Loose collection of misc C++ libs
+* [CRVI/OpenCLIPP](https://github.com/CRVI/OpenCLIPP) - OpenCL Integrated Performance Primitives - A library of optimized OpenCL image processing functions
+* [scylladb/charybdefs](https://github.com/scylladb/charybdefs) - ScyllaDB fault injection filesystem
+* [patrikhuber/eos](https://github.com/patrikhuber/eos) - A lightweight 3D Morphable Face Model fitting library in modern C++11/14
+* [Microsoft/checkedc-clang](https://github.com/Microsoft/checkedc-clang) - This repo contains a version of clang that is being modified to support Checked C.   Checked C is an extension to C that adds checking to detect or prevent common programming errors such as out-of-bounds memory accesses.
+* [jefftimesten/CodeForArt](https://github.com/jefftimesten/CodeForArt) - Sample code for my class, Code For Art, at the Parsons Design and Technology program
+* [frsyuki/mpio](https://github.com/frsyuki/mpio) - Multipurpose parallel I/O framework for C++ with fully multithreaded event loop implementation
 * [beniz/libcmaes](https://github.com/beniz/libcmaes) - libcmaes is a multithreaded C++11 library with Python bindings for high performance blackbox stochastic optimization using the CMA-ES algorithm for Covariance Matrix Adaptation Evolution Strategy
 * [wayoda/LedControl](https://github.com/wayoda/LedControl) - An Arduino library for MAX7219 and MAX7221 Led display drivers
-* [scylladb/charybdefs](https://github.com/scylladb/charybdefs) - ScyllaDB fault injection filesystem
-* [m-schmoock/lcpp](https://github.com/m-schmoock/lcpp) - A Lua C PreProcessor
-* [jesusgollonet/ofpennereasing](https://github.com/jesusgollonet/ofpennereasing) - a port of penner's easing equations to c++, with an openframeworks usage example
-* [emilk/emilib](https://github.com/emilk/emilib) - Loose collection of misc C++ libs
-* [clang-omp/clang](https://github.com/clang-omp/clang) - clang with OpenMP 3.1 and some elements of OpenMP 4.0 support
-* [Whales/Cataclysm2](https://github.com/Whales/Cataclysm2) - The sequel to the post-apocalyptic roguelike.  Infinitely better.
-* [ybainier/Hypodermic](https://github.com/ybainier/Hypodermic) - Hypodermic is an IoC container for C++. It provides dependency injection to your existing design.
-* [toffaletti/libten](https://github.com/toffaletti/libten) - C++11 library for network services on modern x86_64 Linux
-* [obastemur/cocos2dxMultiPlayer](https://github.com/obastemur/cocos2dxMultiPlayer) - Sample Cocos2d-x Multiplayer game with server side source codes
+* [Taywee/args](https://github.com/Taywee/args) -   A simple header-only C++ argument parser library. Supposed to be flexible and powerful, and attempts to be compatible with the functionality of the Python standard argparse library (though not necessarily the API).
+* [patriciogonzalezvivo/KinectCoreVision](https://github.com/patriciogonzalezvivo/KinectCoreVision) - Kinect Implementation of CCV
 * [nvpro-samples/gl_vk_chopper](https://github.com/nvpro-samples/gl_vk_chopper) - Simple vulkan rendering example.
-* [jtoy/cld](https://github.com/jtoy/cld) - compact language detection
-* [daizhenjun/ImageFilterC](https://github.com/daizhenjun/ImageFilterC) - ImageFilterC++ For vs2010 , iphone, ipad
-* [andrewssobral/simple_vehicle_counting](https://github.com/andrewssobral/simple_vehicle_counting) - Vehicle Detection, Tracking and Counting
-* [Manu343726/Turbo](https://github.com/Manu343726/Turbo) - C++11 metaprogramming library
-* [MTG/gaia](https://github.com/MTG/gaia) - C++ library  to apply similarity measures and classiﬁcations on the results of audio analysis, including Python bindings. Together with Essentia it can be used to compute high-level descriptions of music.
+* [jimple/OpenCVSample](https://github.com/jimple/OpenCVSample) - OpenCV的iOS例子
+* [jesusgollonet/ofpennereasing](https://github.com/jesusgollonet/ofpennereasing) - a port of penner's easing equations to c++, with an openframeworks usage example
+* [jbandela/simple_match](https://github.com/jbandela/simple_match) - Simple header only pattern matching for c++14
 * [FrozenGene/LLVMPascalCompiler](https://github.com/FrozenGene/LLVMPascalCompiler) - This is the source code of My LLVM Pascal Compiler Tutorial
-* [Fl0p/OpenCV-iOS](https://github.com/Fl0p/OpenCV-iOS) - OpenCV (open source computer vision library) just builded iOS framework and Pod
-* [field/FieldKit.cpp](https://github.com/field/FieldKit.cpp) - Building blocks for generative art and computational design projects. Ranging from audio-visual interactive installations to generative design tools.
-* [edrosten/libcvd](https://github.com/edrosten/libcvd) - libcvd - efficient and easy to use C++ computer vision library.
-* [craigsapp/midifile](https://github.com/craigsapp/midifile) - C++ classes for reading/writing Standard MIDI Files
-* [adafruit/Adafruit-VC0706-Serial-Camera-Library](https://github.com/adafruit/Adafruit-VC0706-Serial-Camera-Library) - Library for VC0706-based Serial JPEG Cameras
-* [ThrowTheSwitch/CMock](https://github.com/ThrowTheSwitch/CMock) - CMock - Mock/stub generator for C
-* [CGRU/cgru](https://github.com/CGRU/cgru) - CGRU - AFANASY
-* [wbenny/pdbex](https://github.com/wbenny/pdbex) - pdbex is a utility for reconstructing structures and unions from the PDB into compilable C headers
-* [simongeilfus/Cinder-Experiments](https://github.com/simongeilfus/Cinder-Experiments) - A collection of experiments, samples and other bits of code.
-* [ros/ros_comm](https://github.com/ros/ros_comm) - ROS communications-related packages, including core client libraries (roscpp, rospy, roslisp) and graph introspection tools (rostopic, rosnode, rosservice, rosparam).
-* [psi4/psi4](https://github.com/psi4/psi4) - Open-Source Quantum Chemistry – an electronic structure package in C++ driven by Python
-* [luca3m/redis3m](https://github.com/luca3m/redis3m) - A C++ Redis client
-* [louridas/pagerank](https://github.com/louridas/pagerank) - A pagerank implementation in C++ able to handle very big graphs
-* [jakowskidev/uMario_Jakowski](https://github.com/jakowskidev/uMario_Jakowski) - uMario C++/SDL2 Game by Łykasz Jakowski
-* [gzwl/leetcode](https://github.com/gzwl/leetcode) - The optimum C++  solutions for the leetcode
-* [gpakosz/Assert](https://github.com/gpakosz/Assert) - a cross platform drop-in + self-contained C++ assertion library
-* [copperspice/copperspice](https://github.com/copperspice/copperspice) - Stable release 1.2.1 -
-* [nmattisson/HttpClient](https://github.com/nmattisson/HttpClient) - Http Client Library for the Spark Core (also well suited for Arduino and other embedded platforms).
-* [minimoog/QTweetLib](https://github.com/minimoog/QTweetLib) - C++ Qt based Twitter library
-* [mattbierner/Template-Assembly](https://github.com/mattbierner/Template-Assembly) - Embedding x86 assembly code in C++ with metaprogramming using a domain specific language.
-* [adobe/chromium](https://github.com/adobe/chromium) - Experiments and contributions to Chromium project
-* [OpenJabNab/OpenJabNab](https://github.com/OpenJabNab/OpenJabNab) - An open PHP/C++-based proxy framework for the Nabaztag/Tag™ (http://www.nabaztag.com/) electronic pet.
-* [yaledb/calvin](https://github.com/yaledb/calvin) - Calvin is a scalable transactional database system that leverages determinism to guarantee active replication and full ACID-compliance of distributed transactions without two-phase commit. Most of the code is for VLDB 2014 paper: 《An Evaluation of the Advantages and Disadvantages of Deterministic Database Systems》.
+* [vorg/MowaLibs](https://github.com/vorg/MowaLibs) - Collection of my C++ classes that I use together with CinderLib
 * [thekvs/cpp-serializers](https://github.com/thekvs/cpp-serializers) - Benchmark comparing various data serialization libraries (thrift, protobuf etc.) for C++
-* [nguyenduong/spritebuilder_cocos2dx](https://github.com/nguyenduong/spritebuilder_cocos2dx) - Sprite Builder lib for Cocos2-x
-* [nashby/cityhash](https://github.com/nashby/cityhash) - Ruby wrapper for google's cityhash.
-* [keegnotrub/coda-sass-plugin](https://github.com/keegnotrub/coda-sass-plugin) - A plug-in for Panic's Coda 2 that converts scss files into css files.
-* [kedebug/yohub](https://github.com/kedebug/yohub) - A lightweight asynchronous event-driven network application framework in C++.
-* [jaukia/cld-js](https://github.com/jaukia/cld-js) - Compact Language Detector for Javascript. Detect the language of any piece of text.
-* [intercept/intercept](https://github.com/intercept/intercept) - A C/C++ Binding Library for SQF and RV Engine Access Abstraction Layer
-* [glastonbridge/SuperCollider-Android](https://github.com/glastonbridge/SuperCollider-Android) - An Android port of SuperCollider
-* [fajran/npTuioClient](https://github.com/fajran/npTuioClient) - TUIO Client plugin for web browsers
-* [bgrimstad/splinter](https://github.com/bgrimstad/splinter) - Library for multivariate function approximation with splines (B-spline, P-spline, and more) with interfaces to C++, C, Python and MATLAB
-* [animatedb/oovaide](https://github.com/animatedb/oovaide) - C++ and Java automated analysis, class, component and sequence UML diagramming IDE tool, test coverage, complexity, duplicate code, analysis statistics
-* [QuantBox/CTP](https://github.com/QuantBox/CTP) - 已经不再维护，请移步到XAPI2项目
-* [BloodAxe/OpenCV-Features-Comparison](https://github.com/BloodAxe/OpenCV-Features-Comparison) - A benchmark tool to compare OpenCV feature detection and descriptors extraction algorithms
-* [yoshinorim/MySlowTranCapture](https://github.com/yoshinorim/MySlowTranCapture) - A tool to print MySQL transactions that take more than <n> milliseconds
-* [torbjoernk/CppKoans](https://github.com/torbjoernk/CppKoans) - Inspired by RubyKoans and JavaScript-Koans, this is an attemt to write such koans for C/C++.
-* [spark/core-communication-lib](https://github.com/spark/core-communication-lib) - Embedded C++ library for communication between Core & Cloud
-* [rudimeier/twsapi](https://github.com/rudimeier/twsapi) - portable C++ API for Interactive Brokers TWS
-* [jimporter/mettle](https://github.com/jimporter/mettle) - A C++14 unit test framework
-* [jeradesign/CVFunhouse](https://github.com/jeradesign/CVFunhouse) - CVFunhouse — an iOS framework for OpenCV
-* [exaexa/codecrypt](https://github.com/exaexa/codecrypt) - Post-quantum cryptography tool
+* [szagoruyko/cvpr15deepcompare](https://github.com/szagoruyko/cvpr15deepcompare) - Code and models for "Learning to Compare Image Patches via Convolutional Neural Networks"
+* [svgpp/svgpp](https://github.com/svgpp/svgpp) - C++ SVG library
+* [springmeyer/libuv-webserver](https://github.com/springmeyer/libuv-webserver) - Pure C (or C++) webserver (and experimental http client) based on libuv and http-parser
+* [MTG/gaia](https://github.com/MTG/gaia) - C++ library  to apply similarity measures and classiﬁcations on the results of audio analysis, including Python bindings. Together with Essentia it can be used to compute high-level descriptions of music.
+* [edrosten/libcvd](https://github.com/edrosten/libcvd) - libcvd - efficient and easy to use C++ computer vision library.
+* [Doppp/LHL-Sudoku-Solver](https://github.com/Doppp/LHL-Sudoku-Solver) - PM Lee's C++ Sudoku Solver Souce Code. Storing on GitHub for posterity. :D
+* [deeplearningais/curfil](https://github.com/deeplearningais/curfil) - CUDA Random Forest implementation for Image Labeling tasks
+* [cryfs/cryfs](https://github.com/cryfs/cryfs) - Cryptographic filesystem for the cloud
+* [craigsapp/midifile](https://github.com/craigsapp/midifile) - C++ classes for reading/writing Standard MIDI Files
+* [abique/hefur](https://github.com/abique/hefur) - Standalone C++ BitTorrent tracker
+* [walbourn/directx-sdk-samples](https://github.com/walbourn/directx-sdk-samples) - This repo contains C++ samples from the DirectX SDK updated to build using the Windows 8.x SDK
+* [psi4/psi4](https://github.com/psi4/psi4) - Open-Source Quantum Chemistry – an electronic structure package in C++ driven by Python
+* [nmattisson/HttpClient](https://github.com/nmattisson/HttpClient) - Http Client Library for the Spark Core (also well suited for Arduino and other embedded platforms).
+* [cinder/Cinder-OpenCV](https://github.com/cinder/Cinder-OpenCV) - OpenCV CinderBlock
+* [ayoy/qoauth](https://github.com/ayoy/qoauth) - A Qt-based C++ library for OAuth authorization scheme
+* [ros/ros_comm](https://github.com/ros/ros_comm) - ROS communications-related packages, including core client libraries (roscpp, rospy, roslisp) and graph introspection tools (rostopic, rosnode, rosservice, rosparam).
+* [m-schmoock/lcpp](https://github.com/m-schmoock/lcpp) - A Lua C PreProcessor
+* [memo/ofxMSAFluid](https://github.com/memo/ofxMSAFluid) - C++ openFrameworks addon for solving and drawing 2D fluid systems based on Navier-Stokes equations and Jos Stam's paper "Real-Time Fluid Dynamics for Games" http://www.dgp.toronto.edu/people/stam/reality/Research/pdf/GDC03.pdf
+* [louridas/pagerank](https://github.com/louridas/pagerank) - A pagerank implementation in C++ able to handle very big graphs
+* [jbenet/bson-cpp](https://github.com/jbenet/bson-cpp) - Standalone repository for mongodb's BSON C++ Implementation
 * [calf-studio-gear/calf](https://github.com/calf-studio-gear/calf) - Developers repository of Calf Studio Gear. Expect some issues when using it for production.
-* [axw/cmonster](https://github.com/axw/cmonster) - Python wrapper for the Clang C++ preprocessor and parser.
-* [NoAvailableAlias/nano-signal-slot](https://github.com/NoAvailableAlias/nano-signal-slot) - Pure C++11 Signals and Slots
+* [Manu343726/Turbo](https://github.com/Manu343726/Turbo) - C++11 metaprogramming library
+* [foonathan/standardese](https://github.com/foonathan/standardese) - A (work-in-progress) nextgen Doxygen for C++
+* [chewing/windows-chewing-tsf](https://github.com/chewing/windows-chewing-tsf) - New free software implementation of windows-chewing based on TSF
+* [bgrimstad/splinter](https://github.com/bgrimstad/splinter) - Library for multivariate function approximation with splines (B-spline, P-spline, and more) with interfaces to C++, C, Python and MATLAB
+* [adobe/chromium](https://github.com/adobe/chromium) - Experiments and contributions to Chromium project
 * [Mooophy/CLRS](https://github.com/Mooophy/CLRS) - CLRS in C++
-* [0x00A/nodeuv-http](https://github.com/0x00A/nodeuv-http) - A simple http library in c++ backed by libuv and http-parser.
-* [royshil/FoodcamClassifier](https://github.com/royshil/FoodcamClassifier) - A Bag of Visual Words food classifier for Media Lab's FoodCam
-* [pfultz2/Tick](https://github.com/pfultz2/Tick) - Trait introspection and concept creator for C++11
-* [mzsanford/cld](https://github.com/mzsanford/cld) - Language Detection based on Chromium's Compact Language Detector library
-* [kentonv/node-capnp](https://github.com/kentonv/node-capnp) - Cap'n Proto bindings for Node.js
-* [jmah/Clang-KeyPathValidator](https://github.com/jmah/Clang-KeyPathValidator) - Early exploration in a clang plugin for checking Cocoa KVC/KVO key paths
-* [hanmekim/SceneLib2](https://github.com/hanmekim/SceneLib2) - SceneLib2 is an open-source C++ library for SLAM originally designed and implemented by Professor Andrew Davison at Imperial College London.
+* [larroy/mycelium](https://github.com/larroy/mycelium) - An open source information retrieval system written in C++11 and Python. Aspires to be an alternative to Nutch / Lucene. It uses MongoDB as an storage engine.
+* [intercept/intercept](https://github.com/intercept/intercept) - A C/C++ Binding Library for SQF and RV Engine Access Abstraction Layer
+* [exaexa/codecrypt](https://github.com/exaexa/codecrypt) - Post-quantum cryptography tool
 * [electric-monk/360Controller](https://github.com/electric-monk/360Controller) - XBox 360 controller driver for OSX official repo
-* [dato-code/GraphLab-Create-SDK](https://github.com/dato-code/GraphLab-Create-SDK) - SDK for GraphLab-Create
-* [calaos/calaos_base](https://github.com/calaos/calaos_base) - Calaos server and touchscreen interface
-* [bluesky466/Cocos2dxUsefulClasses](https://github.com/bluesky466/Cocos2dxUsefulClasses) - cocos2d-x实用类 -- some easy and userful classes for cocos2d-x 2.2.3 and cocos2d-x 3.2
-* [ben-strasser/fast-cpp-csv-parser](https://github.com/ben-strasser/fast-cpp-csv-parser) - fast-cpp-csv-parser
-* [Xiang1993/jack-compiler](https://github.com/Xiang1993/jack-compiler) - jack语言编译器
-* [Voxer/sse4_crc32](https://github.com/Voxer/sse4_crc32) - SSE4.2-based H/w-accelerated CRC32 calculator with software fallback
+* [clang-omp/clang](https://github.com/clang-omp/clang) - clang with OpenMP 3.1 and some elements of OpenMP 4.0 support
+* [CGRU/cgru](https://github.com/CGRU/cgru) - CGRU - AFANASY
+* [adafruit/Adafruit-VC0706-Serial-Camera-Library](https://github.com/adafruit/Adafruit-VC0706-Serial-Camera-Library) - Library for VC0706-based Serial JPEG Cameras
+* [Whales/Cataclysm2](https://github.com/Whales/Cataclysm2) - The sequel to the post-apocalyptic roguelike.  Infinitely better.
+* [sieren/QSyncthingTray](https://github.com/sieren/QSyncthingTray) - A OS X / Windows / Linux Tray App for Syncthing written in C++
+* [rbgirshick/caffe-fast-rcnn](https://github.com/rbgirshick/caffe-fast-rcnn) - Caffe fork that supports Fast R-CNN
+* [obastemur/cocos2dxMultiPlayer](https://github.com/obastemur/cocos2dxMultiPlayer) - Sample Cocos2d-x Multiplayer game with server side source codes
+* [luca3m/redis3m](https://github.com/luca3m/redis3m) - A C++ Redis client
+* [jtoy/cld](https://github.com/jtoy/cld) - compact language detection
 * [Seeed-Studio/CAN_BUS_Shield](https://github.com/Seeed-Studio/CAN_BUS_Shield) - CAN Bus Shield - MCP2515&MCP2551
-* [Morwenn/cpp-sort](https://github.com/Morwenn/cpp-sort) - Additional sorting algorithms for C++14
-* [Loki-Astari/ThorsSerializer](https://github.com/Loki-Astari/ThorsSerializer) - C++ Serialization library for JSON
-* [Intel-bigdata/ceph-mesos](https://github.com/Intel-bigdata/ceph-mesos) - A Mesos framework for scaling a Ceph cluster.
-* [no1msd/mstch](https://github.com/no1msd/mstch) - mstch is a complete implementation of {{mustache}} templates using modern C++
-* [ipkn/dumpable](https://github.com/ipkn/dumpable) - Serialization without any serialization codes in C++
-* [Sidnicious/team](https://github.com/Sidnicious/team) - Easy asynchrony for C++
-* [CppMicroServices/CppMicroServices](https://github.com/CppMicroServices/CppMicroServices) - An OSGi-like C++ dynamic module system and service registry
-* [tghosgor/threadpool11](https://github.com/tghosgor/threadpool11) - A fast, lock-free, cross-platform C++11 thread pool library that is aiming to be lightweight and simple.
-* [tapio/rlutil](https://github.com/tapio/rlutil) - C and C++ utilities for cross-platform console roguelike game creation.
-* [ofTheo/ofxControlPanel](https://github.com/ofTheo/ofxControlPanel) - A flexible control panel based gui addon for openFrameworks
-* [josephholsten/libdecodeqr](https://github.com/josephholsten/libdecodeqr) - A C/C++ library for decoding QR code 2D barcodes
-* [huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms](https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms) - 《算法导论》第三版中算法的C++实现
-* [go3k/CCXWebview](https://github.com/go3k/CCXWebview) - A project to show Webview in a cocos2d-x games on both iOS and Android platform
-* [genbetadev/Genbeta-Dev-Engine](https://github.com/genbetadev/Genbeta-Dev-Engine) - Desarrollo de un Game Engine básico sobre C++ y SFML 2.1
-* [ffevotte/clang-tags](https://github.com/ffevotte/clang-tags) - C/C++ source code indexing tool based on libclang
-* [cvjena/cn24](https://github.com/cvjena/cn24) - Convolutional (Patch) Networks for Semantic Segmentation
-* [bozho/console](https://github.com/bozho/console) - Public Console repo
-* [alanxz/SimpleAmqpClient](https://github.com/alanxz/SimpleAmqpClient) - Simple C++ Interface to rabbitmq-c
-* [CrazyCoder/coolreader-kindle-qt](https://github.com/CrazyCoder/coolreader-kindle-qt) - Cool Reader 3 port for Kindle Paperwhite, Touch, 4NT, 3, DX
-* [CopernicaMarketingSoftware/AMQP-CPP](https://github.com/CopernicaMarketingSoftware/AMQP-CPP) - C++ library for asynchronous non-blocking communication with RabbitMQ
-* [CatalystApps/Cocos2dxGAFPlayer](https://github.com/CatalystApps/Cocos2dxGAFPlayer) -  Cocos2dxGAFPlayer
-* [telehash/telehash-c](https://github.com/telehash/telehash-c) - telehash tools library in c
-* [leafsoar/ls-cocos2d-x](https://github.com/leafsoar/ls-cocos2d-x) - leafsoar cocos2d-x code
-* [joshuajnoble/ofxKinectCommonBridge](https://github.com/joshuajnoble/ofxKinectCommonBridge) - A wrapper for the simple Kinect for Windows library developed at Microsoft in partnership with myself & James George
-* [ebshimizu/socket.io-clientpp](https://github.com/ebshimizu/socket.io-clientpp) - A websocket++ and rapidjson based C++ Socket.IO client
-* [SFML/CSFML](https://github.com/SFML/CSFML) - Official binding of SFML for C
+* [OpenJabNab/OpenJabNab](https://github.com/OpenJabNab/OpenJabNab) - An open PHP/C++-based proxy framework for the Nabaztag/Tag™ (http://www.nabaztag.com/) electronic pet.
+* [mmc-maodun/Data-Structure-And-Algorithm](https://github.com/mmc-maodun/Data-Structure-And-Algorithm) - Data Structure And Algorithm（常用数据结构与算法C/C++实现）
+* [Fl0p/OpenCV-iOS](https://github.com/Fl0p/OpenCV-iOS) - OpenCV (open source computer vision library) just builded iOS framework and Pod
+* [Extrawurst/cimgui](https://github.com/Extrawurst/cimgui) - c-api for imgui (https://github.com/ocornut/imgui)
+* [daizhenjun/ImageFilterC](https://github.com/daizhenjun/ImageFilterC) - ImageFilterC++ For vs2010 , iphone, ipad
+* [toffaletti/libten](https://github.com/toffaletti/libten) - C++11 library for network services on modern x86_64 Linux
+* [Pivotal-Data-Attic/pivotalrd-libhdfs3](https://github.com/Pivotal-Data-Attic/pivotalrd-libhdfs3) - libhdfs3 a native c/c++ hdfs client
+* [luoyetx/JDA](https://github.com/luoyetx/JDA) - C++ implementation of Joint Cascade Face Detection and Alignment.
+* [kedebug/yohub](https://github.com/kedebug/yohub) - A lightweight asynchronous event-driven network application framework in C++.
+* [animatedb/oovaide](https://github.com/animatedb/oovaide) - C++ and Java automated analysis, class, component and sequence UML diagramming IDE tool, test coverage, complexity, duplicate code, analysis statistics
+* [yaledb/calvin](https://github.com/yaledb/calvin) - Calvin is a scalable transactional database system that leverages determinism to guarantee active replication and full ACID-compliance of distributed transactions without two-phase commit. Most of the code is for VLDB 2014 paper: 《An Evaluation of the Advantages and Disadvantages of Deterministic Database Systems》.
+* [wbenny/pdbex](https://github.com/wbenny/pdbex) - pdbex is a utility for reconstructing structures and unions from the PDB into compilable C headers
+* [vit-vit/CTPL](https://github.com/vit-vit/CTPL) - Modern and efficient C++ Thread Pool Library
+* [strasdat/Sophus](https://github.com/strasdat/Sophus) - C++ implementation of Lie Groups using Eigen.
 * [Return-To-The-Roots/s25client](https://github.com/Return-To-The-Roots/s25client) - Return To The Roots (Settlers II(R) Clone)
-* [PivotalRD/libhdfs3](https://github.com/PivotalRD/libhdfs3) - libhdfs3 a native c/c++ hdfs client
-* [Parchive/par2cmdline](https://github.com/Parchive/par2cmdline) - fork of the original par2cmdline CVS repo
-* [OlafvdSpek/ctemplate](https://github.com/OlafvdSpek/ctemplate) - Automatically exported from code.google.com/p/ctemplate
-* [LabSound/LabSound](https://github.com/LabSound/LabSound) - A C++11 audio engine derived from the WebAudio specification
-* [InfiniteRasa/Game-Server](https://github.com/InfiniteRasa/Game-Server) - C++ version
-* [BoostGSoC14/boost.http](https://github.com/BoostGSoC14/boost.http) - Embeddable C++ HTTP server
-* [trailofbits/pe-parse](https://github.com/trailofbits/pe-parse) - Principled, lightweight C/C++ PE parser
+* [QuantBox/CTP](https://github.com/QuantBox/CTP) - 已经不再维护，请移步到XAPI2项目
+* [pfultz2/Tick](https://github.com/pfultz2/Tick) - Trait introspection and concept creator for C++11
+* [PaulStoffregen/CapacitiveSensor](https://github.com/PaulStoffregen/CapacitiveSensor) - Detect touch or proximity by capacitve sensing
+* [NoAvailableAlias/nano-signal-slot](https://github.com/NoAvailableAlias/nano-signal-slot) - Pure C++11 Signals and Slots
+* [marbl/canu](https://github.com/marbl/canu) - A single molecule sequence assembler for genomes large and small.
+* [Intel-bigdata/ceph-mesos](https://github.com/Intel-bigdata/ceph-mesos) - A Mesos framework for scaling a Ceph cluster.
+* [glastonbridge/SuperCollider-Android](https://github.com/glastonbridge/SuperCollider-Android) - An Android port of SuperCollider
+* [freesouls/face-alignment-at-3000fps](https://github.com/freesouls/face-alignment-at-3000fps) - The project is an C++ implementation of Face Alignment at 3000fps via Local Binary Features
+* [field/FieldKit.cpp](https://github.com/field/FieldKit.cpp) - Building blocks for generative art and computational design projects. Ranging from audio-visual interactive installations to generative design tools.
+* [vinjn/opencv-2-cookbook-src](https://github.com/vinjn/opencv-2-cookbook-src) - 《OpenCV 2 计算机视觉编程手册》 配套代码
+* [torbjoernk/CppKoans](https://github.com/torbjoernk/CppKoans) - Inspired by RubyKoans and JavaScript-Koans, this is an attemt to write such koans for C/C++.
 * [texus/TGUI](https://github.com/texus/TGUI) - An easy to use cross-platform c++ GUI for SFML
 * [ryanjon2040/RTS-Community-Project](https://github.com/ryanjon2040/RTS-Community-Project) - Lets build an RTS Game with Unreal Engine 4!
-* [rhcad/x3py](https://github.com/rhcad/x3py) - C++ Plugin Framework that can integrate with QT, Python, Java or C#.
-* [peterhuene/sqlite-net-wp8](https://github.com/peterhuene/sqlite-net-wp8) - A C++/CX wrapper for SQLite functions that sqlite-net depends on.  Can be used as an alternative to csharp-sqlite on Windows Phone 8.  This library is released under the MIT license.
-* [mattiasflodin/reckless](https://github.com/mattiasflodin/reckless) - Reckless logging. Low-latency, high-throughput, asynchronous logging library for C++.
-* [jdkoftinoff/jdksmidi](https://github.com/jdkoftinoff/jdksmidi) - c++ MIDI library
-* [adamvr/arduino-base64](https://github.com/adamvr/arduino-base64) - A base64 library for the arduino platform, written in C
-* [PaulStoffregen/CapacitiveSensor](https://github.com/PaulStoffregen/CapacitiveSensor) - Detect touch or proximity by capacitve sensing
-* [Manu343726/ctti](https://github.com/Manu343726/ctti) - Compile Time Type Information for C++
-* [Lichtso/netLink](https://github.com/Lichtso/netLink) - Socket and Networking Library using msgpack.org[C++11]
-* [thejohnfreeman/autocheck](https://github.com/thejohnfreeman/autocheck) - QuickCheck and SmallCheck clones for C++
-* [szagoruyko/cvpr15deepcompare](https://github.com/szagoruyko/cvpr15deepcompare) - Code and models for "Learning to Compare Image Patches via Convolutional Neural Networks"
-* [rttrorg/rttr](https://github.com/rttrorg/rttr) - C++ Reflection Library
-* [mmc-maodun/Data-Structure-And-Algorithm](https://github.com/mmc-maodun/Data-Structure-And-Algorithm) - Data Structure And Algorithm（常用数据结构与算法C/C++实现）
-* [blockchaindev/benchpress](https://github.com/blockchaindev/benchpress) - C++11 header only micro benchmark framework
-* [akalend/amqpcpp](https://github.com/akalend/amqpcpp) - rabbitcpp is a C++ library for Message Queue Server RabbitMQ
-* [zhedahht/ChineseCodingInterviewAppendix](https://github.com/zhedahht/ChineseCodingInterviewAppendix) - The source code for the appendix part of the Chinese version of the book Coding Interviews
-* [vinjn/opencv-2-cookbook-src](https://github.com/vinjn/opencv-2-cookbook-src) - 《OpenCV 2 计算机视觉编程手册》 配套代码
-* [tj/node-discount](https://github.com/tj/node-discount) - nodejs bindings for the C markdown "discount" library
-* [strasdat/Sophus](https://github.com/strasdat/Sophus) - C++ implementation of Lie Groups using Eigen.
-* [steamclock/javascriptcore-api-test](https://github.com/steamclock/javascriptcore-api-test) - Early experiment with the iOS 7 Objective-C API for JavaScriptCore.
-* [richelbilderbeek/BoostGraphTutorial](https://github.com/richelbilderbeek/BoostGraphTutorial) - A well-connected C++11 Boost.Graph tutorial
-* [mrtazz/json-cpp](https://github.com/mrtazz/json-cpp) - [DEPRECATED] use https://github.com/open-source-parsers/jsoncpp
-* [jeaye/jeayeson](https://github.com/jeaye/jeayeson) - A very sane (header only) C++14 JSON library
-* [cmangos/mangos-tbc](https://github.com/cmangos/mangos-tbc) - C(ontinued)-MaNGOS is about: -- Doing WoW-Emulation Right!
-* [brandonpelfrey/Construct](https://github.com/brandonpelfrey/Construct) - Mathematics prototyping system
-* [akof1314/CoolFormat](https://github.com/akof1314/CoolFormat) - CoolFormat Source Code Formatter
-* [klmr/cpp11-range](https://github.com/klmr/cpp11-range) - Range-based for loops to iterate over a range of numbers or values
-* [bjoern-andres/random-forest](https://github.com/bjoern-andres/random-forest) - Randomized Decision Trees: A Fast C++ Implementation of Random Forests.
-* [YuanhaoGong/CurvatureFilter](https://github.com/YuanhaoGong/CurvatureFilter) - Curvature Filters are efficient solvers for Variational Model
-* [Wren6991/Ship-Sandbox](https://github.com/Wren6991/Ship-Sandbox) - Sinking ship simulation written in C++
-* [walbourn/directx-sdk-samples](https://github.com/walbourn/directx-sdk-samples) - This repo contains C++ samples from the DirectX SDK updated to build using the Windows 8.x SDK
-* [vit-vit/CTPL](https://github.com/vit-vit/CTPL) - Modern and efficient C++ Thread Pool Library
-* [thebeebs/OfficeAssistant](https://github.com/thebeebs/OfficeAssistant) - The Office Assistant was an intelligent user interface for Microsoft Office.  The code written in C++ is now avalible for anyone to use that agrees to the licence. Enjoy
-* [greearb/xorp.ct](https://github.com/greearb/xorp.ct) - XORP is a routing protocol suite, supporting OSPF, BGP, RIP, PIM, IGMP, OLSR and more.  This repository is now the official XORP code repository.
+* [royshil/FoodcamClassifier](https://github.com/royshil/FoodcamClassifier) - A Bag of Visual Words food classifier for Media Lab's FoodCam
+* [mattbierner/Template-Assembly](https://github.com/mattbierner/Template-Assembly) - Embedding x86 assembly code in C++ with metaprogramming using a domain specific language.
+* [Loki-Astari/ThorsSerializer](https://github.com/Loki-Astari/ThorsSerializer) - C++ Serialization library for JSON
+* [kainjow/Mustache](https://github.com/kainjow/Mustache) - Mustache text templates in C++11
+* [jaukia/cld-js](https://github.com/jaukia/cld-js) - Compact Language Detector for Javascript. Detect the language of any piece of text.
+* [cvjena/cn24](https://github.com/cvjena/cn24) - Convolutional (Patch) Networks for Semantic Segmentation
+* [BoostGSoC14/boost.http](https://github.com/BoostGSoC14/boost.http) - Embeddable C++ HTTP server
+* [BloodAxe/OpenCV-Features-Comparison](https://github.com/BloodAxe/OpenCV-Features-Comparison) - A benchmark tool to compare OpenCV feature detection and descriptors extraction algorithms
+* [0x00A/nodeuv-http](https://github.com/0x00A/nodeuv-http) - A simple http library in c++ backed by libuv and http-parser.
+* [t3nsor/codebook](https://github.com/t3nsor/codebook) - Reference material for ACM-ICPC
+* [Sidnicious/team](https://github.com/Sidnicious/team) - Easy asynchrony for C++
+* [SFML/CSFML](https://github.com/SFML/CSFML) - Official binding of SFML for C
+* [rudimeier/twsapi](https://github.com/rudimeier/twsapi) - portable C++ API for Interactive Brokers TWS
 * [Piepenguin1995/citybuilder](https://github.com/Piepenguin1995/citybuilder) - Source code for my SFML Citybuilder tutorial
-* [KDAB/Charm](https://github.com/KDAB/Charm) - The Cross-Platform Time Tracker
-* [mooz/node-icu-charset-detector](https://github.com/mooz/node-icu-charset-detector) - A simple binding of ICU character set detection for Node.js
-* [mcr/Android-HelloWorldService](https://github.com/mcr/Android-HelloWorldService) - This is a skeleton application that creates an Android service in C++, accessing it via Java/Binder.
+* [Parchive/par2cmdline](https://github.com/Parchive/par2cmdline) - fork of the original par2cmdline CVS repo
+* [nashby/cityhash](https://github.com/nashby/cityhash) - Ruby wrapper for google's cityhash.
+* [Morwenn/cpp-sort](https://github.com/Morwenn/cpp-sort) - Additional sorting algorithms for C++14
+* [MicBosi/VisualizationLibrary](https://github.com/MicBosi/VisualizationLibrary) - Visualization Library is a C++ middleware for high-performance 2D and 3D graphics applications based on OpenGL 1.x-4.x supporting Windows, Linux and Mac OS X.
+* [martinmoene/gsl-lite](https://github.com/martinmoene/gsl-lite) - A single-file header-only version of ISO C++ Guidelines Support Library (GSL) for C++98, C++03 and later
+* [Lichtso/netLink](https://github.com/Lichtso/netLink) - Socket and Networking Library using msgpack.org[C++11]
+* [LabSound/LabSound](https://github.com/LabSound/LabSound) -  :microscope: A C++11 audio engine derived from the WebAudio specification
+* [kgretzky/obfusion](https://github.com/kgretzky/obfusion) - Obfusion - C++ X86 Code Obfuscation Library
+* [kentonv/node-capnp](https://github.com/kentonv/node-capnp) - Cap'n Proto bindings for Node.js
+* [joaofaro/KCFcpp](https://github.com/joaofaro/KCFcpp) - C++ Implementation of KCF Tracker
+* [jeradesign/CVFunhouse](https://github.com/jeradesign/CVFunhouse) - CVFunhouse — an iOS framework for OpenCV
+* [ipkn/dumpable](https://github.com/ipkn/dumpable) - Serialization without any serialization codes in C++
+* [fajran/npTuioClient](https://github.com/fajran/npTuioClient) - TUIO Client plugin for web browsers
+* [alanxz/SimpleAmqpClient](https://github.com/alanxz/SimpleAmqpClient) - Simple C++ Interface to rabbitmq-c
+* [akof1314/CoolFormat](https://github.com/akof1314/CoolFormat) - CoolFormat Source Code Formatter
+* [Voxer/sse4_crc32](https://github.com/Voxer/sse4_crc32) - SSE4.2-based H/w-accelerated CRC32 calculator with software fallback
+* [turi-code/GraphLab-Create-SDK](https://github.com/turi-code/GraphLab-Create-SDK) - SDK for Turi's GraphLab Create.
+* [tghosgor/threadpool11](https://github.com/tghosgor/threadpool11) - A fast, lock-free, cross-platform C++11 thread pool library that is aiming to be lightweight and simple.
+* [spark/core-communication-lib](https://github.com/spark/core-communication-lib) - Embedded C++ library for communication between Core & Cloud
+* [nguyenduong/spritebuilder_cocos2dx](https://github.com/nguyenduong/spritebuilder_cocos2dx) - Sprite Builder lib for Cocos2-x
+* [keegnotrub/coda-sass-plugin](https://github.com/keegnotrub/coda-sass-plugin) - A plug-in for Panic's Coda 2 that converts scss files into css files.
+* [blockchaindev/benchpress](https://github.com/blockchaindev/benchpress) - C++11 header only micro benchmark framework
+* [axw/cmonster](https://github.com/axw/cmonster) - Python wrapper for the Clang C++ preprocessor and parser.
+* [yoshinorim/MySlowTranCapture](https://github.com/yoshinorim/MySlowTranCapture) - A tool to print MySQL transactions that take more than <n> milliseconds
+* [trailofbits/pe-parse](https://github.com/trailofbits/pe-parse) - Principled, lightweight C/C++ PE parser
+* [telehash/telehash-c](https://github.com/telehash/telehash-c) - telehash tools library in c
+* [rttrorg/rttr](https://github.com/rttrorg/rttr) - C++ Reflection Library
+* [mosra/corrade](https://github.com/mosra/corrade) - C++11/C++14 multiplatform utility library
+* [jimporter/mettle](https://github.com/jimporter/mettle) - A C++14 unit test framework
+* [hanmekim/SceneLib2](https://github.com/hanmekim/SceneLib2) - SceneLib2 is an open-source C++ library for SLAM originally designed and implemented by Professor Andrew Davison at Imperial College London.
+* [CppMicroServices/CppMicroServices](https://github.com/CppMicroServices/CppMicroServices) - An OSGi-like C++ dynamic module system and service registry
+* [zhedahht/ChineseCodingInterviewAppendix](https://github.com/zhedahht/ChineseCodingInterviewAppendix) - The source code for the appendix part of the Chinese version of the book Coding Interviews
+* [minimoog/QTweetLib](https://github.com/minimoog/QTweetLib) - C++ Qt based Twitter library
+* [jmah/Clang-KeyPathValidator](https://github.com/jmah/Clang-KeyPathValidator) - Early exploration in a clang plugin for checking Cocoa KVC/KVO key paths
+* [jeaye/jeayeson](https://github.com/jeaye/jeayeson) - A very sane (header only) C++14 JSON library
+* [guillaumeblanc/ozz-animation](https://github.com/guillaumeblanc/ozz-animation) - Open source c++ skeletal animation engine and tools
+* [ffevotte/clang-tags](https://github.com/ffevotte/clang-tags) - C/C++ source code indexing tool based on libclang
+* [CrazyCoder/coolreader-kindle-qt](https://github.com/CrazyCoder/coolreader-kindle-qt) - Cool Reader 3 port for Kindle Paperwhite, Touch, 4NT, 3, DX
+* [cmangos/mangos-tbc](https://github.com/cmangos/mangos-tbc) - C(ontinued)-MaNGOS is about: -- Doing WoW-Emulation Right!
+* [calaos/calaos_base](https://github.com/calaos/calaos_base) - Calaos server and touchscreen interface
+* [bluesky466/Cocos2dxUsefulClasses](https://github.com/bluesky466/Cocos2dxUsefulClasses) - cocos2d-x实用类 -- some easy and userful classes for cocos2d-x 2.2.3 and cocos2d-x 3.2
+* [rhcad/x3py](https://github.com/rhcad/x3py) - C++ Plugin Framework that can integrate with QT, Python, Java or C#.
+* [mzsanford/cld](https://github.com/mzsanford/cld) - Language Detection based on Chromium's Compact Language Detector library
+* [klmr/cpp11-range](https://github.com/klmr/cpp11-range) - Range-based for loops to iterate over a range of numbers or values
+* [joshuajnoble/ofxKinectCommonBridge](https://github.com/joshuajnoble/ofxKinectCommonBridge) - A wrapper for the simple Kinect for Windows library developed at Microsoft in partnership with myself & James George
+* [josephholsten/libdecodeqr](https://github.com/josephholsten/libdecodeqr) - A C/C++ library for decoding QR code 2D barcodes
+* [jdkoftinoff/jdksmidi](https://github.com/jdkoftinoff/jdksmidi) - c++ MIDI library
+* [go3k/CCXWebview](https://github.com/go3k/CCXWebview) - A project to show Webview in a cocos2d-x games on both iOS and Android platform
+* [eidheim/tiny-process-library](https://github.com/eidheim/tiny-process-library) - A small platform independent library making it simple to create and stop new processes in C++, as well as writing to stdin and reading from stdout and stderr of a new process
+* [bozho/console](https://github.com/bozho/console) - Public Console repo
+* [thejohnfreeman/autocheck](https://github.com/thejohnfreeman/autocheck) - QuickCheck and SmallCheck clones for C++
+* [tapio/rlutil](https://github.com/tapio/rlutil) - C and C++ utilities for cross-platform console roguelike game creation.
+* [oktal/pistache](https://github.com/oktal/pistache) - A high-performance REST Toolkit written in C++
+* [ofTheo/ofxControlPanel](https://github.com/ofTheo/ofxControlPanel) - A flexible control panel based gui addon for openFrameworks
+* [Manu343726/ctti](https://github.com/Manu343726/ctti) - Compile Time Type Information for C++
+* [ebshimizu/socket.io-clientpp](https://github.com/ebshimizu/socket.io-clientpp) - A websocket++ and rapidjson based C++ Socket.IO client
 * [comina/Socket](https://github.com/comina/Socket) - Socket C++ Classes
+* [CatalystApps/Cocos2dxGAFPlayer](https://github.com/CatalystApps/Cocos2dxGAFPlayer) -  Cocos2dxGAFPlayer
+* [vcftools/vcftools](https://github.com/vcftools/vcftools) - A set of tools written in Perl and C++ for working with VCF files, such as those generated by the 1000 Genomes Project.
+* [Microsoft/DirectXMath](https://github.com/Microsoft/DirectXMath) - DirectXMath is an all inline SIMD C++ linear algebra library for use in games and graphics apps
+* [leafsoar/ls-cocos2d-x](https://github.com/leafsoar/ls-cocos2d-x) - leafsoar cocos2d-x code
+* [InfiniteRasa/Game-Server](https://github.com/InfiniteRasa/Game-Server) - C++ version
+* [eggs-cpp/variant](https://github.com/eggs-cpp/variant) - Eggs.Variant is a C++11/14 generic, type-safe, discriminated union.
+* [BlindMindStudios/AngelScript-JIT-Compiler](https://github.com/BlindMindStudios/AngelScript-JIT-Compiler) - A Just-In-Time compiler for the AngelScript language on x86 processors.
+* [adamvr/arduino-base64](https://github.com/adamvr/arduino-base64) - A base64 library for the arduino platform, written in C
+* [SuprDewd/CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming) - A collection of algorithms, data structures and other useful information for competitive programming.
+* [skystrife/cpptoml](https://github.com/skystrife/cpptoml) - cpptoml is a header-only library for parsing TOML
+* [rogersce/cnpy](https://github.com/rogersce/cnpy) - library to read/write .npy and .npz files in C/C++
+* [richelbilderbeek/BoostGraphTutorial](https://github.com/richelbilderbeek/BoostGraphTutorial) - A well-connected C++11 Boost.Graph tutorial
+* [qicosmos/cosmos](https://github.com/qicosmos/cosmos) - c++11基础库
+* [PyYoshi/cChardet](https://github.com/PyYoshi/cChardet) - This library is high speed universal character encoding detector. - binding to libcharsetdetect
+* [peterhuene/sqlite-net-wp8](https://github.com/peterhuene/sqlite-net-wp8) - A C++/CX wrapper for SQLite functions that sqlite-net depends on.  Can be used as an alternative to csharp-sqlite on Windows Phone 8.  This library is released under the MIT license.
+* [mooz/node-icu-charset-detector](https://github.com/mooz/node-icu-charset-detector) - A simple binding of ICU character set detection for Node.js
+* [greearb/xorp.ct](https://github.com/greearb/xorp.ct) - XORP is a routing protocol suite, supporting OSPF, BGP, RIP, PIM, IGMP, OLSR and more.  This repository is now the official XORP code repository.
+* [genbetadev/Genbeta-Dev-Engine](https://github.com/genbetadev/Genbeta-Dev-Engine) - Desarrollo de un Game Engine básico sobre C++ y SFML 2.1
+* [Auburns/FastNoise](https://github.com/Auburns/FastNoise) - Fast C++ Noise Library
+* [zsummer/zsummer](https://github.com/zsummer/zsummer) - (2013年起已停止维护,有兴趣请关注zsummerX)zsummer is a cross-platform C++ high performance lightweight network library. via IOCP/EPOLL.
+* [reupen/columns_ui](https://github.com/reupen/columns_ui) - Alternative UI for the foobar2000 audio player
+* [projectchrono/chrono](https://github.com/projectchrono/chrono) - C++ library for multibody dynamics simulations
+* [elliotgoodrich/SSO-23](https://github.com/elliotgoodrich/SSO-23) - Memory optimal Small String Optimization implementation for C++
+* [DavidEGrayson/minimu9-ahrs](https://github.com/DavidEGrayson/minimu9-ahrs) - Program for reading data from the Pololu MinIMU-9 over I²C.  Works on the Raspberry Pi and probably other embedded ARM Linux boards.
+* [Cylix/Reflex](https://github.com/Cylix/Reflex) - C++14 Reflection Library
+* [CoolProp/CoolProp](https://github.com/CoolProp/CoolProp) - Thermophysical properties for the masses
+* [auscaster/webrtc-native-to-browser-peerconnection-example](https://github.com/auscaster/webrtc-native-to-browser-peerconnection-example) - WebRTC native C++ to browser PeerConnection example
+* [akalend/amqpcpp](https://github.com/akalend/amqpcpp) - rabbitcpp is a C++ library for Message Queue Server RabbitMQ
+* [Wren6991/Ship-Sandbox](https://github.com/Wren6991/Ship-Sandbox) - Sinking ship simulation written in C++
+* [nemtrif/utfcpp](https://github.com/nemtrif/utfcpp) - UTF-8 with C++ in a Portable Way
+* [jll63/yomm11](https://github.com/jll63/yomm11) - Open multi-methods for C++11
+* [bjoern-andres/random-forest](https://github.com/bjoern-andres/random-forest) - Randomized Decision Trees: A Fast C++ Implementation of Random Forests.
+* [0xsky/xblog](https://github.com/0xsky/xblog) - xBlog is a simple, high-speed, customizable blog app developed by C++
+* [aquynh/capstone](https://github.com/aquynh/capstone) - Capstone disassembly/disassembler framework: Core (Arm, Arm64, M68K, Mips, PPC, Sparc, SystemZ, X86, X86_64, XCore) + bindings (Python, Java, Ocaml)
+* [Itseez/opencv_contrib](https://github.com/Itseez/opencv_contrib) - Repository for OpenCV's extra modules
+* [Hotsotse/Hang-man](https://github.com/Hotsotse/Hang-man) - A very broken C++ hangman game.
+* [kmike/marisa-trie](https://github.com/kmike/marisa-trie) - Static memory-efficient Trie-like structures for Python (2.x and 3.x). Uses marisa-trie C++ library.
+* [treefrogframework/treefrog-framework](https://github.com/treefrogframework/treefrog-framework) - TreeFrog Framework : High-speed C++ MVC Framework for Web Application
+* [gwaldron/osgearth](https://github.com/gwaldron/osgearth) - A free open source C++ geospatial toolkit.
+* [BearishSun/BansheeEngine](https://github.com/BearishSun/BansheeEngine) - A modern open source game development toolkit. It features low and high level engine systems, DirectX 11 and OpenGL support, complete asset pipeline, C# scripting support and a fully featured editor.
+* [mrnugget/opencv-haar-classifier-training](https://github.com/mrnugget/opencv-haar-classifier-training) - Learn how to train your own OpenCV Haar classifier
+* [readium/readium-sdk](https://github.com/readium/readium-sdk) - A C++ ePub renderer SDK of similar capability to Adobe's RMSDK.
+* [taylor001/crown](https://github.com/taylor001/crown) - The flexible game engine.
+* [google/edash-packager](https://github.com/google/edash-packager) - A media packaging SDK intended for C++ programmers writing MPEG-DASH packaging applications with Widevine DRM and Common Encryption support.
+* [richgel999/crunch](https://github.com/richgel999/crunch) - Advanced DXTc texture compression library
+* [kmike/DAWG](https://github.com/kmike/DAWG) - DAFSA-based dictionary-like read-only objects for Python. Based on `dawgdic` C++ library.
+* [lalinsky/chromaprint](https://github.com/lalinsky/chromaprint) - MOVED TO https://bitbucket.org/acoustid/chromaprint
+* [dato-code/GraphLab-Create-SDK](https://github.com/dato-code/GraphLab-Create-SDK) - SDK for GraphLab-Create
+* [PivotalRD/libhdfs3](https://github.com/PivotalRD/libhdfs3) - libhdfs3 a native c/c++ hdfs client
+* [OlafvdSpek/ctemplate](https://github.com/OlafvdSpek/ctemplate) - Automatically exported from code.google.com/p/ctemplate
+* [tj/node-discount](https://github.com/tj/node-discount) - nodejs bindings for the C markdown "discount" library
+* [steamclock/javascriptcore-api-test](https://github.com/steamclock/javascriptcore-api-test) - Early experiment with the iOS 7 Objective-C API for JavaScriptCore.
+* [mrtazz/json-cpp](https://github.com/mrtazz/json-cpp) - [DEPRECATED] use https://github.com/open-source-parsers/jsoncpp
+* [brandonpelfrey/Construct](https://github.com/brandonpelfrey/Construct) - Mathematics prototyping system
+* [YuanhaoGong/CurvatureFilter](https://github.com/YuanhaoGong/CurvatureFilter) - Curvature Filters are efficient solvers for Variational Model
+* [thebeebs/OfficeAssistant](https://github.com/thebeebs/OfficeAssistant) - The Office Assistant was an intelligent user interface for Microsoft Office.  The code written in C++ is now avalible for anyone to use that agrees to the licence. Enjoy
+* [KDAB/Charm](https://github.com/KDAB/Charm) - The Cross-Platform Time Tracker
+* [mcr/Android-HelloWorldService](https://github.com/mcr/Android-HelloWorldService) - This is a skeleton application that creates an Android service in C++, accessing it via Java/Binder.
 * [anhero/JsonBox](https://github.com/anhero/JsonBox) - This is a JSON C++ library. It can write and read JSON files with ease and speed.
 * [ajaxorg/o3](https://github.com/ajaxorg/o3) - Ajax.org O3 is a binary component framework to allow C++ components to be easily used in JS environments (NodeJS, Browsers, etc)
 * [Tomasu/LuaGlue](https://github.com/Tomasu/LuaGlue) - C++11 Lua 5.2 Binding Library
 * [ObscureCode/Mocha](https://github.com/ObscureCode/Mocha) - Small, hackathon, Java class manipulator program written in C++ w/ Qt
-* [FreedomZZQ/IcePlayer](https://github.com/FreedomZZQ/IcePlayer) - A Nice Music Player by Qt5 and C++
-* [DavidEGrayson/minimu9-ahrs](https://github.com/DavidEGrayson/minimu9-ahrs) - Program for reading data from the Pololu MinIMU-9 over I²C.  Works on the Raspberry Pi and probably other embedded ARM Linux boards.
-* [eggs-cpp/variant](https://github.com/eggs-cpp/variant) - Eggs.Variant is a C++11/14 generic, type-safe, discriminated union.
 * [diwu/AnalyticX](https://github.com/diwu/AnalyticX) - A C++ wrapper of Flurry for Cocos2d-X. Supports Android and iOS.
 * [amadvance/tommyds](https://github.com/amadvance/tommyds) - A C library of hashtables and tries designed to store objects with high performance
-* [Extrawurst/cimgui](https://github.com/Extrawurst/cimgui) - c-api for imgui (https://github.com/ocornut/imgui)
-* [Cylix/Reflex](https://github.com/Cylix/Reflex) - C++14 Reflection Library
-* [BlindMindStudios/AngelScript-JIT-Compiler](https://github.com/BlindMindStudios/AngelScript-JIT-Compiler) - A Just-In-Time compiler for the AngelScript language on x86 processors.
-* [zsummer/zsummer](https://github.com/zsummer/zsummer) - zsummer is a cross-platform C++ high performance lightweight network library. via IOCP/EPOLL.
 * [tias/xinput_calibrator](https://github.com/tias/xinput_calibrator) - A generic touchscreen calibration program for X.Org
 * [simonask/reflect](https://github.com/simonask/reflect) - A simple C++11 reflection/serialization framework.
 * [r-lyeh/kult](https://github.com/r-lyeh/kult) - :crystal_ball: A lightweight entity/component/system library written in C++11
-* [marbl/canu](https://github.com/marbl/canu) - A single molecule sequence assembler for genomes large and small.
-* [jll63/yomm11](https://github.com/jll63/yomm11) - Open multi-methods for C++11
 * [adafruit/Adafruit_LiquidCrystal](https://github.com/adafruit/Adafruit_LiquidCrystal) - A fork of my own LiquidCrystal library
-* [PyYoshi/cChardet](https://github.com/PyYoshi/cChardet) - This library is high speed universal character encoding detector. - binding to libcharsetdetect
-* [vcftools/vcftools](https://github.com/vcftools/vcftools) - A set of tools written in Perl and C++ for working with VCF files, such as those generated by the 1000 Genomes Project.
-* [t3nsor/codebook](https://github.com/t3nsor/codebook) - Reference material for ACM-ICPC
 * [saleyn/eixx](https://github.com/saleyn/eixx) - Erlang C++ Interface
 * [moriyoshi/boost.php](https://github.com/moriyoshi/boost.php) - Create your PHP extension in C++, in a minute.
 * [cmagagna/ArduinoCC3000](https://github.com/cmagagna/ArduinoCC3000) - Arduino library for the TI CC3000 WiFi module
@@ -864,8 +918,6 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [ipa320/cob_driver](https://github.com/ipa320/cob_driver) - The cob_driver stack includes packages that provide access to the Care-O-bot hardware over ROS messages and services. E.g. for mobile base, arm, camera_sensors, scanners, etc...
 * [gwiazdorrr/CxxSwizzle](https://github.com/gwiazdorrr/CxxSwizzle) - Modern C++ swizzling header-only library
 * [grogers0/CppQuickCheck](https://github.com/grogers0/CppQuickCheck) - QuickCheck-like property based automated testing tool for C++
-* [elliotgoodrich/SSO-23](https://github.com/elliotgoodrich/SSO-23) - Memory optimal Small String Optimization implementation for C++
-* [auscaster/webrtc-native-to-browser-peerconnection-example](https://github.com/auscaster/webrtc-native-to-browser-peerconnection-example) - WebRTC native C++ to browser PeerConnection example
 * [ahorn/cpp-channel](https://github.com/ahorn/cpp-channel) - Experimental Go-style concurrency for C++11
 * [aewallin/openvoronoi](https://github.com/aewallin/openvoronoi) - 2D voronoi diagram for point and line-segment sites using incremental topology-oriented algorithm. C++ with python bindings. GPLv3.
 * [RSATom/WebChimera](https://github.com/RSATom/WebChimera) - [deprecated] Web browser plugin based on Vlc + Firebreath + Qt Quick 2/Qml
@@ -929,7 +981,6 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [KrishnaAchuthan/curry](https://github.com/KrishnaAchuthan/curry) - Support for Currying and Function Composition in C++
 * [zwxxx/LeetCode](https://github.com/zwxxx/LeetCode) - Solution set for LeetCode.com.
 * [panaseleus/stack_unwinding](https://github.com/panaseleus/stack_unwinding) - The stack_unwinding is a small header only C++ library which supplies primitive(class unwinding_indicator) to determining when object destructor is called due to stack-unwinding or due to normal scope leaving.
-* [mosra/corrade](https://github.com/mosra/corrade) - C++11/C++14 multiplatform utility library
 * [loadzero/geoloc](https://github.com/loadzero/geoloc) - A command line tool for bulk geolocation queries written in C++.
 * [insurgentgames/Cryptose](https://github.com/insurgentgames/Cryptose) - Cryptose is a cryptogram game for iOS and Android with three gritty occupations to choose from. Made with Marmelade SDK.
 * [ekg/intervaltree](https://github.com/ekg/intervaltree) - a minimal C++ interval tree implementation
@@ -944,7 +995,6 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [adafruit/LiquidCrystal](https://github.com/adafruit/LiquidCrystal) - A fork of my own LiquidCrystal library
 * [0xxff/ldb](https://github.com/0xxff/ldb) - A C++ REPL / CLI for LevelDB
 * [tegesoft/camp](https://github.com/tegesoft/camp) - C++ multi-purpose reflection library
-* [rogersce/cnpy](https://github.com/rogersce/cnpy) - library to read/write .npy and .npz files in C/C++
 * [mizvekov/fp](https://github.com/mizvekov/fp) - Fixed Point Arithmetic C++14 Library
 * [memo/ofxMSAOpenCL](https://github.com/memo/ofxMSAOpenCL) - C++ openFrameworks addon for very simple to use wrapper for OpenCL. All underlying openCL objects are accessible to allow advanced features too if need be
 * [ddemidov/amgcl](https://github.com/ddemidov/amgcl) - C++ library for solving large sparse linear systems with algebraic multigrid method
@@ -974,7 +1024,6 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [delmottea/libCMT](https://github.com/delmottea/libCMT) - c++ port of the python code from https://github.com/gnebehay/CMT
 * [ajg/synth](https://github.com/ajg/synth) - A Powerful C++ Templating Framework
 * [JarrettBillingsley/Croc](https://github.com/JarrettBillingsley/Croc) - Croc is an extensible extension language in the vein of Lua, which also wishes it were a standalone language. Also it's fun.
-* [CoolProp/CoolProp](https://github.com/CoolProp/CoolProp) - Thermophysical properties for the masses
 * [Computing-Language-Utility/CLU](https://github.com/Computing-Language-Utility/CLU) - Computing Language Utility
 * [BanTheRewind/Cinder-MsKinect](https://github.com/BanTheRewind/Cinder-MsKinect) - Cinder wrapper for the official Kinect SDK
 * [libgit2/libgit2](https://github.com/libgit2/libgit2) - The Library
