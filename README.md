@@ -2751,3 +2751,4 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [dabroz/csgjs-cpp](https://github.com/dabroz/csgjs-cpp) - CSG library for C++, port of https://github.com/evanw/csg.js/
 * [OldFisher/lua-api-pp](https://github.com/OldFisher/lua-api-pp) - Lua API wrapper for C++11
 * [MacGeneration/MacGPusher](https://github.com/MacGeneration/MacGPusher) - C++11 Project to interact with Apple Push Notification service (APNS)
+* [pfultz2/cget](https://github.com/pfultz2/cget) -  Cmake package retrieval
