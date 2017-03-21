@@ -1,4 +1,4 @@
-#awesome-cpp
+# awesome-cpp
 
 A curated list of awesome C++ frameworks, libraries and software.
 
@@ -2098,6 +2098,7 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [cdmh/cpp_immutable_string](https://github.com/cdmh/cpp_immutable_string) - An Immutable String class for C++
 * [jacket-code/redlock-cpp](https://github.com/jacket-code/redlock-cpp) - C++实现redis分布式锁(Redlock Redis-based distributed locks implementation in C++)
 * [cirosantilli/cpp-cheat](https://github.com/cirosantilli/cpp-cheat) - C and C++ information, cheatsheets and mini-projects. Examples, unit tests, tutorials.
+* [jeaye/value-category-cheatsheet](https://github.com/jeaye/value-category-cheatsheet) - A C++14 cheat-sheet on lvalues, rvalues, xvalues, and more.
 * [davisford/cmake-cpputest](https://github.com/davisford/cmake-cpputest) - Setup test project for embedded C development with CppUTest built using CMake
 * [mschiffm/cppip](https://github.com/mschiffm/cppip) - The Compressed Pcap Packet Indexing Program
 * [wayfinder/Wayfinder-CppCore-v3](https://github.com/wayfinder/Wayfinder-CppCore-v3) - Version 3 of the Core module for Cpp based clients
