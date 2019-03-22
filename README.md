@@ -3134,3 +3134,5 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [OldFisher/lua-api-pp](https://github.com/OldFisher/lua-api-pp) - Lua API wrapper for C++11
 * [MacGeneration/MacGPusher](https://github.com/MacGeneration/MacGPusher) - C++11 Project to interact with Apple Push Notification service (APNS)
 * [pfultz2/cget](https://github.com/pfultz2/cget) -  Cmake package retrieval
+* [Nameof](https://github.com/Neargye/nameof) - A header only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro and enum.
+                                                                                                                       
