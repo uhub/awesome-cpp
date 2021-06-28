@@ -1037,3 +1037,5 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [serge-sans-paille/pythran](https://github.com/serge-sans-paille/pythran) - a claimless python to c++ converter
 * [GPUOpen-Tools/CodeXL](https://github.com/GPUOpen-Tools/CodeXL) - CodeXL is a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.
 * [googlecartographer/cartographer_ros](https://github.com/googlecartographer/cartographer_ros) - Provides ROS integration for Cartographer.
+* [CXXGraph](https://github.com/ZigRazor/CXXGraph) - Header-Only Graph library for C++ ( >= 17 ).
+  
