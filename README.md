@@ -939,3 +939,4 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [cpp-taskflow/cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow) - Modern C++ Parallel Task Programming
 * [gameplay3d/GamePlay](https://github.com/gameplay3d/GamePlay) - Open-source, cross-platform, C++ game engine for creating 2D/3D games.
 * [ChenglongChen/Kaggle_CrowdFlower](https://github.com/ChenglongChen/Kaggle_CrowdFlower) - 1st Place Solution for Search Results Relevance Competition on Kaggle.
+* [TinyORM](https://github.com/silverqx/TinyORM) - Modern C++ ORM library. 🔥 [MIT] [website](https://www.tinyorm.org/)
