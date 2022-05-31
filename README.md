@@ -939,3 +939,15 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [cpp-taskflow/cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow) - Modern C++ Parallel Task Programming
 * [gameplay3d/GamePlay](https://github.com/gameplay3d/GamePlay) - Open-source, cross-platform, C++ game engine for creating 2D/3D games.
 * [ChenglongChen/Kaggle_CrowdFlower](https://github.com/ChenglongChen/Kaggle_CrowdFlower) - 1st Place Solution for Search Results Relevance Competition on Kaggle.
+* [google/differential-privacy](https://github.com/google/differential-privacy) - Google's C++ differential privacy library.
+* [rapidsai/cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
+* [WeAreROLI/JUCE](https://github.com/WeAreROLI/JUCE) - The JUCE cross-platform C++ framework
+* [dfranx/SHADERed](https://github.com/dfranx/SHADERed) - Lightweight, cross-platform & full-featured desktop IDE for HLSL and GLSL shaders
+* [googlecartographer/cartographer](https://github.com/googlecartographer/cartographer) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
+* [facebook/conceal](https://github.com/facebook/conceal) - Conceal provides easy Android APIs for performing fast encryption and authentication of data.
+* [OculusVR/Flicks](https://github.com/OculusVR/Flicks) - A unit of time defined in C++.
+* [serge-sans-paille/pythran](https://github.com/serge-sans-paille/pythran) - a claimless python to c++ converter
+* [GPUOpen-Tools/CodeXL](https://github.com/GPUOpen-Tools/CodeXL) - CodeXL is a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.
+* [googlecartographer/cartographer_ros](https://github.com/googlecartographer/cartographer_ros) - Provides ROS integration for Cartographer.
+* [CXXGraph](https://github.com/ZigRazor/CXXGraph) - Header-Only Graph library for C++ ( >= 17 ).
+  
