@@ -623,6 +623,7 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [cloose/CuteMarkEd](https://github.com/cloose/CuteMarkEd) - Qt Markdown Editor
 * [calamares/calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework *(archived)*
 * [owncloud/client](https://github.com/owncloud/client) - 🖥️ Desktop Syncing Client for ownCloud
+* [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT) - An open-source PDF toolkit for Windows and Linux, combining desktop applications, command-line tools and a modern MIT-licensed C++/Qt PDF engine. https://jakubmelka.github.io/
 * [anael-seghezzi/CToy](https://github.com/anael-seghezzi/CToy) - Interactive C live coding environment
 * [Voine/ChatWaifu_Mobile](https://github.com/Voine/ChatWaifu_Mobile) - 移动版二次元 AI 老婆聊天器
 * [brookhong/KeyCastOW](https://github.com/brookhong/KeyCastOW) - keystroke visualizer for Windows, lets you easily display your keystrokes while recording screencasts.
