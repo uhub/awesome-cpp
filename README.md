@@ -91,8 +91,8 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [SFUMECJF/cmake-examples-Chinese](https://github.com/SFUMECJF/cmake-examples-Chinese) - 快速入门CMake,通过例程学习语法。在线阅读地址：https://sfumecjf.github.io/cmake-examples-Chinese/
 * [szza/LearningNote](https://github.com/szza/LearningNote) - C++和Linux学习笔记
 * [CppCon/CppCon2014](https://github.com/CppCon/CppCon2014) - Speaker materials from CppCon 2014
-* [jainaman224/Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes) - A comprehensive resource for learning and implementing algorithms and data structures. This repository includes detailed notes, complexity analysis, and code examples in C++, Java, Python, and more. Ideal for students, professionals, and those preparing for coding interviews.
 * [rutura/The-C-20-Masterclass-Source-Code](https://github.com/rutura/The-C-20-Masterclass-Source-Code) - Source code for the C++ 20 Masterclass on udemy
+* [jainaman224/Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes) - A comprehensive resource for learning and implementing algorithms and data structures. This repository includes detailed notes, complexity analysis, and code examples in C++, Java, Python, and more. Ideal for students, professionals, and those preparing for coding interviews.
 * [selfboot/CS_Offer](https://github.com/selfboot/CS_Offer) - 计算机学科基础知识和主流编程语言相关内容的总结
 * [downdemo/Cpp-Concurrency-in-Action-2ed](https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed) - C++11/14/17/20 Concurrency Demystified: From Core Principles to Thread-Safe Code
 * [prabhuomkar/pytorch-cpp](https://github.com/prabhuomkar/pytorch-cpp) - C++ Implementation of PyTorch Tutorials for Everyone
@@ -144,7 +144,7 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [Mooophy/Cpp-Primer](https://github.com/Mooophy/Cpp-Primer) - C++ Primer 5 answers
 * [wisdompeak/LeetCode](https://github.com/wisdompeak/LeetCode) - This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks.
 * [mandliya/algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems using C++
-* [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4046 LeetCode Problems (Weekly Update)
+* [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4073 LeetCode Problems (Weekly Update)
 * [xtaci/algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++.
 * [zhedahht/CodingInterviewChinese2](https://github.com/zhedahht/CodingInterviewChinese2) - 《剑指Offer：名企面试官精讲典型编程面试题》第二版源代码
 * [gatieme/CodingInterviews](https://github.com/gatieme/CodingInterviews) - 剑指Offer——名企面试官精讲典型编程题
@@ -157,14 +157,14 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [liuchuo/PAT](https://github.com/liuchuo/PAT) - 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
 * [pezy/CppPrimer](https://github.com/pezy/CppPrimer) - :books: Solutions for C++ Primer 5th exercises.
 * [ShujiaHuang/Cpp-Primer-Plus-6th](https://github.com/ShujiaHuang/Cpp-Primer-Plus-6th) - 《C++ Primer Plus 第6版（中文版）》原书代码、习题答案和个人笔记，仅供学习和交流。
-* [huangmingchuan/Cpp_Primer_Answers](https://github.com/huangmingchuan/Cpp_Primer_Answers) - 《C++ Primer》第五版中文版习题答案
-* [ndrplz/self-driving-car](https://github.com/ndrplz/self-driving-car) - Udacity Self-Driving Car Engineer Nanodegree projects.
 * [bqi343/cp-notebook](https://github.com/bqi343/cp-notebook) - General Resources for Competitive Programming
+* [ndrplz/self-driving-car](https://github.com/ndrplz/self-driving-car) - Udacity Self-Driving Car Engineer Nanodegree projects.
+* [huangmingchuan/Cpp_Primer_Answers](https://github.com/huangmingchuan/Cpp_Primer_Answers) - 《C++ Primer》第五版中文版习题答案
 * [MasteringOpenCV/code](https://github.com/MasteringOpenCV/code) - Code for the book "Mastering OpenCV with Practical Computer Vision Projects" by Packt Publishing 2012.
 * [liuyubobobo/Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode) - My Solutions to Leetcode problems. All solutions support C++ language, some support Java and Python. Multiple solutions will be given by most problems. Enjoy:) 我的Leetcode解答。所有的问题都支持C++语言，一部分问题支持Java语言。近乎所有问题都会提供多个算法解决。大家加油！：）
 * [Jack-Cherish/LeetCode](https://github.com/Jack-Cherish/LeetCode) - :monkey:LeetCode、剑指Offer刷题笔记（C/C++、Python3实现）
-* [nodejs/node-addon-examples](https://github.com/nodejs/node-addon-examples) - Node.js C++ addon examples from http://nodejs.org/docs/latest/api/addons.html
 * [anthropics/claude-desktop-buddy](https://github.com/anthropics/claude-desktop-buddy) - Reference and an example for the Bluetooth API for makers in Claude Cowork & Claude Code Desktop
+* [nodejs/node-addon-examples](https://github.com/nodejs/node-addon-examples) - Node.js C++ addon examples from http://nodejs.org/docs/latest/api/addons.html
 * [flutter/codelabs](https://github.com/flutter/codelabs) - Flutter codelab examples
 * [QianMo/OpenCV3-Intro-Book-Src](https://github.com/QianMo/OpenCV3-Intro-Book-Src) - :blue_book:《OpenCV3编程入门》书本配套源码 |《Introduction to OpenCV3 Programming》Book Source Code
 * [yogykwan/acm-challenge-workbook](https://github.com/yogykwan/acm-challenge-workbook) - 《挑战程序设计竞赛》习题册攻略
@@ -181,8 +181,8 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [Harrison1/unrealcpp](https://github.com/Harrison1/unrealcpp) - Unreal Engine 4 C++ examples
 * [smv1999/CompetitiveProgrammingQuestionBank](https://github.com/smv1999/CompetitiveProgrammingQuestionBank) - This repository contains all the popular Competitive Programming and DSA questions with solutions for your Coding Interview Preparation.
 * [eliben/llvm-clang-samples](https://github.com/eliben/llvm-clang-samples) - UNMAINTAINED: Examples of using the LLVM and Clang compilation libraries and tools *(archived)*
-* [Miller-Xie/Code](https://github.com/Miller-Xie/Code) - 面试高频算法题总结，个人博客
 * [QianMo/GPU-Gems-Book-Source-Code](https://github.com/QianMo/GPU-Gems-Book-Source-Code) - :cd: CD Content ( Source Code ) Collection of Book <GPU Gems > 1~ 3 | 《GPU精粹》 1~ 3 随书CD（源代码）珍藏
+* [Miller-Xie/Code](https://github.com/Miller-Xie/Code) - 面试高频算法题总结，个人博客
 * [CodeTest-StudyGroup/Code-Test-Study](https://github.com/CodeTest-StudyGroup/Code-Test-Study) - 코딩 테스트 관련 기출문항을 풀어보고 소스코드 및 설명을 업로드합니다.
 * [gzwl/leetcode](https://github.com/gzwl/leetcode) - The optimum C++ solutions for the leetcode
 
@@ -251,7 +251,7 @@ A curated list of awesome C++ frameworks, libraries and software.
 
 ### Editor and IDE Support
 
-* [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
+* [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 12 and later.
 * [MaskRay/ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting
 * [qt-creator/qt-creator](https://github.com/qt-creator/qt-creator) - A cross-platform Qt IDE
 * [eranif/codelite](https://github.com/eranif/codelite) - A multi purpose IDE specialized in C/C++/Rust/Python/PHP and Node.js. Written in C++
@@ -360,10 +360,10 @@ A curated list of awesome C++ frameworks, libraries and software.
 ### LLM and Inference
 
 * [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-* [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.
 * [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) - High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment.
-* [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
+* [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.
 * [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
+* [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 * [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots.
 * [ztxz16/fastllm](https://github.com/ztxz16/fastllm) - fastllm是后端无依赖的高性能大模型推理库。同时支持张量并行推理稠密模型和混合模式推理MOE模型，任意10G以上显卡即可推理满血DeepSeek。双路9004/9005服务器+单显卡部署DeepSeek满血满精度原版模型，单并发20tps；INT4量化模型单并发30tps，多并发可达60+。
 * [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
@@ -419,8 +419,8 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [hengli/camodocal](https://github.com/hengli/camodocal) - CamOdoCal: Automatic Intrinsic and Extrinsic Calibration of a Rig with Multiple Generic Cameras and Odometry
 * [senlinuc/caffe_ocr](https://github.com/senlinuc/caffe_ocr) - 主流ocr算法研究实验性的项目，目前实现了CNN+BLSTM+CTC架构
 * [alexgkendall/caffe-segnet](https://github.com/alexgkendall/caffe-segnet) - Implementation of SegNet: A Deep Convolutional Encoder-Decoder Architecture for Semantic Pixel-Wise Labelling
-* [devilsen/CZXing](https://github.com/devilsen/CZXing) - Make you have the QRCode Scan ability like WeChat!
 * [zhaoweicai/cascade-rcnn](https://github.com/zhaoweicai/cascade-rcnn) - Caffe implementation of multiple popular object detection frameworks
+* [devilsen/CZXing](https://github.com/devilsen/CZXing) - Make you have the QRCode Scan ability like WeChat!
 * [kylemcdonald/FaceTracker](https://github.com/kylemcdonald/FaceTracker) - Real time deformable face tracking in C++ with OpenCV 3. *(archived)*
 * [pmoulon/CMVS-PMVS](https://github.com/pmoulon/CMVS-PMVS) - This software (CMVS) takes the output of a structure-from-motion (SfM) software as input, then decomposes the input images into a set of image clusters of managable size. An MVS software can be used to process each cluster independently and in parallel, where the union of reconstructions from all the clusters should not miss any details that can be otherwise obtained from the whole image set. CMVS should be used in conjunction with an SfM software Bundler and an MVS software PMVS2 (PMVS version 2).
 * [joaofaro/KCFcpp](https://github.com/joaofaro/KCFcpp) - C++ Implementation of KCF Tracker
@@ -431,8 +431,8 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 * [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages
 * [OpenNMT/CTranslate2](https://github.com/OpenNMT/CTranslate2) - Fast inference engine for Transformer models
-* [yanyiwu/cppjieba](https://github.com/yanyiwu/cppjieba) - "结巴"中文分词的C++版本
 * [0xShug0/audio.cpp](https://github.com/0xShug0/audio.cpp) - An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.
+* [yanyiwu/cppjieba](https://github.com/yanyiwu/cppjieba) - "结巴"中文分词的C++版本
 * [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - ggml speech-to-text inference for 16+ model families
 * [k2-fsa/sherpa-ncnn](https://github.com/k2-fsa/sherpa-ncnn) - Real-time speech recognition and voice activity detection (VAD) using next-gen Kaldi with ncnn without Internet connection. Support iOS, Android, Linux, macOS, Windows, Raspberry Pi, VisionFive2, LicheePi4A etc.
 * [marian-nmt/marian](https://github.com/marian-nmt/marian) - Fast Neural Machine Translation in C++
@@ -467,8 +467,8 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [socketio/socket.io-client-cpp](https://github.com/socketio/socket.io-client-cpp) - C++11 implementation of Socket.IO client
 * [ZLMediaKit/ZLToolKit](https://github.com/ZLMediaKit/ZLToolKit) - 一个基于C++11的轻量级网络框架，基于线程池技术可以实现大并发网络IO
 * [c-ares/c-ares](https://github.com/c-ares/c-ares) - A C library for asynchronous DNS requests
-* [mfontanini/libtins](https://github.com/mfontanini/libtins) - High-level, multiplatform C++ network packet sniffing and crafting library.
 * [quickfix/quickfix](https://github.com/quickfix/quickfix) - QuickFIX C++ Fix Engine Library
+* [mfontanini/libtins](https://github.com/mfontanini/libtins) - High-level, multiplatform C++ network packet sniffing and crafting library.
 * [magma/magma](https://github.com/magma/magma) - Platform for building access networks and modular network services
 * [chronoxor/CppServer](https://github.com/chronoxor/CppServer) - Ultra fast and low latency asynchronous socket server & client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution
 * [shadowsocks/libQtShadowsocks](https://github.com/shadowsocks/libQtShadowsocks) - A lightweight and ultra-fast shadowsocks library written in C++14 with Qt framework *(archived)*
@@ -553,9 +553,9 @@ A curated list of awesome C++ frameworks, libraries and software.
 ### Mobile
 
 * [crosswalk-project/crosswalk](https://github.com/crosswalk-project/crosswalk) - A web runtime built on Chrome. This project is currently unmaintained. *(archived)*
-* [HuTianQi/SmartOpenCV](https://github.com/HuTianQi/SmartOpenCV) - :fire: :fire: :fire: SmartOpenCV是一个OpenCV在Android端的增强库，解决了OpenCV Android SDK在图像预览方面存在的诸多问题，且无需修改OpenCV SDK源码，与OpenCV的SDK解耦
 * [margelo/nitro](https://github.com/margelo/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
-* [ammarahm-ed/react-native-mmkv-storage](https://github.com/ammarahm-ed/react-native-mmkv-storage) - An ultra fast (0.0002s read/write), small & encrypted mobile key-value storage framework for React Native written in C++ using JSI
+* [HuTianQi/SmartOpenCV](https://github.com/HuTianQi/SmartOpenCV) - :fire: :fire: :fire: SmartOpenCV是一个OpenCV在Android端的增强库，解决了OpenCV Android SDK在图像预览方面存在的诸多问题，且无需修改OpenCV SDK源码，与OpenCV的SDK解耦
+* [ammarahm-ed/react-native-mmkv-storage](https://github.com/ammarahm-ed/react-native-mmkv-storage) - An ultra fast and encrypted mobile key-value storage for React Native
 * [AshampooSystems/boden](https://github.com/AshampooSystems/boden) - Purely native C++ cross-platform GUI framework for Android and iOS development. https://www.boden.io
 * [9miao/CrossApp](https://github.com/9miao/CrossApp) - Cross-Platform Mobile APP Development Engine
 
@@ -585,8 +585,8 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [anhkgg/SuperWeChatPC](https://github.com/anhkgg/SuperWeChatPC) - 超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK
 * [LibreOffice/core](https://github.com/LibreOffice/core) - Read-only LibreOffice core repo - no pull request (use gerrit instead https://gerrit.libreoffice.org/) - don't download zip, use https://dev-www.libreoffice.org/bundles/ instead
 * [kunkundi/crossdesk](https://github.com/kunkundi/crossdesk) - A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。
-* [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 * [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
+* [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 * [giuspen/cherrytree](https://github.com/giuspen/cherrytree) - cherrytree
 * [ctubio/Krypto-trading-bot](https://github.com/ctubio/Krypto-trading-bot) - Self-hosted crypto trading bot (automated high frequency market making) written in C++
 * [ckb-next/ckb-next](https://github.com/ckb-next/ckb-next) - RGB Driver for Linux
@@ -604,31 +604,31 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [cjcliffe/CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application
 * [FarGroup/FarManager](https://github.com/FarGroup/FarManager) - File and Archive Manager
 * [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
-* [storax/kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id's DOOM!
 * [Bush2021/chrome_plus](https://github.com/Bush2021/chrome_plus) - A DLL hijack implements Chrome full portability as well as tab enhancements.
+* [storax/kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id's DOOM!
 * [pgkt04/defender-control](https://github.com/pgkt04/defender-control) - An open-source windows defender manager. Now you can disable windows defender permanently.
 * [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva. *(archived)*
 * [Sapd/HeadsetControl](https://github.com/Sapd/HeadsetControl) - Sidetone and Battery status for Logitech G930, G533, G633, G933 SteelSeries Arctis 7/PRO 2019 and Corsair VOID (Pro) in Linux and MacOSX
 * [serge-rgb/milton](https://github.com/serge-rgb/milton) - An infinite-canvas paint program
-* [188080501/JQTools](https://github.com/188080501/JQTools) - JQTools 是一个基于 Qt/QML/C++ 的开源开发工具箱，集成文本处理、加密计算、图片优化、二维码与 Qt 辅助等常用功能。
 * [collin80/SavvyCAN](https://github.com/collin80/SavvyCAN) - QT based cross platform canbus tool
-* [sainnhe/caj2pdf-qt](https://github.com/sainnhe/caj2pdf-qt) - CAJ 转 PDF 转换器（GUI 版本）
+* [188080501/JQTools](https://github.com/188080501/JQTools) - JQTools 是一个基于 Qt/QML/C++ 的开源开发工具箱，集成文本处理、加密计算、图片优化、二维码与 Qt 辅助等常用功能。
 * [pixop/video-compare](https://github.com/pixop/video-compare) - Split-screen video comparison tool using FFmpeg and SDL2
+* [sainnhe/caj2pdf-qt](https://github.com/sainnhe/caj2pdf-qt) - CAJ 转 PDF 转换器（GUI 版本）
 * [s60sc/ESP32-CAM_MJPEG2SD](https://github.com/s60sc/ESP32-CAM_MJPEG2SD) - ESP32 Camera motion capture application to record JPEGs to SD card as AVI files and stream to browser as MJPEG. If a microphone is installed then a WAV file is also created. Files can be uploaded via FTP or downloaded to browser.
 * [Cubitect/cubiomes-viewer](https://github.com/Cubitect/cubiomes-viewer) - An efficient graphical Minecraft seed finder and map viewer.
 * [Denvi/Candle](https://github.com/Denvi/Candle) - GRBL controller application with G-Code visualizer written in Qt.
 * [benkuper/Chataigne](https://github.com/benkuper/Chataigne) - Artist-friendly Modular Machine for Art and Technology
 * [cool2528/baiduCDP](https://github.com/cool2528/baiduCDP) - 百度网盘下载神器 *(archived)*
 * [ChrisAnd1998/TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI) - An application written in C++ to modify the Windows 11 Taskbar. *(archived)*
-* [cloose/CuteMarkEd](https://github.com/cloose/CuteMarkEd) - Qt Markdown Editor
 * [calamares/calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework *(archived)*
+* [cloose/CuteMarkEd](https://github.com/cloose/CuteMarkEd) - Qt Markdown Editor
 * [owncloud/client](https://github.com/owncloud/client) - 🖥️ Desktop Syncing Client for ownCloud
 * [anael-seghezzi/CToy](https://github.com/anael-seghezzi/CToy) - Interactive C live coding environment
 * [Voine/ChatWaifu_Mobile](https://github.com/Voine/ChatWaifu_Mobile) - 移动版二次元 AI 老婆聊天器
 * [brookhong/KeyCastOW](https://github.com/brookhong/KeyCastOW) - keystroke visualizer for Windows, lets you easily display your keystrokes while recording screencasts.
 * [Plutoberth/SonyHeadphonesClient](https://github.com/Plutoberth/SonyHeadphonesClient) - A {Windows, macOS, Linux} client recreating the functionality of the Sony Headphones app *(archived)*
-* [ccMSC/ckb](https://github.com/ccMSC/ckb) - RGB Driver for Linux and OS X
 * [ratwithacompiler/OBS-captions-plugin](https://github.com/ratwithacompiler/OBS-captions-plugin) - Closed Captioning OBS plugin using Google Speech Recognition
+* [ccMSC/ckb](https://github.com/ccMSC/ckb) - RGB Driver for Linux and OS X
 * [hyprwm/Hypr](https://github.com/hyprwm/Hypr) - Hypr is a tiling window manager written in modern C++.
 * [thewtex/tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM, and load monitor for use with tmux
 * [fossephate/JoyCon-Driver](https://github.com/fossephate/JoyCon-Driver) - A vJoy feeder for the Nintendo Switch JoyCons and Pro Controller
@@ -644,8 +644,8 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 * [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
 * [OGRECave/ogre](https://github.com/OGRECave/ogre) - high-performance rendering backend (C++, Python, C#, Java)
-* [KhronosGroup/Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) - Open-Source Vulkan C++ API
 * [MrNeRF/LichtFeld-Studio](https://github.com/MrNeRF/LichtFeld-Studio) - Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.
+* [KhronosGroup/Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) - Open-Source Vulkan C++ API
 * [microsoft/DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler) - This repo hosts the source for the DirectX Shader Compiler which is based on LLVM/Clang.
 * [xelatihy/yocto-gl](https://github.com/xelatihy/yocto-gl) - Yocto/GL: Tiny C++ Libraries for Data-Driven Physically-based Graphics
 * [microsoft/DirectXTK](https://github.com/microsoft/DirectXTK) - The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code in C++
@@ -654,9 +654,9 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [floooh/oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework
 * [knightcrawler25/GLSL-PathTracer](https://github.com/knightcrawler25/GLSL-PathTracer) - A toy physically based GPU path tracer (C++/OpenGL/GLSL)
 * [microsoft/Win2D](https://github.com/microsoft/Win2D) - Win2D is an easy-to-use Windows Runtime API for immediate mode 2D graphics rendering with GPU acceleration. It is available to C#, C++ and VB developers writing apps for the Windows Universal Platform (UWP). It utilizes the power of Direct2D, and integrates seamlessly with XAML and CoreWindow.
-* [microsoft/ShaderConductor](https://github.com/microsoft/ShaderConductor) - ShaderConductor is a tool designed for cross-compiling HLSL to other shading languages *(archived)*
-* [tunabrain/tungsten](https://github.com/tunabrain/tungsten) - High performance physically based renderer in C++11
 * [thorvg/thorvg](https://github.com/thorvg/thorvg) - A production-ready C++ vector graphics engine supporting SVG and Lottie formats, featuring advanced rendering backends such as WebGPU for high-performance graphics.
+* [tunabrain/tungsten](https://github.com/tunabrain/tungsten) - High performance physically based renderer in C++11
+* [microsoft/ShaderConductor](https://github.com/microsoft/ShaderConductor) - ShaderConductor is a tool designed for cross-compiling HLSL to other shading languages *(archived)*
 * [vsg-dev/VulkanSceneGraph](https://github.com/vsg-dev/VulkanSceneGraph) - Vulkan & C++17 based Scene Graph Project
 * [pelicanmapping/osgearth](https://github.com/pelicanmapping/osgearth) - 3D Maps & Terrain SDK (C++)
 * [microsoft/DirectXTK12](https://github.com/microsoft/DirectXTK12) - The DirectX Tool Kit (aka DirectXTK12) is a collection of helper classes for writing DirectX 12 code in C++
@@ -668,8 +668,8 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [LuxCoreRender/LuxCore](https://github.com/LuxCoreRender/LuxCore) - LuxCore source repository
 * [tgfrerer/island](https://github.com/tgfrerer/island) - 🌋🐎 Project Island is an experimental, hot-reloading Vulkan Renderer for Linux and Windows, written in C/C++.
 * [google/lullaby](https://github.com/google/lullaby) - A collection of C++ libraries designed to help teams develop virtual and augmented reality experiences *(archived)*
-* [ibaaj/dijkstra-cartography](https://github.com/ibaaj/dijkstra-cartography) - Using Dijkstra's algorithm ("finding the shortest paths between nodes in a graph") to draw maps :earth_africa:. *(archived)*
 * [madmann91/bvh](https://github.com/madmann91/bvh) - A modern C++ BVH construction and traversal library
+* [ibaaj/dijkstra-cartography](https://github.com/ibaaj/dijkstra-cartography) - Using Dijkstra's algorithm ("finding the shortest paths between nodes in a graph") to draw maps :earth_africa:. *(archived)*
 * [keith2018/SoftGLRender](https://github.com/keith2018/SoftGLRender) - Tiny C++ Software Renderer / Rasterizer, and implements OpenGL and Vulkan renderers for comparison
 * [aras-p/ToyPathTracer](https://github.com/aras-p/ToyPathTracer) - Toy path tracer for my own learning purposes (CPU/GPU, C++/C#, Win/Mac/Wasm, DX11/Metal, also Unity)
 * [JoeyDeVries/Cell](https://github.com/JoeyDeVries/Cell) - OpenGL C++ Graphics Engine
@@ -685,7 +685,7 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
 * [skypjack/entt](https://github.com/skypjack/entt) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
 * [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.
-* [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.1.0.69497, 3.3.5 = 3.3.5a.12340, cata classic = 4.4.2.60895)
+* [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.1.0.69933, 3.3.5 = 3.3.5a.12340, cata classic = 4.4.2.60895)
 * [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 * [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.
 * [electronicarts/CnC_Red_Alert](https://github.com/electronicarts/CnC_Red_Alert) - Command and Conquer: Red Alert *(archived)*
@@ -708,8 +708,8 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [alexbatalov/fallout1-ce](https://github.com/alexbatalov/fallout1-ce) - Fallout for modern operating systems
 * [coronalabs/corona](https://github.com/coronalabs/corona) - Solar2D Game Engine main repository (ex Corona SDK)
 * [Hopson97/MineCraft-One-Week-Challenge](https://github.com/Hopson97/MineCraft-One-Week-Challenge) - I challenged myself to see if I could create a voxel game (Minecraft-like) in just one week using C++ and OpenGL, and here is the result
-* [yimengfan/BDFramework.Core](https://github.com/yimengfan/BDFramework.Core) - Simple and powerful Unity3d game workflow! 简单、高效、高度工业化的商业级unity3d 工作流。
 * [godotengine/godot-cpp](https://github.com/godotengine/godot-cpp) - C++ bindings for the Godot script API
+* [yimengfan/BDFramework.Core](https://github.com/yimengfan/BDFramework.Core) - Simple and powerful Unity3d game workflow! 简单、高效、高度工业化的商业级unity3d 工作流。
 * [PanicPetal/ALS-Community](https://github.com/PanicPetal/ALS-Community) - Replicated and optimized community version of Advanced Locomotion System V4 for Unreal Engine 5.4 with additional features & bug fixes
 * [teeworlds/teeworlds](https://github.com/teeworlds/teeworlds) - A retro multiplayer shooter
 * [crownengine/crown](https://github.com/crownengine/crown) - A complete and cross-platform game engine designed for flexibility, performance and fast iteration.
@@ -721,30 +721,30 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [plibither8/2048.cpp](https://github.com/plibither8/2048.cpp) - 🎮 Fully featured terminal version of the game "2048" written in C++
 * [CytopiaTeam/Cytopia](https://github.com/CytopiaTeam/Cytopia) - :deciduous_tree::house_with_garden::office::evergreen_tree: A city building simulation game
 * [gosu/gosu](https://github.com/gosu/gosu) - 2D game development library for Ruby and C++
-* [EQMG/Acid](https://github.com/EQMG/Acid) - A high speed C++17 Vulkan game engine
-* [ErLinErYi/PlantsVsZombies](https://github.com/ErLinErYi/PlantsVsZombies) - PlantsVsZombies game made by cocos2dx 3.16 (c++)
 * [ezEngine/ezEngine](https://github.com/ezEngine/ezEngine) - An open source C++ game engine.
+* [ErLinErYi/PlantsVsZombies](https://github.com/ErLinErYi/PlantsVsZombies) - PlantsVsZombies game made by cocos2dx 3.16 (c++)
+* [EQMG/Acid](https://github.com/EQMG/Acid) - A high speed C++17 Vulkan game engine
 * [GameFoundry/B3DFramework](https://github.com/GameFoundry/B3DFramework) - Modern C++ library for the development of real-time graphical applications
 * [cocos2d/cocos2d-js](https://github.com/cocos2d/cocos2d-js) - cocos2d-x for JS
-* [Cockatrice/Cockatrice](https://github.com/Cockatrice/Cockatrice) - A cross-platform virtual tabletop for multiplayer card games
 * [otland/forgottenserver](https://github.com/otland/forgottenserver) - A free and open-source MMORPG server emulator written in C++
-* [electronicarts/CnC_Tiberian_Dawn](https://github.com/electronicarts/CnC_Tiberian_Dawn) - Command and Conquer Tiberian Dawn *(archived)*
+* [Cockatrice/Cockatrice](https://github.com/Cockatrice/Cockatrice) - A cross-platform virtual tabletop for multiplayer card games
 * [dosbox-staging/dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
-* [DanielChappuis/reactphysics3d](https://github.com/DanielChappuis/reactphysics3d) - Open source C++ physics engine library in 3D
+* [electronicarts/CnC_Tiberian_Dawn](https://github.com/electronicarts/CnC_Tiberian_Dawn) - Command and Conquer Tiberian Dawn *(archived)*
 * [GValiente/butano](https://github.com/GValiente/butano) - Modern C++ high level GBA engine
+* [DanielChappuis/reactphysics3d](https://github.com/DanielChappuis/reactphysics3d) - Open source C++ physics engine library in 3D
 * [TriAxis-Games/RealtimeMeshComponent](https://github.com/TriAxis-Games/RealtimeMeshComponent) - Unreal Engine 5 plugin component for rendering runtime generated content.
 * [hugoam/two](https://github.com/hugoam/two) - c++ toolkit for rapid development of live graphical apps and games
+* [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Web version: https://play.hypersomnia.io Made in 🇵🇱
 * [Blizzard/s2client-api](https://github.com/Blizzard/s2client-api) - StarCraft II Client - C++ library supported on Windows, Linux and Mac designed for building scripted bots and research using the SC2API.
 * [perilouswithadollarsign/cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src) - Leak of CS:GO Source code, provided by yours truly so go rep me
-* [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Web version: https://play.hypersomnia.io Made in 🇵🇱
 * [electronicarts/CnC_Renegade](https://github.com/electronicarts/CnC_Renegade) - Command and Conquer: Renegade *(archived)*
 * [jmorton06/Lumos](https://github.com/jmorton06/Lumos) - Cross-Platform C++ 2D/3D game engine
 * [hugoam/toy](https://github.com/hugoam/toy) - the thin c++ game engine
+* [Sixze/ALS-Refactored](https://github.com/Sixze/ALS-Refactored) - Completely reworked and improved C++ version of Advanced Locomotion System V4.
 * [ProjectBorealis/PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) - HL2-style, classic FPS movement for Unreal Engine implemented in C++
 * [chukong/quick-cocos2d-x](https://github.com/chukong/quick-cocos2d-x) - quick-cocos2d-x is a quick framework, based on cocos2d-x. Make mobile games in Lua.
-* [Sixze/ALS-Refactored](https://github.com/Sixze/ALS-Refactored) - Completely reworked and improved C++ version of Advanced Locomotion System V4.
-* [kripken/BananaBread](https://github.com/kripken/BananaBread) - BananaBread is a C++ 3D game engine that runs on the web using JavaScript+WebGL+HTML
 * [MihailRis/voxelcore](https://github.com/MihailRis/voxelcore) - VoxelCore – voxel game engine in C++
+* [kripken/BananaBread](https://github.com/kripken/BananaBread) - BananaBread is a C++ 3D game engine that runs on the web using JavaScript+WebGL+HTML
 * [mayerui/sudoku](https://github.com/mayerui/sudoku) - C++实现的跨平台数独游戏，命令行操作易上手，可以在开发间隙用来放松身心。数百行代码，初学者也可以轻松掌握。
 * [binji/pokegb](https://github.com/binji/pokegb) - A gameboy emulator that only plays Pokemon Blue, in ~50 lines of c++.
 * [nCine/nCine](https://github.com/nCine/nCine) - A cross-platform 2D game engine
@@ -752,7 +752,7 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [CE-Programming/CEmu](https://github.com/CE-Programming/CEmu) - Third-party TI-84 Plus CE / TI-83 Premium CE emulator, focused on developer features
 * [silence1772/GreedySnake](https://github.com/silence1772/GreedySnake) - c++经典项目贪吃蛇游戏控制台版，详细注释
 * [colobot/colobot](https://github.com/colobot/colobot) - Source code of open-source Colobot: Gold Edition project developed by Epsitec and TerranovaTeam
-* [asc-community/MxEngine](https://github.com/asc-community/MxEngine) - C++ open source 3D game engine
+* [ASC-Community/MxEngine](https://github.com/ASC-Community/MxEngine) - C++ open source 3D game engine
 * [Siv3D/OpenSiv3D](https://github.com/Siv3D/OpenSiv3D) - C++20 framework for creative coding 🎮🎨🎹 / Cross-platform support (Windows, macOS, Linux, and the Web)
 * [gscept/nebula](https://github.com/gscept/nebula) - Nebula is an open-source and free-to-use modern C++ game engine.
 * [cmangos/mangos-classic](https://github.com/cmangos/mangos-classic) - C(ontinued)-MaNGOS (Classic fork) is about: -- Doing WoW-Emulation Right!
@@ -789,8 +789,8 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [MayaPosch/NymphCast](https://github.com/MayaPosch/NymphCast) - Audio and video casting system with support for custom applications.
 * [lvandeve/lodepng](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.
 * [rdp/screen-capture-recorder-to-video-windows-free](https://github.com/rdp/screen-capture-recorder-to-video-windows-free) - a free open source windows "screen capture" device and recorder (also allows VLC/ffmpeg and others to capture/stream desktop/audio)
-* [ermig1979/Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX for x86/x64, NEON, SVE for ARM, HVX for Hexagon
 * [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) - Color libraries for Material You
+* [ermig1979/Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX for x86/x64, NEON, SVE for ARM, HVX for Hexagon
 * [AcademySoftwareFoundation/OpenColorIO](https://github.com/AcademySoftwareFoundation/OpenColorIO) - A color management framework for visual effects and animation.
 * [zxing-cpp/zxing-cpp](https://github.com/zxing-cpp/zxing-cpp) - C++ port of ZXing
 * [CatxFish/obs-virtual-cam](https://github.com/CatxFish/obs-virtual-cam) - obs-studio plugin to simulate a directshow webcam *(archived)*
@@ -887,7 +887,7 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [arrayfire/arrayfire](https://github.com/arrayfire/arrayfire) - ArrayFire: a general purpose GPU library.
 * [ROCm/hip](https://github.com/ROCm/hip) - HIP: C++ Heterogeneous-Compute Interface for Portability
 * [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.
-* [google/zopfli](https://github.com/google/zopfli) - Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression. *(archived)*
+* [google/zopfli](https://github.com/google/zopfli) - Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.
 * [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 * [richgel999/miniz](https://github.com/richgel999/miniz) - miniz: Single C source file zlib-replacement library, originally from code.google.com/p/miniz
 * [xtensor-stack/xsimd](https://github.com/xtensor-stack/xsimd) - C++ wrappers for SIMD intrinsics and parallelized, optimized mathematical functions (SSE, AVX, AVX512, NEON, SVE, WebAssembly, VSX, RISC-V))
@@ -900,8 +900,8 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [boostorg/compute](https://github.com/boostorg/compute) - A C++ GPU Computing Library for OpenCL
 * [foonathan/memory](https://github.com/foonathan/memory) - STL compatible C++ memory allocator library using a new RawAllocator concept that is similar to an Allocator but easier to use and write.
 * [VcDevel/Vc](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++
-* [cacay/MemoryPool](https://github.com/cacay/MemoryPool) - An easy to use and efficient memory pool allocator written in C++.
 * [intel/compute-runtime](https://github.com/intel/compute-runtime) - Intel® Graphics Compute Runtime for oneAPI Level Zero and OpenCL™ Driver
+* [cacay/MemoryPool](https://github.com/cacay/MemoryPool) - An easy to use and efficient memory pool allocator written in C++.
 * [jfalcou/eve](https://github.com/jfalcou/eve) - Expressive Vector Engine - SIMD in C++ Goes Brrrr
 * [p12tic/libsimdpp](https://github.com/p12tic/libsimdpp) - Portable header-only C++ low level SIMD library
 
@@ -942,8 +942,8 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [google/glog](https://github.com/google/glog) - C++ implementation of the Google logging module *(archived)*
 * [abumq/easyloggingpp](https://github.com/abumq/easyloggingpp) - C++ logging library. It is powerful, supports asynchronous low latency, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs in your own customized format. It also provide support for logging your classes, third-party libraries, STL and third-party containers etc. *(archived)*
 * [PlatformLab/NanoLog](https://github.com/PlatformLab/NanoLog) - Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.
-* [benhoyt/inih](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems
 * [odygrd/quill](https://github.com/odygrd/quill) - Ultra-low-latency asynchronous C++17 logging and metrics library for performance-critical applications
+* [benhoyt/inih](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems
 * [SergiusTheBest/plog](https://github.com/SergiusTheBest/plog) - Portable, simple and extensible C++ logging library
 * [emilk/loguru](https://github.com/emilk/loguru) - A lightweight C++ logging library
 * [log4cplus/log4cplus](https://github.com/log4cplus/log4cplus) - log4cplus is a simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration. It is modelled after the Java log4j API.
@@ -960,8 +960,8 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [fastfloat/fast_float](https://github.com/fastfloat/fast_float) - Fast and exact implementation of the C++ from_chars functions for number types: 4x to 10x faster than strtod, part of GCC 12, MySQL, DuckDB, Chromium, Redis and WebKit/Safari
 * [sisong/HDiffPatch](https://github.com/sisong/HDiffPatch) - a C\C++ library and command-line tools for Diff & Patch between binary files or directories(folder); cross-platform; runs fast; create small delta/differential; support large files and limit memory requires when diff & patch.
 * [nemtrif/utfcpp](https://github.com/nemtrif/utfcpp) - UTF-8 with C++ in a Portable Way
-* [sheredom/utf8.h](https://github.com/sheredom/utf8.h) - 📚 single header utf8 string functions for C and C++
 * [pantor/inja](https://github.com/pantor/inja) - A Template Engine for Modern C++
+* [sheredom/utf8.h](https://github.com/sheredom/utf8.h) - 📚 single header utf8 string functions for C and C++
 * [ada-url/ada](https://github.com/ada-url/ada) - WHATWG-compliant and fast URL parser written in modern C++, part of Internet Archive, Node.js, Clickhouse, Redpanda, Kong, Telegram, Adguard, Datadog and Cloudflare Workers.
 * [eliaskosunen/scnlib](https://github.com/eliaskosunen/scnlib) - scanf for modern C++
 * [foonathan/lexy](https://github.com/foonathan/lexy) - C++ parsing DSL
@@ -1000,7 +1000,7 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 * [Neargye/magic_enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
 * [ericniebler/range-v3](https://github.com/ericniebler/range-v3) - Range library for C++14/17/20, basis for C++20's std::ranges
-* [idealvin/coost](https://github.com/idealvin/coost) - A tiny boost library in C++11.
+* [idealvin/coost](https://github.com/idealvin/coost) - A tasteful, minimal C++ base library.
 * [rttrorg/rttr](https://github.com/rttrorg/rttr) - C++ Reflection Library
 * [microsoft/proxy](https://github.com/microsoft/proxy) - Proxy: Next Generation Polymorphism in C++ *(archived)*
 * [arximboldi/immer](https://github.com/arximboldi/immer) - Postmodern immutable and persistent data structures for C++ — value semantics at scale
@@ -1024,7 +1024,7 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [veselink1/refl-cpp](https://github.com/veselink1/refl-cpp) - Static reflection for C++17 (compile-time enumeration, attributes, proxies, overloads, template functions, metaprogramming).
 * [digint/tinyfsm](https://github.com/digint/tinyfsm) - A simple C++ finite state machine library
 * [qicosmos/cosmos](https://github.com/qicosmos/cosmos) - c++11基础库
-* [facebook/fatal](https://github.com/facebook/fatal) - Fatal is a library for fast prototyping software in modern C++. It provides facilities to enhance the expressive power of C++. The library is heavily based on template meta-programming, while keeping the complexity under-the-hood.
+* [facebook/fatal](https://github.com/facebook/fatal) - Fatal is a library for fast prototyping software in modern C++. It provides facilities to enhance the expressive power of C++. The library is heavily based on template meta-programming, while keeping the complexity under-the-hood. *(archived)*
 * [beark/ftl](https://github.com/beark/ftl) - C++ template library for fans of functional programming
 * [bolero-MURAKAMI/Sprout](https://github.com/bolero-MURAKAMI/Sprout) - C++11/14 constexpr based Containers, Algorithms, Random numbers, Parsing, Ray tracing, Synthesizer, and others.
 
@@ -1034,7 +1034,6 @@ A curated list of awesome C++ frameworks, libraries and software.
 
 * [360Controller/360Controller](https://github.com/360Controller/360Controller) - TattieBogle Xbox 360 Driver (with improvements)
 * [jrowberg/i2cdevlib](https://github.com/jrowberg/i2cdevlib) - I2C device library collection for AVR/Arduino or other C++-based MCUs
-* [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.
 * [SmingHub/Sming](https://github.com/SmingHub/Sming) - Sming - powerful open source framework simplifying the creation of embedded C++ applications.
 * [losehu/uv-k5-firmware-custom](https://github.com/losehu/uv-k5-firmware-custom) - 全功能泉盛UV-K5/K6固件 Quansheng UV-K5/K6 Firmware
 * [itsharryle/LED_CUBE](https://github.com/itsharryle/LED_CUBE) - 8x8x8 LED cube powered by an arduino
@@ -1056,8 +1055,8 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [autodiff/autodiff](https://github.com/autodiff/autodiff) - automatic differentiation made easier for C++
 * [artivis/manif](https://github.com/artivis/manif) - A small C++11 header-only library for Lie theory.
 * [microsoft/DirectXMath](https://github.com/microsoft/DirectXMath) - DirectXMath is an all inline SIMD C++ linear algebra library for use in games and graphics apps
-* [mapbox/polylabel](https://github.com/mapbox/polylabel) - A fast algorithm for finding the pole of inaccessibility of a polygon (in JavaScript and C++)
 * [fwilliams/point-cloud-utils](https://github.com/fwilliams/point-cloud-utils) - An easy-to-use Python library for processing and manipulating 3D point clouds and meshes.
+* [mapbox/polylabel](https://github.com/mapbox/polylabel) - A fast algorithm for finding the pole of inaccessibility of a polygon (in JavaScript and C++)
 * [libgeos/geos](https://github.com/libgeos/geos) - Geometry Engine, Open Source
 * [mherb/kalman](https://github.com/mherb/kalman) - Header-only C++11 Kalman Filtering Library (EKF, UKF) based on Eigen3
 * [mpusz/mp-units](https://github.com/mpusz/mp-units) - The Domain-Correct Quantities and Units Library for C++ — full quantity kind safety, ISO 80000 compliant, C++29 standardization candidate.
@@ -1078,7 +1077,7 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [PetoiCamp/OpenCat-Quadruped-Robot](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) - An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development.
 * [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) - Behavior Trees Library in C++. Batteries included.
 * [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.
-* [fasiondog/hikyuu](https://github.com/fasiondog/hikyuu) - Hikyuu Quant Framework 基于C++/Python的超高速开源量化交易研究框架，同时可基于策略部件进行资产重用，快速累积策略资产。
+* [fasiondog/hikyuu](https://github.com/fasiondog/hikyuu) - An open-source, high-performance quantitative trading framework in C++/Python focused on strategy analysis and backtesting Trading model R&D · Ultra-fast engine · Efficient backtesting
 * [PJLab-ADG/SensorsCalibration](https://github.com/PJLab-ADG/SensorsCalibration) - OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving
 * [projectchrono/chrono](https://github.com/projectchrono/chrono) - High-performance C++ library for multiphysics and multibody dynamics simulations
 * [simbody/simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
@@ -1086,19 +1085,19 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [mfem/mfem](https://github.com/mfem/mfem) - Lightweight, general, scalable C++ library for finite element methods
 * [onlytailei/CppRobotics](https://github.com/onlytailei/CppRobotics) - cpp implementation of robotics algorithms including localization, mapping, SLAM, path planning and control
 * [deepmodeling/deepmd-kit](https://github.com/deepmodeling/deepmd-kit) - A deep learning package for many-body potential energy representation and molecular dynamics
-* [cartographer-project/cartographer_ros](https://github.com/cartographer-project/cartographer_ros) - Provides ROS integration for Cartographer.
-* [Ultimaker/CuraEngine](https://github.com/Ultimaker/CuraEngine) - Powerful, fast and robust engine for converting 3D models into g-code instructions for 3D printers. It is part of the larger open source project Cura.
-* [qiayuanl/legged_control](https://github.com/qiayuanl/legged_control) - NMPC, WBC, state estimation, and sim2real framework for legged robots based on OCS2 and ros-controls
 * [nvidia-isaac/cuVSLAM](https://github.com/nvidia-isaac/cuVSLAM) - CUDA-accelerated visual odometry and SLAM library for fast, accurate, low-latency camera tracking
+* [Ultimaker/CuraEngine](https://github.com/Ultimaker/CuraEngine) - Powerful, fast and robust engine for converting 3D models into g-code instructions for 3D printers. It is part of the larger open source project Cura.
+* [cartographer-project/cartographer_ros](https://github.com/cartographer-project/cartographer_ros) - Provides ROS integration for Cartographer.
+* [qiayuanl/legged_control](https://github.com/qiayuanl/legged_control) - NMPC, WBC, state estimation, and sim2real framework for legged robots based on OCS2 and ros-controls
 * [ankitdhall/lidar_camera_calibration](https://github.com/ankitdhall/lidar_camera_calibration) - ROS package to find a rigid-body transformation between a LiDAR and a camera for "LiDAR-Camera Calibration using 3D-3D Point correspondences"
 * [ethz-adrl/control-toolbox](https://github.com/ethz-adrl/control-toolbox) - The Control Toolbox - An Open-Source C++ Library for Robotics, Optimal and Model Predictive Control
 * [koide3/direct_visual_lidar_calibration](https://github.com/koide3/direct_visual_lidar_calibration) - A toolbox for target-less LiDAR-camera calibration [ROS1/ROS2]
 * [ToanTech/Deng-s-foc-controller](https://github.com/ToanTech/Deng-s-foc-controller) - 灯哥开源 FOC 双路迷你无刷电机驱动
 * [Smoothieware/Smoothieware](https://github.com/Smoothieware/Smoothieware) - Modular, opensource, high performance G-code interpreter and CNC controller written in Object-Oriented C++
 * [johnBuffer/NoCol](https://github.com/johnBuffer/NoCol) - Trajectories finder
-* [PetoiCamp/OpenCat-Old](https://github.com/PetoiCamp/OpenCat-Old) - A programmable and highly maneuverable robotic cat for STEM education and AI-enhanced services.
 * [erwincoumans/tiny-differentiable-simulator](https://github.com/erwincoumans/tiny-differentiable-simulator) - Tiny Differentiable Simulator is a header-only C++ and CUDA physics library for reinforcement learning and robotics with zero dependencies.
 * [KratosMultiphysics/Kratos](https://github.com/KratosMultiphysics/Kratos) - Kratos Multiphysics (A.K.A Kratos) is a framework for building parallel multi-disciplinary simulation software. Modularity, extensibility and HPC are the main objectives. Kratos has BSD license and is written in C++ with extensive Python interface.
+* [PetoiCamp/OpenCat-Old](https://github.com/PetoiCamp/OpenCat-Old) - A programmable and highly maneuverable robotic cat for STEM education and AI-enhanced services.
 * [gazebosim/gazebo-classic](https://github.com/gazebosim/gazebo-classic) - Gazebo classic. For the latest version, see https://github.com/gazebosim/gz-sim *(archived)*
 * [cms-sw/cmssw](https://github.com/cms-sw/cmssw) - CMS Offline Software
 * [PRBonn/depth_clustering](https://github.com/PRBonn/depth_clustering) - :taxi: Fast and robust clustering of point clouds generated with a Velodyne sensor.
@@ -1124,718 +1123,729 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 * [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 * [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-* [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 * [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
+* [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 * [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 * [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 * [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
+* [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 * [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
 * [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
-* [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 * [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 * [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 * [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 * [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
-* [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
+* [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows
 * [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
+* [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 * [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 * [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
-* [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
-* [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
-* [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 * [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+* [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
+* [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
+* [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 * [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 * [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
-* [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser *(archived)*
-* [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
-* [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
-* [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 * [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
-* [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
+* [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
+* [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser *(archived)*
+* [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
+* [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 * [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
+* [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 * [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 * [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 * [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
+* [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 * [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 * [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers. *(archived)*
-* [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 * [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 * [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
-* [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 * [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
+* [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 * [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 * [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 * [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 * [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
 * [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 * [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
-* [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-* [redis/RedisDesktopManager](https://github.com/redis/RedisDesktopManager)
 * [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
+* [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+* [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
+* [redis/RedisDesktopManager](https://github.com/redis/RedisDesktopManager)
 * [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 * [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
-* [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 * [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
-* [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
-* [apache/mxnet](https://github.com/apache/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more *(archived)*
+* [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 * [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
+* [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
+* [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
+* [apache/mxnet](https://github.com/apache/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more *(archived)*
 * [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 * [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
-* [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
+* [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 * [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 * [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
 * [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
-* [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 * [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
-* [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
-* [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
-* [react/yoga](https://github.com/react/yoga) - Yoga is an embeddable layout engine targeting web standards.
-* [lightgbm-org/LightGBM](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
-* [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.
-* [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
-* [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
 * [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
-* [alibaba/weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
-* [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
+* [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
+* [react/yoga](https://github.com/react/yoga) - Yoga is an embeddable layout engine targeting web standards.
+* [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
+* [lightgbm-org/LightGBM](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+* [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
+* [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.
 * [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
-* [haoel/leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
+* [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
+* [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
+* [alibaba/weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
 * [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
+* [haoel/leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
 * [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 * [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 * [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 * [Tencent/mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component developed by WeChat.
+* [rui314/mold](https://github.com/rui314/mold) - mold 🦠: A Modern Linker in Rust 🦀
 * [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers. Marlin supports all common platforms. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
 * [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 * [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32 family of SoCs
 * [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
 * [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
-* [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
-* [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
-* [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN, and ACNet.
-* [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 * [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
+* [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
+* [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN, and ACNet.
+* [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
+* [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
 * [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 * [esp8266/Arduino](https://github.com/esp8266/Arduino) - ESP8266 core for Arduino
-* [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
 * [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 * [alibaba/MNN](https://github.com/alibaba/MNN) - MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.
-* [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 * [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
+* [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 * [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source
-* [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
 * [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
-* [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
-* [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
-* [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 * [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
+* [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
+* [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
 * [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!
-* [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box) *(archived)*
-* [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
-* [ggml-org/ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
-* [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
-* [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
-* [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
-* [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
-* [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
+* [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
+* [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 * [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
+* [ggml-org/ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
+* [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
+* [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
+* [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box) *(archived)*
+* [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
+* [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
+* [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
+* [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 * [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
-* [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit) *(archived)*
 * [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 * [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 * [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
+* [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit) *(archived)*
 * [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 * [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 * [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
 * [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 * [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
-* [apache/incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating) *(archived)*
 * [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
+* [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - 视觉小说翻译器 / Visual Novel Translator
+* [apache/incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating) *(archived)*
 * [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
+* [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 * [assimp/assimp](https://github.com/assimp/assimp) - The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.
 * [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
-* [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - 视觉小说翻译器 / Visual Novel Translator
-* [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 * [TheCherno/Hazel](https://github.com/TheCherno/Hazel) - Hazel Engine
 * [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient Multi-head Latent Attention Kernels
-* [google/guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder *(archived)*
 * [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
-* [ShiqiYu/libfacedetection](https://github.com/ShiqiYu/libfacedetection) - An open source library for face detection in images. The face detection speed can reach 1000FPS.
+* [google/guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder *(archived)*
 * [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser. Your personal reference library, searchable in an instant.
-* [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
-* [JoeyDeVries/LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL) - Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com
+* [ShiqiYu/libfacedetection](https://github.com/ShiqiYu/libfacedetection) - An open source library for face detection in images. The face detection speed can reach 1000FPS.
 * [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) - PX4 Autopilot Software
+* [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
+* [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
+* [JoeyDeVries/LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL) - Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com
 * [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
+* [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 * [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 * [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
 * [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
-* [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
 * [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 * [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 * [SFML/SFML](https://github.com/SFML/SFML) - Simple and Fast Multimedia Library
-* [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.
 * [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
+* [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.
 * [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 * [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
-* [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
-* [nasa/fprime](https://github.com/nasa/fprime) - F´ - A flight software and embedded systems framework
 * [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+* [nasa/fprime](https://github.com/nasa/fprime) - F´ - A flight software and embedded systems framework
+* [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
 * [openalpr/openalpr](https://github.com/openalpr/openalpr) - Automatic License Plate Recognition library
 * [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system *(archived)*
-* [QuipNetwork/cpp-sdk](https://github.com/QuipNetwork/cpp-sdk)
-* [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc)
-* [EOSIO/eos](https://github.com/EOSIO/eos) - An open source smart contract platform *(archived)*
-* [apple/turicreate](https://github.com/apple/turicreate) - Turi Create simplifies the development of custom machine learning models. *(archived)*
-* [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library (PCL)
-* [baldurk/renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
-* [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
-* [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
-* [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. See documentation for contribution instructions.
-* [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
-* [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
-* [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
-* [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
-* [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
-* [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
-* [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
-* [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
-* [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
-* [android/ndk-samples](https://github.com/android/ndk-samples) - Android NDK samples with Android Studio
-* [mamedev/mame](https://github.com/mamedev/mame) - MAME
 * [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
+* [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc)
+* [QuipNetwork/cpp-sdk](https://github.com/QuipNetwork/cpp-sdk)
+* [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
+* [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
+* [baldurk/renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
+* [EOSIO/eos](https://github.com/EOSIO/eos) - An open source smart contract platform *(archived)*
+* [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library (PCL)
+* [apple/turicreate](https://github.com/apple/turicreate) - Turi Create simplifies the development of custom machine learning models. *(archived)*
+* [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
+* [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
+* [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. See documentation for contribution instructions.
+* [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
+* [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
+* [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+* [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
+* [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
+* [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
+* [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
+* [mamedev/mame](https://github.com/mamedev/mame) - MAME
+* [KDE/krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
+* [android/ndk-samples](https://github.com/android/ndk-samples) - Android NDK samples with Android Studio
 * [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 * [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
-* [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
-* [KDE/krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
-* [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux
-* [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
-* [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine for your most demanding workloads.
-* [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
-* [raulmur/ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
-* [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 * [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
+* [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
+* [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux
+* [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine for your most demanding workloads.
+* [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
+* [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
+* [raulmur/ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
+* [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 * [TarsCloud/Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
-* [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 * [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
+* [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 * [ValveSoftware/GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) - Reliable & unreliable messages over UDP. Robust message fragmentation & reassembly. P2P networking / NAT traversal. Encryption.
+* [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
 * [Tiiny-AI/PowerInfer](https://github.com/Tiiny-AI/PowerInfer) - High-speed Large Language Model Serving for Local Deployment
 * [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.
-* [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
 * [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
 * [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 * [ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
-* [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 * [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
-* [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.
-* [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
-* [electronicarts/EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance.
-* [scylladb/seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
 * [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
-* [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
+* [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.
 * [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
+* [scylladb/seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
+* [electronicarts/EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance.
+* [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
+* [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 * [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
+* [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
 * [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.
 * [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS 🚀. React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 * [yangyangwithgnu/hardseed](https://github.com/yangyangwithgnu/hardseed) - SEX IS ZERO (0), so, who wanna be the ONE (1), aha?
-* [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
-* [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime *(archived)*
-* [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
-* [async-profiler/async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
 * [Nevcairiel/LAVFilters](https://github.com/Nevcairiel/LAVFilters) - LAV Filters - Open-Source DirectShow Media Splitter and Decoders
-* [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
+* [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 * [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
+* [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime *(archived)*
+* [async-profiler/async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
 * [UZ-SLAMLab/ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
-* [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system *(archived)*
-* [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping
+* [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 * [realsenseai/librealsense](https://github.com/realsenseai/librealsense) - RealSense SDK
-* [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
-* [dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference) - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
-* [gperftools/gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
+* [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping
 * [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
-* [sebastianstarke/AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
-* [VowpalWabbit/vowpal_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
-* [Ewenwan/MVision](https://github.com/Ewenwan/MVision) - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv PCL 机器学习 无人驾驶
+* [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system *(archived)*
+* [dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference) - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
+* [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
+* [gperftools/gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
 * [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
-* [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
-* [Tencent/libco](https://github.com/Tencent/libco) - libco is a coroutine library which is widely used in wechat back-end service. It has been running on tens of thousands of machines since 2013.
+* [sebastianstarke/AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
 * [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
+* [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
+* [Ewenwan/MVision](https://github.com/Ewenwan/MVision) - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv PCL 机器学习 无人驾驶
+* [VowpalWabbit/vowpal_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
+* [Tencent/libco](https://github.com/Tencent/libco) - libco is a coroutine library which is widely used in wechat back-end service. It has been running on tens of thousands of machines since 2013.
 * [avast/retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
-* [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
 * [wangyu-/udp2raw](https://github.com/wangyu-/udp2raw) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
-* [sass/node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass *(archived)*
+* [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
+* [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
+* [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer) - Mesh optimization library that makes meshes smaller and faster to render
 * [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
 * [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
-* [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
-* [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software *(archived)*
-* [ideawu/ssdb](https://github.com/ideawu/ssdb) - SSDB - A fast NoSQL database, an alternative to Redis
-* [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer) - Mesh optimization library that makes meshes smaller and faster to render
-* [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
-* [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
+* [sass/node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass *(archived)*
 * [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system.
-* [0voice/introduce_c-cpp_manual](https://github.com/0voice/introduce_c-cpp_manual) - 一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。
-* [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
+* [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 * [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
-* [duixcom/Duix-Mobile](https://github.com/duixcom/Duix-Mobile) - 🚀 The best real-time interactive AI avatar(digital human) with on-premise deployment and <1.5 s latency.
 * [MariaDB/server](https://github.com/MariaDB/server) - MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.
-* [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
+* [azahar-emu/azahar](https://github.com/azahar-emu/azahar) - An open-source 3DS emulator project based on Citra.
+* [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
+* [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software *(archived)*
+* [0voice/introduce_c-cpp_manual](https://github.com/0voice/introduce_c-cpp_manual) - 一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。
+* [ideawu/ssdb](https://github.com/ideawu/ssdb) - SSDB - A fast NoSQL database, an alternative to Redis
+* [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
+* [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
+* [duixcom/Duix-Mobile](https://github.com/duixcom/Duix-Mobile) - 🚀 The best real-time interactive AI avatar(digital human) with on-premise deployment and <1.5 s latency.
 * [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
+* [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
+* [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
+* [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 * [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project *(archived)*
 * [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
-* [azahar-emu/azahar](https://github.com/azahar-emu/azahar) - An open-source 3DS emulator project based on Citra.
-* [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
+* [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
+* [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 translation layer for Windows, Linux and macOS
 * [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 * [Squirrel/Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps
-* [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
-* [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
-* [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
-* [shadowsocks/shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5) - A cross-platform shadowsocks GUI client *(archived)*
 * [recastnavigation/recastnavigation](https://github.com/recastnavigation/recastnavigation) - Industry-standard navigation-mesh toolset for games
 * [snapcast/snapcast](https://github.com/snapcast/snapcast) - Synchronous multiroom audio player
+* [shadowsocks/shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5) - A cross-platform shadowsocks GUI client *(archived)*
 * [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 * [wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx) - Implementation of popular deep learning networks with TensorRT network definition API
 * [weolar/miniblink49](https://github.com/weolar/miniblink49) - a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
+* [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
 * [kelektiv/node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js) - bcrypt for NodeJs
 * [visualfc/liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 * [rovo89/Xposed](https://github.com/rovo89/Xposed) - The native part of the Xposed framework (mainly the modified app_process binary). *(archived)*
-* [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
 * [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU
-* [flutter-team-archive/engine](https://github.com/flutter-team-archive/engine) - The Flutter engine *(archived)*
 * [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
-* [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Source code and Linux releases. Windows/MacOS/ARM builds served in different repos, links are towards the top of the README.md.
-* [FastLED/FastLED](https://github.com/FastLED/FastLED) - The FastLED library for colored LED animation on Arduino. Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r We'd like to use github "issues" just for tracking library bugs / enhancements.
-* [PixarAnimationStudios/OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD) - Universal Scene Description
-* [gaoxiang12/slambook](https://github.com/gaoxiang12/slambook)
-* [google/draco](https://github.com/google/draco) - Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
+* [flutter-team-archive/engine](https://github.com/flutter-team-archive/engine) - The Flutter engine *(archived)*
 * [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
+* [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Source code and Linux releases. Windows/MacOS/ARM builds served in different repos, links are towards the top of the README.md.
+* [PixarAnimationStudios/OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD) - Universal Scene Description
+* [google/draco](https://github.com/google/draco) - Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
+* [gaoxiang12/slambook](https://github.com/gaoxiang12/slambook)
+* [FastLED/FastLED](https://github.com/FastLED/FastLED) - The FastLED library for colored LED animation on Arduino. Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r We'd like to use github "issues" just for tracking library bugs / enhancements.
+* [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
+* [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 * [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
 * [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎）
+* [turanszkij/WickedEngine](https://github.com/turanszkij/WickedEngine) - 3D engine with modern graphics
 * [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager) - ESP8266 WiFi Connection manager with web captive portal
 * [relativty/Relativty](https://github.com/relativty/Relativty) - An open source VR headset with SteamVR supports for $200
-* [turanszkij/WickedEngine](https://github.com/turanszkij/WickedEngine) - 3D engine with modern graphics
-* [FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
 * [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
-* [me115/design_patterns](https://github.com/me115/design_patterns) - 图说设计模式
+* [AlkaidLab/foundation-sunshine](https://github.com/AlkaidLab/foundation-sunshine) - Sunshine fork: an enhanced sunshine, a self-hosted game streaming host for Moonlight with HDR10/HDR Vivid, virtual displays, advanced audio, optimized encoders, and a modern control panel.
+* [FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
 * [ayoubfaouzi/al-khaser](https://github.com/ayoubfaouzi/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
-* [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
-* [google/flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) - Experimental plugins for Flutter for Desktop *(archived)*
+* [me115/design_patterns](https://github.com/me115/design_patterns) - 图说设计模式
 * [FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - Flax Engine – multi-platform 3D game engine
-* [alibaba/AndFix](https://github.com/alibaba/AndFix) - AndFix is a library that offer hot-fix for Android App.
+* [google/flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) - Experimental plugins for Flutter for Desktop *(archived)*
 * [Sigil-Ebook/Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor
+* [BruceDevices/firmware](https://github.com/BruceDevices/firmware) - Predatory ESP32 Firmware
+* [alibaba/AndFix](https://github.com/alibaba/AndFix) - AndFix is a library that offer hot-fix for Android App.
+* [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) - Firebase SDK for Apple App Development
 * [interpretml/interpret](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning.
 * [feiyangqingyun/QWidgetDemo](https://github.com/feiyangqingyun/QWidgetDemo) - Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用，拒绝打赏和捐赠，欢迎留言评论！公众号：Qt实战/Qt入门和进阶/Qt教程
 * [sysown/proxysql](https://github.com/sysown/proxysql) - High-performance proxy for MySQL and PostgreSQL
 * [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
 * [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
-* [microsoft/DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples) - This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.
 * [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
-* [AlkaidLab/foundation-sunshine](https://github.com/AlkaidLab/foundation-sunshine) - Sunshine fork: an enhanced sunshine, a self-hosted game streaming host for Moonlight with HDR10/HDR Vivid, virtual displays, advanced audio, optimized encoders, and a modern control panel.
-* [uxlfoundation/oneTBB](https://github.com/uxlfoundation/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
+* [microsoft/DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples) - This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.
 * [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
-* [microsoft/GSL](https://github.com/microsoft/GSL) - Guidelines Support Library
-* [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) - Piccolo (formerly Pilot) – mini game engine for games104
-* [BruceDevices/firmware](https://github.com/BruceDevices/firmware) - Predatory ESP32 Firmware
-* [gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2) - edition 2 of the slambook
+* [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
+* [uxlfoundation/oneTBB](https://github.com/uxlfoundation/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
 * [Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
-* [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) - Firebase SDK for Apple App Development
+* [gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2) - edition 2 of the slambook
+* [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) - Piccolo (formerly Pilot) – mini game engine for games104
+* [microsoft/GSL](https://github.com/microsoft/GSL) - Guidelines Support Library
 * [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - MusicPlayer2是一款功能强大的本地音乐播放软件，旨在为用户提供最佳的本地音乐播放体验。它支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、专辑封面显示、专辑封面在线下载、频谱分析、音效设置、任务栏缩略图按钮、主题颜色、格式转换等功能，支持高度自定义的界面布局，支持多种播放内核（BASS和FFMpeg）。播放器支持大部分常见的音频格式。
 * [goldendict/goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case.
 * [ValveSoftware/openvr](https://github.com/ValveSoftware/openvr) - OpenVR SDK
-* [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
-* [tenacityteam/tenacity-legacy](https://github.com/tenacityteam/tenacity-legacy) - THIS REPO IS NOT MAINTAINED ANYMORE. Please see https://codeberg.org/tenacityteam/tenacity for Tenacity, which is maintained. *(archived)*
-* [halide/Halide](https://github.com/halide/Halide) - a language for fast, portable data-parallel computation
-* [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
+* [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.
+* [google/perfetto](https://github.com/google/perfetto) - Production-grade client-side tracing, profiling, and analysis for complex software systems.
 * [OpenMW/openmw](https://github.com/OpenMW/openmw) - OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
+* [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
+* [halide/Halide](https://github.com/halide/Halide) - a language for fast, portable data-parallel computation
+* [tenacityteam/tenacity-legacy](https://github.com/tenacityteam/tenacity-legacy) - THIS REPO IS NOT MAINTAINED ANYMORE. Please see https://codeberg.org/tenacityteam/tenacity for Tenacity, which is maintained. *(archived)*
+* [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 * [openMVG/openMVG](https://github.com/openMVG/openMVG) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
-* [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
 * [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 * [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp) - A tool for recompiling Xbox 360 games to native executables.
-* [google/perfetto](https://github.com/google/perfetto) - Production-grade client-side tracing, profiling, and analysis for complex software systems.
-* [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
 * [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
-* [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
 * [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
+* [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
+* [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
 * [flashlight/wav2letter](https://github.com/flashlight/wav2letter) - Facebook AI Research's Automatic Speech Recognition Toolkit
-* [liuruoze/EasyPR](https://github.com/liuruoze/EasyPR) - (CGCSTCD'2017) An easy, flexible, and accurate plate recognition project for Chinese licenses in unconstrained situations. CGCSTCD = China Graduate Contest on Smart-city Technology and Creative Design
-* [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.
-* [tony9402/baekjoon](https://github.com/tony9402/baekjoon) - 코딩테스트 대비 문제집(Baekjoon Online Judge)
-* [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
-* [microsoft/Detours](https://github.com/microsoft/Detours) - Detours is a software package for monitoring and instrumenting API calls on Windows. It is distributed in source code form.
-* [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
-* [wondertrader/wondertrader](https://github.com/wondertrader/wondertrader) - WonderTrader——量化研发交易一站式框架
 * [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
-* [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
-* [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
-* [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
+* [liuruoze/EasyPR](https://github.com/liuruoze/EasyPR) - (CGCSTCD'2017) An easy, flexible, and accurate plate recognition project for Chinese licenses in unconstrained situations. CGCSTCD = China Graduate Contest on Smart-city Technology and Creative Design
+* [tony9402/baekjoon](https://github.com/tony9402/baekjoon) - 코딩테스트 대비 문제집(Baekjoon Online Judge)
+* [microsoft/Detours](https://github.com/microsoft/Detours) - Detours is a software package for monitoring and instrumenting API calls on Windows. It is distributed in source code form.
+* [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
+* [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started: https://wiki.provenance-emu.com |
+* [wondertrader/wondertrader](https://github.com/wondertrader/wondertrader) - WonderTrader——量化研发交易一站式框架
+* [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
 * [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, console, mobile and web games.
-* [szad670401/HyperLPR](https://github.com/szad670401/HyperLPR) - High Performance Chinese License Plate Recognition Framework.
-* [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
-* [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
-* [wjakob/instant-meshes](https://github.com/wjakob/instant-meshes) - Interactive field-aligned mesh generator
-* [Tencent/puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
+* [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
+* [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 * [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
+* [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
+* [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
+* [szad670401/HyperLPR](https://github.com/szad670401/HyperLPR) - High Performance Chinese License Plate Recognition Framework.
 * [PlotJuggler/PlotJuggler](https://github.com/PlotJuggler/PlotJuggler) - The Time Series Visualization Tool that you deserve.
+* [wjakob/instant-meshes](https://github.com/wjakob/instant-meshes) - Interactive field-aligned mesh generator
+* [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
+* [Tencent/puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
 * [cisco/openh264](https://github.com/cisco/openh264) - Open Source H.264 Codec
+* [Redot-Engine/redot-engine](https://github.com/Redot-Engine/redot-engine) - Redot Engine – Multi-platform 2D and 3D game engine
 * [OpenAtomFoundation/pikiwidb](https://github.com/OpenAtomFoundation/pikiwidb) - Pikiwidb is a Redis-Compatible database developed by Qihoo's infrastructure team.
 * [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 * [OSGeo/gdal](https://github.com/OSGeo/gdal) - GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.
-* [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
-* [HKUST-Aerial-Robotics/VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) - A Robust and Versatile Monocular Visual-Inertial State Estimator
 * [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
+* [HKUST-Aerial-Robotics/VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) - A Robust and Versatile Monocular Visual-Inertial State Estimator
+* [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
 * [alibaba/AliSQL](https://github.com/alibaba/AliSQL) - AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom.
 * [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN.
-* [duilib/duilib](https://github.com/duilib/duilib)
-* [tranek/GASDocumentation](https://github.com/tranek/GASDocumentation) - My understanding of Unreal Engine 5's GameplayAbilitySystem plugin with a simple multiplayer sample project.
-* [Redot-Engine/redot-engine](https://github.com/Redot-Engine/redot-engine) - Redot Engine – Multi-platform 2D and 3D game engine
-* [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows.
-* [ethereum-mining/ethminer](https://github.com/ethereum-mining/ethminer) - Ethereum miner with OpenCL, CUDA and stratum support *(archived)*
-* [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
-* [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
-* [luau-lang/luau](https://github.com/luau-lang/luau) - A small, fast, and embeddable programming language based on Lua with a gradual type system.
-* [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
-* [cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab) - The open source mesh processing system
-* [google/highway](https://github.com/google/highway) - Performance-portable, length-agnostic SIMD with runtime dispatch
-* [NVIDIA/DALI](https://github.com/NVIDIA/DALI) - A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
 * [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
-* [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) - Jellyfin Desktop Client
-* [ffffffff0x/1earn](https://github.com/ffffffff0x/1earn) - ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup
-* [ethz-asl/kalibr](https://github.com/ethz-asl/kalibr) - The Kalibr visual-inertial calibration toolbox
-* [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
+* [tranek/GASDocumentation](https://github.com/tranek/GASDocumentation) - My understanding of Unreal Engine 5's GameplayAbilitySystem plugin with a simple multiplayer sample project.
+* [duilib/duilib](https://github.com/duilib/duilib)
+* [luau-lang/luau](https://github.com/luau-lang/luau) - A small, fast, and embeddable programming language based on Lua with a gradual type system.
+* [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows.
+* [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
+* [google/highway](https://github.com/google/highway) - Performance-portable, length-agnostic SIMD with runtime dispatch
+* [ethereum-mining/ethminer](https://github.com/ethereum-mining/ethminer) - Ethereum miner with OpenCL, CUDA and stratum support *(archived)*
+* [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
+* [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 * [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
-* [ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) - The Forge Cross-Platform Framework PC Windows, Steamdeck (native), Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2
-* [KDE/kdenlive](https://github.com/KDE/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks
-* [shader-slang/slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
-* [mhammond/pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions
-* [leela-zero/leela-zero](https://github.com/leela-zero/leela-zero) - Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
-* [google/bloaty](https://github.com/google/bloaty) - Bloaty: a size profiler for binaries
+* [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) - Jellyfin Desktop Client
+* [cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab) - The open source mesh processing system
 * [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine
-* [NatronGitHub/Natron](https://github.com/NatronGitHub/Natron) - Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.
-* [chrxh/alien](https://github.com/chrxh/alien) - ALIEN is a CUDA-powered artificial life simulation program.
-* [DarthTon/Blackbone](https://github.com/DarthTon/Blackbone) - Windows memory hacking library
-* [intel/hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
-* [zcash/zcash](https://github.com/zcash/zcash) - Zcash - Internet Money *(archived)*
-* [crosire/reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
-* [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
-* [google-deepmind/open_spiel](https://github.com/google-deepmind/open_spiel) - OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
+* [KDE/kdenlive](https://github.com/KDE/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks
+* [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
+* [mg-chao/snow-apps](https://github.com/mg-chao/snow-apps) - Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.
+* [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight) - Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.
+* [NVIDIA/DALI](https://github.com/NVIDIA/DALI) - A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
+* [ethz-asl/kalibr](https://github.com/ethz-asl/kalibr) - The Kalibr visual-inertial calibration toolbox
+* [ffffffff0x/1earn](https://github.com/ffffffff0x/1earn) - ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup
+* [shader-slang/slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
+* [ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) - The Forge Cross-Platform Framework PC Windows, Steamdeck (native), Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2
 * [praydog/REFramework](https://github.com/praydog/REFramework) - Mod loader, scripting platform, and VR support for all RE Engine games
-* [tjanczuk/edge](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
+* [mhammond/pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions
+* [crosire/reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
+* [leela-zero/leela-zero](https://github.com/leela-zero/leela-zero) - Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
+* [NatronGitHub/Natron](https://github.com/NatronGitHub/Natron) - Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.
+* [google/bloaty](https://github.com/google/bloaty) - Bloaty: a size profiler for binaries
+* [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
+* [chrxh/alien](https://github.com/chrxh/alien) - ALIEN is a CUDA-powered artificial life simulation program.
+* [google-deepmind/open_spiel](https://github.com/google-deepmind/open_spiel) - OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
+* [intel/hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
+* [DarthTon/Blackbone](https://github.com/DarthTon/Blackbone) - Windows memory hacking library
+* [zcash/zcash](https://github.com/zcash/zcash) - Zcash - Internet Money *(archived)*
 * [qpdf/qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
-* [id-Software/DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG) - Doom 3 BFG Edition
-* [apache/mesos](https://github.com/apache/mesos) - Apache Mesos
+* [tjanczuk/edge](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
 * [KhronosGroup/Vulkan-Samples](https://github.com/KhronosGroup/Vulkan-Samples) - One stop solution for all Vulkan samples
+* [id-Software/DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG) - Doom 3 BFG Edition
 * [ssloy/tinyraytracer](https://github.com/ssloy/tinyraytracer) - A brief computer graphics / rendering course
 * [google/tcmalloc](https://github.com/google/tcmalloc)
+* [apache/mesos](https://github.com/apache/mesos) - Apache Mesos
 * [nmslib/hnswlib](https://github.com/nmslib/hnswlib) - Header-only C++/python library for fast approximate nearest neighbors
+* [Ardour/ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code
 * [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 * [EsotericSoftware/spine-runtimes](https://github.com/EsotericSoftware/spine-runtimes) - 2D skeletal animation runtimes for Spine.
-* [Ardour/ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code
-* [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for non-commercial use.
-* [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight) - Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.
-* [includeos/IncludeOS](https://github.com/includeos/IncludeOS) - A minimal, resource efficient unikernel for cloud services
 * [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
+* [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for non-commercial use.
+* [NVIDIA/cuml](https://github.com/NVIDIA/cuml) - NVIDIA cuML: GPU-Accelerated Machine Learning
+* [hku-mars/FAST_LIO](https://github.com/hku-mars/FAST_LIO) - A computationally efficient and robust LiDAR-inertial odometry (LIO) package
+* [includeos/IncludeOS](https://github.com/includeos/IncludeOS) - A minimal, resource efficient unikernel for cloud services
 * [google-ar/arcore-android-sdk](https://github.com/google-ar/arcore-android-sdk) - ARCore SDK for Android Studio
 * [blinker-iot/blinker-library](https://github.com/blinker-iot/blinker-library) - An IoT Solution,Blinker library for embedded hardware. Works with Arduino R4, ESP32.
-* [wangyu-/UDPspeeder](https://github.com/wangyu-/UDPspeeder) - A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP)
-* [hku-mars/FAST_LIO](https://github.com/hku-mars/FAST_LIO) - A computationally efficient and robust LiDAR-inertial odometry (LIO) package
-* [KDAB/hotspot](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
-* [RikkaApps/Riru](https://github.com/RikkaApps/Riru) - Inject into zygote process *(archived)*
-* [ThePhD/sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ <-> Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
 * [opentrack/opentrack](https://github.com/opentrack/opentrack) - Head tracking software for MS Windows, Linux, and Apple OSX
 * [lightvector/KataGo](https://github.com/lightvector/KataGo) - GTP engine and self-play learning in Go
+* [KDAB/hotspot](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
+* [wangyu-/UDPspeeder](https://github.com/wangyu-/UDPspeeder) - A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP)
+* [MAZHARMIK/Interview_DS_Algo](https://github.com/MAZHARMIK/Interview_DS_Algo) - Super Repository for Coding Interview Preperation
+* [hedge-dev/UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.
+* [NVIDIA/nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication
+* [ThePhD/sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ <-> Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
+* [RikkaApps/Riru](https://github.com/RikkaApps/Riru) - Inject into zygote process *(archived)*
 * [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational)
+* [melonDS-emu/melonDS](https://github.com/melonDS-emu/melonDS) - DS emulator, sorta
+* [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab and other 3D printers
+* [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) - OBS複数サイト同時配信プラグイン
 * [phusion/passenger](https://github.com/phusion/passenger) - A fast and robust web server and application server for Ruby, Python and Node.js
 * [mmp/pbrt-v3](https://github.com/mmp/pbrt-v3) - Source code for pbrt, the renderer described in the third edition of "Physically Based Rendering: From Theory To Implementation", by Matt Pharr, Wenzel Jakob, and Greg Humphreys.
-* [NVIDIA/nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication
-* [MAZHARMIK/Interview_DS_Algo](https://github.com/MAZHARMIK/Interview_DS_Algo) - Super Repository for Coding Interview Preperation
 * [justadudewhohacks/opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Nodejs bindings to OpenCV 3 and OpenCV 4
-* [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) - OBS複数サイト同時配信プラグイン
 * [XiaoMi/mace](https://github.com/XiaoMi/mace) - MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.
-* [itinance/react-native-fs](https://github.com/itinance/react-native-fs) - Native filesystem access for react-native
-* [hedge-dev/UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.
 * [Arduino-IRremote/Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote) - Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
-* [microsoft/SPTAG](https://github.com/microsoft/SPTAG) - A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.
-* [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab and other 3D printers
-* [melonDS-emu/melonDS](https://github.com/melonDS-emu/melonDS) - DS emulator, sorta
-* [dropbox/lepton](https://github.com/dropbox/lepton) - Lepton is a tool and file format for losslessly compressing JPEGs by an average of 22%. *(archived)*
-* [mg-chao/snow-apps](https://github.com/mg-chao/snow-apps) - Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.
-* [KDE/ghostwriter](https://github.com/KDE/ghostwriter) - Text editor for Markdown
+* [itinance/react-native-fs](https://github.com/itinance/react-native-fs) - Native filesystem access for react-native
 * [zufuliu/notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and documents, bundled with file browser plugin matepath.
-* [qTox/qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol. *(archived)*
-* [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) - Adds AMD FSR 3 Frame Generation to games by replacing Nvidia DLSS Frame Generation (nvngx_dlssg).
-* [paolo-projects/auto-unlocker](https://github.com/paolo-projects/auto-unlocker) - Unlocker for VMWare macOS
-* [begeekmyfriend/yasea](https://github.com/begeekmyfriend/yasea) - RTMP live streaming client for Android
-* [Chlumsky/msdfgen](https://github.com/Chlumsky/msdfgen) - Multi-channel signed distance field generator
 * [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)
-* [anyrtcIO-Community/anyRTC-RTMP-OpenSource](https://github.com/anyrtcIO-Community/anyRTC-RTMP-OpenSource) - RTMP 推流器，RTMP(HLS)秒开播放器，直播点播，跨平台（Win,IOS,Android）开源代码
+* [microsoft/SPTAG](https://github.com/microsoft/SPTAG) - A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.
+* [KDE/ghostwriter](https://github.com/KDE/ghostwriter) - Text editor for Markdown
+* [MaaXYZ/MaaFramework](https://github.com/MaaXYZ/MaaFramework) - 基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition
+* [dropbox/lepton](https://github.com/dropbox/lepton) - Lepton is a tool and file format for losslessly compressing JPEGs by an average of 22%. *(archived)*
+* [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) - Adds AMD FSR 3 Frame Generation to games by replacing Nvidia DLSS Frame Generation (nvngx_dlssg).
+* [qTox/qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol. *(archived)*
+* [paolo-projects/auto-unlocker](https://github.com/paolo-projects/auto-unlocker) - Unlocker for VMWare macOS
+* [Chlumsky/msdfgen](https://github.com/Chlumsky/msdfgen) - Multi-channel signed distance field generator
+* [begeekmyfriend/yasea](https://github.com/begeekmyfriend/yasea) - RTMP live streaming client for Android
 * [TixiaoShan/LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) - LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping
+* [anyrtcIO-Community/anyRTC-RTMP-OpenSource](https://github.com/anyrtcIO-Community/anyRTC-RTMP-OpenSource) - RTMP 推流器，RTMP(HLS)秒开播放器，直播点播，跨平台（Win,IOS,Android）开源代码
 * [google/liquidfun](https://github.com/google/liquidfun) - 2D physics engine for games *(archived)*
+* [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 * [wjakob/nanogui](https://github.com/wjakob/nanogui) - Minimalistic GUI library for OpenGL
 * [R3nzTheCodeGOD/R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin) - Skin changer for League of Legends (LOL) *(archived)*
-* [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
-* [MaaXYZ/MaaFramework](https://github.com/MaaXYZ/MaaFramework) - 基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition
 * [jmpews/Dobby](https://github.com/jmpews/Dobby) - a lightweight, multi-platform, multi-architecture hook framework.
-* [MegEngine/MegEngine](https://github.com/MegEngine/MegEngine) - MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架
 * [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
-* [dfranx/SHADERed](https://github.com/dfranx/SHADERed) - Lightweight, cross-platform & full-featured shader IDE
-* [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
-* [urho3d/urho3d](https://github.com/urho3d/urho3d) - Game engine *(archived)*
-* [NVIDIA-Omniverse/PhysX](https://github.com/NVIDIA-Omniverse/PhysX) - NVIDIA PhysX SDK
+* [MegEngine/MegEngine](https://github.com/MegEngine/MegEngine) - MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架
 * [YosysHQ/yosys](https://github.com/YosysHQ/yosys) - Yosys Open SYnthesis Suite
-* [PancakeTAS/lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux
-* [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
-* [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
-* [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text.
-* [HKUST-Aerial-Robotics/VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) - An optimization-based multi-sensor state estimator
-* [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器
+* [dfranx/SHADERed](https://github.com/dfranx/SHADERed) - Lightweight, cross-platform & full-featured shader IDE
 * [ros-navigation/navigation2](https://github.com/ros-navigation/navigation2) - ROS 2 Navigation Framework and System
 * [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
-* [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
-* [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
-* [Tencent/TNN](https://github.com/Tencent/TNN) - TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its cross-platform capability, high performance, model compression and code pruning. Based on ncnn and Rapidnet, TNN further strengthens the support and performance optimization for mobile devices, and also draws on the advantages of good extensibility and high performance from existed open source efforts. TNN has been deployed in multiple Apps from Tencent, such as Mobile QQ, Weishi, Pitu, etc. Contributions are welcome to work in collaborative with us and make TNN a better framework.
-* [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smali code files.
-* [seetaface/SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine)
-* [TTimo/doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
+* [NVIDIA-Omniverse/PhysX](https://github.com/NVIDIA-Omniverse/PhysX) - NVIDIA PhysX SDK
+* [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
+* [urho3d/urho3d](https://github.com/urho3d/urho3d) - Game engine *(archived)*
+* [HKUST-Aerial-Robotics/VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) - An optimization-based multi-sensor state estimator
 * [hku-mars/FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2) - FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry
-* [cyberbotics/webots](https://github.com/cyberbotics/webots) - Webots Robot Simulator
-* [mapsme/omim](https://github.com/mapsme/omim) - 🗺️ MAPS.ME — Offline OpenStreetMap maps for iOS and Android
-* [rime/librime](https://github.com/rime/librime) - Rime Input Method Engine, the core library
-* [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) - Wallpaper Engine backgrounds for Linux!
-* [zhuzichu520/FluentUI](https://github.com/zhuzichu520/FluentUI) - FluentUI for QML
-* [Maplespe/DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) - Add custom effect to global system title bar, support win10 and win11.
-* [plaidml/plaidml](https://github.com/plaidml/plaidml) - PlaidML is a framework for making deep learning work everywhere. *(archived)*
-* [kripken/ammo.js](https://github.com/kripken/ammo.js) - Direct port of the Bullet physics engine to JavaScript using Emscripten
-* [OAID/Tengine](https://github.com/OAID/Tengine) - Tengine is a lite, high performance, modular inference engine for embedded device
-* [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
-* [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) - DistroAV (formerly OBS-NDI): NDI integration for OBS Studio
-* [openxla/xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
-* [keepassx/keepassx](https://github.com/keepassx/keepassx) - KeePassX is a cross platform port of the windows application “Keepass Password Safe”. *(archived)*
-* [kungfu-systems/kungfu](https://github.com/kungfu-systems/kungfu) - Your agents don’t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own execution surface.
+* [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
+* [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text.
+* [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器
+* [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
+* [PancakeTAS/lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux
 * [taurusxin/ncmdump](https://github.com/taurusxin/ncmdump) - 转换网易云音乐 ncm 到 mp3 / flac. Convert Netease Cloud Music ncm files to mp3/flac files.
-* [thedmd/imgui-node-editor](https://github.com/thedmd/imgui-node-editor) - Node Editor built using Dear ImGui
+* [cyberbotics/webots](https://github.com/cyberbotics/webots) - Webots Robot Simulator
+* [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
+* [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smali code files.
+* [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
+* [rime/librime](https://github.com/rime/librime) - Rime Input Method Engine, the core library
+* [Tencent/TNN](https://github.com/Tencent/TNN) - TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its cross-platform capability, high performance, model compression and code pruning. Based on ncnn and Rapidnet, TNN further strengthens the support and performance optimization for mobile devices, and also draws on the advantages of good extensibility and high performance from existed open source efforts. TNN has been deployed in multiple Apps from Tencent, such as Mobile QQ, Weishi, Pitu, etc. Contributions are welcome to work in collaborative with us and make TNN a better framework.
+* [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) - Wallpaper Engine backgrounds for Linux!
+* [TTimo/doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
+* [seetaface/SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine)
 * [praydog/UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4.8 - 5.4)
+* [Maplespe/DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) - Add custom effect to global system title bar, support win10 and win11.
+* [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
+* [zhuzichu520/FluentUI](https://github.com/zhuzichu520/FluentUI) - FluentUI for QML
+* [mapsme/omim](https://github.com/mapsme/omim) - 🗺️ MAPS.ME — Offline OpenStreetMap maps for iOS and Android
+* [openxla/xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
+* [kripken/ammo.js](https://github.com/kripken/ammo.js) - Direct port of the Bullet physics engine to JavaScript using Emscripten
+* [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS. Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB. Releases can be found on GitLab.
+* [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) - DistroAV (formerly OBS-NDI): NDI integration for OBS Studio
+* [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
+* [plaidml/plaidml](https://github.com/plaidml/plaidml) - PlaidML is a framework for making deep learning work everywhere. *(archived)*
 * [dcajasn/Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib) - Portfolio Optimization in Python
+* [OAID/Tengine](https://github.com/OAID/Tengine) - Tengine is a lite, high performance, modular inference engine for embedded device
+* [kungfu-systems/kungfu](https://github.com/kungfu-systems/kungfu) - Your agents don’t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own execution surface.
+* [thedmd/imgui-node-editor](https://github.com/thedmd/imgui-node-editor) - Node Editor built using Dear ImGui
+* [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
+* [keepassx/keepassx](https://github.com/keepassx/keepassx) - KeePassX is a cross platform port of the windows application “Keepass Password Safe”. *(archived)*
+* [mikke89/RmlUi](https://github.com/mikke89/RmlUi) - RmlUi - The HTML/CSS User Interface library evolved
 * [flutter-webrtc/flutter-webrtc](https://github.com/flutter-webrtc/flutter-webrtc) - WebRTC plugin for Flutter Mobile/Desktop/Web
 * [PowerDNS/pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
-* [mapbox/mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL *(archived)*
 * [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server
-* [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 * [ic005k/OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) - Cross-platform GUI management tools for OpenCore（OCAT）
 * [apache/kvrocks](https://github.com/apache/kvrocks) - Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
-* [mikke89/RmlUi](https://github.com/mikke89/RmlUi) - RmlUi - The HTML/CSS User Interface library evolved
-* [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
+* [mapbox/mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL *(archived)*
+* [yuaotian/antigravity-proxy](https://github.com/yuaotian/antigravity-proxy) - 🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows. | 专为 Antigravity 打造的免 TUN 强制代理工具，支持 DLL 注入与进程流量劫持。
+* [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) - An open-source framework for Steam Client themes and plugins
 * [VCVRack/Rack](https://github.com/VCVRack/Rack) - The virtual Eurorack studio
 * [oceanbase/miniob](https://github.com/oceanbase/miniob) - MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.
-* [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS. Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB. Releases can be found on GitLab.
 * [amazon-archives/amazon-dsstne](https://github.com/amazon-archives/amazon-dsstne) - Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models *(archived)*
-* [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js
 * [hzeller/rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) - Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO
-* [ValveSoftware/halflife](https://github.com/ValveSoftware/halflife) - Half-Life 1 engine based games
 * [PixlOne/logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices
+* [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js
+* [ValveSoftware/halflife](https://github.com/ValveSoftware/halflife) - Half-Life 1 engine based games
 * [obsproject/obs-websocket](https://github.com/obsproject/obs-websocket) - Remote-control of OBS Studio through WebSocket
-* [apache/incubator-pagespeed-ngx](https://github.com/apache/incubator-pagespeed-ngx) - Automatic PageSpeed optimization module for Nginx *(archived)*
-* [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
-* [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) - An open-source framework for Steam Client themes and plugins
+* [TokisanGames/Terrain3D](https://github.com/TokisanGames/Terrain3D) - A high performance, editable terrain system for Godot 4.
 * [unum-cloud/USearch](https://github.com/unum-cloud/USearch) - Fast Open-Source Search & Clustering engine × for Vectors & Arbitrary Objects × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍
 * [x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide) - Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide
+* [apache/incubator-pagespeed-ngx](https://github.com/apache/incubator-pagespeed-ngx) - Automatic PageSpeed optimization module for Nginx *(archived)*
 * [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
-* [DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
-* [citizenfx/fivem](https://github.com/citizenfx/fivem) - The source code for the Cfx modification frameworks, such as FiveM and RedM, as well as FXServer.
-* [wang-bin/QtAV](https://github.com/wang-bin/QtAV) - A cross-platform multimedia framework based on Qt and FFmpeg. 基于Qt和FFmpeg的跨平台高性能音视频播放框架. Recommand to use new sdk https://github.com/wang-bin/mdk-sdk
+* [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 * [mausimus/ShaderGlass](https://github.com/mausimus/ShaderGlass) - Overlay for running GPU shaders on top of Windows desktop and Wine
-* [TokisanGames/Terrain3D](https://github.com/TokisanGames/Terrain3D) - A high performance, editable terrain system for Godot 4.
+* [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp) - Godot reverse engineering tools
+* [windirstat/windirstat](https://github.com/windirstat/windirstat) - Windows disk usage analyzer and cleanup tool with interactive treemaps, large-file discovery, duplicate detection, and file-system monitoring.
+* [citizenfx/fivem](https://github.com/citizenfx/fivem) - The source code for the Cfx modification frameworks, such as FiveM and RedM, as well as FXServer.
+* [DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
+* [wang-bin/QtAV](https://github.com/wang-bin/QtAV) - A cross-platform multimedia framework based on Qt and FFmpeg. 基于Qt和FFmpeg的跨平台高性能音视频播放框架. Recommand to use new sdk https://github.com/wang-bin/mdk-sdk
 * [OneLoneCoder/olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine) - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects
 * [nefarius/ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers. *(archived)*
+* [RawTherapee/RawTherapee](https://github.com/RawTherapee/RawTherapee) - A powerful cross-platform raw photo processing program
 * [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 * [RobotLocomotion/drake](https://github.com/RobotLocomotion/drake) - Model-based design and verification for robotics.
-* [Vhonowslend/StreamFX-Public](https://github.com/Vhonowslend/StreamFX-Public) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
 * [Maplespe/ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - Add background Blur effect or Acrylic (Mica for win11) effect to explorer for win10 and win11
-* [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp) - Godot reverse engineering tools
 * [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
-* [RawTherapee/RawTherapee](https://github.com/RawTherapee/RawTherapee) - A powerful cross-platform raw photo processing program
-* [KDE/heaptrack](https://github.com/KDE/heaptrack) - A heap memory profiler for Linux
 * [solvespace/solvespace](https://github.com/solvespace/solvespace) - Parametric 2d/3d CAD
+* [Vhonowslend/StreamFX-Public](https://github.com/Vhonowslend/StreamFX-Public) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
 * [ton-blockchain/ton](https://github.com/ton-blockchain/ton) - Main TON monorepo
+* [KDE/heaptrack](https://github.com/KDE/heaptrack) - A heap memory profiler for Linux
+* [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless offensive and defensive toolkit powered by an ESP32
+* [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) - A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
+* [ip7z/7zip](https://github.com/ip7z/7zip) - 7-Zip
+* [cdcseacave/openMVS](https://github.com/cdcseacave/openMVS) - open Structure-fom-Motion and Multi-View Stereo reconstruction library
+* [google/nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.
 * [SeriousCache/UABE](https://github.com/SeriousCache/UABE) - Asset Bundle Extractor. No longer supported. Consider using https://github.com/nesrak1/UABEA *(archived)*
 * [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer
-* [cdcseacave/openMVS](https://github.com/cdcseacave/openMVS) - open Multi-View Stereo reconstruction library
-* [google/nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.
-* [1technophile/OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266 or ESP32 with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermometer compatibility & LoRa.
-* [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) - A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
 * [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu) - DSi Menu replacement for DS/DSi/3DS/2DS
+* [f4exb/sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay and FunCube
+* [1technophile/OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266 or ESP32 with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermometer compatibility & LoRa.
 * [google/angle](https://github.com/google/angle) - A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android.
 * [srsran/srsRAN_4G](https://github.com/srsran/srsRAN_4G) - Open source SDR 4G software suite from Software Radio Systems (SRS) https://docs.srsran.com/projects/4g
+* [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - Open-source library of optimized deep learning operations (matmul, convolution, attention) for CPUs (x64, AArch64, RISC-V) and Intel GPUs. Used by PyTorch, TensorFlow, OpenVINO, and ONNX Runtime.
 * [fireice-uk/xmr-stak](https://github.com/fireice-uk/xmr-stak) - Free Monero RandomX Miner and unified CryptoNight miner
-* [me-no-dev/ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) - Async Web Server for ESP8266 and ESP32 *(archived)*
-* [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
-* [Motion-Project/motion](https://github.com/Motion-Project/motion) - Motion, a software motion detector. Home page: https://motion-project.github.io/
-* [km1994/nlp_paper_study](https://github.com/km1994/nlp_paper_study) - 该仓库主要记录 NLP 算法工程师相关的顶会论文研读笔记
-* [windirstat/windirstat](https://github.com/windirstat/windirstat) - WinDirStat is a disk usage statistics viewer and cleanup tool for Microsoft Windows
-* [microsoft/SEAL](https://github.com/microsoft/SEAL) - Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library.
-* [openthread/openthread](https://github.com/openthread/openthread) - OpenThread released by Google is an open-source implementation of the Thread networking protocol
-* [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher. *(archived)*
-* [CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo) - Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
-* [knolleary/pubsubclient](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT.
-* [yuaotian/antigravity-proxy](https://github.com/yuaotian/antigravity-proxy) - 🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows. | 专为 Antigravity 打造的免 TUN 强制代理工具，支持 DLL 注入与进程流量劫持。
-* [baidu/lac](https://github.com/baidu/lac) - 百度NLP：分词，词性标注，命名实体识别，词重要性
-* [introlab/rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
-* [spring/spring](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. - Report issues at https://springrts.com/mantis/
-* [Blynk-Technologies/blynk-library](https://github.com/Blynk-Technologies/blynk-library) - Blynk library for IoT boards. Works with Arduino, ESP32, ESP8266, Raspberry Pi, Particle, etc.
 * [KDE/kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) - Multi-platform app that allows your devices to communicate
+* [Motion-Project/motion](https://github.com/Motion-Project/motion) - Motion, a software motion detector. Home page: https://motion-project.github.io/
+* [microsoft/SEAL](https://github.com/microsoft/SEAL) - Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library.
 * [kiwibrowser/src.next](https://github.com/kiwibrowser/src.next) - Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium
-* [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless offensive and defensive toolkit powered by an ESP32
-* [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
-* [f4exb/sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay and FunCube
-* [google/lyra](https://github.com/google/lyra) - A Very Low-Bitrate Codec for Speech Compression
-* [mapnik/mapnik](https://github.com/mapnik/mapnik) - Mapnik is an open source toolkit for developing mapping applications
-* [balloonwj/flamingo](https://github.com/balloonwj/flamingo) - flamingo 一款高性能轻量级开源即时通讯软件
-* [facebookresearch/StarSpace](https://github.com/facebookresearch/StarSpace) - Learning embeddings for classification, retrieval and ranking. *(archived)*
+* [me-no-dev/ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) - Async Web Server for ESP8266 and ESP32 *(archived)*
+* [openthread/openthread](https://github.com/openthread/openthread) - OpenThread released by Google is an open-source implementation of the Thread networking protocol
+* [CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo) - Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
+* [introlab/rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
+* [km1994/nlp_paper_study](https://github.com/km1994/nlp_paper_study) - 该仓库主要记录 NLP 算法工程师相关的顶会论文研读笔记
 * [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player
-* [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
+* [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher. *(archived)*
+* [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
+* [knolleary/pubsubclient](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT.
+* [MaaEnd/MaaEnd](https://github.com/MaaEnd/MaaEnd) - MaaEnd 终末地小助手：基于视觉 AI 的「明日方舟：终末地」自动化工具
+* [spring/spring](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. - Report issues at https://springrts.com/mantis/
+* [baidu/lac](https://github.com/baidu/lac) - 百度NLP：分词，词性标注，命名实体识别，词重要性
 * [Warzone2100/warzone2100](https://github.com/Warzone2100/warzone2100) - Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+
+* [Blynk-Technologies/blynk-library](https://github.com/Blynk-Technologies/blynk-library) - Blynk library for IoT boards. Works with Arduino, ESP32, ESP8266, Raspberry Pi, Particle, etc.
+* [google/lyra](https://github.com/google/lyra) - A Very Low-Bitrate Codec for Speech Compression
+* [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
+* [balloonwj/flamingo](https://github.com/balloonwj/flamingo) - flamingo 一款高性能轻量级开源即时通讯软件
 * [iree-org/iree](https://github.com/iree-org/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit.
-* [ricochet-im/ricochet](https://github.com/ricochet-im/ricochet) - Anonymous peer-to-peer instant messaging
+* [mapnik/mapnik](https://github.com/mapnik/mapnik) - Mapnik is an open source toolkit for developing mapping applications
 * [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) - 新一代 SKRoot，完美隐藏Root功能，无视全网检测手段，实现SELinux零触碰、无挂载！ 通杀所有内核，免源码直接 Patch 原厂内核，完美保留官方内核所有特性。
-* [visualboyadvance-m/visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m) - The continuing development of the legendary VBA gameboy advance emulator.
-* [facebookarchive/scribe](https://github.com/facebookarchive/scribe) - Scribe is a server for aggregating log data streamed in real time from a large number of servers. *(archived)*
-* [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
-* [callmePicacho/Data-Structres](https://github.com/callmePicacho/Data-Structres) - 浙江大学《数据结构》上课笔记 + 数据结构实现 + 课后题题解
-* [ip7z/7zip](https://github.com/ip7z/7zip) - 7-Zip
+* [facebookresearch/StarSpace](https://github.com/facebookresearch/StarSpace) - Learning embeddings for classification, retrieval and ranking. *(archived)*
 * [Zylann/godot_voxel](https://github.com/Zylann/godot_voxel) - Voxel module for Godot Engine
+* [callmePicacho/Data-Structres](https://github.com/callmePicacho/Data-Structres) - 浙江大学《数据结构》上课笔记 + 数据结构实现 + 课后题题解
+* [visualboyadvance-m/visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m) - The continuing development of the legendary VBA gameboy advance emulator.
+* [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 * [hasherezade/pe-sieve](https://github.com/hasherezade/pe-sieve) - Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches).
+* [ricochet-im/ricochet](https://github.com/ricochet-im/ricochet) - Anonymous peer-to-peer instant messaging
 * [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
-* [tinyobjloader/tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) - Tiny but powerful single file wavefront obj loader
 * [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
+* [facebookarchive/scribe](https://github.com/facebookarchive/scribe) - Scribe is a server for aggregating log data streamed in real time from a large number of servers. *(archived)*
+* [tinyobjloader/tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) - Tiny but powerful single file wavefront obj loader
 * [dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja) - This is an online course where you can learn and master the skill of low-level performance analysis and tuning.
 * [hyperion-project/hyperion.ng](https://github.com/hyperion-project/hyperion.ng) - The successor to Hyperion aka Hyperion Next Generation
-* [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
-* [MaaEnd/MaaEnd](https://github.com/MaaEnd/MaaEnd) - MaaEnd 终末地小助手：基于视觉 AI 的「明日方舟：终末地」自动化工具
 * [tildearrow/furnace](https://github.com/tildearrow/furnace) - a multi-system chiptune tracker compatible with DefleMask modules
+* [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
+* [hasherezade/pe-bear](https://github.com/hasherezade/pe-bear) - Portable Executable reversing tool with a friendly GUI
 * [facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
 * [domoticz/domoticz](https://github.com/domoticz/domoticz) - Free open source home automation system for Linux, Windows, Raspberry Pi. Supports Z-Wave, Zigbee, MQTT, and 150+ devices.
 * [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
-* [hasherezade/pe-bear](https://github.com/hasherezade/pe-bear) - Portable Executable reversing tool with a friendly GUI
-* [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization. *(archived)*
-* [google/fuzzing](https://github.com/google/fuzzing) - Tutorials, examples, discussions, research proposals, and other resources related to fuzzing *(archived)*
-* [LibreVR/Revive](https://github.com/LibreVR/Revive) - Play Oculus-exclusive games on the HTC Vive or Valve Index, scroll down for downloads and installation instructions.
-* [farbrausch/fr_public](https://github.com/farbrausch/fr_public) - Farbrausch demo tools 2001-2011
-* [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU *(archived)*
 * [odriverobotics/ODrive](https://github.com/odriverobotics/ODrive) - High performance motor control
-* [FLIF-hub/FLIF](https://github.com/FLIF-hub/FLIF) - Free Lossless Image Format
-* [LUX-Core/lux](https://github.com/LUX-Core/lux) - LUX - Hybrid PoW/PoS & Unique PHI2 Algorithm | Masternode | Parallel masternode | Segwit | Smartcontract | Luxgate | Proof of file storage (Decentralised distributed file storage)
+* [farbrausch/fr_public](https://github.com/farbrausch/fr_public) - Farbrausch demo tools 2001-2011
+* [LibreVR/Revive](https://github.com/LibreVR/Revive) - Play Oculus-exclusive games on the HTC Vive or Valve Index, scroll down for downloads and installation instructions.
 * [stack-of-tasks/pinocchio](https://github.com/stack-of-tasks/pinocchio) - A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives
-* [microsoft/verona](https://github.com/microsoft/verona) - Research programming language for concurrent ownership
+* [google/fuzzing](https://github.com/google/fuzzing) - Tutorials, examples, discussions, research proposals, and other resources related to fuzzing *(archived)*
+* [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization. *(archived)*
+* [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU *(archived)*
 * [wjakob/nanobind](https://github.com/wjakob/nanobind) - nanobind: tiny and efficient C++/Python bindings
-* [audiorouterdev/audio-router](https://github.com/audiorouterdev/audio-router) - Routes audio from programs to different audio devices.
-* [pavel-odintsov/fastnetmon](https://github.com/pavel-odintsov/fastnetmon) - Very fast DDoS sensor with sFlow/Netflow/IPFIX/SPAN support
+* [FLIF-hub/FLIF](https://github.com/FLIF-hub/FLIF) - Free Lossless Image Format
+* [microsoft/verona](https://github.com/microsoft/verona) - Research programming language for concurrent ownership
+* [BrunoLevy/learn-fpga](https://github.com/BrunoLevy/learn-fpga) - Learning FPGA, yosys, nextpnr, and RISC-V
+* [LUX-Core/lux](https://github.com/LUX-Core/lux) - LUX - Hybrid PoW/PoS & Unique PHI2 Algorithm | Masternode | Parallel masternode | Segwit | Smartcontract | Luxgate | Proof of file storage (Decentralised distributed file storage)
 * [mmp/pbrt-v4](https://github.com/mmp/pbrt-v4) - Source code to pbrt, the ray tracer described in the forthcoming 4th edition of the "Physically Based Rendering: From Theory to Implementation" book.
+* [audiorouterdev/audio-router](https://github.com/audiorouterdev/audio-router) - Routes audio from programs to different audio devices.
+* [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
+* [pavel-odintsov/fastnetmon](https://github.com/pavel-odintsov/fastnetmon) - Very fast DDoS sensor with sFlow/Netflow/IPFIX/SPAN support
+* [es3n1n/defendnot](https://github.com/es3n1n/defendnot) - An even funnier way to disable windows defender (through WSC api)
+* [paceholder/nodeeditor](https://github.com/paceholder/nodeeditor) - Qt Node Editor. Dataflow programming framework
+* [libjxl/libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation
+* [gqrx-sdr/gqrx](https://github.com/gqrx-sdr/gqrx) - Software defined radio receiver powered by GNU Radio and Qt.
 * [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 * [Overv/VulkanTutorial](https://github.com/Overv/VulkanTutorial) - Tutorial for the Vulkan graphics and compute API
-* [paceholder/nodeeditor](https://github.com/paceholder/nodeeditor) - Qt Node Editor. Dataflow programming framework
-* [BrunoLevy/learn-fpga](https://github.com/BrunoLevy/learn-fpga) - Learning FPGA, yosys, nextpnr, and RISC-V
-* [gqrx-sdr/gqrx](https://github.com/gqrx-sdr/gqrx) - Software defined radio receiver powered by GNU Radio and Qt.
 * [FrictionalGames/AmnesiaTheDarkDescent](https://github.com/FrictionalGames/AmnesiaTheDarkDescent)
-* [es3n1n/defendnot](https://github.com/es3n1n/defendnot) - An even funnier way to disable windows defender (through WSC api)
-* [libjxl/libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation
-* [slic3r/Slic3r](https://github.com/slic3r/Slic3r) - Open Source toolpath generator for 3D printers
 * [steveicarus/iverilog](https://github.com/steveicarus/iverilog) - Icarus Verilog
-* [TASEmulators/desmume](https://github.com/TASEmulators/desmume) - DeSmuME is a Nintendo DS emulator
 * [texstudio-org/texstudio](https://github.com/texstudio-org/texstudio) - TeXstudio is a fully featured LaTeX editor. Our goal is to make writing LaTeX documents as easy and comfortable as possible.
-* [openscenegraph/OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph) - OpenSceneGraph git repository
-* [NerdLang/nerd](https://github.com/NerdLang/nerd) - 🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.
-* [yue/yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps
-* [apache/singa](https://github.com/apache/singa) - a distributed deep learning platform
-* [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
-* [laserpants/qt-material-widgets](https://github.com/laserpants/qt-material-widgets) - :art: Qt widgets-based implementation of the Material Design specification.
-* [letscontrolit/ESPEasy](https://github.com/letscontrolit/ESPEasy) - Easy MultiSensor device based on ESP8266/ESP32
-* [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
-* [unicode-org/icu](https://github.com/unicode-org/icu) - The home of the ICU project source code.
-* [NVIDIAGameWorks/PhysX](https://github.com/NVIDIAGameWorks/PhysX) - NVIDIA PhysX SDK
-* [crankyoldgit/IRremoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266) - Infrared remote library for ESP8266/ESP32: send and receive infrared signals with multiple protocols. Based on: https://github.com/shirriff/Arduino-IRremote/
-* [nullptrlabs/pgmodeler](https://github.com/nullptrlabs/pgmodeler) - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
-* [nmslib/nmslib](https://github.com/nmslib/nmslib) - Non-Metric Space Library (NMSLIB): An efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
-* [ai-winter/ros_motion_planning](https://github.com/ai-winter/ros_motion_planning) - Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation of A*, JPS, D*, LPA*, D* Lite, Theta*, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, PSO, Voronoi, PID, LQR, MPC, DWA, APF, Pure Pursuit etc.
-* [pond3r/ggpo](https://github.com/pond3r/ggpo) - Good Game, Peace Out Rollback Network SDK
-* [mpromonet/webrtc-streamer](https://github.com/mpromonet/webrtc-streamer) - WebRTC streamer for V4L2 capture devices, RTSP sources and Screen Capture
-* [KhronosGroup/glslang](https://github.com/KhronosGroup/glslang) - Khronos-reference front end for GLSL/ESSL, partial front end for HLSL, and a SPIR-V generator.
-* [acidanthera/AppleALC](https://github.com/acidanthera/AppleALC) - Native macOS HD audio for not officially supported codecs
+* [slic3r/Slic3r](https://github.com/slic3r/Slic3r) - Open Source toolpath generator for 3D printers
 * [MuShibo/Micro-Wheeled_leg-Robot](https://github.com/MuShibo/Micro-Wheeled_leg-Robot) - 全球最小的桌面级双轮腿机器人！
-* [OpenXRay/xray-16](https://github.com/OpenXRay/xray-16) - Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World. Join OpenXRay! ;)
-* [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba | 一站式图计算系统
-* [rathena/rathena](https://github.com/rathena/rathena) - rAthena is an open-source cross-platform MMORPG server.
-* [tnodir/fort](https://github.com/tnodir/fort) - Fort Firewall for Windows
-* [laverdet/node-fibers](https://github.com/laverdet/node-fibers) - Fiber/coroutine support for v8 and node.
-* [tensorflow/minigo](https://github.com/tensorflow/minigo) - An open-source implementation of the AlphaGoZero algorithm *(archived)*
-* [helio-fm/helio-sequencer](https://github.com/helio-fm/helio-sequencer) - Libre music sequencer for desktop and mobile platforms
 * [jurplel/qView](https://github.com/jurplel/qView) - Practical and minimal image viewer
-* [nanocurrency/nano-node](https://github.com/nanocurrency/nano-node) - Nano is digital currency. Its ticker is: XNO and its currency symbol is: Ӿ
+* [TASEmulators/desmume](https://github.com/TASEmulators/desmume) - DeSmuME is a Nintendo DS emulator
 * [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS Quick Look extension for Markdown files.
-* [microsoft/GW-BASIC](https://github.com/microsoft/GW-BASIC) - The original source code of Microsoft GW-BASIC from 1983 *(archived)*
-* [Anttwo/SuGaR](https://github.com/Anttwo/SuGaR) - [CVPR 2024] Official PyTorch implementation of SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering
-* [asb2m10/dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin
-* [zjhellofss/KuiperInfer](https://github.com/zjhellofss/KuiperInfer) - 校招、秋招、春招、实习好项目！带你从零实现一个高性能的深度学习推理库，支持大模型 llama2 、Unet、Yolov5、Resnet等模型的推理。Implement a high-performance deep learning inference library step by step
-* [kth-competitive-programming/kactl](https://github.com/kth-competitive-programming/kactl) - KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp)
+* [crankyoldgit/IRremoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266) - Infrared remote library for ESP8266/ESP32: send and receive infrared signals with multiple protocols. Based on: https://github.com/shirriff/Arduino-IRremote/
+* [openscenegraph/OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph) - OpenSceneGraph git repository
+* [letscontrolit/ESPEasy](https://github.com/letscontrolit/ESPEasy) - Easy MultiSensor device based on ESP8266/ESP32
+* [unicode-org/icu](https://github.com/unicode-org/icu) - The home of the ICU project source code.
+* [tnodir/fort](https://github.com/tnodir/fort) - Fort Firewall for Windows
+* [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
+* [yue/yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps
+* [NerdLang/nerd](https://github.com/NerdLang/nerd) - 🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.
+* [pond3r/ggpo](https://github.com/pond3r/ggpo) - Good Game, Peace Out Rollback Network SDK
+* [apache/singa](https://github.com/apache/singa) - a distributed deep learning platform
+* [nullptrlabs/pgmodeler](https://github.com/nullptrlabs/pgmodeler) - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
+* [rathena/rathena](https://github.com/rathena/rathena) - rAthena is an open-source cross-platform MMORPG server.
+* [laserpants/qt-material-widgets](https://github.com/laserpants/qt-material-widgets) - :art: Qt widgets-based implementation of the Material Design specification.
+* [NVIDIAGameWorks/PhysX](https://github.com/NVIDIAGameWorks/PhysX) - NVIDIA PhysX SDK
+* [ai-winter/ros_motion_planning](https://github.com/ai-winter/ros_motion_planning) - Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation of A*, JPS, D*, LPA*, D* Lite, Theta*, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, PSO, Voronoi, PID, LQR, MPC, DWA, APF, Pure Pursuit etc.
+* [KhronosGroup/glslang](https://github.com/KhronosGroup/glslang) - Khronos-reference front end for GLSL/ESSL, partial front end for HLSL, and a SPIR-V generator.
+* [nmslib/nmslib](https://github.com/nmslib/nmslib) - Non-Metric Space Library (NMSLIB): An efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
+* [mpromonet/webrtc-streamer](https://github.com/mpromonet/webrtc-streamer) - WebRTC streamer for V4L2 capture devices, RTSP sources and Screen Capture
+* [acidanthera/AppleALC](https://github.com/acidanthera/AppleALC) - Native macOS HD audio for not officially supported codecs
 * [huxingyi/dust3d](https://github.com/huxingyi/dust3d) - Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more.
-* [alicevision/AliceVision](https://github.com/alicevision/AliceVision) - 3D Computer Vision Framework
-* [petercorke/robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python) - Robotics Toolbox for Python
-* [ihhub/fheroes2](https://github.com/ihhub/fheroes2) - fheroes2 is a recreation of Heroes of Might and Magic II game engine
-* [google/robotstxt](https://github.com/google/robotstxt) - The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).
-* [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) - waifu2x converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan
-* [RainerKuemmerle/g2o](https://github.com/RainerKuemmerle/g2o) - g2o: A General Framework for Graph Optimization
-* [isledecomp/isle](https://github.com/isledecomp/isle) - A decompilation of LEGO Island (1997)
+* [OpenXRay/xray-16](https://github.com/OpenXRay/xray-16) - Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World. Join OpenXRay! ;)
+* [kth-competitive-programming/kactl](https://github.com/kth-competitive-programming/kactl) - KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp)
+* [asb2m10/dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin
+* [helio-fm/helio-sequencer](https://github.com/helio-fm/helio-sequencer) - Libre music sequencer for desktop and mobile platforms
+* [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba | 一站式图计算系统
 * [huxingyi/autoremesher](https://github.com/huxingyi/autoremesher) - Automatic quad remeshing tool
 * [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
-* [banach-space/llvm-tutor](https://github.com/banach-space/llvm-tutor) - A collection of out-of-tree LLVM passes for teaching and learning
-* [clab/dynet](https://github.com/clab/dynet) - DyNet: The Dynamic Neural Network Toolkit
-* [epasveer/seer](https://github.com/epasveer/seer) - Seer - a gui frontend to gdb
-* [HowardHinnant/date](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 <chrono> header
-* [yandex/perforator](https://github.com/yandex/perforator) - Perforator is a cluster-wide continuous profiling tool designed for large data centers
-* [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser
-* [adafruit/Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel) - Arduino library for controlling single-wire LED pixels (NeoPixel, WS2812, etc.)
-* [snort3/snort3](https://github.com/snort3/snort3) - Snort++
-* [appjs/appjs](https://github.com/appjs/appjs) - (Deprecated!) SDK on top of nodejs to build desktop apps using HTML5/CSS/JS
-* [mortbopet/Ripes](https://github.com/mortbopet/Ripes) - A graphical processor simulator and assembly editor for the RISC-V ISA
-* [anthwlock/untrunc](https://github.com/anthwlock/untrunc) - Restore a truncated mp4/mov. Improved version of ponchio/untrunc
-* [pytorch/ELF](https://github.com/pytorch/ELF) - ELF: a platform for game research with AlphaGoZero/AlphaZero reimplementation *(archived)*
-* [keshavbhatt/whatsie](https://github.com/keshavbhatt/whatsie) - Feature rich WhatsApp Client for Desktop Linux
-* [google/lmctfy](https://github.com/google/lmctfy) - lmctfy is the open source version of Google’s container stack, which provides Linux application containers. *(archived)*
-* [AcademySoftwareFoundation/openvdb](https://github.com/AcademySoftwareFoundation/openvdb) - OpenVDB - Sparse volume data structure and tools
-* [tomlooman/EpicSurvivalGame](https://github.com/tomlooman/EpicSurvivalGame) - Third-person Survival Game for Unreal Engine (Sample Project)
-* [HKUST-Aerial-Robotics/Fast-Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner) - A Robust and Efficient Trajectory Planner for Quadrotors
-* [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - MacOS Cross-Toolchain for Linux and *BSD
+* [laverdet/node-fibers](https://github.com/laverdet/node-fibers) - Fiber/coroutine support for v8 and node.
+* [tensorflow/minigo](https://github.com/tensorflow/minigo) - An open-source implementation of the AlphaGoZero algorithm *(archived)*
+* [SpriteOvO/AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - ☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)
+* [Anttwo/SuGaR](https://github.com/Anttwo/SuGaR) - [CVPR 2024] Official PyTorch implementation of SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering
+* [petercorke/robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python) - Robotics Toolbox for Python
+* [nanocurrency/nano-node](https://github.com/nanocurrency/nano-node) - Nano is digital currency. Its ticker is: XNO and its currency symbol is: Ӿ
+* [microsoft/GW-BASIC](https://github.com/microsoft/GW-BASIC) - The original source code of Microsoft GW-BASIC from 1983 *(archived)*
+* [alicevision/AliceVision](https://github.com/alicevision/AliceVision) - 3D Computer Vision Framework
+* [ihhub/fheroes2](https://github.com/ihhub/fheroes2) - fheroes2 is a recreation of Heroes of Might and Magic II game engine
+* [zjhellofss/KuiperInfer](https://github.com/zjhellofss/KuiperInfer) - 校招、秋招、春招、实习好项目！带你从零实现一个高性能的深度学习推理库，支持大模型 llama2 、Unet、Yolov5、Resnet等模型的推理。Implement a high-performance deep learning inference library step by step
 * [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT) - LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization
+* [isledecomp/isle](https://github.com/isledecomp/isle) - A decompilation of LEGO Island (1997)
+* [anthwlock/untrunc](https://github.com/anthwlock/untrunc) - Restore a truncated mp4/mov. Improved version of ponchio/untrunc
+* [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) - waifu2x converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan
+* [google/robotstxt](https://github.com/google/robotstxt) - The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).
+* [RainerKuemmerle/g2o](https://github.com/RainerKuemmerle/g2o) - g2o: A General Framework for Graph Optimization
+* [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser
+* [epasveer/seer](https://github.com/epasveer/seer) - Seer - a gui frontend to gdb
+* [banach-space/llvm-tutor](https://github.com/banach-space/llvm-tutor) - A collection of out-of-tree LLVM passes for teaching and learning
+* [keshavbhatt/whatsie](https://github.com/keshavbhatt/whatsie) - Feature rich WhatsApp Client for Desktop Linux
+* [mortbopet/Ripes](https://github.com/mortbopet/Ripes) - A graphical processor simulator and assembly editor for the RISC-V ISA
+* [yandex/perforator](https://github.com/yandex/perforator) - Perforator is a cluster-wide continuous profiling tool designed for large data centers
+* [snort3/snort3](https://github.com/snort3/snort3) - Snort++
+* [HowardHinnant/date](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 <chrono> header
+* [adafruit/Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel) - Arduino library for controlling single-wire LED pixels (NeoPixel, WS2812, etc.)
+* [clab/dynet](https://github.com/clab/dynet) - DyNet: The Dynamic Neural Network Toolkit
+* [AcademySoftwareFoundation/openvdb](https://github.com/AcademySoftwareFoundation/openvdb) - OpenVDB - Sparse volume data structure and tools
+* [HKUST-Aerial-Robotics/Fast-Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner) - A Robust and Efficient Trajectory Planner for Quadrotors
+* [appjs/appjs](https://github.com/appjs/appjs) - (Deprecated!) SDK on top of nodejs to build desktop apps using HTML5/CSS/JS
+* [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp) - Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
+* [pytorch/ELF](https://github.com/pytorch/ELF) - ELF: a platform for game research with AlphaGoZero/AlphaZero reimplementation *(archived)*
+* [tomlooman/EpicSurvivalGame](https://github.com/tomlooman/EpicSurvivalGame) - Third-person Survival Game for Unreal Engine (Sample Project)
+* [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - MacOS Cross-Toolchain for Linux and *BSD
+* [google/lmctfy](https://github.com/google/lmctfy) - lmctfy is the open source version of Google’s container stack, which provides Linux application containers. *(archived)*
+* [ThirteenAG/GTAIV.EFLC.FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix) - This project aims to fix or address some issues in Grand Theft Auto IV: The Complete Edition
 * [acidanthera/WhateverGreen](https://github.com/acidanthera/WhateverGreen) - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
 * [KwaiAppTeam/KOOM](https://github.com/KwaiAppTeam/KOOM) - KOOM is an OOM killer on mobile platform by Kwai.
-* [Kitt-AI/snowboy](https://github.com/Kitt-AI/snowboy) - Future versions with model training module will be maintained through a forked version here: https://github.com/seasalt-ai/snowboy
+* [nihui/opencv-mobile](https://github.com/nihui/opencv-mobile) - The minimal opencv for Android, iOS, ARM Linux, Windows, Linux, MacOS, HarmonyOS, WebAssembly, watchOS, tvOS, visionOS
+* [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
 * [GarageGames/Torque3D](https://github.com/GarageGames/Torque3D) - MIT Licensed Open Source version of Torque 3D from GarageGames
 * [davidrmiller/biosim4](https://github.com/davidrmiller/biosim4) - Biological evolution simulator
-* [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
-* [nihui/opencv-mobile](https://github.com/nihui/opencv-mobile) - The minimal opencv for Android, iOS, ARM Linux, Windows, Linux, MacOS, HarmonyOS, WebAssembly, watchOS, tvOS, visionOS
-* [nodejs/nan](https://github.com/nodejs/nan) - Native Abstractions for Node.js
-* [SpriteOvO/AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - ☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)
-* [maestron/botnets](https://github.com/maestron/botnets) - This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
-* [facebook/mcrouter](https://github.com/facebook/mcrouter) - Mcrouter is a memcached protocol router for scaling memcached deployments.
-* [jmoon018/PacVim](https://github.com/jmoon018/PacVim)
-* [intel/pcm](https://github.com/intel/pcm) - Intel® Performance Counter Monitor (Intel® PCM)
-* [armory3d/armory](https://github.com/armory3d/armory) - 3D Engine with Blender Integration
-* [pytorch/glow](https://github.com/pytorch/glow) - Compiler for Neural Network hardware accelerators *(archived)*
+* [Kitt-AI/snowboy](https://github.com/Kitt-AI/snowboy) - Future versions with model training module will be maintained through a forked version here: https://github.com/seasalt-ai/snowboy
 * [snes9xgit/snes9x](https://github.com/snes9xgit/snes9x) - Snes9x - Portable Super Nintendo Entertainment System (TM) emulator
 * [ksnip/ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
-* [randombit/botan](https://github.com/randombit/botan) - Cryptography Toolkit
-* [std-microblock/breeze-shell](https://github.com/std-microblock/breeze-shell) - An alternative Windows context menu, and more.
-* [mit-biomimetics/Cheetah-Software](https://github.com/mit-biomimetics/Cheetah-Software)
-* [bytedance/lightseq](https://github.com/bytedance/lightseq) - LightSeq: A High Performance Library for Sequence Processing and Generation *(archived)*
-* [root-project/root](https://github.com/root-project/root) - The official repository for ROOT: analyzing, storing and visualizing big data, scientifically
-* [SpacehuhnTech/WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck) - Wireless keystroke injection attack platform
-* [taylorconor/tinytetris](https://github.com/taylorconor/tinytetris) - 80x23 terminal tetris!
+* [nodejs/nan](https://github.com/nodejs/nan) - Native Abstractions for Node.js
+* [armory3d/armory](https://github.com/armory3d/armory) - 3D Engine with Blender Integration
+* [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Official FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
+* [ErrorFlynn/ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) - Windows graphical interface for yt-dlp, designed as a simple YouTube downloader
+* [intel/pcm](https://github.com/intel/pcm) - Intel® Performance Counter Monitor (Intel® PCM)
+* [maestron/botnets](https://github.com/maestron/botnets) - This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
 * [pafuhana1213/KawaiiPhysics](https://github.com/pafuhana1213/KawaiiPhysics) - KawaiiPhysics : Simple Bone Physics for UnrealEngine 4 & 5
+* [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
+* [facebook/mcrouter](https://github.com/facebook/mcrouter) - Mcrouter is a memcached protocol router for scaling memcached deployments.
+* [std-microblock/breeze-shell](https://github.com/std-microblock/breeze-shell) - An alternative Windows context menu, and more.
+* [SpacehuhnTech/WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck) - Wireless keystroke injection attack platform
+* [jmoon018/PacVim](https://github.com/jmoon018/PacVim)
+* [randombit/botan](https://github.com/randombit/botan) - Cryptography Toolkit
+* [mit-biomimetics/Cheetah-Software](https://github.com/mit-biomimetics/Cheetah-Software)
+* [pytorch/glow](https://github.com/pytorch/glow) - Compiler for Neural Network hardware accelerators *(archived)*
+* [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows
+* [root-project/root](https://github.com/root-project/root) - The official repository for ROOT: analyzing, storing and visualizing big data, scientifically
+* [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.8 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
+* [horsicq/DIE-engine](https://github.com/horsicq/DIE-engine) - DIE engine
+* [duckdb/ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format
 * [MiSTer-devel/Main_MiSTer](https://github.com/MiSTer-devel/Main_MiSTer) - Main MiSTer binary and Wiki
 * [openjdk/jfx](https://github.com/openjdk/jfx) - JavaFX mainline development
-* [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.8 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
-* [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows
+* [bytedance/lightseq](https://github.com/bytedance/lightseq) - LightSeq: A High Performance Library for Sequence Processing and Generation *(archived)*
+* [taylorconor/tinytetris](https://github.com/taylorconor/tinytetris) - 80x23 terminal tetris!
 * [OvenMediaLabs/OvenMediaEngine](https://github.com/OvenMediaLabs/OvenMediaEngine) - OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS
-* [ErrorFlynn/ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) - Windows graphical interface for yt-dlp, designed as a simple YouTube downloader
-* [horsicq/DIE-engine](https://github.com/horsicq/DIE-engine) - DIE engine
-* [jwise/HoRNDIS](https://github.com/jwise/HoRNDIS) - Android USB tethering driver for Mac OS X
-* [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) - N64 Game-Engine and Editor using libdragon & tiny3d
 * [amov-lab/Prometheus](https://github.com/amov-lab/Prometheus) - Open source software for autonomous drones.
+* [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) - N64 Game-Engine and Editor using libdragon & tiny3d
+* [jwise/HoRNDIS](https://github.com/jwise/HoRNDIS) - Android USB tethering driver for Mac OS X
 * [homenc/HElib](https://github.com/homenc/HElib) - HElib is an open-source software library that implements homomorphic encryption. It supports the BGV scheme with bootstrapping and the Approximate Number CKKS scheme. HElib also includes optimizations for efficient homomorphic evaluation, focusing on effective use of ciphertext packing techniques and on the Gentry-Halevi-Smart optimizations.
 * [mbasso/asm-dom](https://github.com/mbasso/asm-dom) - A minimal WebAssembly virtual DOM to build C++ SPA (Single page applications)
 * [jlblancoc/nanoflann](https://github.com/jlblancoc/nanoflann) - nanoflann: a C++11 header-only library for Nearest Neighbor (NN) search with KD-trees
@@ -1847,10 +1857,10 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [gigablast/open-source-search-engine](https://github.com/gigablast/open-source-search-engine) - Nov 20 2017 -- A distributed open source search engine and spider/crawler written in C/C++ for Linux on Intel/AMD. From gigablast dot com, which has binaries for download. See the README.md file at the very bottom of this page for instructions.
 * [facebook/CacheLib](https://github.com/facebook/CacheLib) - Pluggable in-process caching engine to build and scale high performance services
 * [Bareflank/hypervisor](https://github.com/Bareflank/hypervisor) - lightweight hypervisor SDK written in C++ with support for Windows, Linux and UEFI
-* [enewhuis/liquibook](https://github.com/enewhuis/liquibook) - Modern C++ order matching engine
 * [cabinpkg/cabin](https://github.com/cabinpkg/cabin) - C/C++ package manager and build system, inspired by Cargo
-* [meganz/sdk](https://github.com/meganz/sdk) - MEGA C++ SDK
+* [enewhuis/liquibook](https://github.com/enewhuis/liquibook) - Modern C++ order matching engine
 * [pegasusTrader/PandoraTrader](https://github.com/pegasusTrader/PandoraTrader) - 高频量化交易平台 C++ Trade Platform for quant developer 【浮生着甚苦奔忙，量化之路阻且长。 行行代码凝心血，十年辛苦不寻常】
+* [meganz/sdk](https://github.com/meganz/sdk) - MEGA C++ SDK
 * [CopernicaMarketingSoftware/PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - Library to build PHP extensions with C++
 * [ucbrise/confluo](https://github.com/ucbrise/confluo) - Real-time Monitoring and Analysis of Data Streams
 * [facebookarchive/Flicks](https://github.com/facebookarchive/Flicks) - A unit of time defined in C++. *(archived)*
@@ -1866,4 +1876,4 @@ A curated list of awesome C++ frameworks, libraries and software.
 * [nieklinnenbank/FreeNOS](https://github.com/nieklinnenbank/FreeNOS) - FreeNOS (Free Niek's Operating System) is an experimental microkernel based operating system for learning purposes written in C++. You may use the code as you wish under the terms of the GPLv3.
 * [swoole/phpx](https://github.com/swoole/phpx) - C++ wrapper for Zend API
 * [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter. Moved to https://github.com/container2wasm/container2wasm
-* [NVIDIA/cuml](https://github.com/NVIDIA/cuml) - cuML - RAPIDS Machine Learning Library
+* [openhwfoundation/cva6](https://github.com/openhwfoundation/cva6) - The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.
